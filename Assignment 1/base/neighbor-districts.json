@@ -1,0 +1,5438 @@
+{
+  "lahul_and_spiti/Q837595": [
+    "leh_district/Q1921210",
+    "kinnaur/Q1862950",
+    "chamba/Q1060614",
+    "kangra/Q727232",
+    "kishtwar/Q2321899",
+    "kargil_district/Q1650798",
+    "kullu/Q2980880"
+  ],
+  "kinnaur/Q1862950": [
+    "kullu/Q2980880",
+    "lahul_and_spiti/Q837595",
+    "uttarkashi/Q1773437",
+    "shimla/Q1921404"
+  ],
+  "kullu/Q2980880": [
+    "shimla/Q1921404",
+    "lahul_and_spiti/Q837595",
+    "kinnaur/Q1862950",
+    "kangra/Q727232",
+    "mandi/Q1892161"
+  ],
+  "chamba/Q1060614": [
+    "lahul_and_spiti/Q837595",
+    "kangra/Q727232",
+    "kishtwar/Q2321899",
+    "pathankot/Q172269",
+    "doda/Q2298979",
+    "kathua/Q2375700"
+  ],
+  "kangra/Q727232": [
+    "hoshiarpur/Q304800",
+    "lahul_and_spiti/Q837595",
+    "chamba/Q1060614",
+    "una/Q2301741",
+    "gurdaspur/Q146708",
+    "pathankot/Q172269",
+    "kullu/Q2980880",
+    "mandi/Q1892161",
+    "hamirpur/Q2086180"
+  ],
+  "leh_district/Q1921210": [
+    "lahul_and_spiti/Q837595",
+    "kargil_district/Q1650798"
+  ],
+  "kargil_district/Q1650798": [
+    "anantnag/Q2982349",
+    "leh_district/Q1921210",
+    "lahul_and_spiti/Q837595",
+    "kishtwar/Q2321899",
+    "ganderbal/Q2556028",
+    "bandipora/Q2983553"
+  ],
+  "kishtwar/Q2321899": [
+    "anantnag/Q2982349",
+    "lahul_and_spiti/Q837595",
+    "chamba/Q1060614",
+    "doda/Q2298979",
+    "kargil_district/Q1650798"
+  ],
+  "shimla/Q1921404": [
+    "uttarkashi/Q1773437",
+    "kinnaur/Q1862950",
+    "sirmaur/Q654331",
+    "dehradun/Q1815740",
+    "kullu/Q2980880",
+    "solan/Q2980937",
+    "mandi/Q1892161"
+  ],
+  "uttarkashi/Q1773437": [
+    "shimla/Q1921404",
+    "tehri_garhwal/Q1357107",
+    "kinnaur/Q1862950",
+    "chamoli/Q1797372",
+    "dehradun/Q1815740",
+    "rudraprayag/Q1805059"
+  ],
+  "mandi/Q1892161": [
+    "shimla/Q1921404",
+    "kangra/Q727232",
+    "kullu/Q2980880",
+    "solan/Q2980937",
+    "bilaspur/Q1478939",
+    "hamirpur/Q2086180"
+  ],
+  "kathua/Q2375700": [
+    "udhampur/Q1947311",
+    "chamba/Q1060614",
+    "samba/Q1117086",
+    "doda/Q2298979",
+    "pathankot/Q172269"
+  ],
+  "pathankot/Q172269": [
+    "kathua/Q2375700",
+    "chamba/Q1060614",
+    "kangra/Q727232",
+    "gurdaspur/Q146708"
+  ],
+  "doda/Q2298979": [
+    "anantnag/Q2982349",
+    "udhampur/Q1947311",
+    "chamba/Q1060614",
+    "ramban/Q2321939",
+    "kishtwar/Q2321899",
+    "kathua/Q2375700"
+  ],
+  "una/Q2301741": [
+    "rupnagar/Q196508",
+    "hoshiarpur/Q304800",
+    "kangra/Q727232",
+    "bilaspur/Q1478939",
+    "hamirpur/Q2086180"
+  ],
+  "hamirpur/Q2086180": [
+    "bilaspur/Q1478939",
+    "una/Q2301741",
+    "kangra/Q727232",
+    "mandi/Q1892161"
+  ],
+  "gurdaspur/Q146708": [
+    "kapurthala/Q172363",
+    "amritsar/Q202822",
+    "hoshiarpur/Q304800",
+    "kangra/Q727232",
+    "pathankot/Q172269"
+  ],
+  "hoshiarpur/Q304800": [
+    "kapurthala/Q172363",
+    "rupnagar/Q196508",
+    "una/Q2301741",
+    "jalandhar/Q1817425",
+    "kangra/Q727232",
+    "gurdaspur/Q146708",
+    "shaheed_bhagat_singh_nagar/Q202710"
+  ],
+  "bilaspur/Q1478939": [
+    "rupnagar/Q196508",
+    "una/Q2301741",
+    "solan/Q2980937",
+    "mandi/Q1892161",
+    "hamirpur/Q2086180"
+  ],
+  "rupnagar/Q196508": [
+    "hoshiarpur/Q304800",
+    "una/Q2301741",
+    "solan/Q2980937",
+    "shaheed_bhagat_singh_nagar/Q202710",
+    "fategarh_sahib/Q172485",
+    "sahibzada_ajit_singh_nagar/Q2037672",
+    "bilaspur/Q1478939",
+    "ludhiana/Q172482"
+  ],
+  "solan/Q2980937": [
+    "rupnagar/Q196508",
+    "shimla/Q1921404",
+    "panchkula/Q1898143",
+    "sirmaur/Q654331",
+    "sahibzada_ajit_singh_nagar/Q2037672",
+    "mandi/Q1892161",
+    "bilaspur/Q1478939"
+  ],
+  "sirmaur/Q654331": [
+    "shimla/Q1921404",
+    "ambala/Q2086226",
+    "panchkula/Q1898143",
+    "dehradun/Q1815740",
+    "saharanpur/Q1797326",
+    "solan/Q2980937",
+    "yamunanagar/Q1873644"
+  ],
+  "panchkula/Q1898143": [
+    "ambala/Q2086226",
+    "sirmaur/Q654331",
+    "solan/Q2980937",
+    "sahibzada_ajit_singh_nagar/Q2037672",
+    "chandigarh/Q5071071"
+  ],
+  "sahibzada_ajit_singh_nagar/Q2037672": [
+    "rupnagar/Q196508",
+    "ambala/Q2086226",
+    "panchkula/Q1898143",
+    "patiala/Q172391",
+    "solan/Q2980937",
+    "fategarh_sahib/Q172485",
+    "chandigarh/Q5071071"
+  ],
+  "dehradun/Q1815740": [
+    "haridwar/Q2270438",
+    "uttarkashi/Q1773437",
+    "shimla/Q1921404",
+    "tehri_garhwal/Q1357107",
+    "sirmaur/Q654331",
+    "saharanpur/Q1797326",
+    "pauri_garhwal/Q2085474"
+  ],
+  "ambala/Q2086226": [
+    "panchkula/Q1898143",
+    "sirmaur/Q654331",
+    "patiala/Q172391",
+    "sahibzada_ajit_singh_nagar/Q2037672",
+    "yamunanagar/Q1873644",
+    "kurukshetra/Q980118"
+  ],
+  "saharanpur/Q1797326": [
+    "haridwar/Q2270438",
+    "karnal/Q607915",
+    "sirmaur/Q654331",
+    "dehradun/Q1815740",
+    "muzaffarnagar/Q2365710",
+    "shamli/Q2999938",
+    "yamunanagar/Q1873644"
+  ],
+  "yamunanagar/Q1873644": [
+    "karnal/Q607915",
+    "ambala/Q2086226",
+    "sirmaur/Q654331",
+    "saharanpur/Q1797326",
+    "kurukshetra/Q980118"
+  ],
+  "chamoli/Q1797372": [
+    "uttarkashi/Q1773437",
+    "bageshwar/Q1815313",
+    "almora/Q1805066",
+    "pauri_garhwal/Q2085474",
+    "pithoragarh/Q1945425",
+    "rudraprayag/Q1805059"
+  ],
+  "rudraprayag/Q1805059": [
+    "pauri_garhwal/Q2085474",
+    "uttarkashi/Q1773437",
+    "chamoli/Q1797372",
+    "tehri_garhwal/Q1357107"
+  ],
+  "tehri_garhwal/Q1357107": [
+    "uttarkashi/Q1773437",
+    "pauri_garhwal/Q2085474",
+    "dehradun/Q1815740",
+    "rudraprayag/Q1805059"
+  ],
+  "pithoragarh/Q1945425": [
+    "bageshwar/Q1815313",
+    "chamoli/Q1797372",
+    "almora/Q1805066",
+    "champawat/Q288278"
+  ],
+  "bageshwar/Q1815313": [
+    "chamoli/Q1797372",
+    "pithoragarh/Q1945425",
+    "almora/Q1805066"
+  ],
+  "almora/Q1805066": [
+    "nainital/Q1797306",
+    "bageshwar/Q1815313",
+    "chamoli/Q1797372",
+    "champawat/Q288278",
+    "pauri_garhwal/Q2085474",
+    "pithoragarh/Q1945425"
+  ],
+  "pauri_garhwal/Q2085474": [
+    "haridwar/Q2270438",
+    "nainital/Q1797306",
+    "bijnor/Q1937865",
+    "tehri_garhwal/Q1357107",
+    "chamoli/Q1797372",
+    "dehradun/Q1815740",
+    "almora/Q1805066",
+    "rudraprayag/Q1805059"
+  ],
+  "champawat/Q288278": [
+    "udham_singh_nagar/Q1805082",
+    "nainital/Q1797306",
+    "pithoragarh/Q1945425",
+    "almora/Q1805066"
+  ],
+  "nainital/Q1797306": [
+    "bijnor/Q1937865",
+    "champawat/Q288278",
+    "almora/Q1805066",
+    "pauri_garhwal/Q2085474",
+    "udham_singh_nagar/Q1805082"
+  ],
+  "udham_singh_nagar/Q1805082": [
+    "nainital/Q1797306",
+    "bijnor/Q1937865",
+    "pilibhit/Q2980705",
+    "rampur/Q1815331",
+    "bareilly/Q1797378",
+    "champawat/Q288278",
+    "moradabad/Q1345006"
+  ],
+  "bijnor/Q1937865": [
+    "haridwar/Q2270438",
+    "nainital/Q1797306",
+    "muzaffarnagar/Q2365710",
+    "moradabad/Q1345006",
+    "jyotiba_phule_nagar/Q1891677",
+    "meerut/Q1764627",
+    "pauri_garhwal/Q2085474",
+    "udham_singh_nagar/Q1805082"
+  ],
+  "bareilly/Q1797378": [
+    "pilibhit/Q2980705",
+    "rampur/Q1815331",
+    "shahjahanpur/Q1812557",
+    "budaun/Q1815262",
+    "udham_singh_nagar/Q1805082"
+  ],
+  "moradabad/Q1345006": [
+    "sambhal/Q3000436",
+    "bijnor/Q1937865",
+    "rampur/Q1815331",
+    "jyotiba_phule_nagar/Q1891677",
+    "budaun/Q1815262",
+    "udham_singh_nagar/Q1805082"
+  ],
+  "rampur/Q1815331": [
+    "moradabad/Q1345006",
+    "udham_singh_nagar/Q1805082",
+    "bareilly/Q1797378",
+    "budaun/Q1815262"
+  ],
+  "pilibhit/Q2980705": [
+    "kheri/Q1755447",
+    "udham_singh_nagar/Q1805082",
+    "bareilly/Q1797378",
+    "shahjahanpur/Q1812557"
+  ],
+  "haridwar/Q2270438": [
+    "bijnor/Q1937865",
+    "dehradun/Q1815740",
+    "muzaffarnagar/Q2365710",
+    "saharanpur/Q1797326",
+    "pauri_garhwal/Q2085474"
+  ],
+  "muzaffarnagar/Q2365710": [
+    "haridwar/Q2270438",
+    "bijnor/Q1937865",
+    "shamli/Q2999938",
+    "saharanpur/Q1797326",
+    "meerut/Q1764627",
+    "baghpat/Q1797363"
+  ],
+  "the_nilgiris_district/Q15188": [
+    "malappuram/Q1030918",
+    "erode_district/Q15155",
+    "chamarajanagar_district/Q862912",
+    "wayanad/Q1364427",
+    "coimbatore_district/Q15136",
+    "palghat/Q1535742"
+  ],
+  "coimbatore_district/Q15136": [
+    "thrissur/Q2429655",
+    "erode_district/Q15155",
+    "ernakulam/Q1356097",
+    "idukki/Q301821",
+    "tiruppur/Q15202",
+    "the_nilgiris_district/Q15188",
+    "palghat/Q1535742"
+  ],
+  "erode_district/Q15155": [
+    "karur_district/Q15182",
+    "chamarajanagar_district/Q862912",
+    "tiruppur/Q15202",
+    "the_nilgiris_district/Q15188",
+    "coimbatore_district/Q15136",
+    "namakkal_district/Q15187",
+    "salem_district/Q15192",
+    "dharmapuri_district/Q15152"
+  ],
+  "palghat/Q1535742": [
+    "thrissur/Q2429655",
+    "malappuram/Q1030918",
+    "the_nilgiris_district/Q15188",
+    "coimbatore_district/Q15136"
+  ],
+  "malappuram/Q1030918": [
+    "thrissur/Q2429655",
+    "kozhikode/Q1142979",
+    "wayanad/Q1364427",
+    "the_nilgiris_district/Q15188",
+    "palghat/Q1535742"
+  ],
+  "wayanad/Q1364427": [
+    "kodagu/Q1553185",
+    "mysuru_district/Q591781",
+    "malappuram/Q1030918",
+    "kannur_district/Q2980652",
+    "chamarajanagar_district/Q862912",
+    "kozhikode/Q1142979",
+    "the_nilgiris_district/Q15188"
+  ],
+  "chamarajanagar_district/Q862912": [
+    "mysuru_district/Q591781",
+    "krishnagiri/Q15183",
+    "erode_district/Q15155",
+    "ramanagara_district/Q427679",
+    "wayanad/Q1364427",
+    "the_nilgiris_district/Q15188",
+    "mandya_district/Q2768290",
+    "salem_district/Q15192",
+    "dharmapuri_district/Q15152"
+  ],
+  "jalpaiguri/Q1351487": [
+    "darjeeling/Q1134759",
+    "kalimpong/Q28769140",
+    "alipurduar/Q4726845",
+    "kochbihar/Q2728658"
+  ],
+  "kochbihar/Q2728658": [
+    "dhubri/Q42485",
+    "jalpaiguri/Q1351487",
+    "alipurduar/Q4726845",
+    "kokrajhar/Q42618"
+  ],
+  "darjeeling/Q1134759": [
+    "uttar_dinajpur/Q2019766",
+    "kalimpong/Q28769140",
+    "south_sikkim_district/Q1805051",
+    "west_sikkim_district/Q611357",
+    "kishanganj/Q77375",
+    "jalpaiguri/Q1351487"
+  ],
+  "alipurduar/Q4726845": [
+    "jalpaiguri/Q1351487",
+    "kochbihar/Q2728658",
+    "kokrajhar/Q42618"
+  ],
+  "kalimpong/Q28769140": [
+    "darjeeling/Q1134759",
+    "south_sikkim_district/Q1805051",
+    "jalpaiguri/Q1351487",
+    "east_sikkim_district/Q1772832"
+  ],
+  "madhubani/Q77474": [
+    "saharsa/Q100120",
+    "sitamarhi/Q100144",
+    "supaul/Q100139",
+    "darbhanga/Q49160"
+  ],
+  "saharsa/Q100120": [
+    "khagaria/Q49175",
+    "supaul/Q100139",
+    "darbhanga/Q49160",
+    "samastipur/Q100117",
+    "madhubani/Q77474",
+    "madhepura/Q77746"
+  ],
+  "darbhanga/Q49160": [
+    "muzaffarpur/Q77731",
+    "samastipur/Q100117",
+    "madhubani/Q77474",
+    "saharsa/Q100120",
+    "sitamarhi/Q100144"
+  ],
+  "supaul/Q100139": [
+    "madhubani/Q77474",
+    "saharsa/Q100120",
+    "madhepura/Q77746",
+    "araria/Q42901"
+  ],
+  "sitamarhi/Q100144": [
+    "sheohar/Q100095",
+    "muzaffarpur/Q77731",
+    "darbhanga/Q49160",
+    "madhubani/Q77474",
+    "purba_champaran/Q49159"
+  ],
+  "madhepura/Q77746": [
+    "khagaria/Q49175",
+    "supaul/Q100139",
+    "saharsa/Q100120",
+    "bhagalpur/Q49155",
+    "purnia/Q100082",
+    "araria/Q42901"
+  ],
+  "khagaria/Q49175": [
+    "munger/Q77452",
+    "begusarai/Q49157",
+    "samastipur/Q100117",
+    "saharsa/Q100120",
+    "madhepura/Q77746",
+    "bhagalpur/Q49155"
+  ],
+  "samastipur/Q100117": [
+    "muzaffarpur/Q77731",
+    "khagaria/Q49175",
+    "darbhanga/Q49160",
+    "vaishali/Q100130",
+    "begusarai/Q49157",
+    "saharsa/Q100120",
+    "patna/Q100077"
+  ],
+  "muzaffarpur/Q77731": [
+    "sheohar/Q100095",
+    "gopalganj/Q49171",
+    "darbhanga/Q49160",
+    "vaishali/Q100130",
+    "samastipur/Q100117",
+    "purba_champaran/Q49159",
+    "sitamarhi/Q100144",
+    "saran/Q100146"
+  ],
+  "araria/Q42901": [
+    "purnia/Q100082",
+    "kishanganj/Q77375",
+    "madhepura/Q77746",
+    "supaul/Q100139"
+  ],
+  "purba_champaran/Q49159": [
+    "pashchim_champaran/Q100124",
+    "sheohar/Q100095",
+    "muzaffarpur/Q77731",
+    "gopalganj/Q49171",
+    "sitamarhi/Q100144"
+  ],
+  "sheohar/Q100095": [
+    "purba_champaran/Q49159",
+    "sitamarhi/Q100144",
+    "muzaffarpur/Q77731"
+  ],
+  "pashchim_champaran/Q100124": [
+    "mahrajganj/Q1356139",
+    "purba_champaran/Q49159",
+    "gopalganj/Q49171",
+    "kushinagar/Q825673"
+  ],
+  "gopalganj/Q49171": [
+    "pashchim_champaran/Q100124",
+    "deoria/Q731746",
+    "kushinagar/Q825673",
+    "muzaffarpur/Q77731",
+    "siwan/Q100131",
+    "purba_champaran/Q49159",
+    "saran/Q100146"
+  ],
+  "anantnag/Q2982349": [
+    "ramban/Q2321939",
+    "kishtwar/Q2321899",
+    "kargil_district/Q1650798",
+    "doda/Q2298979",
+    "ganderbal/Q2556028",
+    "shopian/Q2073646",
+    "pulwama/Q2085364",
+    "kulgam/Q2321867",
+    "srinagar/Q1506029"
+  ],
+  "bandipora/Q2983553": [
+    "kupwara/Q2297306",
+    "kargil_district/Q1650798",
+    "baramula/Q1912057",
+    "ganderbal/Q2556028",
+    "srinagar/Q1506029"
+  ],
+  "ganderbal/Q2556028": [
+    "bandipora/Q2983553",
+    "anantnag/Q2982349",
+    "srinagar/Q1506029",
+    "kargil_district/Q1650798"
+  ],
+  "kokrajhar/Q42618": [
+    "alipurduar/Q4726845",
+    "dhubri/Q42485",
+    "kochbihar/Q2728658",
+    "bongaigaon/Q42197",
+    "chirang/Q2574898"
+  ],
+  "dhubri/Q42485": [
+    "kochbihar/Q2728658",
+    "goalpara/Q42522",
+    "bongaigaon/Q42197",
+    "south_salmara-mankachar/Q24907599",
+    "kokrajhar/Q42618"
+  ],
+  "bongaigaon/Q42197": [
+    "dhubri/Q42485",
+    "barpeta/Q41249",
+    "goalpara/Q42522",
+    "kokrajhar/Q42618",
+    "chirang/Q2574898"
+  ],
+  "chirang/Q2574898": [
+    "bongaigaon/Q42197",
+    "baksa/Q2360266",
+    "barpeta/Q41249",
+    "kokrajhar/Q42618"
+  ],
+  "dakshin_dinajpur/Q533839": [
+    "maldah/Q2049820",
+    "uttar_dinajpur/Q2019766"
+  ],
+  "uttar_dinajpur/Q2019766": [
+    "maldah/Q2049820",
+    "katihar/Q77568",
+    "purnia/Q100082",
+    "darjeeling/Q1134759",
+    "dakshin_dinajpur/Q533839",
+    "kishanganj/Q77375"
+  ],
+  "maldah/Q2049820": [
+    "murshidabad/Q1546240",
+    "uttar_dinajpur/Q2019766",
+    "katihar/Q77568",
+    "dakshin_dinajpur/Q533839",
+    "sahibganj/Q767878"
+  ],
+  "kishanganj/Q77375": [
+    "darjeeling/Q1134759",
+    "purnia/Q100082",
+    "uttar_dinajpur/Q2019766",
+    "araria/Q42901"
+  ],
+  "south_sikkim_district/Q1805051": [
+    "kalimpong/Q28769140",
+    "north_sikkim_district/Q1784149",
+    "west_sikkim_district/Q611357",
+    "east_sikkim_district/Q1772832",
+    "darjeeling/Q1134759"
+  ],
+  "west_sikkim_district/Q611357": [
+    "darjeeling/Q1134759",
+    "south_sikkim_district/Q1805051",
+    "north_sikkim_district/Q1784149"
+  ],
+  "purnia/Q100082": [
+    "uttar_dinajpur/Q2019766",
+    "katihar/Q77568",
+    "madhepura/Q77746",
+    "bhagalpur/Q49155",
+    "kishanganj/Q77375",
+    "araria/Q42901"
+  ],
+  "katihar/Q77568": [
+    "maldah/Q2049820",
+    "uttar_dinajpur/Q2019766",
+    "bhagalpur/Q49155",
+    "purnia/Q100082",
+    "sahibganj/Q767878"
+  ],
+  "east_sikkim_district/Q1772832": [
+    "south_sikkim_district/Q1805051",
+    "kalimpong/Q28769140",
+    "north_sikkim_district/Q1784149"
+  ],
+  "north_sikkim_district/Q1784149": [
+    "south_sikkim_district/Q1805051",
+    "west_sikkim_district/Q611357",
+    "east_sikkim_district/Q1772832"
+  ],
+  "barpeta/Q41249": [
+    "baksa/Q2360266",
+    "nalbari/Q42779",
+    "goalpara/Q42522",
+    "bongaigaon/Q42197",
+    "kamrup/Q2247441",
+    "chirang/Q2574898"
+  ],
+  "goalpara/Q42522": [
+    "west_garo_hills/Q2329181",
+    "north_garo_hills/Q7055466",
+    "dhubri/Q42485",
+    "barpeta/Q41249",
+    "bongaigaon/Q42197",
+    "kamrup/Q2247441",
+    "south_salmara-mankachar/Q24907599"
+  ],
+  "nalbari/Q42779": [
+    "baksa/Q2360266",
+    "kamrup/Q2247441",
+    "barpeta/Q41249"
+  ],
+  "kamrup/Q2247441": [
+    "kamrup_metropolitan/Q2464674",
+    "baksa/Q2360266",
+    "north_garo_hills/Q7055466",
+    "nalbari/Q42779",
+    "darrang/Q42461",
+    "barpeta/Q41249",
+    "goalpara/Q42522",
+    "west_khasi_hills/Q2064752",
+    "ri-bhoi/Q1884672"
+  ],
+  "baksa/Q2360266": [
+    "nalbari/Q42779",
+    "darrang/Q42461",
+    "barpeta/Q41249",
+    "udalguri/Q321998",
+    "kamrup/Q2247441",
+    "chirang/Q2574898"
+  ],
+  "darrang/Q42461": [
+    "kamrup_metropolitan/Q2464674",
+    "baksa/Q2360266",
+    "marigaon/Q42737",
+    "udalguri/Q321998",
+    "sonitpur/Q42765",
+    "kamrup/Q2247441"
+  ],
+  "marigaon/Q42737": [
+    "kamrup_metropolitan/Q2464674",
+    "west_karbi_anglong/Q24949218",
+    "darrang/Q42461",
+    "ri-bhoi/Q1884672",
+    "sonitpur/Q42765",
+    "nagaon/Q42686"
+  ],
+  "sonitpur/Q42765": [
+    "darrang/Q42461",
+    "pakke_kessang/None",
+    "west_kameng_district/Q15459",
+    "marigaon/Q42737",
+    "bishwanath/Q28110722",
+    "udalguri/Q321998",
+    "nagaon/Q42686"
+  ],
+  "udalguri/Q321998": [
+    "sonitpur/Q42765",
+    "west_kameng_district/Q15459",
+    "baksa/Q2360266",
+    "darrang/Q42461"
+  ],
+  "kamrup_metropolitan/Q2464674": [
+    "marigaon/Q42737",
+    "kamrup/Q2247441",
+    "darrang/Q42461",
+    "ri-bhoi/Q1884672"
+  ],
+  "ri-bhoi/Q1884672": [
+    "west_jaintia_hills/Q1920789",
+    "kamrup_metropolitan/Q2464674",
+    "west_karbi_anglong/Q24949218",
+    "west_khasi_hills/Q2064752",
+    "marigaon/Q42737",
+    "east_khasi_hills/Q1945304",
+    "kamrup/Q2247441"
+  ],
+  "west_khasi_hills/Q2064752": [
+    "north_garo_hills/Q7055466",
+    "south_west_khasi_hills/Q15923741",
+    "east_garo_hills/Q2085455",
+    "ri-bhoi/Q1884672",
+    "east_khasi_hills/Q1945304",
+    "kamrup/Q2247441",
+    "south_garo_hills/Q2329228"
+  ],
+  "north_garo_hills/Q7055466": [
+    "west_garo_hills/Q2329181",
+    "goalpara/Q42522",
+    "west_khasi_hills/Q2064752",
+    "east_garo_hills/Q2085455",
+    "kamrup/Q2247441",
+    "south_salmara-mankachar/Q24907599"
+  ],
+  "murshidabad/Q1546240": [
+    "maldah/Q2049820",
+    "birbhum/Q2088440",
+    "purba_bardhaman/Q808023",
+    "pakaur/Q2295930",
+    "sahibganj/Q767878",
+    "nadia/Q1143880"
+  ],
+  "sahibganj/Q767878": [
+    "maldah/Q2049820",
+    "murshidabad/Q1546240",
+    "katihar/Q77568",
+    "bhagalpur/Q49155",
+    "pakaur/Q2295930",
+    "godda/Q638980"
+  ],
+  "bhagalpur/Q49155": [
+    "godda/Q638980",
+    "munger/Q77452",
+    "khagaria/Q49175",
+    "banka/Q43097",
+    "katihar/Q77568",
+    "madhepura/Q77746",
+    "purnia/Q100082",
+    "sahibganj/Q767878"
+  ],
+  "barmer/Q42016": [
+    "pali/Q46925",
+    "jaisalmer/Q1419708",
+    "jodhpur/Q1434965",
+    "kutch_district/Q1063417",
+    "jalor/Q1460832"
+  ],
+  "jalor/Q1460832": [
+    "pali/Q46925",
+    "banas_kantha_district/Q806125",
+    "sirohi/Q205719",
+    "barmer/Q42016",
+    "kutch_district/Q1063417"
+  ],
+  "jodhpur/Q1434965": [
+    "pali/Q46925",
+    "jaisalmer/Q1419708",
+    "nagaur/Q1507174",
+    "bikaner/Q778996",
+    "barmer/Q42016"
+  ],
+  "pali/Q46925": [
+    "rajsamand/Q596693",
+    "jodhpur/Q1434965",
+    "udaipur/Q1321577",
+    "ajmer/Q413037",
+    "nagaur/Q1507174",
+    "sirohi/Q205719",
+    "barmer/Q42016",
+    "jalor/Q1460832"
+  ],
+  "jaisalmer/Q1419708": [
+    "jodhpur/Q1434965",
+    "bikaner/Q778996",
+    "barmer/Q42016"
+  ],
+  "kutch_district/Q1063417": [
+    "banas_kantha_district/Q806125",
+    "patan/Q1815269",
+    "barmer/Q42016",
+    "surendranagar_district/Q237535",
+    "morbi_district/Q5979727",
+    "jalor/Q1460832"
+  ],
+  "sirohi/Q205719": [
+    "pali/Q46925",
+    "banas_kantha_district/Q806125",
+    "udaipur/Q1321577",
+    "sabar_kantha_district/Q1772856",
+    "jalor/Q1460832"
+  ],
+  "banas_kantha_district/Q806125": [
+    "patan/Q1815269",
+    "sabar_kantha_district/Q1772856",
+    "sirohi/Q205719",
+    "mahesana_district/Q2019694",
+    "kutch_district/Q1063417",
+    "jalor/Q1460832"
+  ],
+  "bikaner/Q778996": [
+    "jaisalmer/Q1419708",
+    "churu/Q1090006",
+    "jodhpur/Q1434965",
+    "nagaur/Q1507174",
+    "sri_ganganagar/Q1419696",
+    "hanumangarh/Q1356112"
+  ],
+  "nagaur/Q1507174": [
+    "pali/Q46925",
+    "churu/Q1090006",
+    "jodhpur/Q1434965",
+    "jaipur/Q1134781",
+    "ajmer/Q413037",
+    "sikar/Q12945777",
+    "bikaner/Q778996"
+  ],
+  "ajmer/Q413037": [
+    "pali/Q46925",
+    "rajsamand/Q596693",
+    "jaipur/Q1134781",
+    "bhilwara/Q41991",
+    "nagaur/Q1507174",
+    "tonk/Q915880"
+  ],
+  "rajsamand/Q596693": [
+    "pali/Q46925",
+    "chittorgarh/Q1075011",
+    "udaipur/Q1321577",
+    "ajmer/Q413037",
+    "bhilwara/Q41991"
+  ],
+  "udaipur/Q1321577": [
+    "pali/Q46925",
+    "rajsamand/Q596693",
+    "chittorgarh/Q1075011",
+    "dungarpur/Q1265687",
+    "sabar_kantha_district/Q1772856",
+    "sirohi/Q205719",
+    "pratapgarh/Q1585433",
+    "aravalli_district/Q12175285"
+  ],
+  "unnao/Q1937875": [
+    "lucknow/Q1773416",
+    "kanpur_nagar/Q2089152",
+    "rae_bareilly/Q1321157",
+    "fatehpur/Q1946829",
+    "hardoi/Q1772822"
+  ],
+  "hardoi/Q1772822": [
+    "lucknow/Q1773416",
+    "kanpur_nagar/Q2089152",
+    "unnao/Q1937875",
+    "shahjahanpur/Q1812557",
+    "kheri/Q1755447",
+    "sitapur/Q1812539",
+    "farrukhabad/Q1897251",
+    "kannauj/Q627979"
+  ],
+  "lucknow/Q1773416": [
+    "unnao/Q1937875",
+    "rae_bareilly/Q1321157",
+    "barabanki/Q633114",
+    "sitapur/Q1812539",
+    "hardoi/Q1772822"
+  ],
+  "kanpur_nagar/Q2089152": [
+    "unnao/Q1937875",
+    "hamirpur/Q2019757",
+    "kanpur_dehat/Q610612",
+    "hardoi/Q1772822",
+    "fatehpur/Q1946829",
+    "kannauj/Q627979"
+  ],
+  "fatehpur/Q1946829": [
+    "kanpur_nagar/Q2089152",
+    "unnao/Q1937875",
+    "hamirpur/Q2019757",
+    "pratapgarh/Q1473962",
+    "rae_bareilly/Q1321157",
+    "banda/Q2131759",
+    "kaushambi/Q1946937",
+    "chitrakoot/Q2089141"
+  ],
+  "rae_bareilly/Q1321157": [
+    "lucknow/Q1773416",
+    "unnao/Q1937875",
+    "pratapgarh/Q1473962",
+    "amethi/Q1071494",
+    "kaushambi/Q1946937",
+    "barabanki/Q633114",
+    "fatehpur/Q1946829"
+  ],
+  "kanyakumari_district/Q15158": [
+    "thiruvananthapuram/Q162612",
+    "tirunelveli_kattabo/Q15200"
+  ],
+  "tirunelveli_kattabo/Q15200": [
+    "kollam/Q1356124",
+    "kanyakumari_district/Q15158",
+    "thoothukudi_district/Q15198",
+    "virudhunagar_district/Q15209",
+    "idukki/Q301821",
+    "pattanamtitta/Q634935",
+    "thiruvananthapuram/Q162612"
+  ],
+  "thiruvananthapuram/Q162612": [
+    "kollam/Q1356124",
+    "kanyakumari_district/Q15158",
+    "tirunelveli_kattabo/Q15200"
+  ],
+  "virudhunagar_district/Q15209": [
+    "madurai_district/Q15184",
+    "sivagangai_district/Q15195",
+    "ramanathapuram_district/Q15191",
+    "thoothukudi_district/Q15198",
+    "tirunelveli_kattabo/Q15200",
+    "theni_district/Q15196",
+    "idukki/Q301821"
+  ],
+  "idukki/Q301821": [
+    "ernakulam/Q1356097",
+    "virudhunagar_district/Q15209",
+    "kottayam/Q1353354",
+    "tirunelveli_kattabo/Q15200",
+    "theni_district/Q15196",
+    "dindigul_district/Q15154",
+    "tiruppur/Q15202",
+    "coimbatore_district/Q15136",
+    "pattanamtitta/Q634935"
+  ],
+  "thoothukudi_district/Q15198": [
+    "virudhunagar_district/Q15209",
+    "ramanathapuram_district/Q15191",
+    "tirunelveli_kattabo/Q15200"
+  ],
+  "kollam/Q1356124": [
+    "pattanamtitta/Q634935",
+    "alappuzha/Q928959",
+    "thiruvananthapuram/Q162612",
+    "tirunelveli_kattabo/Q15200"
+  ],
+  "pattanamtitta/Q634935": [
+    "kollam/Q1356124",
+    "kottayam/Q1353354",
+    "tirunelveli_kattabo/Q15200",
+    "idukki/Q301821",
+    "alappuzha/Q928959"
+  ],
+  "pudukkottai_district/Q15190": [
+    "tiruchchirappalli_district/Q15201",
+    "sivagangai_district/Q15195",
+    "thanjavur_district/Q15194",
+    "ramanathapuram_district/Q15191"
+  ],
+  "sivagangai_district/Q15195": [
+    "madurai_district/Q15184",
+    "ramanathapuram_district/Q15191",
+    "virudhunagar_district/Q15209",
+    "tiruchchirappalli_district/Q15201",
+    "pudukkottai_district/Q15190"
+  ],
+  "tiruchchirappalli_district/Q15201": [
+    "madurai_district/Q15184",
+    "sivagangai_district/Q15195",
+    "karur_district/Q15182",
+    "ariyalur_district/Q15112",
+    "perambalur_district/Q15186",
+    "thanjavur_district/Q15194",
+    "pudukkottai_district/Q15190",
+    "dindigul_district/Q15154",
+    "namakkal_district/Q15187",
+    "salem_district/Q15192"
+  ],
+  "thanjavur_district/Q15194": [
+    "ariyalur_district/Q15112",
+    "tiruchchirappalli_district/Q15201",
+    "pudukkottai_district/Q15190",
+    "nagapattinam_district/Q15185",
+    "cuddalore_district/Q15150",
+    "thiruvarur_district/Q15197"
+  ],
+  "ramanathapuram_district/Q15191": [
+    "thoothukudi_district/Q15198",
+    "pudukkottai_district/Q15190",
+    "virudhunagar_district/Q15209",
+    "sivagangai_district/Q15195"
+  ],
+  "madurai_district/Q15184": [
+    "sivagangai_district/Q15195",
+    "tiruchchirappalli_district/Q15201",
+    "virudhunagar_district/Q15209",
+    "theni_district/Q15196",
+    "dindigul_district/Q15154"
+  ],
+  "theni_district/Q15196": [
+    "madurai_district/Q15184",
+    "virudhunagar_district/Q15209",
+    "dindigul_district/Q15154",
+    "idukki/Q301821"
+  ],
+  "dindigul_district/Q15154": [
+    "madurai_district/Q15184",
+    "karur_district/Q15182",
+    "tiruchchirappalli_district/Q15201",
+    "theni_district/Q15196",
+    "idukki/Q301821",
+    "tiruppur/Q15202"
+  ],
+  "karur_district/Q15182": [
+    "erode_district/Q15155",
+    "tiruchchirappalli_district/Q15201",
+    "tiruppur/Q15202",
+    "dindigul_district/Q15154",
+    "namakkal_district/Q15187"
+  ],
+  "tiruppur/Q15202": [
+    "erode_district/Q15155",
+    "karur_district/Q15182",
+    "idukki/Q301821",
+    "dindigul_district/Q15154",
+    "coimbatore_district/Q15136"
+  ],
+  "ernakulam/Q1356097": [
+    "thrissur/Q2429655",
+    "kottayam/Q1353354",
+    "idukki/Q301821",
+    "coimbatore_district/Q15136",
+    "alappuzha/Q928959"
+  ],
+  "kottayam/Q1353354": [
+    "pattanamtitta/Q634935",
+    "idukki/Q301821",
+    "alappuzha/Q928959",
+    "ernakulam/Q1356097"
+  ],
+  "thrissur/Q2429655": [
+    "ernakulam/Q1356097",
+    "malappuram/Q1030918",
+    "palghat/Q1535742",
+    "coimbatore_district/Q15136"
+  ],
+  "namakkal_district/Q15187": [
+    "salem_district/Q15192",
+    "tiruchchirappalli_district/Q15201",
+    "erode_district/Q15155",
+    "karur_district/Q15182"
+  ],
+  "salem_district/Q15192": [
+    "erode_district/Q15155",
+    "kallakurichi/Q60493360",
+    "perambalur_district/Q15186",
+    "tiruchchirappalli_district/Q15201",
+    "chamarajanagar_district/Q862912",
+    "namakkal_district/Q15187",
+    "dharmapuri_district/Q15152"
+  ],
+  "dharmapuri_district/Q15152": [
+    "krishnagiri/Q15183",
+    "erode_district/Q15155",
+    "kallakurichi/Q60493360",
+    "chamarajanagar_district/Q862912",
+    "tiruvanamalai_district/Q15207",
+    "salem_district/Q15192"
+  ],
+  "perambalur_district/Q15186": [
+    "kallakurichi/Q60493360",
+    "ariyalur_district/Q15112",
+    "tiruchchirappalli_district/Q15201",
+    "salem_district/Q15192",
+    "cuddalore_district/Q15150"
+  ],
+  "kallakurichi/Q60493360": [
+    "perambalur_district/Q15186",
+    "tiruvanamalai_district/Q15207",
+    "viluppuram_district/Q15205",
+    "salem_district/Q15192",
+    "cuddalore_district/Q15150",
+    "dharmapuri_district/Q15152"
+  ],
+  "ariyalur_district/Q15112": [
+    "tiruchchirappalli_district/Q15201",
+    "cuddalore_district/Q15150",
+    "thanjavur_district/Q15194",
+    "perambalur_district/Q15186"
+  ],
+  "tiruvanamalai_district/Q15207": [
+    "krishnagiri/Q15183",
+    "kallakurichi/Q60493360",
+    "kanchipuram_district/Q15157",
+    "vellore_district/Q15206",
+    "viluppuram_district/Q15205",
+    "dharmapuri_district/Q15152"
+  ],
+  "krishnagiri/Q15183": [
+    "bangalore_urban/Q806463",
+    "kolar_district/Q2509866",
+    "ramanagara_district/Q427679",
+    "bangalore_rural/Q806464",
+    "chamarajanagar_district/Q862912",
+    "tiruvanamalai_district/Q15207",
+    "vellore_district/Q15206",
+    "chittoor/Q15213",
+    "dharmapuri_district/Q15152"
+  ],
+  "cuddalore_district/Q15150": [
+    "puducherry_district/Q984035",
+    "kallakurichi/Q60493360",
+    "perambalur_district/Q15186",
+    "ariyalur_district/Q15112",
+    "thanjavur_district/Q15194",
+    "viluppuram_district/Q15205",
+    "nagapattinam_district/Q15185"
+  ],
+  "nagapattinam_district/Q15185": [
+    "thiruvarur_district/Q15197",
+    "cuddalore_district/Q15150",
+    "thanjavur_district/Q15194",
+    "karaikal/Q639264"
+  ],
+  "viluppuram_district/Q15205": [
+    "puducherry_district/Q984035",
+    "kallakurichi/Q60493360",
+    "kanchipuram_district/Q15157",
+    "tiruvanamalai_district/Q15207",
+    "cuddalore_district/Q15150"
+  ],
+  "puducherry_district/Q984035": [
+    "viluppuram_district/Q15205",
+    "cuddalore_district/Q15150"
+  ],
+  "kanchipuram_district/Q15157": [
+    "tiruvanamalai_district/Q15207",
+    "vellore_district/Q15206",
+    "viluppuram_district/Q15205",
+    "thiruvallur_district/Q15204",
+    "chennai_district/Q15116"
+  ],
+  "thiruvallur_district/Q15204": [
+    "sri_potti_sriramulu_nellore/Q15383",
+    "kanchipuram_district/Q15157",
+    "vellore_district/Q15206",
+    "chittoor/Q15213",
+    "chennai_district/Q15116"
+  ],
+  "vellore_district/Q15206": [
+    "krishnagiri/Q15183",
+    "kanchipuram_district/Q15157",
+    "tiruvanamalai_district/Q15207",
+    "chittoor/Q15213",
+    "thiruvallur_district/Q15204"
+  ],
+  "chennai_district/Q15116": [
+    "kanchipuram_district/Q15157",
+    "thiruvallur_district/Q15204"
+  ],
+  "karaikal/Q639264": [
+    "nagapattinam_district/Q15185",
+    "thiruvarur_district/Q15197"
+  ],
+  "thiruvarur_district/Q15197": [
+    "nagapattinam_district/Q15185",
+    "thanjavur_district/Q15194",
+    "karaikal/Q639264"
+  ],
+  "sri_potti_sriramulu_nellore/Q15383": [
+    "prakasam/Q15390",
+    "ysr/Q15342",
+    "thiruvallur_district/Q15204",
+    "chittoor/Q15213"
+  ],
+  "chittoor/Q15213": [
+    "ysr/Q15342",
+    "krishnagiri/Q15183",
+    "kolar_district/Q2509866",
+    "sri_potti_sriramulu_nellore/Q15383",
+    "vellore_district/Q15206",
+    "chikkaballapura_district/Q1072629",
+    "anantapur_district/Q15212",
+    "thiruvallur_district/Q15204"
+  ],
+  "central_delhi/Q107941": [
+    "west_delhi/Q549807",
+    "south_east_delhi/Q25553535",
+    "east_delhi/Q107960",
+    "north_east_delhi/Q429329",
+    "north_west_delhi/Q766125",
+    "shahdara/Q83486",
+    "north_delhi/Q693367",
+    "new_delhi/Q987"
+  ],
+  "east_delhi/Q107960": [
+    "gautam_buddha_nagar/Q1785950",
+    "central_delhi/Q107941",
+    "south_east_delhi/Q25553535",
+    "ghaziabad/Q1773444",
+    "shahdara/Q83486"
+  ],
+  "north_east_delhi/Q429329": [
+    "north_delhi/Q693367",
+    "central_delhi/Q107941",
+    "ghaziabad/Q1773444",
+    "shahdara/Q83486"
+  ],
+  "north_delhi/Q693367": [
+    "central_delhi/Q107941",
+    "sonipat/Q2241746",
+    "ghaziabad/Q1773444",
+    "north_east_delhi/Q429329",
+    "north_west_delhi/Q766125",
+    "baghpat/Q1797363"
+  ],
+  "north_west_delhi/Q766125": [
+    "central_delhi/Q107941",
+    "west_delhi/Q549807",
+    "sonipat/Q2241746",
+    "north_delhi/Q693367",
+    "jhajjar/Q1948260"
+  ],
+  "west_delhi/Q549807": [
+    "central_delhi/Q107941",
+    "new_delhi/Q987",
+    "north_west_delhi/Q766125",
+    "south_west_delhi/Q2379189",
+    "jhajjar/Q1948260"
+  ],
+  "new_delhi/Q987": [
+    "central_delhi/Q107941",
+    "west_delhi/Q549807",
+    "south_east_delhi/Q25553535",
+    "gurugram/Q1815766",
+    "south_west_delhi/Q2379189",
+    "south_delhi/Q2061938"
+  ],
+  "shahdara/Q83486": [
+    "central_delhi/Q107941",
+    "ghaziabad/Q1773444",
+    "north_east_delhi/Q429329",
+    "east_delhi/Q107960"
+  ],
+  "south_east_delhi/Q25553535": [
+    "gautam_buddha_nagar/Q1785950",
+    "central_delhi/Q107941",
+    "east_delhi/Q107960",
+    "faridabad/Q2086173",
+    "new_delhi/Q987",
+    "south_delhi/Q2061938"
+  ],
+  "gautam_buddha_nagar/Q1785950": [
+    "south_east_delhi/Q25553535",
+    "east_delhi/Q107960",
+    "bulandshahr/Q1752328",
+    "hapur/Q5653340",
+    "faridabad/Q2086173",
+    "aligarh/Q766918",
+    "ghaziabad/Q1773444",
+    "palwal/Q2724926"
+  ],
+  "ghaziabad/Q1773444": [
+    "gautam_buddha_nagar/Q1785950",
+    "east_delhi/Q107960",
+    "hapur/Q5653340",
+    "north_east_delhi/Q429329",
+    "shahdara/Q83486",
+    "north_delhi/Q693367",
+    "meerut/Q1764627",
+    "baghpat/Q1797363"
+  ],
+  "sonipat/Q2241746": [
+    "panipat/Q2086163",
+    "jind/Q268605",
+    "rohtak/Q967388",
+    "north_west_delhi/Q766125",
+    "north_delhi/Q693367",
+    "baghpat/Q1797363",
+    "jhajjar/Q1948260"
+  ],
+  "baghpat/Q1797363": [
+    "panipat/Q2086163",
+    "shamli/Q2999938",
+    "muzaffarnagar/Q2365710",
+    "sonipat/Q2241746",
+    "ghaziabad/Q1773444",
+    "north_delhi/Q693367",
+    "meerut/Q1764627"
+  ],
+  "jhajjar/Q1948260": [
+    "charkhi_dadri/Q28172110",
+    "west_delhi/Q549807",
+    "gurugram/Q1815766",
+    "sonipat/Q2241746",
+    "mahendragarh/Q684019",
+    "rohtak/Q967388",
+    "rewari/Q2301759",
+    "north_west_delhi/Q766125",
+    "south_west_delhi/Q2379189"
+  ],
+  "south_west_delhi/Q2379189": [
+    "gurugram/Q1815766",
+    "new_delhi/Q987",
+    "west_delhi/Q549807",
+    "jhajjar/Q1948260"
+  ],
+  "gurugram/Q1815766": [
+    "new_delhi/Q987",
+    "faridabad/Q2086173",
+    "nuh/Q2216696",
+    "rewari/Q2301759",
+    "south_west_delhi/Q2379189",
+    "palwal/Q2724926",
+    "jhajjar/Q1948260",
+    "south_delhi/Q2061938"
+  ],
+  "south_delhi/Q2061938": [
+    "gurugram/Q1815766",
+    "new_delhi/Q987",
+    "faridabad/Q2086173",
+    "south_east_delhi/Q25553535"
+  ],
+  "faridabad/Q2086173": [
+    "gautam_buddha_nagar/Q1785950",
+    "south_east_delhi/Q25553535",
+    "gurugram/Q1815766",
+    "palwal/Q2724926",
+    "south_delhi/Q2061938"
+  ],
+  "kurukshetra/Q980118": [
+    "karnal/Q607915",
+    "ambala/Q2086226",
+    "patiala/Q172391",
+    "kaithal/Q614037",
+    "yamunanagar/Q1873644"
+  ],
+  "patiala/Q172391": [
+    "sangrur/Q1945515",
+    "ambala/Q2086226",
+    "jind/Q268605",
+    "kaithal/Q614037",
+    "sahibzada_ajit_singh_nagar/Q2037672",
+    "fategarh_sahib/Q172485",
+    "kurukshetra/Q980118"
+  ],
+  "chandigarh/Q5071071": [
+    "panchkula/Q1898143",
+    "sahibzada_ajit_singh_nagar/Q2037672"
+  ],
+  "karnal/Q607915": [
+    "panipat/Q2086163",
+    "shamli/Q2999938",
+    "jind/Q268605",
+    "saharanpur/Q1797326",
+    "kaithal/Q614037",
+    "yamunanagar/Q1873644",
+    "kurukshetra/Q980118"
+  ],
+  "kaithal/Q614037": [
+    "patiala/Q172391",
+    "kurukshetra/Q980118",
+    "karnal/Q607915",
+    "jind/Q268605"
+  ],
+  "panipat/Q2086163": [
+    "karnal/Q607915",
+    "shamli/Q2999938",
+    "jind/Q268605",
+    "sonipat/Q2241746",
+    "baghpat/Q1797363"
+  ],
+  "jind/Q268605": [
+    "karnal/Q607915",
+    "sangrur/Q1945515",
+    "patiala/Q172391",
+    "panipat/Q2086163",
+    "sonipat/Q2241746",
+    "kaithal/Q614037",
+    "fatehabad/Q2301753",
+    "rohtak/Q967388",
+    "hisar/Q1815773"
+  ],
+  "shamli/Q2999938": [
+    "karnal/Q607915",
+    "panipat/Q2086163",
+    "muzaffarnagar/Q2365710",
+    "saharanpur/Q1797326",
+    "baghpat/Q1797363"
+  ],
+  "rohtak/Q967388": [
+    "charkhi_dadri/Q28172110",
+    "jind/Q268605",
+    "sonipat/Q2241746",
+    "hisar/Q1815773",
+    "bhiwani_district/Q1852857",
+    "jhajjar/Q1948260"
+  ],
+  "hisar/Q1815773": [
+    "jind/Q268605",
+    "rohtak/Q967388",
+    "fatehabad/Q2301753",
+    "bhiwani_district/Q1852857",
+    "hanumangarh/Q1356112"
+  ],
+  "fatehabad/Q2301753": [
+    "sirsa/Q526101",
+    "sangrur/Q1945515",
+    "mansa/Q172387",
+    "jind/Q268605",
+    "hisar/Q1815773",
+    "hanumangarh/Q1356112"
+  ],
+  "sangrur/Q1945515": [
+    "patiala/Q172391",
+    "mansa/Q172387",
+    "jind/Q268605",
+    "fatehabad/Q2301753",
+    "fategarh_sahib/Q172485",
+    "barnala/Q2353293",
+    "ludhiana/Q172482"
+  ],
+  "bhiwani_district/Q1852857": [
+    "churu/Q1090006",
+    "charkhi_dadri/Q28172110",
+    "jhunjhunun/Q1471427",
+    "mahendragarh/Q684019",
+    "rohtak/Q967388",
+    "hisar/Q1815773",
+    "hanumangarh/Q1356112"
+  ],
+  "hanumangarh/Q1356112": [
+    "sirsa/Q526101",
+    "churu/Q1090006",
+    "fazilka/Q188702",
+    "bikaner/Q778996",
+    "muktsar/Q1947359",
+    "fatehabad/Q2301753",
+    "hisar/Q1815773",
+    "bhiwani_district/Q1852857",
+    "sri_ganganagar/Q1419696"
+  ],
+  "sirsa/Q526101": [
+    "bathinda/Q172488",
+    "mansa/Q172387",
+    "muktsar/Q1947359",
+    "fatehabad/Q2301753",
+    "hanumangarh/Q1356112"
+  ],
+  "mansa/Q172387": [
+    "sirsa/Q526101",
+    "bathinda/Q172488",
+    "sangrur/Q1945515",
+    "fatehabad/Q2301753",
+    "barnala/Q2353293"
+  ],
+  "bathinda/Q172488": [
+    "sirsa/Q526101",
+    "mansa/Q172387",
+    "moga/Q1946896",
+    "muktsar/Q1947359",
+    "barnala/Q2353293",
+    "faridkot/Q172494"
+  ],
+  "muktsar/Q1947359": [
+    "sirsa/Q526101",
+    "bathinda/Q172488",
+    "fazilka/Q188702",
+    "firozpur/Q172385",
+    "faridkot/Q172494",
+    "hanumangarh/Q1356112"
+  ],
+  "charkhi_dadri/Q28172110": [
+    "mahendragarh/Q684019",
+    "rohtak/Q967388",
+    "jhajjar/Q1948260",
+    "bhiwani_district/Q1852857"
+  ],
+  "mahendragarh/Q684019": [
+    "charkhi_dadri/Q28172110",
+    "jaipur/Q1134781",
+    "jhunjhunun/Q1471427",
+    "sikar/Q12945777",
+    "rewari/Q2301759",
+    "alwar/Q449690",
+    "bhiwani_district/Q1852857",
+    "jhajjar/Q1948260"
+  ],
+  "rewari/Q2301759": [
+    "gurugram/Q1815766",
+    "nuh/Q2216696",
+    "mahendragarh/Q684019",
+    "alwar/Q449690",
+    "jhajjar/Q1948260"
+  ],
+  "churu/Q1090006": [
+    "jhunjhunun/Q1471427",
+    "bhiwani_district/Q1852857",
+    "nagaur/Q1507174",
+    "sikar/Q12945777",
+    "bikaner/Q778996",
+    "hanumangarh/Q1356112"
+  ],
+  "jhunjhunun/Q1471427": [
+    "churu/Q1090006",
+    "mahendragarh/Q684019",
+    "sikar/Q12945777",
+    "bhiwani_district/Q1852857"
+  ],
+  "sikar/Q12945777": [
+    "churu/Q1090006",
+    "jaipur/Q1134781",
+    "jhunjhunun/Q1471427",
+    "mahendragarh/Q684019",
+    "nagaur/Q1507174"
+  ],
+  "alwar/Q449690": [
+    "jaipur/Q1134781",
+    "nuh/Q2216696",
+    "mahendragarh/Q684019",
+    "rewari/Q2301759",
+    "dausa/Q1173042",
+    "bharatpur/Q854861"
+  ],
+  "jaipur/Q1134781": [
+    "ajmer/Q413037",
+    "mahendragarh/Q684019",
+    "nagaur/Q1507174",
+    "sikar/Q12945777",
+    "dausa/Q1173042",
+    "alwar/Q449690",
+    "tonk/Q915880"
+  ],
+  "nuh/Q2216696": [
+    "gurugram/Q1815766",
+    "rewari/Q2301759",
+    "alwar/Q449690",
+    "mathura/Q1773422",
+    "palwal/Q2724926",
+    "bharatpur/Q854861"
+  ],
+  "palwal/Q2724926": [
+    "gautam_buddha_nagar/Q1785950",
+    "gurugram/Q1815766",
+    "faridabad/Q2086173",
+    "nuh/Q2216696",
+    "aligarh/Q766918",
+    "mathura/Q1773422"
+  ],
+  "udhampur/Q1947311": [
+    "reasi/Q2321956",
+    "jammu/Q1947371",
+    "ramban/Q2321939",
+    "samba/Q1117086",
+    "doda/Q2298979",
+    "kathua/Q2375700"
+  ],
+  "jammu/Q1947371": [
+    "reasi/Q2321956",
+    "rajauri/Q544279",
+    "udhampur/Q1947311",
+    "samba/Q1117086"
+  ],
+  "reasi/Q2321956": [
+    "udhampur/Q1947311",
+    "punch/Q2983134",
+    "jammu/Q1947371",
+    "ramban/Q2321939",
+    "rajauri/Q544279",
+    "kulgam/Q2321867"
+  ],
+  "samba/Q1117086": [
+    "kathua/Q2375700",
+    "jammu/Q1947371",
+    "udhampur/Q1947311"
+  ],
+  "ramban/Q2321939": [
+    "reasi/Q2321956",
+    "anantnag/Q2982349",
+    "udhampur/Q1947311",
+    "doda/Q2298979",
+    "kulgam/Q2321867"
+  ],
+  "rajauri/Q544279": [
+    "reasi/Q2321956",
+    "jammu/Q1947371",
+    "kulgam/Q2321867",
+    "punch/Q2983134"
+  ],
+  "punch/Q2983134": [
+    "reasi/Q2321956",
+    "baramula/Q1912057",
+    "badgam/Q2594218",
+    "rajauri/Q544279",
+    "kulgam/Q2321867"
+  ],
+  "kulgam/Q2321867": [
+    "reasi/Q2321956",
+    "anantnag/Q2982349",
+    "punch/Q2983134",
+    "ramban/Q2321939",
+    "shopian/Q2073646",
+    "badgam/Q2594218",
+    "rajauri/Q544279"
+  ],
+  "badgam/Q2594218": [
+    "punch/Q2983134",
+    "baramula/Q1912057",
+    "shopian/Q2073646",
+    "pulwama/Q2085364",
+    "kulgam/Q2321867",
+    "srinagar/Q1506029"
+  ],
+  "baramula/Q1912057": [
+    "punch/Q2983134",
+    "kupwara/Q2297306",
+    "badgam/Q2594218",
+    "bandipora/Q2983553",
+    "srinagar/Q1506029"
+  ],
+  "pulwama/Q2085364": [
+    "anantnag/Q2982349",
+    "shopian/Q2073646",
+    "badgam/Q2594218",
+    "srinagar/Q1506029"
+  ],
+  "srinagar/Q1506029": [
+    "anantnag/Q2982349",
+    "baramula/Q1912057",
+    "ganderbal/Q2556028",
+    "badgam/Q2594218",
+    "pulwama/Q2085364",
+    "bandipora/Q2983553"
+  ],
+  "shopian/Q2073646": [
+    "anantnag/Q2982349",
+    "kulgam/Q2321867",
+    "badgam/Q2594218",
+    "pulwama/Q2085364"
+  ],
+  "kupwara/Q2297306": [
+    "bandipora/Q2983553",
+    "baramula/Q1912057"
+  ],
+  "fategarh_sahib/Q172485": [
+    "rupnagar/Q196508",
+    "sangrur/Q1945515",
+    "patiala/Q172391",
+    "sahibzada_ajit_singh_nagar/Q2037672",
+    "ludhiana/Q172482"
+  ],
+  "ludhiana/Q172482": [
+    "rupnagar/Q196508",
+    "sangrur/Q1945515",
+    "jalandhar/Q1817425",
+    "moga/Q1946896",
+    "fategarh_sahib/Q172485",
+    "barnala/Q2353293",
+    "shaheed_bhagat_singh_nagar/Q202710"
+  ],
+  "moga/Q1946896": [
+    "bathinda/Q172488",
+    "jalandhar/Q1817425",
+    "barnala/Q2353293",
+    "firozpur/Q172385",
+    "faridkot/Q172494",
+    "ludhiana/Q172482"
+  ],
+  "jalandhar/Q1817425": [
+    "kapurthala/Q172363",
+    "hoshiarpur/Q304800",
+    "moga/Q1946896",
+    "firozpur/Q172385",
+    "ludhiana/Q172482",
+    "shaheed_bhagat_singh_nagar/Q202710"
+  ],
+  "shaheed_bhagat_singh_nagar/Q202710": [
+    "kapurthala/Q172363",
+    "rupnagar/Q196508",
+    "hoshiarpur/Q304800",
+    "jalandhar/Q1817425",
+    "ludhiana/Q172482"
+  ],
+  "barnala/Q2353293": [
+    "bathinda/Q172488",
+    "sangrur/Q1945515",
+    "mansa/Q172387",
+    "moga/Q1946896",
+    "ludhiana/Q172482"
+  ],
+  "faridkot/Q172494": [
+    "muktsar/Q1947359",
+    "bathinda/Q172488",
+    "moga/Q1946896",
+    "firozpur/Q172385"
+  ],
+  "firozpur/Q172385": [
+    "kapurthala/Q172363",
+    "tarn_taran/Q2298993",
+    "fazilka/Q188702",
+    "jalandhar/Q1817425",
+    "moga/Q1946896",
+    "muktsar/Q1947359",
+    "faridkot/Q172494"
+  ],
+  "fazilka/Q188702": [
+    "muktsar/Q1947359",
+    "firozpur/Q172385",
+    "sri_ganganagar/Q1419696",
+    "hanumangarh/Q1356112"
+  ],
+  "kapurthala/Q172363": [
+    "amritsar/Q202822",
+    "hoshiarpur/Q304800",
+    "tarn_taran/Q2298993",
+    "jalandhar/Q1817425",
+    "gurdaspur/Q146708",
+    "firozpur/Q172385",
+    "shaheed_bhagat_singh_nagar/Q202710"
+  ],
+  "tarn_taran/Q2298993": [
+    "kapurthala/Q172363",
+    "firozpur/Q172385",
+    "amritsar/Q202822"
+  ],
+  "amritsar/Q202822": [
+    "kapurthala/Q172363",
+    "gurdaspur/Q146708",
+    "tarn_taran/Q2298993"
+  ],
+  "sri_ganganagar/Q1419696": [
+    "fazilka/Q188702",
+    "hanumangarh/Q1356112",
+    "bikaner/Q778996"
+  ],
+  "sabar_kantha_district/Q1772856": [
+    "banas_kantha_district/Q806125",
+    "udaipur/Q1321577",
+    "sirohi/Q205719",
+    "mahesana_district/Q2019694",
+    "gandhinagar_district/Q1772860",
+    "aravalli_district/Q12175285"
+  ],
+  "tonk/Q915880": [
+    "jaipur/Q1134781",
+    "bundi/Q670405",
+    "ajmer/Q413037",
+    "bhilwara/Q41991",
+    "dausa/Q1173042",
+    "sawai_madhopur/Q1507166"
+  ],
+  "bhilwara/Q41991": [
+    "rajsamand/Q596693",
+    "chittorgarh/Q1075011",
+    "bundi/Q670405",
+    "ajmer/Q413037",
+    "neemuch/Q2341713",
+    "tonk/Q915880"
+  ],
+  "bharatpur/Q854861": [
+    "agra/Q606343",
+    "dhaulpur/Q1207709",
+    "nuh/Q2216696",
+    "dausa/Q1173042",
+    "alwar/Q449690",
+    "mathura/Q1773422",
+    "karauli/Q1419668"
+  ],
+  "dausa/Q1173042": [
+    "jaipur/Q1134781",
+    "alwar/Q449690",
+    "sawai_madhopur/Q1507166",
+    "karauli/Q1419668",
+    "tonk/Q915880",
+    "bharatpur/Q854861"
+  ],
+  "dhaulpur/Q1207709": [
+    "karauli/Q1419668",
+    "agra/Q606343",
+    "bharatpur/Q854861",
+    "morena/Q2341467"
+  ],
+  "karauli/Q1419668": [
+    "dhaulpur/Q1207709",
+    "sheopur/Q620105",
+    "morena/Q2341467",
+    "dausa/Q1173042",
+    "sawai_madhopur/Q1507166",
+    "bharatpur/Q854861"
+  ],
+  "mathura/Q1773422": [
+    "agra/Q606343",
+    "hathras/Q1814892",
+    "nuh/Q2216696",
+    "aligarh/Q766918",
+    "palwal/Q2724926",
+    "bharatpur/Q854861"
+  ],
+  "agra/Q606343": [
+    "etawah/Q1815288",
+    "hathras/Q1814892",
+    "dhaulpur/Q1207709",
+    "bhind/Q2341700",
+    "morena/Q2341467",
+    "mathura/Q1773422",
+    "etah/Q1773429",
+    "firozabad/Q1946950",
+    "bharatpur/Q854861"
+  ],
+  "sawai_madhopur/Q1507166": [
+    "bundi/Q670405",
+    "sheopur/Q620105",
+    "kota/Q999432",
+    "dausa/Q1173042",
+    "karauli/Q1419668",
+    "tonk/Q915880"
+  ],
+  "morena/Q2341467": [
+    "shivpuri/Q2299042",
+    "agra/Q606343",
+    "dhaulpur/Q1207709",
+    "bhind/Q2341700",
+    "sheopur/Q620105",
+    "gwalior/Q2085310",
+    "karauli/Q1419668"
+  ],
+  "sheopur/Q620105": [
+    "shivpuri/Q2299042",
+    "kota/Q999432",
+    "morena/Q2341467",
+    "baran/Q2329717",
+    "sawai_madhopur/Q1507166",
+    "karauli/Q1419668"
+  ],
+  "kota/Q999432": [
+    "chittorgarh/Q1075011",
+    "bundi/Q670405",
+    "mandsaur/Q1870014",
+    "sheopur/Q620105",
+    "baran/Q2329717",
+    "sawai_madhopur/Q1507166",
+    "jhalawar/Q1471417"
+  ],
+  "bundi/Q670405": [
+    "chittorgarh/Q1075011",
+    "bhilwara/Q41991",
+    "kota/Q999432",
+    "sawai_madhopur/Q1507166",
+    "tonk/Q915880"
+  ],
+  "baran/Q2329717": [
+    "shivpuri/Q2299042",
+    "guna/Q930027",
+    "sheopur/Q620105",
+    "kota/Q999432",
+    "jhalawar/Q1471417"
+  ],
+  "jhalawar/Q1471417": [
+    "rajgarh/Q1833306",
+    "guna/Q930027",
+    "ratlam/Q2299164",
+    "agar_malwa/Q15732396",
+    "mandsaur/Q1870014",
+    "kota/Q999432",
+    "baran/Q2329717"
+  ],
+  "shivpuri/Q2299042": [
+    "guna/Q930027",
+    "ashok_nagar/Q2246416",
+    "jhansi/Q1937885",
+    "lalitpur/Q1947336",
+    "datia/Q2206266",
+    "sheopur/Q620105",
+    "gwalior/Q2085310",
+    "morena/Q2341467",
+    "baran/Q2329717"
+  ],
+  "guna/Q930027": [
+    "shivpuri/Q2299042",
+    "vidisha/Q1815253",
+    "rajgarh/Q1833306",
+    "ashok_nagar/Q2246416",
+    "bhopal/Q1797245",
+    "baran/Q2329717",
+    "jhalawar/Q1471417"
+  ],
+  "mandsaur/Q1870014": [
+    "chittorgarh/Q1075011",
+    "ratlam/Q2299164",
+    "neemuch/Q2341713",
+    "kota/Q999432",
+    "jhalawar/Q1471417",
+    "pratapgarh/Q1585433"
+  ],
+  "rajgarh/Q1833306": [
+    "guna/Q930027",
+    "shajapur/Q2449803",
+    "agar_malwa/Q15732396",
+    "sehore/Q2299029",
+    "bhopal/Q1797245",
+    "jhalawar/Q1471417"
+  ],
+  "ratlam/Q2299164": [
+    "agar_malwa/Q15732396",
+    "mandsaur/Q1870014",
+    "ujjain/Q892641",
+    "jhabua/Q2085336",
+    "banswara/Q806969",
+    "dhar/Q2299069",
+    "jhalawar/Q1471417",
+    "pratapgarh/Q1585433"
+  ],
+  "agar_malwa/Q15732396": [
+    "rajgarh/Q1833306",
+    "shajapur/Q2449803",
+    "ratlam/Q2299164",
+    "ujjain/Q892641",
+    "jhalawar/Q1471417"
+  ],
+  "chittorgarh/Q1075011": [
+    "rajsamand/Q596693",
+    "bundi/Q670405",
+    "udaipur/Q1321577",
+    "mandsaur/Q1870014",
+    "neemuch/Q2341713",
+    "bhilwara/Q41991",
+    "kota/Q999432",
+    "pratapgarh/Q1585433"
+  ],
+  "neemuch/Q2341713": [
+    "chittorgarh/Q1075011",
+    "mandsaur/Q1870014",
+    "pratapgarh/Q1585433",
+    "bhilwara/Q41991"
+  ],
+  "pratapgarh/Q1585433": [
+    "chittorgarh/Q1075011",
+    "ratlam/Q2299164",
+    "dungarpur/Q1265687",
+    "udaipur/Q1321577",
+    "mandsaur/Q1870014",
+    "neemuch/Q2341713",
+    "banswara/Q806969"
+  ],
+  "banswara/Q806969": [
+    "ratlam/Q2299164",
+    "dahod_district/Q186518",
+    "dungarpur/Q1265687",
+    "jhabua/Q2085336",
+    "pratapgarh/Q1585433",
+    "mahisagar_district/Q5706885"
+  ],
+  "dungarpur/Q1265687": [
+    "udaipur/Q1321577",
+    "banswara/Q806969",
+    "pratapgarh/Q1585433",
+    "mahisagar_district/Q5706885",
+    "aravalli_district/Q12175285"
+  ],
+  "dahod_district/Q186518": [
+    "panch_mahal_district/Q1781463",
+    "alirajpur/Q2667586",
+    "jhabua/Q2085336",
+    "banswara/Q806969",
+    "mahisagar_district/Q5706885",
+    "chhota_udaipur_district/Q5979243"
+  ],
+  "jhabua/Q2085336": [
+    "ratlam/Q2299164",
+    "dahod_district/Q186518",
+    "alirajpur/Q2667586",
+    "banswara/Q806969",
+    "dhar/Q2299069"
+  ],
+  "mahisagar_district/Q5706885": [
+    "dahod_district/Q186518",
+    "dungarpur/Q1265687",
+    "aravalli_district/Q12175285",
+    "panch_mahal_district/Q1781463",
+    "banswara/Q806969",
+    "kheda_district/Q1755463"
+  ],
+  "aravalli_district/Q12175285": [
+    "dungarpur/Q1265687",
+    "udaipur/Q1321577",
+    "sabar_kantha_district/Q1772856",
+    "gandhinagar_district/Q1772860",
+    "mahisagar_district/Q5706885",
+    "kheda_district/Q1755463"
+  ],
+  "mahesana_district/Q2019694": [
+    "banas_kantha_district/Q806125",
+    "patan/Q1815269",
+    "sabar_kantha_district/Q1772856",
+    "ahmedabad_district/Q401686",
+    "surendranagar_district/Q237535",
+    "gandhinagar_district/Q1772860"
+  ],
+  "patan/Q1815269": [
+    "surendranagar_district/Q237535",
+    "kutch_district/Q1063417",
+    "mahesana_district/Q2019694",
+    "banas_kantha_district/Q806125"
+  ],
+  "gandhinagar_district/Q1772860": [
+    "sabar_kantha_district/Q1772856",
+    "ahmedabad_district/Q401686",
+    "mahesana_district/Q2019694",
+    "kheda_district/Q1755463",
+    "aravalli_district/Q12175285"
+  ],
+  "surendranagar_district/Q237535": [
+    "patan/Q1815269",
+    "rajkot/Q1815245",
+    "ahmedabad_district/Q401686",
+    "mahesana_district/Q2019694",
+    "botad_district/Q14505072",
+    "morbi_district/Q5979727",
+    "kutch_district/Q1063417"
+  ],
+  "ahmedabad_district/Q401686": [
+    "anand_district/Q485683",
+    "mahesana_district/Q2019694",
+    "botad_district/Q14505072",
+    "surendranagar_district/Q237535",
+    "bhavnagar_district/Q854963",
+    "gandhinagar_district/Q1772860",
+    "kheda_district/Q1755463"
+  ],
+  "panch_mahal_district/Q1781463": [
+    "vadodara_district/Q578285",
+    "dahod_district/Q186518",
+    "kheda_district/Q1755463",
+    "mahisagar_district/Q5706885",
+    "chhota_udaipur_district/Q5979243"
+  ],
+  "chhota_udaipur_district/Q5979243": [
+    "vadodara_district/Q578285",
+    "dahod_district/Q186518",
+    "narmada_district/Q1797230",
+    "panch_mahal_district/Q1781463",
+    "alirajpur/Q2667586",
+    "nandubar/Q1623525"
+  ],
+  "alirajpur/Q2667586": [
+    "dahod_district/Q186518",
+    "barwani/Q2126754",
+    "jhabua/Q2085336",
+    "dhar/Q2299069",
+    "nandubar/Q1623525",
+    "chhota_udaipur_district/Q5979243"
+  ],
+  "kheda_district/Q1755463": [
+    "vadodara_district/Q578285",
+    "anand_district/Q485683",
+    "ahmedabad_district/Q401686",
+    "panch_mahal_district/Q1781463",
+    "gandhinagar_district/Q1772860",
+    "mahisagar_district/Q5706885",
+    "aravalli_district/Q12175285"
+  ],
+  "vadodara_district/Q578285": [
+    "anand_district/Q485683",
+    "bharuch_district/Q854900",
+    "narmada_district/Q1797230",
+    "panch_mahal_district/Q1781463",
+    "chhota_udaipur_district/Q5979243",
+    "kheda_district/Q1755463"
+  ],
+  "anand_district/Q485683": [
+    "vadodara_district/Q578285",
+    "ahmedabad_district/Q401686",
+    "bharuch_district/Q854900",
+    "kheda_district/Q1755463"
+  ],
+  "narmada_district/Q1797230": [
+    "vadodara_district/Q578285",
+    "bharuch_district/Q854900",
+    "nandubar/Q1623525",
+    "tapi_district/Q670165",
+    "surat/Q1797317",
+    "chhota_udaipur_district/Q5979243"
+  ],
+  "bharuch_district/Q854900": [
+    "vadodara_district/Q578285",
+    "anand_district/Q485683",
+    "narmada_district/Q1797230",
+    "surat/Q1797317"
+  ],
+  "surat/Q1797317": [
+    "narmada_district/Q1797230",
+    "bharuch_district/Q854900",
+    "tapi_district/Q670165",
+    "nav_sari_district/Q1797349"
+  ],
+  "nandubar/Q1623525": [
+    "narmada_district/Q1797230",
+    "barwani/Q2126754",
+    "alirajpur/Q2667586",
+    "dhule/Q1797383",
+    "tapi_district/Q670165",
+    "chhota_udaipur_district/Q5979243"
+  ],
+  "tapi_district/Q670165": [
+    "narmada_district/Q1797230",
+    "nav_sari_district/Q1797349",
+    "dhule/Q1797383",
+    "nandubar/Q1623525",
+    "the_dangs/Q1135616",
+    "surat/Q1797317"
+  ],
+  "nav_sari_district/Q1797349": [
+    "nashik/Q1797269",
+    "valsad/Q1946743",
+    "tapi_district/Q670165",
+    "the_dangs/Q1135616",
+    "surat/Q1797317"
+  ],
+  "the_dangs/Q1135616": [
+    "tapi_district/Q670165",
+    "nav_sari_district/Q1797349",
+    "dhule/Q1797383",
+    "nashik/Q1797269"
+  ],
+  "dhule/Q1797383": [
+    "nashik/Q1797269",
+    "barwani/Q2126754",
+    "jalgaon/Q1797291",
+    "nandubar/Q1623525",
+    "the_dangs/Q1135616",
+    "tapi_district/Q670165"
+  ],
+  "nashik/Q1797269": [
+    "nav_sari_district/Q1797349",
+    "valsad/Q1946743",
+    "dhule/Q1797383",
+    "konkan_division/Q6268840",
+    "jalgaon/Q1797291",
+    "ahmednagar/Q401744",
+    "palghar/Q18003119",
+    "the_dangs/Q1135616",
+    "aurangabad/Q592942",
+    "thane/Q943099"
+  ],
+  "dadra_and_nagar_haveli/Q46107": [
+    "palghar/Q18003119",
+    "valsad/Q1946743",
+    "konkan_division/Q6268840"
+  ],
+  "valsad/Q1946743": [
+    "nashik/Q1797269",
+    "konkan_division/Q6268840",
+    "palghar/Q18003119",
+    "nav_sari_district/Q1797349",
+    "daman/Q1158197",
+    "dadra_and_nagar_haveli/Q46107"
+  ],
+  "konkan_division/Q6268840": [
+    "kolhapur/Q1797312",
+    "sindhudurg/Q768332",
+    "raigad/Q2019683",
+    "nashik/Q1797269",
+    "thane/Q943099",
+    "valsad/Q1946743",
+    "mumbai_city/Q2341660",
+    "belgaum_district/Q815464",
+    "mumbai_suburban/Q2085374",
+    "pune_district/Q1797336",
+    "ahmednagar/Q401744",
+    "palghar/Q18003119",
+    "north_goa/Q108234",
+    "satara/Q1135612",
+    "ratnagiri/Q1771768",
+    "dadra_and_nagar_haveli/Q46107",
+    "sangli_district/Q1425060"
+  ],
+  "palghar/Q18003119": [
+    "nashik/Q1797269",
+    "valsad/Q1946743",
+    "konkan_division/Q6268840",
+    "thane/Q943099",
+    "dadra_and_nagar_haveli/Q46107"
+  ],
+  "daman/Q1158197": [
+    "valsad/Q1946743"
+  ],
+  "rajkot/Q1815245": [
+    "porbandar_district/Q1772815",
+    "amreli_district/Q257946",
+    "junagadh_district/Q1797344",
+    "botad_district/Q14505072",
+    "surendranagar_district/Q237535",
+    "morbi_district/Q5979727",
+    "jamnagar_district/Q2982118"
+  ],
+  "morbi_district/Q5979727": [
+    "surendranagar_district/Q237535",
+    "kutch_district/Q1063417",
+    "jamnagar_district/Q2982118",
+    "rajkot/Q1815245"
+  ],
+  "botad_district/Q14505072": [
+    "rajkot/Q1815245",
+    "ahmedabad_district/Q401686",
+    "amreli_district/Q257946",
+    "surendranagar_district/Q237535",
+    "bhavnagar_district/Q854963"
+  ],
+  "bhavnagar_district/Q854963": [
+    "amreli_district/Q257946",
+    "ahmedabad_district/Q401686",
+    "botad_district/Q14505072"
+  ],
+  "junagadh_district/Q1797344": [
+    "rajkot/Q1815245",
+    "porbandar_district/Q1772815",
+    "gir_somnath_district/Q15244465",
+    "amreli_district/Q257946"
+  ],
+  "porbandar_district/Q1772815": [
+    "rajkot/Q1815245",
+    "devbhumi_dwaraka_district/Q14594717",
+    "junagadh_district/Q1797344",
+    "jamnagar_district/Q2982118"
+  ],
+  "amreli_district/Q257946": [
+    "rajkot/Q1815245",
+    "junagadh_district/Q1797344",
+    "botad_district/Q14505072",
+    "gir_somnath_district/Q15244465",
+    "bhavnagar_district/Q854963"
+  ],
+  "jamnagar_district/Q2982118": [
+    "rajkot/Q1815245",
+    "morbi_district/Q5979727",
+    "devbhumi_dwaraka_district/Q14594717",
+    "porbandar_district/Q1772815"
+  ],
+  "meerut/Q1764627": [
+    "bijnor/Q1937865",
+    "hapur/Q5653340",
+    "muzaffarnagar/Q2365710",
+    "ghaziabad/Q1773444",
+    "jyotiba_phule_nagar/Q1891677",
+    "baghpat/Q1797363"
+  ],
+  "jyotiba_phule_nagar/Q1891677": [
+    "sambhal/Q3000436",
+    "bijnor/Q1937865",
+    "bulandshahr/Q1752328",
+    "hapur/Q5653340",
+    "moradabad/Q1345006",
+    "meerut/Q1764627"
+  ],
+  "hapur/Q5653340": [
+    "gautam_buddha_nagar/Q1785950",
+    "bulandshahr/Q1752328",
+    "ghaziabad/Q1773444",
+    "jyotiba_phule_nagar/Q1891677",
+    "meerut/Q1764627"
+  ],
+  "aligarh/Q766918": [
+    "gautam_buddha_nagar/Q1785950",
+    "sambhal/Q3000436",
+    "bulandshahr/Q1752328",
+    "hathras/Q1814892",
+    "kasganj/Q890800",
+    "mathura/Q1773422",
+    "budaun/Q1815262",
+    "palwal/Q2724926"
+  ],
+  "bulandshahr/Q1752328": [
+    "gautam_buddha_nagar/Q1785950",
+    "sambhal/Q3000436",
+    "hapur/Q5653340",
+    "aligarh/Q766918",
+    "jyotiba_phule_nagar/Q1891677"
+  ],
+  "sambhal/Q3000436": [
+    "bulandshahr/Q1752328",
+    "moradabad/Q1345006",
+    "aligarh/Q766918",
+    "jyotiba_phule_nagar/Q1891677",
+    "budaun/Q1815262"
+  ],
+  "hathras/Q1814892": [
+    "agra/Q606343",
+    "aligarh/Q766918",
+    "kasganj/Q890800",
+    "mathura/Q1773422",
+    "etah/Q1773429"
+  ],
+  "budaun/Q1815262": [
+    "kasganj/Q890800",
+    "sambhal/Q3000436",
+    "moradabad/Q1345006",
+    "bareilly/Q1797378",
+    "rampur/Q1815331",
+    "aligarh/Q766918",
+    "shahjahanpur/Q1812557",
+    "farrukhabad/Q1897251"
+  ],
+  "kasganj/Q890800": [
+    "hathras/Q1814892",
+    "aligarh/Q766918",
+    "etah/Q1773429",
+    "budaun/Q1815262",
+    "farrukhabad/Q1897251"
+  ],
+  "etah/Q1773429": [
+    "agra/Q606343",
+    "hathras/Q1814892",
+    "mainpuri/Q1816657",
+    "kasganj/Q890800",
+    "firozabad/Q1946950",
+    "farrukhabad/Q1897251"
+  ],
+  "shahjahanpur/Q1812557": [
+    "pilibhit/Q2980705",
+    "bareilly/Q1797378",
+    "kheri/Q1755447",
+    "budaun/Q1815262",
+    "farrukhabad/Q1897251",
+    "hardoi/Q1772822"
+  ],
+  "firozabad/Q1946950": [
+    "etah/Q1773429",
+    "agra/Q606343",
+    "etawah/Q1815288",
+    "mainpuri/Q1816657"
+  ],
+  "etawah/Q1815288": [
+    "auraiya/Q1812533",
+    "agra/Q606343",
+    "bhind/Q2341700",
+    "jalaun/Q2089115",
+    "mainpuri/Q1816657",
+    "firozabad/Q1946950",
+    "kannauj/Q627979"
+  ],
+  "bhind/Q2341700": [
+    "etawah/Q1815288",
+    "jhansi/Q1937885",
+    "agra/Q606343",
+    "datia/Q2206266",
+    "jalaun/Q2089115",
+    "gwalior/Q2085310",
+    "morena/Q2341467"
+  ],
+  "farrukhabad/Q1897251": [
+    "kasganj/Q890800",
+    "mainpuri/Q1816657",
+    "shahjahanpur/Q1812557",
+    "kannauj/Q627979",
+    "etah/Q1773429",
+    "budaun/Q1815262",
+    "hardoi/Q1772822"
+  ],
+  "mainpuri/Q1816657": [
+    "etawah/Q1815288",
+    "etah/Q1773429",
+    "firozabad/Q1946950",
+    "farrukhabad/Q1897251",
+    "kannauj/Q627979"
+  ],
+  "kannauj/Q627979": [
+    "kanpur_nagar/Q2089152",
+    "auraiya/Q1812533",
+    "etawah/Q1815288",
+    "kanpur_dehat/Q610612",
+    "mainpuri/Q1816657",
+    "farrukhabad/Q1897251",
+    "hardoi/Q1772822"
+  ],
+  "kheri/Q1755447": [
+    "pilibhit/Q2980705",
+    "bahraich/Q1812548",
+    "shahjahanpur/Q1812557",
+    "sitapur/Q1812539",
+    "hardoi/Q1772822"
+  ],
+  "bahraich/Q1812548": [
+    "sharawasti/Q1945458",
+    "sitapur/Q1812539",
+    "barabanki/Q633114",
+    "kheri/Q1755447",
+    "gonda/Q1937857"
+  ],
+  "sharawasti/Q1945458": [
+    "gonda/Q1937857",
+    "balrampur/Q1948380",
+    "bahraich/Q1812548"
+  ],
+  "sitapur/Q1812539": [
+    "lucknow/Q1773416",
+    "bahraich/Q1812548",
+    "barabanki/Q633114",
+    "kheri/Q1755447",
+    "hardoi/Q1772822"
+  ],
+  "barabanki/Q633114": [
+    "lucknow/Q1773416",
+    "rae_bareilly/Q1321157",
+    "amethi/Q1071494",
+    "bahraich/Q1812548",
+    "faizabad/Q1814132",
+    "gonda/Q1937857",
+    "sitapur/Q1812539"
+  ],
+  "gonda/Q1937857": [
+    "sharawasti/Q1945458",
+    "balrampur/Q1948380",
+    "siddharth_nagar/Q1815339",
+    "basti/Q715267",
+    "bahraich/Q1812548",
+    "faizabad/Q1814132",
+    "barabanki/Q633114"
+  ],
+  "balrampur/Q1948380": [
+    "gonda/Q1937857",
+    "sharawasti/Q1945458",
+    "siddharth_nagar/Q1815339"
+  ],
+  "siddharth_nagar/Q1815339": [
+    "balrampur/Q1948380",
+    "gorakhpur/Q1144349",
+    "sait_kibir_nagar/Q1945445",
+    "basti/Q715267",
+    "gonda/Q1937857",
+    "mahrajganj/Q1356139"
+  ],
+  "mahrajganj/Q1356139": [
+    "pashchim_champaran/Q100124",
+    "gorakhpur/Q1144349",
+    "kushinagar/Q825673",
+    "siddharth_nagar/Q1815339"
+  ],
+  "basti/Q715267": [
+    "siddharth_nagar/Q1815339",
+    "sait_kibir_nagar/Q1945445",
+    "ambedkar_nagar/Q456764",
+    "faizabad/Q1814132",
+    "gonda/Q1937857"
+  ],
+  "gorakhpur/Q1144349": [
+    "mau/Q1518847",
+    "kushinagar/Q825673",
+    "siddharth_nagar/Q1815339",
+    "deoria/Q731746",
+    "azamgarh/Q793553",
+    "sait_kibir_nagar/Q1945445",
+    "ambedkar_nagar/Q456764",
+    "mahrajganj/Q1356139"
+  ],
+  "sait_kibir_nagar/Q1945445": [
+    "ambedkar_nagar/Q456764",
+    "gorakhpur/Q1144349",
+    "basti/Q715267",
+    "siddharth_nagar/Q1815339"
+  ],
+  "kushinagar/Q825673": [
+    "pashchim_champaran/Q100124",
+    "gopalganj/Q49171",
+    "deoria/Q731746",
+    "gorakhpur/Q1144349",
+    "mahrajganj/Q1356139"
+  ],
+  "deoria/Q731746": [
+    "mau/Q1518847",
+    "gopalganj/Q49171",
+    "kushinagar/Q825673",
+    "gorakhpur/Q1144349",
+    "siwan/Q100131",
+    "ballia/Q584644"
+  ],
+  "kanpur_dehat/Q610612": [
+    "kanpur_nagar/Q2089152",
+    "auraiya/Q1812533",
+    "hamirpur/Q2019757",
+    "jalaun/Q2089115",
+    "kannauj/Q627979"
+  ],
+  "hamirpur/Q2019757": [
+    "kanpur_nagar/Q2089152",
+    "mahoba/Q1815322",
+    "kanpur_dehat/Q610612",
+    "jhansi/Q1937885",
+    "jalaun/Q2089115",
+    "banda/Q2131759",
+    "fatehpur/Q1946829"
+  ],
+  "auraiya/Q1812533": [
+    "kannauj/Q627979",
+    "etawah/Q1815288",
+    "kanpur_dehat/Q610612",
+    "jalaun/Q2089115"
+  ],
+  "jalaun/Q2089115": [
+    "etawah/Q1815288",
+    "auraiya/Q1812533",
+    "hamirpur/Q2019757",
+    "kanpur_dehat/Q610612",
+    "jhansi/Q1937885",
+    "bhind/Q2341700"
+  ],
+  "jhansi/Q1937885": [
+    "mahoba/Q1815322",
+    "shivpuri/Q2299042",
+    "hamirpur/Q2019757",
+    "lalitpur/Q1947336",
+    "tikamgarh/Q2449760",
+    "datia/Q2206266",
+    "bhind/Q2341700",
+    "jalaun/Q2089115",
+    "chhatarpur/Q2449785",
+    "niwari/Q63563797"
+  ],
+  "lalitpur/Q1947336": [
+    "shivpuri/Q2299042",
+    "ashok_nagar/Q2246416",
+    "jhansi/Q1937885",
+    "tikamgarh/Q2449760",
+    "sagar/Q2085421",
+    "datia/Q2206266",
+    "chhatarpur/Q2449785",
+    "niwari/Q63563797"
+  ],
+  "mahoba/Q1815322": [
+    "jhansi/Q1937885",
+    "banda/Q2131759",
+    "chhatarpur/Q2449785",
+    "hamirpur/Q2019757"
+  ],
+  "datia/Q2206266": [
+    "shivpuri/Q2299042",
+    "jhansi/Q1937885",
+    "lalitpur/Q1947336",
+    "bhind/Q2341700",
+    "gwalior/Q2085310"
+  ],
+  "chhatarpur/Q2449785": [
+    "mahoba/Q1815322",
+    "damoh/Q2479331",
+    "jhansi/Q1937885",
+    "lalitpur/Q1947336",
+    "tikamgarh/Q2449760",
+    "sagar/Q2085421",
+    "banda/Q2131759",
+    "panna/Q2341630"
+  ],
+  "tikamgarh/Q2449760": [
+    "jhansi/Q1937885",
+    "niwari/Q63563797",
+    "chhatarpur/Q2449785",
+    "lalitpur/Q1947336"
+  ],
+  "niwari/Q63563797": [
+    "jhansi/Q1937885",
+    "tikamgarh/Q2449760",
+    "lalitpur/Q1947336"
+  ],
+  "sagar/Q2085421": [
+    "damoh/Q2479331",
+    "vidisha/Q1815253",
+    "ashok_nagar/Q2246416",
+    "lalitpur/Q1947336",
+    "narsimhapur/Q2341616",
+    "raisen/Q1815223",
+    "chhatarpur/Q2449785"
+  ],
+  "ashok_nagar/Q2246416": [
+    "shivpuri/Q2299042",
+    "guna/Q930027",
+    "vidisha/Q1815253",
+    "lalitpur/Q1947336",
+    "sagar/Q2085421"
+  ],
+  "faizabad/Q1814132": [
+    "basti/Q715267",
+    "amethi/Q1071494",
+    "ambedkar_nagar/Q456764",
+    "barabanki/Q633114",
+    "sultanpur/Q1356154",
+    "gonda/Q1937857"
+  ],
+  "amethi/Q1071494": [
+    "pratapgarh/Q1473962",
+    "rae_bareilly/Q1321157",
+    "faizabad/Q1814132",
+    "barabanki/Q633114",
+    "sultanpur/Q1356154"
+  ],
+  "ambedkar_nagar/Q456764": [
+    "azamgarh/Q793553",
+    "gorakhpur/Q1144349",
+    "basti/Q715267",
+    "sait_kibir_nagar/Q1945445",
+    "faizabad/Q1814132",
+    "sultanpur/Q1356154"
+  ],
+  "sultanpur/Q1356154": [
+    "jaunpur/Q1356060",
+    "pratapgarh/Q1473962",
+    "azamgarh/Q793553",
+    "amethi/Q1071494",
+    "ambedkar_nagar/Q456764",
+    "faizabad/Q1814132"
+  ],
+  "banda/Q2131759": [
+    "mahoba/Q1815322",
+    "hamirpur/Q2019757",
+    "chhatarpur/Q2449785",
+    "satna/Q2577924",
+    "panna/Q2341630",
+    "chitrakoot/Q2089141",
+    "fatehpur/Q1946829"
+  ],
+  "kaushambi/Q1946937": [
+    "pratapgarh/Q1473962",
+    "rae_bareilly/Q1321157",
+    "prayagraj/Q1773426",
+    "chitrakoot/Q2089141",
+    "fatehpur/Q1946829"
+  ],
+  "pratapgarh/Q1473962": [
+    "jaunpur/Q1356060",
+    "rae_bareilly/Q1321157",
+    "prayagraj/Q1773426",
+    "amethi/Q1071494",
+    "kaushambi/Q1946937",
+    "sultanpur/Q1356154",
+    "fatehpur/Q1946829"
+  ],
+  "chitrakoot/Q2089141": [
+    "prayagraj/Q1773426",
+    "satna/Q2577924",
+    "banda/Q2131759",
+    "kaushambi/Q1946937",
+    "rewa/Q526862",
+    "fatehpur/Q1946829"
+  ],
+  "prayagraj/Q1773426": [
+    "jaunpur/Q1356060",
+    "pratapgarh/Q1473962",
+    "mirzapur/Q1143894",
+    "kaushambi/Q1946937",
+    "rewa/Q526862",
+    "chitrakoot/Q2089141",
+    "sant_ravidas_nagar/Q127533"
+  ],
+  "jaunpur/Q1356060": [
+    "varanasi/Q1321140",
+    "ghazipur/Q1287993",
+    "pratapgarh/Q1473962",
+    "azamgarh/Q793553",
+    "prayagraj/Q1773426",
+    "sultanpur/Q1356154",
+    "sant_ravidas_nagar/Q127533"
+  ],
+  "mirzapur/Q1143894": [
+    "varanasi/Q1321140",
+    "sonbhadra/Q607798",
+    "prayagraj/Q1773426",
+    "singrauli/Q2668638",
+    "chandauli/Q2733369",
+    "rewa/Q526862",
+    "sant_ravidas_nagar/Q127533"
+  ],
+  "sant_ravidas_nagar/Q127533": [
+    "mirzapur/Q1143894",
+    "varanasi/Q1321140",
+    "jaunpur/Q1356060",
+    "prayagraj/Q1773426"
+  ],
+  "rewa/Q526862": [
+    "prayagraj/Q1773426",
+    "singrauli/Q2668638",
+    "satna/Q2577924",
+    "mirzapur/Q1143894",
+    "chitrakoot/Q2089141",
+    "sidhi/Q2449793"
+  ],
+  "panna/Q2341630": [
+    "damoh/Q2479331",
+    "chhatarpur/Q2449785",
+    "satna/Q2577924",
+    "banda/Q2131759",
+    "katni/Q746441"
+  ],
+  "satna/Q2577924": [
+    "umaria/Q620297",
+    "banda/Q2131759",
+    "panna/Q2341630",
+    "katni/Q746441",
+    "rewa/Q526862",
+    "chitrakoot/Q2089141",
+    "sidhi/Q2449793",
+    "shahdol/Q2085464"
+  ],
+  "azamgarh/Q793553": [
+    "mau/Q1518847",
+    "ghazipur/Q1287993",
+    "jaunpur/Q1356060",
+    "gorakhpur/Q1144349",
+    "ambedkar_nagar/Q456764",
+    "sultanpur/Q1356154"
+  ],
+  "ghazipur/Q1287993": [
+    "mau/Q1518847",
+    "jaunpur/Q1356060",
+    "varanasi/Q1321140",
+    "buxar/Q49161",
+    "azamgarh/Q793553",
+    "kaimur_(bhabua)/Q77367",
+    "chandauli/Q2733369",
+    "ballia/Q584644"
+  ],
+  "mau/Q1518847": [
+    "ghazipur/Q1287993",
+    "deoria/Q731746",
+    "azamgarh/Q793553",
+    "gorakhpur/Q1144349",
+    "ballia/Q584644"
+  ],
+  "ballia/Q584644": [
+    "mau/Q1518847",
+    "ghazipur/Q1287993",
+    "deoria/Q731746",
+    "buxar/Q49161",
+    "bhojpur/Q49153",
+    "siwan/Q100131",
+    "saran/Q100146"
+  ],
+  "siwan/Q100131": [
+    "gopalganj/Q49171",
+    "ballia/Q584644",
+    "deoria/Q731746",
+    "saran/Q100146"
+  ],
+  "saran/Q100146": [
+    "muzaffarpur/Q77731",
+    "gopalganj/Q49171",
+    "vaishali/Q100130",
+    "bhojpur/Q49153",
+    "siwan/Q100131",
+    "ballia/Q584644",
+    "patna/Q100077"
+  ],
+  "bhojpur/Q49153": [
+    "arwal/Q42917",
+    "buxar/Q49161",
+    "saran/Q100146",
+    "ballia/Q584644",
+    "patna/Q100077",
+    "rohtas/Q100085"
+  ],
+  "buxar/Q49161": [
+    "ghazipur/Q1287993",
+    "bhojpur/Q49153",
+    "kaimur_(bhabua)/Q77367",
+    "ballia/Q584644",
+    "rohtas/Q100085"
+  ],
+  "chandauli/Q2733369": [
+    "varanasi/Q1321140",
+    "ghazipur/Q1287993",
+    "sonbhadra/Q607798",
+    "kaimur_(bhabua)/Q77367",
+    "mirzapur/Q1143894"
+  ],
+  "varanasi/Q1321140": [
+    "jaunpur/Q1356060",
+    "ghazipur/Q1287993",
+    "mirzapur/Q1143894",
+    "chandauli/Q2733369",
+    "sant_ravidas_nagar/Q127533"
+  ],
+  "kaimur_(bhabua)/Q77367": [
+    "ghazipur/Q1287993",
+    "sonbhadra/Q607798",
+    "buxar/Q49161",
+    "chandauli/Q2733369",
+    "rohtas/Q100085"
+  ],
+  "sonbhadra/Q607798": [
+    "garhwa/Q2302076",
+    "kaimur_(bhabua)/Q77367",
+    "singrauli/Q2668638",
+    "mirzapur/Q1143894",
+    "balrampur/Q16056268",
+    "chandauli/Q2733369",
+    "rohtas/Q100085"
+  ],
+  "singrauli/Q2668638": [
+    "sonbhadra/Q607798",
+    "surajpur/Q16938031",
+    "mirzapur/Q1143894",
+    "balrampur/Q16056268",
+    "rewa/Q526862",
+    "sidhi/Q2449793",
+    "koriya/Q2295896"
+  ],
+  "rohtas/Q100085": [
+    "arwal/Q42917",
+    "sonbhadra/Q607798",
+    "buxar/Q49161",
+    "palamu/Q1797254",
+    "aurangabad/Q43086",
+    "bhojpur/Q49153",
+    "garhwa/Q2302076",
+    "kaimur_(bhabua)/Q77367"
+  ],
+  "garhwa/Q2302076": [
+    "sonbhadra/Q607798",
+    "palamu/Q1797254",
+    "balrampur/Q16056268",
+    "latehar/Q2244762",
+    "rohtas/Q100085"
+  ],
+  "balrampur/Q16056268": [
+    "gumla/Q2295865",
+    "sonbhadra/Q607798",
+    "surajpur/Q16938031",
+    "jashpur/Q2577551",
+    "garhwa/Q2302076",
+    "singrauli/Q2668638",
+    "latehar/Q2244762",
+    "surguja/Q1805075"
+  ],
+  "munger/Q77452": [
+    "khagaria/Q49175",
+    "begusarai/Q49157",
+    "banka/Q43097",
+    "lakhisarai/Q77505",
+    "bhagalpur/Q49155",
+    "jamui/Q49168"
+  ],
+  "godda/Q638980": [
+    "dumka/Q2577657",
+    "banka/Q43097",
+    "bhagalpur/Q49155",
+    "pakaur/Q2295930",
+    "sahibganj/Q767878"
+  ],
+  "banka/Q43097": [
+    "munger/Q77452",
+    "deoghar/Q2030017",
+    "dumka/Q2577657",
+    "bhagalpur/Q49155",
+    "jamui/Q49168",
+    "godda/Q638980"
+  ],
+  "begusarai/Q49157": [
+    "munger/Q77452",
+    "khagaria/Q49175",
+    "samastipur/Q100117",
+    "lakhisarai/Q77505",
+    "patna/Q100077"
+  ],
+  "lakhisarai/Q77505": [
+    "sheikhpura/Q100093",
+    "munger/Q77452",
+    "nalanda/Q77633",
+    "begusarai/Q49157",
+    "patna/Q100077",
+    "jamui/Q49168"
+  ],
+  "jamui/Q49168": [
+    "sheikhpura/Q100093",
+    "munger/Q77452",
+    "deoghar/Q2030017",
+    "nawada/Q100067",
+    "giridih/Q2302065",
+    "banka/Q43097",
+    "lakhisarai/Q77505"
+  ],
+  "deoghar/Q2030017": [
+    "dumka/Q2577657",
+    "giridih/Q2302065",
+    "jamtara/Q2980986",
+    "banka/Q43097",
+    "jamui/Q49168"
+  ],
+  "giridih/Q2302065": [
+    "deoghar/Q2030017",
+    "nawada/Q100067",
+    "jamtara/Q2980986",
+    "kodarma/Q2085480",
+    "dhanbad/Q2240791",
+    "jamui/Q49168",
+    "bokaro/Q2295925",
+    "hazaribagh/Q1945416"
+  ],
+  "dumka/Q2577657": [
+    "deoghar/Q2030017",
+    "jamtara/Q2980986",
+    "banka/Q43097",
+    "birbhum/Q2088440",
+    "pakaur/Q2295930",
+    "godda/Q638980"
+  ],
+  "jamtara/Q2980986": [
+    "dumka/Q2577657",
+    "giridih/Q2302065",
+    "deoghar/Q2030017",
+    "birbhum/Q2088440",
+    "dhanbad/Q2240791",
+    "paschim_bardhaman/Q29215602"
+  ],
+  "vaishali/Q100130": [
+    "samastipur/Q100117",
+    "patna/Q100077",
+    "muzaffarpur/Q77731",
+    "saran/Q100146"
+  ],
+  "patna/Q100077": [
+    "arwal/Q42917",
+    "nalanda/Q77633",
+    "begusarai/Q49157",
+    "vaishali/Q100130",
+    "bhojpur/Q49153",
+    "samastipur/Q100117",
+    "lakhisarai/Q77505",
+    "jehanabad/Q49176",
+    "saran/Q100146"
+  ],
+  "arwal/Q42917": [
+    "aurangabad/Q43086",
+    "bhojpur/Q49153",
+    "gaya/Q49173",
+    "patna/Q100077",
+    "jehanabad/Q49176",
+    "rohtas/Q100085"
+  ],
+  "jehanabad/Q49176": [
+    "nalanda/Q77633",
+    "gaya/Q49173",
+    "patna/Q100077",
+    "arwal/Q42917"
+  ],
+  "nalanda/Q77633": [
+    "sheikhpura/Q100093",
+    "nawada/Q100067",
+    "lakhisarai/Q77505",
+    "gaya/Q49173",
+    "patna/Q100077",
+    "jehanabad/Q49176"
+  ],
+  "aurangabad/Q43086": [
+    "arwal/Q42917",
+    "gaya/Q49173",
+    "palamu/Q1797254",
+    "rohtas/Q100085"
+  ],
+  "palamu/Q1797254": [
+    "aurangabad/Q43086",
+    "garhwa/Q2302076",
+    "gaya/Q49173",
+    "latehar/Q2244762",
+    "chatra/Q1979499",
+    "rohtas/Q100085"
+  ],
+  "gaya/Q49173": [
+    "arwal/Q42917",
+    "nalanda/Q77633",
+    "nawada/Q100067",
+    "palamu/Q1797254",
+    "aurangabad/Q43086",
+    "kodarma/Q2085480",
+    "chatra/Q1979499",
+    "jehanabad/Q49176",
+    "hazaribagh/Q1945416"
+  ],
+  "nawada/Q100067": [
+    "sheikhpura/Q100093",
+    "giridih/Q2302065",
+    "nalanda/Q77633",
+    "kodarma/Q2085480",
+    "gaya/Q49173",
+    "jamui/Q49168"
+  ],
+  "chatra/Q1979499": [
+    "palamu/Q1797254",
+    "gaya/Q49173",
+    "latehar/Q2244762",
+    "ranchi/Q1947380",
+    "hazaribagh/Q1945416"
+  ],
+  "kodarma/Q2085480": [
+    "giridih/Q2302065",
+    "gaya/Q49173",
+    "hazaribagh/Q1945416",
+    "nawada/Q100067"
+  ],
+  "hazaribagh/Q1945416": [
+    "giridih/Q2302065",
+    "kodarma/Q2085480",
+    "gaya/Q49173",
+    "ranchi/Q1947380",
+    "ramgarh/Q2663612",
+    "chatra/Q1979499",
+    "bokaro/Q2295925"
+  ],
+  "sheikhpura/Q100093": [
+    "jamui/Q49168",
+    "lakhisarai/Q77505",
+    "nalanda/Q77633",
+    "nawada/Q100067"
+  ],
+  "birbhum/Q2088440": [
+    "dumka/Q2577657",
+    "jamtara/Q2980986",
+    "murshidabad/Q1546240",
+    "purba_bardhaman/Q808023",
+    "pakaur/Q2295930",
+    "paschim_bardhaman/Q29215602"
+  ],
+  "purba_bardhaman/Q808023": [
+    "murshidabad/Q1546240",
+    "birbhum/Q2088440",
+    "bankura/Q2088458",
+    "paschim_bardhaman/Q29215602",
+    "hugli/Q548518",
+    "nadia/Q1143880"
+  ],
+  "pakaur/Q2295930": [
+    "dumka/Q2577657",
+    "murshidabad/Q1546240",
+    "birbhum/Q2088440",
+    "godda/Q638980",
+    "sahibganj/Q767878"
+  ],
+  "paschim_bardhaman/Q29215602": [
+    "jamtara/Q2980986",
+    "birbhum/Q2088440",
+    "purba_bardhaman/Q808023",
+    "dhanbad/Q2240791",
+    "bankura/Q2088458",
+    "puruliya/Q307474"
+  ],
+  "nadia/Q1143880": [
+    "murshidabad/Q1546240",
+    "purba_bardhaman/Q808023",
+    "hugli/Q548518",
+    "north_24_parganas/Q338425"
+  ],
+  "hugli/Q548518": [
+    "nadia/Q1143880",
+    "north_24_parganas/Q338425",
+    "purba_bardhaman/Q808023",
+    "paschim_medinipur/Q1855537",
+    "bankura/Q2088458",
+    "howrah/Q1478937"
+  ],
+  "north_24_parganas/Q338425": [
+    "south_24_parganas/Q2308319",
+    "nadia/Q1143880",
+    "kolkata/Q1348",
+    "hugli/Q548518",
+    "howrah/Q1478937"
+  ],
+  "bankura/Q2088458": [
+    "jhargram/Q29168456",
+    "purba_bardhaman/Q808023",
+    "paschim_medinipur/Q1855537",
+    "paschim_bardhaman/Q29215602",
+    "hugli/Q548518",
+    "puruliya/Q307474"
+  ],
+  "paschim_medinipur/Q1855537": [
+    "baleshwar/Q2022279",
+    "jhargram/Q29168456",
+    "purba_medinipur/Q1431920",
+    "bankura/Q2088458",
+    "hugli/Q548518",
+    "howrah/Q1478937"
+  ],
+  "howrah/Q1478937": [
+    "purba_medinipur/Q1431920",
+    "south_24_parganas/Q2308319",
+    "north_24_parganas/Q338425",
+    "kolkata/Q1348",
+    "paschim_medinipur/Q1855537",
+    "hugli/Q548518"
+  ],
+  "puruliya/Q307474": [
+    "jhargram/Q29168456",
+    "purbi_singhbhum/Q2452921",
+    "paschim_bardhaman/Q29215602",
+    "dhanbad/Q2240791",
+    "bankura/Q2088458",
+    "ramgarh/Q2663612",
+    "seraikela_kharsawan/Q2362658",
+    "ranchi/Q1947380",
+    "bokaro/Q2295925"
+  ],
+  "jhargram/Q29168456": [
+    "baleshwar/Q2022279",
+    "purbi_singhbhum/Q2452921",
+    "mayurbhanj/Q1914546",
+    "paschim_medinipur/Q1855537",
+    "bankura/Q2088458",
+    "puruliya/Q307474"
+  ],
+  "ranchi/Q1947380": [
+    "gumla/Q2295865",
+    "lohardaga/Q1948301",
+    "khunti/Q367344",
+    "latehar/Q2244762",
+    "ramgarh/Q2663612",
+    "seraikela_kharsawan/Q2362658",
+    "chatra/Q1979499",
+    "hazaribagh/Q1945416",
+    "puruliya/Q307474"
+  ],
+  "purbi_singhbhum/Q2452921": [
+    "seraikela_kharsawan/Q2362658",
+    "jhargram/Q29168456",
+    "mayurbhanj/Q1914546",
+    "puruliya/Q307474"
+  ],
+  "bokaro/Q2295925": [
+    "giridih/Q2302065",
+    "dhanbad/Q2240791",
+    "ramgarh/Q2663612",
+    "hazaribagh/Q1945416",
+    "puruliya/Q307474"
+  ],
+  "dhanbad/Q2240791": [
+    "giridih/Q2302065",
+    "jamtara/Q2980986",
+    "paschim_bardhaman/Q29215602",
+    "bokaro/Q2295925",
+    "puruliya/Q307474"
+  ],
+  "ramgarh/Q2663612": [
+    "ranchi/Q1947380",
+    "bokaro/Q2295925",
+    "hazaribagh/Q1945416",
+    "puruliya/Q307474"
+  ],
+  "seraikela_kharsawan/Q2362658": [
+    "purbi_singhbhum/Q2452921",
+    "mayurbhanj/Q1914546",
+    "ranchi/Q1947380",
+    "pashchimi_singhbhum/Q1950527",
+    "khunti/Q367344",
+    "puruliya/Q307474"
+  ],
+  "baleshwar/Q2022279": [
+    "jhargram/Q29168456",
+    "purba_medinipur/Q1431920",
+    "mayurbhanj/Q1914546",
+    "paschim_medinipur/Q1855537",
+    "kendujhar/Q2085428",
+    "bhadrak/Q685638"
+  ],
+  "purba_medinipur/Q1431920": [
+    "south_24_parganas/Q2308319",
+    "baleshwar/Q2022279",
+    "howrah/Q1478937",
+    "paschim_medinipur/Q1855537"
+  ],
+  "latehar/Q2244762": [
+    "gumla/Q2295865",
+    "chatra/Q1979499",
+    "palamu/Q1797254",
+    "garhwa/Q2302076",
+    "lohardaga/Q1948301",
+    "balrampur/Q16056268",
+    "ranchi/Q1947380"
+  ],
+  "gumla/Q2295865": [
+    "jashpur/Q2577551",
+    "lohardaga/Q1948301",
+    "balrampur/Q16056268",
+    "latehar/Q2244762",
+    "simdega/Q2597889",
+    "ranchi/Q1947380",
+    "khunti/Q367344"
+  ],
+  "lohardaga/Q1948301": [
+    "gumla/Q2295865",
+    "ranchi/Q1947380",
+    "latehar/Q2244762"
+  ],
+  "jashpur/Q2577551": [
+    "gumla/Q2295865",
+    "balrampur/Q16056268",
+    "raigarh/Q2286310",
+    "sundargarh/Q2296047",
+    "simdega/Q2597889",
+    "surguja/Q1805075"
+  ],
+  "khunti/Q367344": [
+    "gumla/Q2295865",
+    "pashchimi_singhbhum/Q1950527",
+    "simdega/Q2597889",
+    "seraikela_kharsawan/Q2362658",
+    "ranchi/Q1947380"
+  ],
+  "simdega/Q2597889": [
+    "gumla/Q2295865",
+    "jashpur/Q2577551",
+    "sundargarh/Q2296047",
+    "pashchimi_singhbhum/Q1950527",
+    "khunti/Q367344"
+  ],
+  "pashchimi_singhbhum/Q1950527": [
+    "seraikela_kharsawan/Q2362658",
+    "mayurbhanj/Q1914546",
+    "sundargarh/Q2296047",
+    "simdega/Q2597889",
+    "kendujhar/Q2085428",
+    "khunti/Q367344"
+  ],
+  "sundargarh/Q2296047": [
+    "anugul/Q1772807",
+    "jashpur/Q2577551",
+    "sambalpur/Q1267306",
+    "raigarh/Q2286310",
+    "debagarh/Q2269639",
+    "simdega/Q2597889",
+    "kendujhar/Q2085428",
+    "jharsuguda/Q569181",
+    "pashchimi_singhbhum/Q1950527"
+  ],
+  "kendujhar/Q2085428": [
+    "baleshwar/Q2022279",
+    "anugul/Q1772807",
+    "jajapur/Q2087771",
+    "mayurbhanj/Q1914546",
+    "sundargarh/Q2296047",
+    "dhenkanal/Q1948389",
+    "pashchimi_singhbhum/Q1950527",
+    "bhadrak/Q685638"
+  ],
+  "mayurbhanj/Q1914546": [
+    "seraikela_kharsawan/Q2362658",
+    "baleshwar/Q2022279",
+    "jhargram/Q29168456",
+    "purbi_singhbhum/Q2452921",
+    "kendujhar/Q2085428",
+    "pashchimi_singhbhum/Q1950527"
+  ],
+  "surguja/Q1805075": [
+    "surajpur/Q16938031",
+    "jashpur/Q2577551",
+    "balrampur/Q16056268",
+    "raigarh/Q2286310",
+    "korba/Q2299121"
+  ],
+  "raigarh/Q2286310": [
+    "jharsuguda/Q569181",
+    "bargarh/Q808140",
+    "jashpur/Q2577551",
+    "baloda_bazar/Q15663455",
+    "korba/Q2299121",
+    "sundargarh/Q2296047",
+    "mahasamund/Q2450240",
+    "janjgir-champa/Q2575633",
+    "surguja/Q1805075"
+  ],
+  "korba/Q2299121": [
+    "surajpur/Q16938031",
+    "raigarh/Q2286310",
+    "bilaspur/Q100157",
+    "janjgir-champa/Q2575633",
+    "koriya/Q2295896",
+    "surguja/Q1805075"
+  ],
+  "surajpur/Q16938031": [
+    "singrauli/Q2668638",
+    "balrampur/Q16056268",
+    "korba/Q2299121",
+    "koriya/Q2295896",
+    "surguja/Q1805075"
+  ],
+  "bilaspur/Q100157": [
+    "mungeli/Q13476249",
+    "baloda_bazar/Q15663455",
+    "korba/Q2299121",
+    "anuppur/Q2299093",
+    "janjgir-champa/Q2575633",
+    "koriya/Q2295896"
+  ],
+  "koriya/Q2295896": [
+    "surajpur/Q16938031",
+    "singrauli/Q2668638",
+    "korba/Q2299121",
+    "bilaspur/Q100157",
+    "anuppur/Q2299093",
+    "sidhi/Q2449793",
+    "shahdol/Q2085464"
+  ],
+  "baloda_bazar/Q15663455": [
+    "raipur/Q2295914",
+    "mungeli/Q13476249",
+    "bemetara/Q16254159",
+    "raigarh/Q2286310",
+    "bilaspur/Q100157",
+    "mahasamund/Q2450240",
+    "janjgir-champa/Q2575633"
+  ],
+  "janjgir-champa/Q2575633": [
+    "bilaspur/Q100157",
+    "baloda_bazar/Q15663455",
+    "raigarh/Q2286310",
+    "korba/Q2299121"
+  ],
+  "mungeli/Q13476249": [
+    "kabirdham/Q2450255",
+    "baloda_bazar/Q15663455",
+    "bemetara/Q16254159",
+    "dindori/Q2398551",
+    "bilaspur/Q100157",
+    "anuppur/Q2299093"
+  ],
+  "anuppur/Q2299093": [
+    "umaria/Q620297",
+    "mungeli/Q13476249",
+    "dindori/Q2398551",
+    "bilaspur/Q100157",
+    "koriya/Q2295896",
+    "shahdol/Q2085464"
+  ],
+  "sidhi/Q2449793": [
+    "singrauli/Q2668638",
+    "satna/Q2577924",
+    "rewa/Q526862",
+    "koriya/Q2295896",
+    "shahdol/Q2085464"
+  ],
+  "shahdol/Q2085464": [
+    "umaria/Q620297",
+    "satna/Q2577924",
+    "anuppur/Q2299093",
+    "sidhi/Q2449793",
+    "koriya/Q2295896"
+  ],
+  "mahasamund/Q2450240": [
+    "nuapada/Q1810550",
+    "bargarh/Q808140",
+    "baloda_bazar/Q15663455",
+    "gariaband/Q16961365",
+    "raigarh/Q2286310",
+    "raipur/Q2295914"
+  ],
+  "bargarh/Q808140": [
+    "nuapada/Q1810550",
+    "jharsuguda/Q569181",
+    "sambalpur/Q1267306",
+    "raigarh/Q2286310",
+    "mahasamund/Q2450240",
+    "balangir/Q804642",
+    "sonapur/Q1473957"
+  ],
+  "jharsuguda/Q569181": [
+    "sambalpur/Q1267306",
+    "raigarh/Q2286310",
+    "sundargarh/Q2296047",
+    "bargarh/Q808140"
+  ],
+  "raipur/Q2295914": [
+    "dhamtari/Q100190",
+    "baloda_bazar/Q15663455",
+    "gariaband/Q16961365",
+    "bemetara/Q16254159",
+    "durg/Q100182",
+    "mahasamund/Q2450240"
+  ],
+  "nuapada/Q1810550": [
+    "kalahandi/Q1876588",
+    "bargarh/Q808140",
+    "gariaband/Q16961365",
+    "mahasamund/Q2450240",
+    "balangir/Q804642"
+  ],
+  "gariaband/Q16961365": [
+    "nuapada/Q1810550",
+    "dhamtari/Q100190",
+    "kalahandi/Q1876588",
+    "nabarangapur/Q2396798",
+    "raipur/Q2295914",
+    "mahasamund/Q2450240"
+  ],
+  "durg/Q100182": [
+    "dhamtari/Q100190",
+    "bemetara/Q16254159",
+    "balod/Q16056266",
+    "rajnandgaon/Q2341800",
+    "raipur/Q2295914"
+  ],
+  "dhamtari/Q100190": [
+    "kondagaon/Q12420995",
+    "gariaband/Q16961365",
+    "nabarangapur/Q2396798",
+    "uttar_bastar_kanker/Q2310530",
+    "durg/Q100182",
+    "balod/Q16056266",
+    "raipur/Q2295914"
+  ],
+  "bemetara/Q16254159": [
+    "mungeli/Q13476249",
+    "kabirdham/Q2450255",
+    "baloda_bazar/Q15663455",
+    "durg/Q100182",
+    "rajnandgaon/Q2341800",
+    "raipur/Q2295914"
+  ],
+  "rajnandgaon/Q2341800": [
+    "kabirdham/Q2450255",
+    "gadchiroli/Q1804847",
+    "bemetara/Q16254159",
+    "uttar_bastar_kanker/Q2310530",
+    "durg/Q100182",
+    "balod/Q16056266",
+    "gondiya/Q1917227",
+    "balaghat/Q641904"
+  ],
+  "balod/Q16056266": [
+    "uttar_bastar_kanker/Q2310530",
+    "dhamtari/Q100190",
+    "durg/Q100182",
+    "rajnandgaon/Q2341800"
+  ],
+  "kabirdham/Q2450255": [
+    "mungeli/Q13476249",
+    "bemetara/Q16254159",
+    "dindori/Q2398551",
+    "mandla/Q2341670",
+    "rajnandgaon/Q2341800",
+    "balaghat/Q641904"
+  ],
+  "balaghat/Q641904": [
+    "bhandara/Q1813857",
+    "kabirdham/Q2450255",
+    "seoni/Q2221184",
+    "mandla/Q2341670",
+    "rajnandgaon/Q2341800",
+    "gondiya/Q1917227",
+    "nagpur/Q1797367"
+  ],
+  "dindori/Q2398551": [
+    "umaria/Q620297",
+    "mungeli/Q13476249",
+    "jabalpur/Q632093",
+    "kabirdham/Q2450255",
+    "mandla/Q2341670",
+    "anuppur/Q2299093"
+  ],
+  "mandla/Q2341670": [
+    "jabalpur/Q632093",
+    "kabirdham/Q2450255",
+    "seoni/Q2221184",
+    "dindori/Q2398551",
+    "balaghat/Q641904"
+  ],
+  "uttar_bastar_kanker/Q2310530": [
+    "dhamtari/Q100190",
+    "kondagaon/Q12420995",
+    "gadchiroli/Q1804847",
+    "balod/Q16056266",
+    "rajnandgaon/Q2341800",
+    "narayanpur/Q2322000"
+  ],
+  "gondiya/Q1917227": [
+    "balaghat/Q641904",
+    "gadchiroli/Q1804847",
+    "bhandara/Q1813857",
+    "rajnandgaon/Q2341800"
+  ],
+  "gadchiroli/Q1804847": [
+    "bhandara/Q1813857",
+    "jayashankar_bhupalapally/Q28169775",
+    "mancherial_district/Q28169747",
+    "uttar_bastar_kanker/Q2310530",
+    "komram_bheem/Q28170184",
+    "bijapur/Q100164",
+    "rajnandgaon/Q2341800",
+    "gondiya/Q1917227",
+    "chandrapur/Q1797274",
+    "narayanpur/Q2322000"
+  ],
+  "bastar/Q100152": [
+    "koraput/Q1947300",
+    "malkangiri/Q5122619",
+    "kondagaon/Q12420995",
+    "sukma/Q16933590",
+    "nabarangapur/Q2396798",
+    "dantewada/Q100211"
+  ],
+  "dantewada/Q100211": [
+    "kondagaon/Q12420995",
+    "bastar/Q100152",
+    "sukma/Q16933590",
+    "bijapur/Q100164",
+    "narayanpur/Q2322000"
+  ],
+  "nabarangapur/Q2396798": [
+    "koraput/Q1947300",
+    "dhamtari/Q100190",
+    "kalahandi/Q1876588",
+    "kondagaon/Q12420995",
+    "bastar/Q100152",
+    "gariaband/Q16961365"
+  ],
+  "koraput/Q1947300": [
+    "kalahandi/Q1876588",
+    "malkangiri/Q5122619",
+    "bastar/Q100152",
+    "vizianagaram/Q15392",
+    "visakhapatnam/Q15394",
+    "nabarangapur/Q2396798",
+    "rayagada/Q2577997"
+  ],
+  "malkangiri/Q5122619": [
+    "koraput/Q1947300",
+    "east_godavari/Q15338",
+    "bastar/Q100152",
+    "visakhapatnam/Q15394",
+    "sukma/Q16933590"
+  ],
+  "sukma/Q16933590": [
+    "east_godavari/Q15338",
+    "malkangiri/Q5122619",
+    "bastar/Q100152",
+    "bhadradri_kothagudem/Q28169767",
+    "bijapur/Q100164",
+    "dantewada/Q100211"
+  ],
+  "kondagaon/Q12420995": [
+    "dhamtari/Q100190",
+    "bastar/Q100152",
+    "nabarangapur/Q2396798",
+    "uttar_bastar_kanker/Q2310530",
+    "dantewada/Q100211",
+    "narayanpur/Q2322000"
+  ],
+  "bijapur/Q100164": [
+    "jayashankar_bhupalapally/Q28169775",
+    "bhadradri_kothagudem/Q28169767",
+    "gadchiroli/Q1804847",
+    "sukma/Q16933590",
+    "dantewada/Q100211",
+    "narayanpur/Q2322000",
+    "mulugu/Q61746006"
+  ],
+  "narayanpur/Q2322000": [
+    "kondagaon/Q12420995",
+    "gadchiroli/Q1804847",
+    "uttar_bastar_kanker/Q2310530",
+    "bijapur/Q100164",
+    "dantewada/Q100211"
+  ],
+  "gwalior/Q2085310": [
+    "morena/Q2341467",
+    "shivpuri/Q2299042",
+    "datia/Q2206266",
+    "bhind/Q2341700"
+  ],
+  "bhopal/Q1797245": [
+    "vidisha/Q1815253",
+    "rajgarh/Q1833306",
+    "guna/Q930027",
+    "sehore/Q2299029",
+    "raisen/Q1815223"
+  ],
+  "vidisha/Q1815253": [
+    "guna/Q930027",
+    "ashok_nagar/Q2246416",
+    "sagar/Q2085421",
+    "raisen/Q1815223",
+    "bhopal/Q1797245"
+  ],
+  "damoh/Q2479331": [
+    "jabalpur/Q632093",
+    "narsimhapur/Q2341616",
+    "sagar/Q2085421",
+    "chhatarpur/Q2449785",
+    "panna/Q2341630",
+    "katni/Q746441"
+  ],
+  "katni/Q746441": [
+    "umaria/Q620297",
+    "jabalpur/Q632093",
+    "damoh/Q2479331",
+    "satna/Q2577924",
+    "panna/Q2341630"
+  ],
+  "umaria/Q620297": [
+    "jabalpur/Q632093",
+    "dindori/Q2398551",
+    "satna/Q2577924",
+    "katni/Q746441",
+    "anuppur/Q2299093",
+    "shahdol/Q2085464"
+  ],
+  "sehore/Q2299029": [
+    "harda/Q2173003",
+    "rajgarh/Q1833306",
+    "shajapur/Q2449803",
+    "hoshangabad/Q620801",
+    "raisen/Q1815223",
+    "dewas/Q2025998",
+    "bhopal/Q1797245"
+  ],
+  "raisen/Q1815223": [
+    "vidisha/Q1815253",
+    "hoshangabad/Q620801",
+    "narsimhapur/Q2341616",
+    "sagar/Q2085421",
+    "sehore/Q2299029",
+    "bhopal/Q1797245"
+  ],
+  "narsimhapur/Q2341616": [
+    "jabalpur/Q632093",
+    "damoh/Q2479331",
+    "hoshangabad/Q620801",
+    "sagar/Q2085421",
+    "raisen/Q1815223",
+    "seoni/Q2221184",
+    "chhindwara/Q1986096"
+  ],
+  "shajapur/Q2449803": [
+    "rajgarh/Q1833306",
+    "agar_malwa/Q15732396",
+    "sehore/Q2299029",
+    "ujjain/Q892641",
+    "dewas/Q2025998"
+  ],
+  "dhar/Q2299069": [
+    "khargone/Q2273900",
+    "ratlam/Q2299164",
+    "barwani/Q2126754",
+    "ujjain/Q892641",
+    "alirajpur/Q2667586",
+    "jhabua/Q2085336",
+    "indore/Q742938"
+  ],
+  "ujjain/Q892641": [
+    "shajapur/Q2449803",
+    "ratlam/Q2299164",
+    "agar_malwa/Q15732396",
+    "dhar/Q2299069",
+    "dewas/Q2025998",
+    "indore/Q742938"
+  ],
+  "dewas/Q2025998": [
+    "khargone/Q2273900",
+    "harda/Q2173003",
+    "shajapur/Q2449803",
+    "sehore/Q2299029",
+    "ujjain/Q892641",
+    "khandwa/Q2085436",
+    "indore/Q742938"
+  ],
+  "indore/Q742938": [
+    "khargone/Q2273900",
+    "dewas/Q2025998",
+    "dhar/Q2299069",
+    "ujjain/Q892641"
+  ],
+  "barwani/Q2126754": [
+    "khargone/Q2273900",
+    "alirajpur/Q2667586",
+    "dhule/Q1797383",
+    "dhar/Q2299069",
+    "jalgaon/Q1797291",
+    "nandubar/Q1623525"
+  ],
+  "khargone/Q2273900": [
+    "burhanpur/Q2125592",
+    "barwani/Q2126754",
+    "khandwa/Q2085436",
+    "dewas/Q2025998",
+    "dhar/Q2299069",
+    "jalgaon/Q1797291",
+    "indore/Q742938"
+  ],
+  "jalgaon/Q1797291": [
+    "khargone/Q2273900",
+    "burhanpur/Q2125592",
+    "jalna/Q1804863",
+    "nashik/Q1797269",
+    "barwani/Q2126754",
+    "dhule/Q1797383",
+    "buldhana/Q47929",
+    "aurangabad/Q592942"
+  ],
+  "khandwa/Q2085436": [
+    "khargone/Q2273900",
+    "harda/Q2173003",
+    "burhanpur/Q2125592",
+    "betul/Q1815279",
+    "dewas/Q2025998",
+    "amravati/Q1771774"
+  ],
+  "harda/Q2173003": [
+    "hoshangabad/Q620801",
+    "sehore/Q2299029",
+    "khandwa/Q2085436",
+    "betul/Q1815279",
+    "dewas/Q2025998"
+  ],
+  "betul/Q1815279": [
+    "harda/Q2173003",
+    "hoshangabad/Q620801",
+    "khandwa/Q2085436",
+    "amravati/Q1771774",
+    "chhindwara/Q1986096"
+  ],
+  "amravati/Q1771774": [
+    "wardha/Q980608",
+    "burhanpur/Q2125592",
+    "akola/Q520510",
+    "khandwa/Q2085436",
+    "betul/Q1815279",
+    "washim/Q1804858",
+    "yavatmal/Q1804852",
+    "buldhana/Q47929",
+    "nagpur/Q1797367",
+    "chhindwara/Q1986096"
+  ],
+  "burhanpur/Q2125592": [
+    "khargone/Q2273900",
+    "khandwa/Q2085436",
+    "jalgaon/Q1797291",
+    "buldhana/Q47929",
+    "amravati/Q1771774"
+  ],
+  "hoshangabad/Q620801": [
+    "harda/Q2173003",
+    "narsimhapur/Q2341616",
+    "sehore/Q2299029",
+    "raisen/Q1815223",
+    "betul/Q1815279",
+    "chhindwara/Q1986096"
+  ],
+  "chhindwara/Q1986096": [
+    "hoshangabad/Q620801",
+    "narsimhapur/Q2341616",
+    "seoni/Q2221184",
+    "betul/Q1815279",
+    "amravati/Q1771774",
+    "nagpur/Q1797367"
+  ],
+  "jabalpur/Q632093": [
+    "umaria/Q620297",
+    "damoh/Q2479331",
+    "narsimhapur/Q2341616",
+    "seoni/Q2221184",
+    "dindori/Q2398551",
+    "mandla/Q2341670",
+    "katni/Q746441"
+  ],
+  "seoni/Q2221184": [
+    "jabalpur/Q632093",
+    "narsimhapur/Q2341616",
+    "mandla/Q2341670",
+    "nagpur/Q1797367",
+    "balaghat/Q641904",
+    "chhindwara/Q1986096"
+  ],
+  "nagpur/Q1797367": [
+    "wardha/Q980608",
+    "bhandara/Q1813857",
+    "seoni/Q2221184",
+    "amravati/Q1771774",
+    "chandrapur/Q1797274",
+    "balaghat/Q641904",
+    "chhindwara/Q1986096"
+  ],
+  "bhandara/Q1813857": [
+    "gadchiroli/Q1804847",
+    "gondiya/Q1917227",
+    "chandrapur/Q1797274",
+    "nagpur/Q1797367",
+    "balaghat/Q641904"
+  ],
+  "balangir/Q804642": [
+    "nuapada/Q1810550",
+    "kalahandi/Q1876588",
+    "bargarh/Q808140",
+    "kandhamal/Q2085500",
+    "baudh/Q2363639",
+    "sonapur/Q1473957"
+  ],
+  "sonapur/Q1473957": [
+    "anugul/Q1772807",
+    "bargarh/Q808140",
+    "sambalpur/Q1267306",
+    "baudh/Q2363639",
+    "balangir/Q804642"
+  ],
+  "sambalpur/Q1267306": [
+    "anugul/Q1772807",
+    "bargarh/Q808140",
+    "sundargarh/Q2296047",
+    "debagarh/Q2269639",
+    "jharsuguda/Q569181",
+    "sonapur/Q1473957"
+  ],
+  "kalahandi/Q1876588": [
+    "koraput/Q1947300",
+    "nuapada/Q1810550",
+    "kandhamal/Q2085500",
+    "gariaband/Q16961365",
+    "nabarangapur/Q2396798",
+    "rayagada/Q2577997",
+    "balangir/Q804642"
+  ],
+  "baudh/Q2363639": [
+    "anugul/Q1772807",
+    "kandhamal/Q2085500",
+    "nayagarh/Q2367388",
+    "balangir/Q804642",
+    "sonapur/Q1473957"
+  ],
+  "kandhamal/Q2085500": [
+    "gajapati/Q1947292",
+    "ganjam/Q776213",
+    "kalahandi/Q1876588",
+    "baudh/Q2363639",
+    "nayagarh/Q2367388",
+    "rayagada/Q2577997",
+    "balangir/Q804642"
+  ],
+  "anugul/Q1772807": [
+    "sambalpur/Q1267306",
+    "cuttack/Q2022256",
+    "baudh/Q2363639",
+    "sundargarh/Q2296047",
+    "debagarh/Q2269639",
+    "nayagarh/Q2367388",
+    "kendujhar/Q2085428",
+    "dhenkanal/Q1948389",
+    "sonapur/Q1473957"
+  ],
+  "debagarh/Q2269639": [
+    "anugul/Q1772807",
+    "sambalpur/Q1267306",
+    "sundargarh/Q2296047"
+  ],
+  "nayagarh/Q2367388": [
+    "anugul/Q1772807",
+    "kandhamal/Q2085500",
+    "cuttack/Q2022256",
+    "baudh/Q2363639",
+    "ganjam/Q776213",
+    "khordha/Q662818"
+  ],
+  "khordha/Q662818": [
+    "cuttack/Q2022256",
+    "ganjam/Q776213",
+    "nayagarh/Q2367388",
+    "puri/Q1817158"
+  ],
+  "cuttack/Q2022256": [
+    "anugul/Q1772807",
+    "jajapur/Q2087771",
+    "kendrapara/Q2299172",
+    "jagatsinghapur/Q971581",
+    "nayagarh/Q2367388",
+    "dhenkanal/Q1948389",
+    "khordha/Q662818",
+    "puri/Q1817158"
+  ],
+  "ganjam/Q776213": [
+    "gajapati/Q1947292",
+    "kandhamal/Q2085500",
+    "nayagarh/Q2367388",
+    "srikakulam/Q15395",
+    "khordha/Q662818",
+    "puri/Q1817158"
+  ],
+  "puri/Q1817158": [
+    "cuttack/Q2022256",
+    "ganjam/Q776213",
+    "khordha/Q662818",
+    "jagatsinghapur/Q971581"
+  ],
+  "dhenkanal/Q1948389": [
+    "cuttack/Q2022256",
+    "kendujhar/Q2085428",
+    "jajapur/Q2087771",
+    "anugul/Q1772807"
+  ],
+  "jajapur/Q2087771": [
+    "kendrapara/Q2299172",
+    "cuttack/Q2022256",
+    "kendujhar/Q2085428",
+    "dhenkanal/Q1948389",
+    "bhadrak/Q685638"
+  ],
+  "jagatsinghapur/Q971581": [
+    "cuttack/Q2022256",
+    "kendrapara/Q2299172",
+    "puri/Q1817158"
+  ],
+  "kendrapara/Q2299172": [
+    "cuttack/Q2022256",
+    "jajapur/Q2087771",
+    "bhadrak/Q685638",
+    "jagatsinghapur/Q971581"
+  ],
+  "bhadrak/Q685638": [
+    "kendujhar/Q2085428",
+    "jajapur/Q2087771",
+    "baleshwar/Q2022279",
+    "kendrapara/Q2299172"
+  ],
+  "rayagada/Q2577997": [
+    "koraput/Q1947300",
+    "gajapati/Q1947292",
+    "kalahandi/Q1876588",
+    "kandhamal/Q2085500",
+    "vizianagaram/Q15392",
+    "srikakulam/Q15395"
+  ],
+  "vizianagaram/Q15392": [
+    "koraput/Q1947300",
+    "rayagada/Q2577997",
+    "visakhapatnam/Q15394",
+    "srikakulam/Q15395"
+  ],
+  "visakhapatnam/Q15394": [
+    "koraput/Q1947300",
+    "malkangiri/Q5122619",
+    "east_godavari/Q15338",
+    "vizianagaram/Q15392"
+  ],
+  "east_godavari/Q15338": [
+    "west_godavari/Q15404",
+    "malkangiri/Q5122619",
+    "bhadradri_kothagudem/Q28169767",
+    "visakhapatnam/Q15394",
+    "sukma/Q16933590"
+  ],
+  "gajapati/Q1947292": [
+    "kandhamal/Q2085500",
+    "ganjam/Q776213",
+    "rayagada/Q2577997",
+    "srikakulam/Q15395"
+  ],
+  "srikakulam/Q15395": [
+    "ganjam/Q776213",
+    "gajapati/Q1947292",
+    "rayagada/Q2577997",
+    "vizianagaram/Q15392"
+  ],
+  "ahmednagar/Q401744": [
+    "nashik/Q1797269",
+    "konkan_division/Q6268840",
+    "pune_district/Q1797336",
+    "bid/Q814037",
+    "osmanabad/Q1647186",
+    "aurangabad/Q592942",
+    "thane/Q943099",
+    "solapur/Q1797263"
+  ],
+  "aurangabad/Q592942": [
+    "jalna/Q1804863",
+    "nashik/Q1797269",
+    "jalgaon/Q1797291",
+    "ahmednagar/Q401744",
+    "bid/Q814037"
+  ],
+  "thane/Q943099": [
+    "raigad/Q2019683",
+    "nashik/Q1797269",
+    "mumbai_suburban/Q2085374",
+    "konkan_division/Q6268840",
+    "pune_district/Q1797336",
+    "ahmednagar/Q401744",
+    "palghar/Q18003119"
+  ],
+  "pune_district/Q1797336": [
+    "raigad/Q2019683",
+    "satara/Q1135612",
+    "konkan_division/Q6268840",
+    "ahmednagar/Q401744",
+    "thane/Q943099",
+    "solapur/Q1797263"
+  ],
+  "bid/Q814037": [
+    "jalna/Q1804863",
+    "latur/Q1948713",
+    "ahmednagar/Q401744",
+    "osmanabad/Q1647186",
+    "aurangabad/Q592942",
+    "parbhani/Q1797389"
+  ],
+  "solapur/Q1797263": [
+    "kalaburagi_district/Q2641873",
+    "bijapur_district/Q1727570",
+    "pune_district/Q1797336",
+    "ahmednagar/Q401744",
+    "osmanabad/Q1647186",
+    "satara/Q1135612",
+    "sangli_district/Q1425060"
+  ],
+  "osmanabad/Q1647186": [
+    "kalaburagi_district/Q2641873",
+    "latur/Q1948713",
+    "bidar_district/Q1790568",
+    "ahmednagar/Q401744",
+    "bid/Q814037",
+    "solapur/Q1797263"
+  ],
+  "satara/Q1135612": [
+    "raigad/Q2019683",
+    "sangli_district/Q1425060",
+    "konkan_division/Q6268840",
+    "pune_district/Q1797336",
+    "ratnagiri/Q1771768",
+    "solapur/Q1797263"
+  ],
+  "raigad/Q2019683": [
+    "satara/Q1135612",
+    "konkan_division/Q6268840",
+    "pune_district/Q1797336",
+    "thane/Q943099",
+    "ratnagiri/Q1771768"
+  ],
+  "ratnagiri/Q1771768": [
+    "kolhapur/Q1797312",
+    "sindhudurg/Q768332",
+    "raigad/Q2019683",
+    "konkan_division/Q6268840",
+    "satara/Q1135612",
+    "sangli_district/Q1425060"
+  ],
+  "sangli_district/Q1425060": [
+    "kolhapur/Q1797312",
+    "bijapur_district/Q1727570",
+    "belgaum_district/Q815464",
+    "konkan_division/Q6268840",
+    "satara/Q1135612",
+    "ratnagiri/Q1771768",
+    "solapur/Q1797263"
+  ],
+  "kolhapur/Q1797312": [
+    "sindhudurg/Q768332",
+    "konkan_division/Q6268840",
+    "belgaum_district/Q815464",
+    "ratnagiri/Q1771768",
+    "sangli_district/Q1425060"
+  ],
+  "sindhudurg/Q768332": [
+    "kolhapur/Q1797312",
+    "konkan_division/Q6268840",
+    "belgaum_district/Q815464",
+    "north_goa/Q108234",
+    "ratnagiri/Q1771768"
+  ],
+  "chandrapur/Q1797274": [
+    "wardha/Q980608",
+    "bhandara/Q1813857",
+    "gadchiroli/Q1804847",
+    "komram_bheem/Q28170184",
+    "yavatmal/Q1804852",
+    "nagpur/Q1797367",
+    "adilabad/Q15211"
+  ],
+  "mancherial_district/Q28169747": [
+    "peddapalli/Q27614797",
+    "jayashankar_bhupalapally/Q28169775",
+    "jagtial/Q28169780",
+    "gadchiroli/Q1804847",
+    "komram_bheem/Q28170184",
+    "nirmal/Q28169750"
+  ],
+  "komram_bheem/Q28170184": [
+    "gadchiroli/Q1804847",
+    "mancherial_district/Q28169747",
+    "nirmal/Q28169750",
+    "chandrapur/Q1797274",
+    "adilabad/Q15211"
+  ],
+  "jayashankar_bhupalapally/Q28169775": [
+    "peddapalli/Q27614797",
+    "warangal_rural/Q28169759",
+    "gadchiroli/Q1804847",
+    "mancherial_district/Q28169747",
+    "warangal_urban/Q213077",
+    "bijapur/Q100164",
+    "karimnagar/Q15373",
+    "mulugu/Q61746006"
+  ],
+  "wardha/Q980608": [
+    "amravati/Q1771774",
+    "chandrapur/Q1797274",
+    "nagpur/Q1797367",
+    "yavatmal/Q1804852"
+  ],
+  "yavatmal/Q1804852": [
+    "wardha/Q980608",
+    "hingoli/Q2087615",
+    "nanded/Q692389",
+    "washim/Q1804858",
+    "amravati/Q1771774",
+    "chandrapur/Q1797274",
+    "adilabad/Q15211"
+  ],
+  "adilabad/Q15211": [
+    "komram_bheem/Q28170184",
+    "nanded/Q692389",
+    "yavatmal/Q1804852",
+    "nirmal/Q28169750",
+    "chandrapur/Q1797274"
+  ],
+  "washim/Q1804858": [
+    "hingoli/Q2087615",
+    "akola/Q520510",
+    "buldhana/Q47929",
+    "yavatmal/Q1804852",
+    "amravati/Q1771774",
+    "parbhani/Q1797389"
+  ],
+  "nanded/Q692389": [
+    "hingoli/Q2087615",
+    "nizamabad/Q15391",
+    "latur/Q1948713",
+    "kamareddy/Q27956125",
+    "bidar_district/Q1790568",
+    "yavatmal/Q1804852",
+    "nirmal/Q28169750",
+    "adilabad/Q15211",
+    "parbhani/Q1797389"
+  ],
+  "hingoli/Q2087615": [
+    "nanded/Q692389",
+    "washim/Q1804858",
+    "yavatmal/Q1804852",
+    "parbhani/Q1797389"
+  ],
+  "akola/Q520510": [
+    "amravati/Q1771774",
+    "washim/Q1804858",
+    "buldhana/Q47929"
+  ],
+  "parbhani/Q1797389": [
+    "jalna/Q1804863",
+    "hingoli/Q2087615",
+    "latur/Q1948713",
+    "nanded/Q692389",
+    "washim/Q1804858",
+    "bid/Q814037",
+    "buldhana/Q47929"
+  ],
+  "buldhana/Q47929": [
+    "burhanpur/Q2125592",
+    "jalna/Q1804863",
+    "akola/Q520510",
+    "washim/Q1804858",
+    "jalgaon/Q1797291",
+    "amravati/Q1771774",
+    "parbhani/Q1797389"
+  ],
+  "latur/Q1948713": [
+    "bidar_district/Q1790568",
+    "nanded/Q692389",
+    "bid/Q814037",
+    "osmanabad/Q1647186",
+    "parbhani/Q1797389"
+  ],
+  "bidar_district/Q1790568": [
+    "kalaburagi_district/Q2641873",
+    "sangareddy/Q28169753",
+    "latur/Q1948713",
+    "kamareddy/Q27956125",
+    "nanded/Q692389",
+    "osmanabad/Q1647186"
+  ],
+  "nizamabad/Q15391": [
+    "jagtial/Q28169780",
+    "rajanna_sircilla/Q28172781",
+    "kamareddy/Q27956125",
+    "nanded/Q692389",
+    "nirmal/Q28169750"
+  ],
+  "nirmal/Q28169750": [
+    "nizamabad/Q15391",
+    "jagtial/Q28169780",
+    "mancherial_district/Q28169747",
+    "komram_bheem/Q28170184",
+    "nanded/Q692389",
+    "adilabad/Q15211"
+  ],
+  "kamareddy/Q27956125": [
+    "sangareddy/Q28169753",
+    "nizamabad/Q15391",
+    "rajanna_sircilla/Q28172781",
+    "bidar_district/Q1790568",
+    "nanded/Q692389",
+    "medak/Q15386",
+    "siddipet/Q28169756"
+  ],
+  "jalna/Q1804863": [
+    "jalgaon/Q1797291",
+    "bid/Q814037",
+    "buldhana/Q47929",
+    "aurangabad/Q592942",
+    "parbhani/Q1797389"
+  ],
+  "belgaum_district/Q815464": [
+    "bagalkote_district/Q1910231",
+    "kolhapur/Q1797312",
+    "sindhudurg/Q768332",
+    "uttara_kannada/Q579205",
+    "bijapur_district/Q1727570",
+    "gadag_district/Q2353931",
+    "konkan_division/Q6268840",
+    "dharwad_district/Q1790904",
+    "north_goa/Q108234",
+    "sangli_district/Q1425060"
+  ],
+  "bijapur_district/Q1727570": [
+    "bagalkote_district/Q1910231",
+    "kalaburagi_district/Q2641873",
+    "sangli_district/Q1425060",
+    "raichur_district/Q1430830",
+    "belgaum_district/Q815464",
+    "yadagiri_district/Q1786949",
+    "solapur/Q1797263"
+  ],
+  "north_goa/Q108234": [
+    "sindhudurg/Q768332",
+    "south_goa/Q108244",
+    "uttara_kannada/Q579205",
+    "konkan_division/Q6268840",
+    "belgaum_district/Q815464"
+  ],
+  "kalaburagi_district/Q2641873": [
+    "sangareddy/Q28169753",
+    "vikarabad/Q28170173",
+    "bijapur_district/Q1727570",
+    "bidar_district/Q1790568",
+    "osmanabad/Q1647186",
+    "narayanpet/Q61746013",
+    "yadagiri_district/Q1786949",
+    "solapur/Q1797263"
+  ],
+  "south_goa/Q108244": [
+    "north_goa/Q108234",
+    "uttara_kannada/Q579205"
+  ],
+  "uttara_kannada/Q579205": [
+    "south_goa/Q108244",
+    "shimoga_district/Q2981389",
+    "belgaum_district/Q815464",
+    "udupi_district/Q1483337",
+    "dharwad_district/Q1790904",
+    "haveri_district/Q765481",
+    "north_goa/Q108234"
+  ],
+  "alappuzha/Q928959": [
+    "kollam/Q1356124",
+    "kottayam/Q1353354",
+    "pattanamtitta/Q634935",
+    "ernakulam/Q1356097"
+  ],
+  "kozhikode/Q1142979": [
+    "kannur_district/Q2980652",
+    "mahe_district/Q639279",
+    "malappuram/Q1030918",
+    "wayanad/Q1364427"
+  ],
+  "kannur_district/Q2980652": [
+    "kodagu/Q1553185",
+    "mahe_district/Q639279",
+    "kasaragod_district/Q1419703",
+    "kozhikode/Q1142979",
+    "wayanad/Q1364427"
+  ],
+  "mysuru_district/Q591781": [
+    "kodagu/Q1553185",
+    "chamarajanagar_district/Q862912",
+    "wayanad/Q1364427",
+    "mandya_district/Q2768290",
+    "hassan_district/Q956732"
+  ],
+  "kodagu/Q1553185": [
+    "mysuru_district/Q591781",
+    "kasaragod_district/Q1419703",
+    "kannur_district/Q2980652",
+    "wayanad/Q1364427",
+    "dakshina_kannada/Q950571",
+    "hassan_district/Q956732"
+  ],
+  "kasaragod_district/Q1419703": [
+    "kodagu/Q1553185",
+    "dakshina_kannada/Q950571",
+    "kannur_district/Q2980652"
+  ],
+  "mahe_district/Q639279": [
+    "kozhikode/Q1142979",
+    "kannur_district/Q2980652"
+  ],
+  "dakshina_kannada/Q950571": [
+    "kodagu/Q1553185",
+    "kasaragod_district/Q1419703",
+    "chikkamagaluru_district/Q743077",
+    "udupi_district/Q1483337",
+    "hassan_district/Q956732"
+  ],
+  "mandya_district/Q2768290": [
+    "mysuru_district/Q591781",
+    "ramanagara_district/Q427679",
+    "tumkur_district/Q1301635",
+    "chamarajanagar_district/Q862912",
+    "hassan_district/Q956732"
+  ],
+  "ramanagara_district/Q427679": [
+    "krishnagiri/Q15183",
+    "bangalore_urban/Q806463",
+    "tumkur_district/Q1301635",
+    "bangalore_rural/Q806464",
+    "chamarajanagar_district/Q862912",
+    "mandya_district/Q2768290"
+  ],
+  "hassan_district/Q956732": [
+    "kodagu/Q1553185",
+    "mysuru_district/Q591781",
+    "chikkamagaluru_district/Q743077",
+    "tumkur_district/Q1301635",
+    "dakshina_kannada/Q950571",
+    "mandya_district/Q2768290"
+  ],
+  "udupi_district/Q1483337": [
+    "dakshina_kannada/Q950571",
+    "chikkamagaluru_district/Q743077",
+    "shimoga_district/Q2981389",
+    "uttara_kannada/Q579205"
+  ],
+  "chikkamagaluru_district/Q743077": [
+    "shimoga_district/Q2981389",
+    "tumkur_district/Q1301635",
+    "udupi_district/Q1483337",
+    "davanagere_district/Q1863214",
+    "dakshina_kannada/Q950571",
+    "hassan_district/Q956732",
+    "chitradurga_district/Q165264"
+  ],
+  "shimoga_district/Q2981389": [
+    "uttara_kannada/Q579205",
+    "chikkamagaluru_district/Q743077",
+    "udupi_district/Q1483337",
+    "haveri_district/Q765481",
+    "davanagere_district/Q1863214"
+  ],
+  "bangalore_rural/Q806464": [
+    "krishnagiri/Q15183",
+    "bangalore_urban/Q806463",
+    "kolar_district/Q2509866",
+    "ramanagara_district/Q427679",
+    "tumkur_district/Q1301635",
+    "chikkaballapura_district/Q1072629"
+  ],
+  "bangalore_urban/Q806463": [
+    "krishnagiri/Q15183",
+    "ramanagara_district/Q427679",
+    "bangalore_rural/Q806464"
+  ],
+  "kolar_district/Q2509866": [
+    "chittoor/Q15213",
+    "krishnagiri/Q15183",
+    "chikkaballapura_district/Q1072629",
+    "bangalore_rural/Q806464"
+  ],
+  "tumkur_district/Q1301635": [
+    "chikkamagaluru_district/Q743077",
+    "ramanagara_district/Q427679",
+    "bangalore_rural/Q806464",
+    "chikkaballapura_district/Q1072629",
+    "mandya_district/Q2768290",
+    "hassan_district/Q956732",
+    "anantapur_district/Q15212",
+    "chitradurga_district/Q165264"
+  ],
+  "chikkaballapura_district/Q1072629": [
+    "kolar_district/Q2509866",
+    "chittoor/Q15213",
+    "tumkur_district/Q1301635",
+    "bangalore_rural/Q806464",
+    "anantapur_district/Q15212"
+  ],
+  "chitradurga_district/Q165264": [
+    "bellary_district/Q1791926",
+    "chikkamagaluru_district/Q743077",
+    "tumkur_district/Q1301635",
+    "davanagere_district/Q1863214",
+    "anantapur_district/Q15212"
+  ],
+  "davanagere_district/Q1863214": [
+    "bellary_district/Q1791926",
+    "chikkamagaluru_district/Q743077",
+    "shimoga_district/Q2981389",
+    "haveri_district/Q765481",
+    "chitradurga_district/Q165264"
+  ],
+  "bellary_district/Q1791926": [
+    "raichur_district/Q1430830",
+    "gadag_district/Q2353931",
+    "kurnool/Q15381",
+    "koppal_district/Q956387",
+    "haveri_district/Q765481",
+    "davanagere_district/Q1863214",
+    "anantapur_district/Q15212",
+    "chitradurga_district/Q165264"
+  ],
+  "anantapur_district/Q15212": [
+    "ysr/Q15342",
+    "bellary_district/Q1791926",
+    "tumkur_district/Q1301635",
+    "kurnool/Q15381",
+    "chikkaballapura_district/Q1072629",
+    "chittoor/Q15213",
+    "chitradurga_district/Q165264"
+  ],
+  "bagalkote_district/Q1910231": [
+    "raichur_district/Q1430830",
+    "bijapur_district/Q1727570",
+    "gadag_district/Q2353931",
+    "belgaum_district/Q815464",
+    "koppal_district/Q956387"
+  ],
+  "dharwad_district/Q1790904": [
+    "gadag_district/Q2353931",
+    "uttara_kannada/Q579205",
+    "haveri_district/Q765481",
+    "belgaum_district/Q815464"
+  ],
+  "gadag_district/Q2353931": [
+    "bagalkote_district/Q1910231",
+    "bellary_district/Q1791926",
+    "belgaum_district/Q815464",
+    "haveri_district/Q765481",
+    "dharwad_district/Q1790904",
+    "koppal_district/Q956387"
+  ],
+  "haveri_district/Q765481": [
+    "bellary_district/Q1791926",
+    "uttara_kannada/Q579205",
+    "shimoga_district/Q2981389",
+    "gadag_district/Q2353931",
+    "dharwad_district/Q1790904",
+    "davanagere_district/Q1863214"
+  ],
+  "koppal_district/Q956387": [
+    "bagalkote_district/Q1910231",
+    "bellary_district/Q1791926",
+    "gadag_district/Q2353931",
+    "raichur_district/Q1430830"
+  ],
+  "raichur_district/Q1430830": [
+    "bagalkote_district/Q1910231",
+    "bellary_district/Q1791926",
+    "jogulamba_gadwal/Q27897618",
+    "bijapur_district/Q1727570",
+    "kurnool/Q15381",
+    "koppal_district/Q956387",
+    "narayanpet/Q61746013",
+    "yadagiri_district/Q1786949"
+  ],
+  "yadagiri_district/Q1786949": [
+    "kalaburagi_district/Q2641873",
+    "bijapur_district/Q1727570",
+    "narayanpet/Q61746013",
+    "raichur_district/Q1430830"
+  ],
+  "kurnool/Q15381": [
+    "ysr/Q15342",
+    "wanaparthy/Q28172504",
+    "raichur_district/Q1430830",
+    "bellary_district/Q1791926",
+    "prakasam/Q15390",
+    "jogulamba_gadwal/Q27897618",
+    "nagarkurnool/Q28169773",
+    "anantapur_district/Q15212"
+  ],
+  "jogulamba_gadwal/Q27897618": [
+    "kurnool/Q15381",
+    "wanaparthy/Q28172504",
+    "narayanpet/Q61746013",
+    "raichur_district/Q1430830"
+  ],
+  "narayanpet/Q61746013": [
+    "kalaburagi_district/Q2641873",
+    "wanaparthy/Q28172504",
+    "raichur_district/Q1430830",
+    "jogulamba_gadwal/Q27897618",
+    "vikarabad/Q28170173",
+    "mahabubnagar/Q15380",
+    "yadagiri_district/Q1786949"
+  ],
+  "sangareddy/Q28169753": [
+    "kalaburagi_district/Q2641873",
+    "vikarabad/Q28170173",
+    "kamareddy/Q27956125",
+    "bidar_district/Q1790568",
+    "medak/Q15386",
+    "medchal\u2013malkajgiri/Q27614841",
+    "rangareddy/Q15388"
+  ],
+  "vikarabad/Q28170173": [
+    "kalaburagi_district/Q2641873",
+    "sangareddy/Q28169753",
+    "narayanpet/Q61746013",
+    "rangareddy/Q15388",
+    "mahabubnagar/Q15380"
+  ],
+  "west_godavari/Q15404": [
+    "bhadradri_kothagudem/Q28169767",
+    "krishna/Q15382",
+    "khammam/Q15371",
+    "east_godavari/Q15338"
+  ],
+  "bhadradri_kothagudem/Q28169767": [
+    "west_godavari/Q15404",
+    "east_godavari/Q15338",
+    "sukma/Q16933590",
+    "bijapur/Q100164",
+    "mahabubabad/Q28169761",
+    "khammam/Q15371",
+    "mulugu/Q61746006"
+  ],
+  "khammam/Q15371": [
+    "west_godavari/Q15404",
+    "bhadradri_kothagudem/Q28169767",
+    "krishna/Q15382",
+    "suryapet/Q28169770",
+    "mahabubabad/Q28169761"
+  ],
+  "krishna/Q15382": [
+    "suryapet/Q28169770",
+    "khammam/Q15371",
+    "west_godavari/Q15404",
+    "guntur/Q15341"
+  ],
+  "mahabubabad/Q28169761": [
+    "jangaon/Q28170170",
+    "bhadradri_kothagudem/Q28169767",
+    "warangal_rural/Q28169759",
+    "suryapet/Q28169770",
+    "khammam/Q15371",
+    "mulugu/Q61746006"
+  ],
+  "suryapet/Q28169770": [
+    "jangaon/Q28170170",
+    "krishna/Q15382",
+    "guntur/Q15341",
+    "nalgonda/Q15384",
+    "mahabubabad/Q28169761",
+    "khammam/Q15371",
+    "yadadri_bhuvanagiri/Q28169764"
+  ],
+  "guntur/Q15341": [
+    "prakasam/Q15390",
+    "krishna/Q15382",
+    "suryapet/Q28169770",
+    "nalgonda/Q15384",
+    "nagarkurnool/Q28169773"
+  ],
+  "karimnagar/Q15373": [
+    "peddapalli/Q27614797",
+    "jayashankar_bhupalapally/Q28169775",
+    "jagtial/Q28169780",
+    "rajanna_sircilla/Q28172781",
+    "warangal_urban/Q213077",
+    "siddipet/Q28169756"
+  ],
+  "warangal_urban/Q213077": [
+    "jangaon/Q28170170",
+    "jayashankar_bhupalapally/Q28169775",
+    "warangal_rural/Q28169759",
+    "siddipet/Q28169756",
+    "karimnagar/Q15373"
+  ],
+  "siddipet/Q28169756": [
+    "jangaon/Q28170170",
+    "rajanna_sircilla/Q28172781",
+    "kamareddy/Q27956125",
+    "warangal_urban/Q213077",
+    "medak/Q15386",
+    "medchal\u2013malkajgiri/Q27614841",
+    "karimnagar/Q15373",
+    "yadadri_bhuvanagiri/Q28169764"
+  ],
+  "peddapalli/Q27614797": [
+    "jagtial/Q28169780",
+    "karimnagar/Q15373",
+    "jayashankar_bhupalapally/Q28169775",
+    "mancherial_district/Q28169747"
+  ],
+  "jagtial/Q28169780": [
+    "peddapalli/Q27614797",
+    "nizamabad/Q15391",
+    "rajanna_sircilla/Q28172781",
+    "mancherial_district/Q28169747",
+    "nirmal/Q28169750",
+    "karimnagar/Q15373"
+  ],
+  "rajanna_sircilla/Q28172781": [
+    "nizamabad/Q15391",
+    "jagtial/Q28169780",
+    "kamareddy/Q27956125",
+    "siddipet/Q28169756",
+    "karimnagar/Q15373"
+  ],
+  "warangal_rural/Q28169759": [
+    "jangaon/Q28170170",
+    "jayashankar_bhupalapally/Q28169775",
+    "warangal_urban/Q213077",
+    "mahabubabad/Q28169761",
+    "mulugu/Q61746006"
+  ],
+  "jangaon/Q28170170": [
+    "warangal_rural/Q28169759",
+    "suryapet/Q28169770",
+    "warangal_urban/Q213077",
+    "siddipet/Q28169756",
+    "mahabubabad/Q28169761",
+    "yadadri_bhuvanagiri/Q28169764"
+  ],
+  "medak/Q15386": [
+    "kamareddy/Q27956125",
+    "siddipet/Q28169756",
+    "sangareddy/Q28169753",
+    "medchal\u2013malkajgiri/Q27614841"
+  ],
+  "medchal\u2013malkajgiri/Q27614841": [
+    "sangareddy/Q28169753",
+    "hyderabad/Q15340",
+    "medak/Q15386",
+    "siddipet/Q28169756",
+    "rangareddy/Q15388",
+    "yadadri_bhuvanagiri/Q28169764"
+  ],
+  "rangareddy/Q15388": [
+    "sangareddy/Q28169753",
+    "vikarabad/Q28170173",
+    "hyderabad/Q15340",
+    "nalgonda/Q15384",
+    "medchal\u2013malkajgiri/Q27614841",
+    "nagarkurnool/Q28169773",
+    "yadadri_bhuvanagiri/Q28169764",
+    "mahabubnagar/Q15380"
+  ],
+  "nalgonda/Q15384": [
+    "guntur/Q15341",
+    "suryapet/Q28169770",
+    "rangareddy/Q15388",
+    "nagarkurnool/Q28169773",
+    "yadadri_bhuvanagiri/Q28169764"
+  ],
+  "mahabubnagar/Q15380": [
+    "wanaparthy/Q28172504",
+    "vikarabad/Q28170173",
+    "narayanpet/Q61746013",
+    "rangareddy/Q15388",
+    "nagarkurnool/Q28169773"
+  ],
+  "hyderabad/Q15340": [
+    "medchal\u2013malkajgiri/Q27614841",
+    "rangareddy/Q15388"
+  ],
+  "nagarkurnool/Q28169773": [
+    "wanaparthy/Q28172504",
+    "prakasam/Q15390",
+    "guntur/Q15341",
+    "kurnool/Q15381",
+    "nalgonda/Q15384",
+    "rangareddy/Q15388",
+    "mahabubnagar/Q15380"
+  ],
+  "yadadri_bhuvanagiri/Q28169764": [
+    "jangaon/Q28170170",
+    "suryapet/Q28169770",
+    "nalgonda/Q15384",
+    "siddipet/Q28169756",
+    "medchal\u2013malkajgiri/Q27614841",
+    "rangareddy/Q15388"
+  ],
+  "prakasam/Q15390": [
+    "ysr/Q15342",
+    "sri_potti_sriramulu_nellore/Q15383",
+    "guntur/Q15341",
+    "kurnool/Q15381",
+    "nagarkurnool/Q28169773"
+  ],
+  "wanaparthy/Q28172504": [
+    "jogulamba_gadwal/Q27897618",
+    "kurnool/Q15381",
+    "narayanpet/Q61746013",
+    "nagarkurnool/Q28169773",
+    "mahabubnagar/Q15380"
+  ],
+  "ysr/Q15342": [
+    "sri_potti_sriramulu_nellore/Q15383",
+    "prakasam/Q15390",
+    "chittoor/Q15213",
+    "kurnool/Q15381",
+    "anantapur_district/Q15212"
+  ],
+  "south_salmara-mankachar/Q24907599": [
+    "west_garo_hills/Q2329181",
+    "north_garo_hills/Q7055466",
+    "dhubri/Q42485",
+    "goalpara/Q42522",
+    "south_west_garo_hills/Q15961576"
+  ],
+  "west_garo_hills/Q2329181": [
+    "north_garo_hills/Q7055466",
+    "goalpara/Q42522",
+    "east_garo_hills/Q2085455",
+    "south_west_garo_hills/Q15961576",
+    "south_salmara-mankachar/Q24907599",
+    "south_garo_hills/Q2329228"
+  ],
+  "nagaon/Q42686": [
+    "west_karbi_anglong/Q24949218",
+    "golaghat/Q42517",
+    "marigaon/Q42737",
+    "bishwanath/Q28110722",
+    "sonitpur/Q42765",
+    "hojai/Q24699407",
+    "east_karbi_anglong/Q42558"
+  ],
+  "west_karbi_anglong/Q24949218": [
+    "west_jaintia_hills/Q1920789",
+    "marigaon/Q42737",
+    "dima_hasao_district/Q42774",
+    "ri-bhoi/Q1884672",
+    "hojai/Q24699407",
+    "nagaon/Q42686"
+  ],
+  "east_karbi_anglong/Q42558": [
+    "dimapur/Q634262",
+    "dima_hasao_district/Q42774",
+    "peren/Q516294",
+    "golaghat/Q42517",
+    "hojai/Q24699407",
+    "nagaon/Q42686"
+  ],
+  "dima_hasao_district/Q42774": [
+    "cachar/Q42209",
+    "west_jaintia_hills/Q1920789",
+    "east_jaintia_hills/Q15923776",
+    "west_karbi_anglong/Q24949218",
+    "tamenglong/Q2301717",
+    "peren/Q516294",
+    "hojai/Q24699407",
+    "east_karbi_anglong/Q42558"
+  ],
+  "golaghat/Q42517": [
+    "kohima/Q953530",
+    "majuli/Q28110729",
+    "lakhimpur/Q42743",
+    "dimapur/Q634262",
+    "nagaon/Q42686",
+    "bishwanath/Q28110722",
+    "wokha/Q681821",
+    "jorhat/Q42611",
+    "east_karbi_anglong/Q42558"
+  ],
+  "dimapur/Q634262": [
+    "golaghat/Q42517",
+    "peren/Q516294",
+    "kohima/Q953530",
+    "east_karbi_anglong/Q42558"
+  ],
+  "peren/Q516294": [
+    "senapati/Q2301706",
+    "kohima/Q953530",
+    "tamenglong/Q2301717",
+    "dimapur/Q634262",
+    "dima_hasao_district/Q42774",
+    "east_karbi_anglong/Q42558"
+  ],
+  "hojai/Q24699407": [
+    "west_karbi_anglong/Q24949218",
+    "nagaon/Q42686",
+    "dima_hasao_district/Q42774",
+    "east_karbi_anglong/Q42558"
+  ],
+  "cachar/Q42209": [
+    "east_jaintia_hills/Q15923776",
+    "kolasib/Q1947343",
+    "pherzawl/Q28173809",
+    "karimganj/Q42542",
+    "tamenglong/Q2301717",
+    "dima_hasao_district/Q42774",
+    "jiribam/Q28419387",
+    "aizwal/Q1947322",
+    "hailakandi/Q42505"
+  ],
+  "west_jaintia_hills/Q1920789": [
+    "east_jaintia_hills/Q15923776",
+    "west_karbi_anglong/Q24949218",
+    "east_khasi_hills/Q1945304",
+    "ri-bhoi/Q1884672",
+    "dima_hasao_district/Q42774"
+  ],
+  "tamenglong/Q2301717": [
+    "senapati/Q2301706",
+    "cachar/Q42209",
+    "noney/Q28419389",
+    "kangpokpi/Q28419386",
+    "dima_hasao_district/Q42774",
+    "peren/Q516294",
+    "jiribam/Q28419387"
+  ],
+  "east_jaintia_hills/Q15923776": [
+    "cachar/Q42209",
+    "west_jaintia_hills/Q1920789",
+    "dima_hasao_district/Q42774"
+  ],
+  "hailakandi/Q42505": [
+    "mamit/Q751531",
+    "cachar/Q42209",
+    "kolasib/Q1947343",
+    "karimganj/Q42542"
+  ],
+  "karimganj/Q42542": [
+    "mamit/Q751531",
+    "cachar/Q42209",
+    "hailakandi/Q42505",
+    "north_tripura/Q1920978"
+  ],
+  "aizwal/Q1947322": [
+    "mamit/Q751531",
+    "cachar/Q42209",
+    "champhai/Q1965256",
+    "serchhip/Q2086190",
+    "pherzawl/Q28173809",
+    "kolasib/Q1947343",
+    "lunglei/Q1947352"
+  ],
+  "kolasib/Q1947343": [
+    "mamit/Q751531",
+    "cachar/Q42209",
+    "aizwal/Q1947322",
+    "hailakandi/Q42505"
+  ],
+  "jiribam/Q28419387": [
+    "cachar/Q42209",
+    "pherzawl/Q28173809",
+    "tamenglong/Q2301717",
+    "noney/Q28419389"
+  ],
+  "pherzawl/Q28173809": [
+    "churachandpur/Q2577281",
+    "cachar/Q42209",
+    "champhai/Q1965256",
+    "noney/Q28419389",
+    "jiribam/Q28419387",
+    "aizwal/Q1947322"
+  ],
+  "bishwanath/Q28110722": [
+    "papum_pare/Q15432",
+    "lakhimpur/Q42743",
+    "golaghat/Q42517",
+    "pakke_kessang/None",
+    "sonitpur/Q42765",
+    "nagaon/Q42686"
+  ],
+  "mamit/Q751531": [
+    "kolasib/Q1947343",
+    "north_tripura/Q1920978",
+    "karimganj/Q42542",
+    "aizwal/Q1947322",
+    "hailakandi/Q42505",
+    "lunglei/Q1947352"
+  ],
+  "north_tripura/Q1920978": [
+    "mamit/Q751531",
+    "unokoti/Q16087996",
+    "karimganj/Q42542",
+    "dhalai/Q2086546"
+  ],
+  "west_kameng_district/Q15459": [
+    "tawang_district/Q15449",
+    "east_kameng/Q15424",
+    "pakke_kessang/None",
+    "udalguri/Q321998",
+    "sonitpur/Q42765"
+  ],
+  "pakke_kessang/None": [
+    "east_kameng/Q15424",
+    "papum_pare/Q15432",
+    "west_kameng_district/Q15459",
+    "bishwanath/Q28110722",
+    "sonitpur/Q42765"
+  ],
+  "jorhat/Q42611": [
+    "mokokchung/Q2175311",
+    "majuli/Q28110729",
+    "sivasagar/Q42768",
+    "golaghat/Q42517",
+    "wokha/Q681821"
+  ],
+  "lakhimpur/Q42743": [
+    "kamle/Q48731073",
+    "dhemaji/Q42473",
+    "papum_pare/Q15432",
+    "majuli/Q28110729",
+    "bishwanath/Q28110722",
+    "golaghat/Q42517",
+    "dibrugarh/Q42479"
+  ],
+  "kohima/Q953530": [
+    "senapati/Q2301706",
+    "phek/Q590882",
+    "zunheboto/Q2091461",
+    "dimapur/Q634262",
+    "peren/Q516294",
+    "golaghat/Q42517",
+    "wokha/Q681821"
+  ],
+  "wokha/Q681821": [
+    "mokokchung/Q2175311",
+    "kohima/Q953530",
+    "zunheboto/Q2091461",
+    "golaghat/Q42517",
+    "jorhat/Q42611"
+  ],
+  "majuli/Q28110729": [
+    "lakhimpur/Q42743",
+    "sivasagar/Q42768",
+    "golaghat/Q42517",
+    "dibrugarh/Q42479",
+    "jorhat/Q42611"
+  ],
+  "sivasagar/Q42768": [
+    "longleng/Q1426783",
+    "majuli/Q28110729",
+    "charaideo/Q24039029",
+    "mokokchung/Q2175311",
+    "mon/Q2339648",
+    "dibrugarh/Q42479",
+    "jorhat/Q42611"
+  ],
+  "mokokchung/Q2175311": [
+    "longleng/Q1426783",
+    "zunheboto/Q2091461",
+    "sivasagar/Q42768",
+    "wokha/Q681821",
+    "tuensang/Q2571393",
+    "jorhat/Q42611"
+  ],
+  "dhemaji/Q42473": [
+    "lower_siang/Q13602925",
+    "kamle/Q48731073",
+    "lower_dibang_valley/Q2373368",
+    "lakhimpur/Q42743",
+    "dibrugarh/Q42479",
+    "east_siang/Q15419",
+    "tinsukia/Q42756"
+  ],
+  "dibrugarh/Q42479": [
+    "longding/Q5627568",
+    "tirap/Q15448",
+    "dhemaji/Q42473",
+    "majuli/Q28110729",
+    "lakhimpur/Q42743",
+    "charaideo/Q24039029",
+    "sivasagar/Q42768",
+    "tinsukia/Q42756"
+  ],
+  "papum_pare/Q15432": [
+    "kamle/Q48731073",
+    "east_kameng/Q15424",
+    "kra_daadi/Q21018627",
+    "kurung_kumey_district/Q2449506",
+    "lower_subansiri/Q15436",
+    "lakhimpur/Q42743",
+    "pakke_kessang/None",
+    "bishwanath/Q28110722"
+  ],
+  "kamle/Q48731073": [
+    "lower_siang/Q13602925",
+    "kra_daadi/Q21018627",
+    "dhemaji/Q42473",
+    "papum_pare/Q15432",
+    "lower_subansiri/Q15436",
+    "lakhimpur/Q42743",
+    "upper_subansiri/Q15464"
+  ],
+  "tinsukia/Q42756": [
+    "tirap/Q15448",
+    "dhemaji/Q42473",
+    "namsai/Q21559824",
+    "lower_dibang_valley/Q2373368",
+    "lohit/Q15438",
+    "changlang/Q15427",
+    "dibrugarh/Q42479",
+    "east_siang/Q15419"
+  ],
+  "east_siang/Q15419": [
+    "lower_siang/Q13602925",
+    "dhemaji/Q42473",
+    "lower_dibang_valley/Q2373368",
+    "upper_siang/Q15465",
+    "siang/Q18642331",
+    "tinsukia/Q42756"
+  ],
+  "lower_dibang_valley/Q2373368": [
+    "dhemaji/Q42473",
+    "upper_dibang_valley/Q15446",
+    "upper_siang/Q15465",
+    "lohit/Q15438",
+    "east_siang/Q15419",
+    "tinsukia/Q42756"
+  ],
+  "lower_siang/Q13602925": [
+    "kamle/Q48731073",
+    "west_siang/Q15453",
+    "dhemaji/Q42473",
+    "lepa_rada/Q63563632",
+    "siang/Q18642331",
+    "upper_subansiri/Q15464",
+    "east_siang/Q15419"
+  ],
+  "changlang/Q15427": [
+    "tirap/Q15448",
+    "anjaw/Q15413",
+    "namsai/Q21559824",
+    "lohit/Q15438",
+    "tinsukia/Q42756"
+  ],
+  "lohit/Q15438": [
+    "anjaw/Q15413",
+    "namsai/Q21559824",
+    "lower_dibang_valley/Q2373368",
+    "changlang/Q15427",
+    "tinsukia/Q42756"
+  ],
+  "tirap/Q15448": [
+    "longding/Q5627568",
+    "dibrugarh/Q42479",
+    "changlang/Q15427",
+    "tinsukia/Q42756"
+  ],
+  "namsai/Q21559824": [
+    "lohit/Q15438",
+    "changlang/Q15427",
+    "tinsukia/Q42756"
+  ],
+  "longding/Q5627568": [
+    "charaideo/Q24039029",
+    "mon/Q2339648",
+    "dibrugarh/Q42479",
+    "tirap/Q15448"
+  ],
+  "charaideo/Q24039029": [
+    "mon/Q2339648",
+    "dibrugarh/Q42479",
+    "longding/Q5627568",
+    "sivasagar/Q42768"
+  ],
+  "mon/Q2339648": [
+    "longding/Q5627568",
+    "longleng/Q1426783",
+    "noklak/Q48731903",
+    "charaideo/Q24039029",
+    "sivasagar/Q42768",
+    "tuensang/Q2571393"
+  ],
+  "longleng/Q1426783": [
+    "mokokchung/Q2175311",
+    "mon/Q2339648",
+    "sivasagar/Q42768",
+    "tuensang/Q2571393"
+  ],
+  "dhalai/Q2086546": [
+    "unokoti/Q16087996",
+    "khowai/Q16086680",
+    "gomati/Q16086497",
+    "north_tripura/Q1920978"
+  ],
+  "gomati/Q16086497": [
+    "south_tripura/Q1822159",
+    "khowai/Q16086680",
+    "sepahijala/Q16086076",
+    "dhalai/Q2086546"
+  ],
+  "khowai/Q16086680": [
+    "west_tripura/Q1947570",
+    "sepahijala/Q16086076",
+    "gomati/Q16086497",
+    "dhalai/Q2086546"
+  ],
+  "unokoti/Q16087996": [
+    "north_tripura/Q1920978",
+    "dhalai/Q2086546"
+  ],
+  "west_tripura/Q1947570": [
+    "khowai/Q16086680",
+    "sepahijala/Q16086076"
+  ],
+  "sepahijala/Q16086076": [
+    "west_tripura/Q1947570",
+    "south_tripura/Q1822159",
+    "khowai/Q16086680",
+    "gomati/Q16086497"
+  ],
+  "south_tripura/Q1822159": [
+    "sepahijala/Q16086076",
+    "gomati/Q16086497"
+  ],
+  "east_kameng/Q15424": [
+    "tawang_district/Q15449",
+    "papum_pare/Q15432",
+    "kurung_kumey_district/Q2449506",
+    "pakke_kessang/None",
+    "west_kameng_district/Q15459"
+  ],
+  "kurung_kumey_district/Q2449506": [
+    "kra_daadi/Q21018627",
+    "upper_subansiri/Q15464",
+    "papum_pare/Q15432",
+    "east_kameng/Q15424"
+  ],
+  "tawang_district/Q15449": [
+    "west_kameng_district/Q15459",
+    "east_kameng/Q15424"
+  ],
+  "lower_subansiri/Q15436": [
+    "papum_pare/Q15432",
+    "kra_daadi/Q21018627",
+    "kamle/Q48731073"
+  ],
+  "kra_daadi/Q21018627": [
+    "kamle/Q48731073",
+    "papum_pare/Q15432",
+    "kurung_kumey_district/Q2449506",
+    "lower_subansiri/Q15436",
+    "upper_subansiri/Q15464"
+  ],
+  "upper_subansiri/Q15464": [
+    "lower_siang/Q13602925",
+    "kamle/Q48731073",
+    "kra_daadi/Q21018627",
+    "kurung_kumey_district/Q2449506",
+    "lepa_rada/Q63563632",
+    "shi_yomi/Q63563625",
+    "west_siang/Q15453"
+  ],
+  "west_siang/Q15453": [
+    "lower_siang/Q13602925",
+    "lepa_rada/Q63563632",
+    "shi_yomi/Q63563625",
+    "siang/Q18642331",
+    "upper_subansiri/Q15464"
+  ],
+  "shi_yomi/Q63563625": [
+    "upper_subansiri/Q15464",
+    "upper_siang/Q15465",
+    "siang/Q18642331",
+    "west_siang/Q15453"
+  ],
+  "lepa_rada/Q63563632": [
+    "upper_subansiri/Q15464",
+    "lower_siang/Q13602925",
+    "west_siang/Q15453"
+  ],
+  "siang/Q18642331": [
+    "lower_siang/Q13602925",
+    "upper_siang/Q15465",
+    "shi_yomi/Q63563625",
+    "west_siang/Q15453",
+    "east_siang/Q15419"
+  ],
+  "upper_siang/Q15465": [
+    "upper_dibang_valley/Q15446",
+    "lower_dibang_valley/Q2373368",
+    "shi_yomi/Q63563625",
+    "siang/Q18642331",
+    "east_siang/Q15419"
+  ],
+  "upper_dibang_valley/Q15446": [
+    "upper_siang/Q15465",
+    "lower_dibang_valley/Q2373368"
+  ],
+  "anjaw/Q15413": [
+    "lohit/Q15438",
+    "changlang/Q15427"
+  ],
+  "east_garo_hills/Q2085455": [
+    "west_garo_hills/Q2329181",
+    "north_garo_hills/Q7055466",
+    "west_khasi_hills/Q2064752",
+    "south_garo_hills/Q2329228"
+  ],
+  "south_garo_hills/Q2329228": [
+    "west_garo_hills/Q2329181",
+    "west_khasi_hills/Q2064752",
+    "east_garo_hills/Q2085455",
+    "south_west_khasi_hills/Q15923741"
+  ],
+  "south_west_khasi_hills/Q15923741": [
+    "east_khasi_hills/Q1945304",
+    "west_khasi_hills/Q2064752",
+    "south_garo_hills/Q2329228"
+  ],
+  "south_west_garo_hills/Q15961576": [
+    "west_garo_hills/Q2329181",
+    "south_salmara-mankachar/Q24907599"
+  ],
+  "east_khasi_hills/Q1945304": [
+    "west_khasi_hills/Q2064752",
+    "west_jaintia_hills/Q1920789",
+    "south_west_khasi_hills/Q15923741",
+    "ri-bhoi/Q1884672"
+  ],
+  "churachandpur/Q2577281": [
+    "kakching/Q28173825",
+    "noney/Q28419389",
+    "pherzawl/Q28173809",
+    "bishnupur/Q938190",
+    "chandel/Q2301769"
+  ],
+  "bishnupur/Q938190": [
+    "imphal_west/Q1822188",
+    "kakching/Q28173825",
+    "noney/Q28419389",
+    "kangpokpi/Q28419386",
+    "churachandpur/Q2577281"
+  ],
+  "chandel/Q2301769": [
+    "churachandpur/Q2577281",
+    "tengnoupal/Q28419388",
+    "kakching/Q28173825"
+  ],
+  "noney/Q28419389": [
+    "churachandpur/Q2577281",
+    "pherzawl/Q28173809",
+    "tamenglong/Q2301717",
+    "kangpokpi/Q28419386",
+    "bishnupur/Q938190",
+    "jiribam/Q28419387"
+  ],
+  "kakching/Q28173825": [
+    "imphal_west/Q1822188",
+    "tengnoupal/Q28419388",
+    "chandel/Q2301769",
+    "bishnupur/Q938190",
+    "churachandpur/Q2577281",
+    "thoubal/Q2086198"
+  ],
+  "imphal_east/Q1916666": [
+    "imphal_west/Q1822188",
+    "thoubal/Q2086198",
+    "kangpokpi/Q28419386"
+  ],
+  "imphal_west/Q1822188": [
+    "kakching/Q28173825",
+    "imphal_east/Q1916666",
+    "kangpokpi/Q28419386",
+    "bishnupur/Q938190",
+    "thoubal/Q2086198"
+  ],
+  "thoubal/Q2086198": [
+    "imphal_west/Q1822188",
+    "kakching/Q28173825",
+    "imphal_east/Q1916666",
+    "tengnoupal/Q28419388",
+    "kangpokpi/Q28419386"
+  ],
+  "kangpokpi/Q28419386": [
+    "imphal_west/Q1822188",
+    "senapati/Q2301706",
+    "kamjong/Q28419390",
+    "imphal_east/Q1916666",
+    "noney/Q28419389",
+    "tengnoupal/Q28419388",
+    "tamenglong/Q2301717",
+    "ukhrul/Q735101",
+    "bishnupur/Q938190",
+    "thoubal/Q2086198"
+  ],
+  "senapati/Q2301706": [
+    "phek/Q590882",
+    "kohima/Q953530",
+    "tamenglong/Q2301717",
+    "ukhrul/Q735101",
+    "kangpokpi/Q28419386",
+    "peren/Q516294"
+  ],
+  "ukhrul/Q735101": [
+    "senapati/Q2301706",
+    "kamjong/Q28419390",
+    "phek/Q590882",
+    "kangpokpi/Q28419386"
+  ],
+  "phek/Q590882": [
+    "senapati/Q2301706",
+    "kohima/Q953530",
+    "ukhrul/Q735101",
+    "zunheboto/Q2091461",
+    "kiphire/Q2597908"
+  ],
+  "tengnoupal/Q28419388": [
+    "kakching/Q28173825",
+    "kamjong/Q28419390",
+    "kangpokpi/Q28419386",
+    "chandel/Q2301769",
+    "thoubal/Q2086198"
+  ],
+  "kamjong/Q28419390": [
+    "tengnoupal/Q28419388",
+    "ukhrul/Q735101",
+    "kangpokpi/Q28419386"
+  ],
+  "zunheboto/Q2091461": [
+    "phek/Q590882",
+    "kohima/Q953530",
+    "mokokchung/Q2175311",
+    "wokha/Q681821",
+    "kiphire/Q2597908",
+    "tuensang/Q2571393"
+  ],
+  "kiphire/Q2597908": [
+    "phek/Q590882",
+    "tuensang/Q2571393",
+    "zunheboto/Q2091461"
+  ],
+  "tuensang/Q2571393": [
+    "longleng/Q1426783",
+    "zunheboto/Q2091461",
+    "noklak/Q48731903",
+    "mokokchung/Q2175311",
+    "mon/Q2339648",
+    "kiphire/Q2597908"
+  ],
+  "noklak/Q48731903": [
+    "mon/Q2339648",
+    "tuensang/Q2571393"
+  ],
+  "lawngtlai/Q2086209": [
+    "lunglei/Q1947352",
+    "saiha/Q1821714"
+  ],
+  "lunglei/Q1947352": [
+    "mamit/Q751531",
+    "lawngtlai/Q2086209",
+    "serchhip/Q2086190",
+    "aizwal/Q1947322"
+  ],
+  "saiha/Q1821714": [
+    "lawngtlai/Q2086209"
+  ],
+  "serchhip/Q2086190": [
+    "aizwal/Q1947322",
+    "champhai/Q1965256",
+    "lunglei/Q1947352"
+  ],
+  "champhai/Q1965256": [
+    "serchhip/Q2086190",
+    "aizwal/Q1947322",
+    "pherzawl/Q28173809"
+  ],
+  "south_24_parganas/Q2308319": [
+    "purba_medinipur/Q1431920",
+    "kolkata/Q1348",
+    "howrah/Q1478937",
+    "north_24_parganas/Q338425"
+  ],
+  "mulugu/Q61746006": [
+    "jayashankar_bhupalapally/Q28169775",
+    "bhadradri_kothagudem/Q28169767",
+    "warangal_rural/Q28169759",
+    "bijapur/Q100164",
+    "mahabubabad/Q28169761"
+  ],
+  "mumbai_suburban/Q2085374": [
+    "thane/Q943099",
+    "mumbai_city/Q2341660",
+    "konkan_division/Q6268840"
+  ],
+  "mumbai_city/Q2341660": [
+    "konkan_division/Q6268840",
+    "mumbai_suburban/Q2085374"
+  ],
+  "gir_somnath_district/Q15244465": [
+    "amreli_district/Q257946",
+    "diu/Q631849",
+    "junagadh_district/Q1797344"
+  ],
+  "diu/Q631849": [
+    "gir_somnath_district/Q15244465"
+  ],
+  "devbhumi_dwaraka_district/Q14594717": [
+    "porbandar_district/Q1772815",
+    "jamnagar_district/Q2982118"
+  ],
+  "kolkata/Q1348": [
+    "south_24_parganas/Q2308319",
+    "howrah/Q1478937",
+    "north_24_parganas/Q338425"
+  ]
+}
