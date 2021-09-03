@@ -1,0 +1,635 @@
+districtid,wave1-weekid,wave2-weekid,wave1-monthid,wave2-monthid
+AP_Anantapur,40,122,5,15
+AP_Chittoor,49,123,6,15
+AP_East Godavari,52,123,6,15
+AP_Guntur,39,121,5,14
+AP_Krishna,58,123,7,15
+AP_Kurnool,42,119,5,14
+AP_Prakasam,50,119,6,15
+AP_S.P.S. Nellore,50,120,6,14
+AP_Srikakulam,48,118,6,14
+AP_Visakhapatnam,40,120,5,14
+AP_Vizianagaram,50,119,6,14
+AP_West Godavari,51,123,6,15
+AP_Y.S.R. Kadapa,49,121,6,15
+AR_Anjaw,58,127,7,15
+AR_Changlang,59,125,7,15
+AR_East Kameng,42,128,5,15
+AR_East Siang,62,137,7,16
+AR_Kamle,57,138,7,10
+AR_Kra Daadi,57,129,7,15
+AR_Kurung Kumey,56,134,7,16
+AR_Lepa Rada,60,141,0,7
+AR_Lohit,63,141,8,16
+AR_Longding,55,138,7,16
+AR_Lower Dibang Valley,117,141,8,14
+AR_Lower Siang,57,145,7,15
+AR_Lower Subansiri,52,145,7,15
+AR_Namsai,41,125,5,15
+AR_Pakke Kessang,54,135,7,16
+AR_Papum Pare,55,141,0,7
+AR_Shi Yomi,68,137,0,8
+AR_Siang,48,140,0,8
+AR_Tawang,49,125,6,15
+AR_Tirap,59,142,7,12
+AR_Upper Dibang Valley,59,126,7,15
+AR_Upper Siang,63,124,8,15
+AR_Upper Subansiri,45,135,7,16
+AR_West Kameng,44,138,6,16
+AR_West Siang,59,142,3,7
+AS_Dibrugarh,0,0,0,0
+AS_Udalguri,0,0,0,0
+BR_Araria,43,120,6,14
+BR_Arwal,44,119,5,14
+BR_Aurangabad1,44,116,6,14
+BR_Banka,42,117,5,14
+BR_Begusarai,43,117,5,14
+BR_Bhagalpur,42,116,5,14
+BR_Bhojpur,42,115,5,14
+BR_Buxar,42,116,5,14
+BR_Darbhanga,43,118,5,14
+BR_East Champaran,43,120,5,14
+BR_Gaya,43,117,5,14
+BR_Gopalganj,42,118,6,14
+BR_Jamui,39,119,5,14
+BR_Jehanabad,43,116,5,14
+BR_Kaimur,43,116,5,14
+BR_Katihar,42,120,5,14
+BR_Khagaria,40,118,5,14
+BR_Kishanganj,43,122,6,14
+BR_Lakhisarai,44,117,6,14
+BR_Madhepura,43,118,6,14
+BR_Madhubani,44,119,6,14
+BR_Munger,42,120,5,14
+BR_Muzaffarpur,45,119,6,14
+BR_Nalanda,39,118,5,14
+BR_Nawada,39,117,5,14
+BR_Patna,42,119,5,14
+BR_Purnia,44,117,6,14
+BR_Rohtas,42,117,5,14
+BR_Saharsa,43,118,6,14
+BR_Samastipur,42,120,5,14
+BR_Saran,43,116,5,14
+BR_Sheikhpura,42,119,5,14
+BR_Sheohar,43,119,5,14
+BR_Sitamarhi,44,118,5,14
+BR_Siwan,35,118,5,14
+BR_Supaul,53,117,7,14
+BR_Vaishali,42,119,5,14
+BR_West Champaran,43,118,5,14
+CH_Chandigarh,52,119,6,14
+CT_Balod,67,116,9,14
+CT_Baloda Bazar,53,117,7,14
+CT_Balrampur2,62,120,7,14
+CT_Bametara,67,112,8,14
+CT_Bastar,92,116,7,14
+CT_Bijapur,59,128,7,15
+HP_Bilaspur,75,121,9,14
+CT_Dakshin Bastar Dantewada,56,119,7,14
+CT_Dhamtari,54,116,7,14
+CT_Durg,54,112,7,14
+CT_Gariaband,92,114,7,14
+CT_Janjgir Champa,60,119,8,14
+CT_Jashpur,62,119,8,14
+CT_Kabeerdham,52,117,7,14
+CT_Kondagaon,61,119,8,14
+CT_Korba,60,118,8,14
+CT_Koriya,57,120,7,14
+CT_Mahasamund,53,118,9,14
+CT_Mungeli,56,118,7,14
+CT_Narayanpur,54,121,7,14
+CT_Raigarh,57,119,7,14
+CT_Raipur,51,113,6,14
+CT_Rajnandgaon,52,113,7,14
+CT_Sukma,56,127,7,15
+CT_Surajpur,62,120,7,14
+CT_Surguja,56,119,7,14
+CT_Uttar Bastar Kanker,59,116,7,14
+CT_Gaurela Pendra Marwahi,92,119,11,14
+DL_New Delhi,69,115,8,14
+DN_Dadra and Nagar Haveli,44,115,5,14
+DN_Daman,40,116,5,14
+DN_Diu,48,126,6,14
+GJ_Ahmedabad,13,116,3,14
+GJ_Amreli,43,121,6,14
+GJ_Anand,73,121,9,14
+GJ_Aravalli,66,120,9,14
+GJ_Banaskantha,72,116,9,14
+GJ_Bharuch,57,114,6,14
+GJ_Bhavnagar,48,118,6,14
+GJ_Botad,40,114,5,14
+GJ_Chhota Udaipur,48,119,6,14
+GJ_Dahod,39,117,5,14
+GJ_Dang,48,117,6,14
+GJ_Devbhumi Dwarka,48,121,6,14
+GJ_Gandhinagar,72,117,9,14
+GJ_Gir Somnath,43,120,5,14
+GJ_Jamnagar,53,118,7,14
+GJ_Junagadh,35,121,7,14
+GJ_Kheda,75,118,9,14
+GJ_Kutch,55,116,7,14
+GJ_Mahisagar,72,117,9,14
+GJ_Mehsana,75,119,9,14
+GJ_Morbi,44,118,6,14
+GJ_Narmada,63,118,8,14
+GJ_Navsari,38,118,5,14
+GJ_Panchmahal,45,120,6,14
+GJ_Patan,73,117,9,14
+GJ_Porbandar,46,123,6,15
+GJ_Rajkot,57,114,7,14
+GJ_Sabarkantha,63,122,9,14
+GJ_Surat,56,115,7,14
+GJ_Surendranagar,39,117,5,14
+GJ_Tapi,50,117,6,14
+GJ_Vadodara,75,121,9,14
+GJ_Valsad,39,118,5,14
+HP_Chamba,76,121,9,14
+UP_Hamirpur,48,118,6,14
+HP_Kangra,76,120,9,14
+HP_Kinnaur,76,123,9,15
+HP_Kullu,72,120,9,14
+HP_Lahaul and Spiti,71,118,9,14
+HP_Mandi,69,120,9,14
+HP_Shimla,75,120,9,14
+HP_Sirmaur,53,121,7,14
+HP_Solan,52,119,9,14
+HP_Una,53,121,9,14
+HR_Ambala,52,119,6,14
+HR_Bhiwani,69,121,8,14
+HR_Charkhi Dadri,53,120,8,14
+HR_Faridabad,71,119,9,14
+HR_Fatehabad,52,120,8,14
+HR_Gurugram,72,118,9,14
+HR_Hisar,69,120,8,14
+HR_Jhajjar,51,122,8,14
+HR_Jind,54,117,9,14
+HR_Kaithal,48,118,6,14
+HR_Karnal,51,117,6,14
+HR_Kurukshetra,51,120,6,14
+HR_Mahendragarh,69,120,8,14
+HR_Nuh,51,119,6,14
+HR_Palwal,54,121,7,14
+HR_Panchkula,51,120,6,14
+HR_Panipat,51,119,6,14
+HR_Rewari,68,124,8,14
+HR_Rohtak,53,118,9,14
+HR_Sirsa,52,121,7,14
+HR_Sonipat,53,119,7,14
+HR_Yamunanagar,51,119,6,14
+JH_Bokaro,50,119,6,14
+JH_Chatra,48,117,6,14
+JH_Deoghar,40,117,6,14
+JH_Dhanbad,46,116,6,14
+JH_Dumka,48,116,6,14
+JH_East Singhbhum,50,119,6,14
+JH_Garhwa,55,121,6,14
+JH_Giridih,49,119,6,14
+JH_Godda,40,118,7,14
+JH_Gumla,52,119,6,14
+JH_Hazaribagh,50,118,6,14
+JH_Jamtara,48,116,6,14
+JH_Khunti,50,120,6,14
+JH_Koderma,48,116,6,14
+JH_Latehar,48,119,6,14
+JH_Lohardaga,56,117,7,14
+JH_Pakur,48,120,6,14
+JH_Palamu,54,121,6,14
+JH_Ramgarh,50,116,6,14
+JH_Ranchi,49,116,7,14
+JH_Sahibganj,48,115,6,14
+JH_Saraikela-Kharsawan,50,118,6,14
+JH_Simdega,51,119,6,14
+JH_West Singhbhum,50,120,6,14
+JK_Anantnag,53,119,6,14
+JK_Bandipora,52,123,6,15
+JK_Baramulla,66,119,8,14
+JK_Budgam,52,120,6,14
+JK_Doda,53,121,7,15
+JK_Ganderbal,53,124,6,15
+JK_Jammu,50,120,6,14
+JK_Kathua,53,120,7,14
+JK_Kishtwar,52,121,7,15
+JK_Kulgam,37,120,5,14
+JK_Kupwara,51,125,6,15
+JK_Pulwama,52,121,5,15
+JK_Punch,52,122,7,15
+JK_Rajouri,53,120,7,14
+JK_Ramban,54,123,7,15
+JK_Reasi,114,137,7,14
+JK_Samba,54,121,7,14
+JK_Shopiyan,37,120,5,14
+JK_Srinagar,51,118,7,14
+JK_Udhampur,52,122,7,14
+KA_Bagalkote,51,120,6,14
+KA_Ballari,43,122,6,14
+KA_Belagavi,49,122,6,15
+KA_Bengaluru Rural,62,122,7,14
+KA_Bengaluru Urban,59,119,7,14
+KA_Bidar,44,119,5,14
+KA_Chamarajanagara,58,120,7,14
+KA_Chikkaballapura,62,119,7,14
+KA_Chikkamagaluru,57,122,7,15
+KA_Chitradurga,60,126,7,15
+KA_Dakshina Kannada,52,120,7,14
+KA_Davanagere,48,123,6,15
+KA_Dharwad,49,123,6,14
+KA_Gadag,49,122,6,15
+KA_Hassan,59,120,7,15
+KA_Haveri,51,124,6,15
+KA_Kalaburagi,39,119,6,14
+KA_Kodagu,60,120,7,14
+KA_Kolar,59,120,7,14
+KA_Koppal,49,123,6,15
+KA_Mandya,57,121,7,14
+KA_Mysuru,59,118,6,15
+KA_Raichur,42,120,6,14
+KA_Ramanagara,59,119,6,14
+KA_Shivamogga,44,122,6,15
+KA_Tumakuru,60,120,7,14
+KA_Udupi,45,120,6,15
+KA_Uttara Kannada,52,122,7,15
+KA_Vijayapura,43,120,5,14
+KA_Yadgir,45,120,6,14
+KL_Alappuzha,119,146,8,14
+KL_Ernakulam,58,120,8,14
+KL_Idukki,118,143,11,14
+KL_Kannur,120,144,7,14
+KL_Kasaragod,120,144,7,14
+KL_Kollam,122,144,8,15
+KL_Kottayam,118,144,10,14
+KL_Kozhikode,118,144,8,14
+KL_Malappuram,121,144,7,14
+KL_Palakkad,121,144,8,15
+KL_Pathanamthitta,95,120,11,14
+KL_Thiruvananthapuram,120,143,7,14
+KL_Thrissur,118,144,8,14
+KL_Wayanad,119,145,10,14
+LA_Kargil,26,121,6,14
+LA_Leh,68,114,8,14
+LD_Lakshadweep,0,123,12,15
+MH_Ahmednagar,53,119,7,14
+MH_Akola,53,106,7,14
+MH_Amravati,98,123,7,14
+MH_Aurangabad2,51,107,6,13
+MH_Beed,53,118,7,14
+MH_Bhandara,56,113,7,14
+MH_Buldhana,52,119,7,14
+MH_Chandrapur,57,115,7,14
+MH_Dhule,50,111,6,13
+MH_Gadchiroli,60,115,8,14
+MH_Gondia,55,114,7,14
+MH_Hingoli,55,114,7,14
+MH_Jalgaon,52,112,6,13
+MH_Jalna,62,115,6,14
+MH_Kolhapur,51,125,6,15
+MH_Latur,51,113,6,14
+MH_Mumbai,57,111,7,13
+MH_Nagpur,53,115,6,14
+MH_Nanded,50,112,6,13
+MH_Nandurbar,48,117,6,13
+MH_Nashik,54,117,7,14
+MH_Osmanabad,53,117,6,14
+MH_Palghar,116,143,6,14
+MH_Parbhani,50,117,6,14
+MH_Pune,51,114,6,14
+MH_Raigad,51,115,6,14
+MH_Ratnagiri,121,143,6,14
+MH_Sangli,53,119,6,14
+MH_Satara,52,125,7,14
+MH_Sindhudurg,50,128,7,15
+MH_Solapur,52,122,6,14
+MH_Thane,34,111,7,13
+MH_Wardha,55,117,7,14
+MH_Washim,54,120,7,14
+MH_Yavatmal,54,116,7,14
+ML_East Garo Hills,48,132,8,16
+ML_East Jaintia Hills,52,124,7,15
+ML_East Khasi Hills,58,124,7,15
+ML_North Garo Hills,55,135,7,16
+ML_Ribhoi,58,124,8,15
+ML_South Garo Hills,72,131,8,15
+ML_South West Garo Hills,57,125,9,15
+ML_South West Khasi Hills,60,130,7,15
+ML_West Garo Hills,71,140,6,15
+ML_West Jaintia Hills,67,142,8,15
+ML_West Khasi Hills,61,144,3,8
+MN_Churachandpur,0,0,0,0
+MP_Agar Malwa,51,114,6,14
+MP_Alirajpur,48,115,6,14
+MP_Anuppur,54,119,7,14
+MP_Ashoknagar,71,116,9,14
+MP_Balaghat,60,115,7,14
+MP_Barwani,39,114,5,14
+MP_Betul,53,114,7,14
+MP_Bhind,55,117,7,14
+MP_Bhopal,60,116,9,14
+MP_Burhanpur,18,120,3,14
+MP_Chhatarpur,54,116,7,14
+MP_Chhindwara,60,112,7,14
+MP_Damoh,53,119,7,14
+MP_Datia,50,117,6,14
+MP_Dewas,56,117,7,14
+MP_Dhar,53,117,7,14
+MP_Dindori,55,115,7,14
+MP_Guna,53,114,7,14
+MP_Gwalior,53,116,6,14
+MP_Harda,57,116,7,14
+MP_Hoshangabad,61,119,7,14
+MP_Indore,73,117,9,14
+MP_Jabalpur,54,115,7,14
+MP_Jhabua,52,114,6,14
+MP_Katni,60,115,7,14
+MP_Khandwa,55,111,7,13
+MP_Khargone,52,116,6,14
+MP_Mandla,55,116,7,14
+MP_Mandsaur,60,118,7,14
+MP_Morena,32,116,4,14
+MP_Narsinghpur,52,117,7,14
+MP_Neemuch,54,117,7,14
+MP_Niwari,47,118,6,14
+MP_Panna,54,117,7,14
+MP_Raisen,51,114,7,14
+MP_Rajgarh,46,114,6,14
+MP_Ratlam,72,120,9,14
+MP_Rewa,60,117,7,14
+MP_Sagar,53,116,7,14
+MP_Satna,54,118,7,14
+MP_Sehore,60,117,7,14
+MP_Seoni,55,115,7,14
+MP_Shahdol,55,116,7,14
+MP_Shajapur,52,114,7,14
+MP_Sheopur,51,118,6,14
+MP_Shivpuri,51,119,6,14
+MP_Sidhi,56,116,7,14
+MP_Singrauli,58,116,7,14
+MP_Tikamgarh,54,117,7,14
+MP_Ujjain,54,119,7,14
+MP_Umaria,54,118,7,14
+MP_Vidisha,72,115,9,14
+MZ_Aizawl,65,143,0,8
+MZ_Champhai,122,144,8,15
+MZ_Hnahthial,64,133,8,16
+MZ_Khawzawl,69,121,8,14
+MZ_Kolasib,44,143,6,9
+MZ_Lawngtlai,72,138,9,12
+MZ_Lunglei,58,141,7,10
+MZ_Mamit,117,146,7,14
+MZ_Saiha,30,144,4,9
+MZ_Saitual,120,142,9,15
+MZ_Serchhip,72,119,9,14
+NL_Dimapur,40,120,8,14
+NL_Kiphire,77,125,9,15
+NL_Kohima,43,122,6,15
+NL_Longleng,57,140,7,15
+NL_Mokokchung,61,128,10,15
+NL_Mon,40,123,5,15
+NL_Peren,31,71,4,9
+NL_Phek,38,125,4,15
+NL_Tuensang,71,125,9,15
+NL_Wokha,76,127,5,15
+NL_Zunheboto,41,123,5,15
+OR_Angul,61,124,7,15
+OR_Balangir,52,122,7,14
+OR_Balasore,55,124,7,15
+OR_Bargarh,50,119,6,14
+OR_Bhadrak,50,122,6,15
+OR_Boudh,54,124,7,15
+OR_Cuttack,55,124,7,15
+OR_Deogarh,59,121,7,15
+OR_Dhenkanal,52,125,7,15
+OR_Gajapati,39,118,5,14
+OR_Ganjam,38,121,5,14
+OR_Jagatsinghpur,55,124,7,15
+OR_Jajpur,51,128,6,15
+OR_Jharsuguda,55,121,7,14
+OR_Kalahandi,54,120,7,14
+OR_Kandhamal,55,124,7,15
+OR_Kendrapara,52,127,7,15
+OR_Kendujhar,57,120,7,14
+OR_Khordha,50,121,6,14
+OR_Koraput,46,123,6,15
+OR_Malkangiri,46,126,6,15
+OR_Mayurbhanj,49,124,6,15
+OR_Nabarangapur,52,119,7,14
+OR_Nayagarh,46,124,6,15
+OR_Nuapada,56,115,7,14
+OR_Puri,52,124,6,15
+OR_Rayagada,47,124,6,15
+OR_Sambalpur,53,122,7,14
+OR_Subarnapur,51,123,7,15
+OR_Sundargarh,61,120,7,14
+PB_Amritsar,53,119,7,14
+PB_Barnala,48,123,6,14
+PB_Bathinda,51,120,6,14
+PB_Faridkot,53,121,6,14
+PB_Fatehgarh Sahib,53,123,6,14
+PB_Fazilka,54,121,7,14
+PB_Ferozepur,54,122,6,14
+PB_Gurdaspur,51,119,6,14
+PB_Hoshiarpur,52,121,7,14
+PB_Jalandhar,51,119,6,14
+PB_Kapurthala,52,121,7,14
+PB_Ludhiana,53,120,6,14
+PB_Mansa,53,120,6,14
+PB_Moga,45,119,6,14
+PB_Pathankot,52,120,7,14
+PB_Patiala,52,120,6,14
+PB_Rupnagar,53,121,6,14
+PB_S.A.S. Nagar,53,120,6,14
+PB_Sangrur,53,119,6,14
+PB_Shahid Bhagat Singh Nagar,54,103,7,12
+PB_Sri Muktsar Sahib,51,123,6,14
+PB_Tarn Taran,54,109,7,14
+PY_Karaikal,55,123,7,15
+PY_Mahe,59,117,7,14
+PY_Puducherry,47,122,6,14
+PY_Yanam,48,119,6,14
+RJ_Ajmer,72,116,9,14
+RJ_Alwar,72,117,5,14
+RJ_Banswara,53,117,6,14
+RJ_Baran,50,118,6,14
+RJ_Barmer,36,120,5,14
+RJ_Bharatpur,74,121,9,14
+RJ_Bhilwara,58,115,7,14
+RJ_Bikaner,60,118,8,14
+RJ_Bundi,73,117,9,14
+RJ_Chittorgarh,50,119,9,14
+RJ_Churu,57,119,7,14
+RJ_Dausa,62,121,8,14
+RJ_Dholpur,45,116,5,14
+RJ_Dungarpur,75,120,9,14
+RJ_Ganganagar,63,119,8,14
+RJ_Hanumangarh,73,118,8,14
+RJ_Jaipur,74,119,9,14
+RJ_Jaisalmer,73,121,9,14
+RJ_Jalore,55,118,8,14
+RJ_Jhalawar,49,118,6,14
+RJ_Jhunjhunu,66,121,8,14
+RJ_Jodhpur,73,119,7,14
+RJ_Karauli,56,119,7,14
+RJ_Kota,73,115,9,14
+RJ_Nagaur,73,121,9,14
+RJ_Pali,72,118,9,14
+RJ_Pratapgarh2,52,118,6,14
+RJ_Rajsamand,77,121,9,14
+RJ_Sawai Madhopur,73,116,9,14
+RJ_Sikar,64,117,8,14
+RJ_Sirohi,72,115,7,14
+RJ_Tonk,72,118,9,14
+RJ_Udaipur,73,118,7,14
+TN_Ariyalur,44,124,6,15
+TN_Chengalpattu,38,120,5,14
+TN_Chennai,31,121,4,14
+TN_Coimbatore,55,125,7,15
+TN_Cuddalore,50,123,6,15
+TN_Dharmapuri,55,124,7,15
+TN_Dindigul,42,124,5,15
+TN_Erode,55,126,7,15
+TN_Kallakurichi,38,125,6,15
+TN_Kancheepuram,38,123,5,15
+TN_Kanyakumari,38,124,5,15
+TN_Karur,54,126,7,15
+TN_Krishnagiri,55,124,7,15
+TN_Madurai,35,124,4,15
+TN_Nagapattinam,52,126,6,15
+TN_Namakkal,59,126,7,15
+TN_Nilgiris,56,127,7,15
+TN_Perambalur,42,125,6,15
+TN_Pudukkottai,44,124,6,15
+TN_Ramanathapuram,31,124,5,15
+TN_Ranipet,39,124,5,15
+TN_Salem,48,127,7,15
+TN_Sivaganga,36,124,5,15
+TN_Tenkasi,42,123,5,15
+TN_Thanjavur,58,125,7,15
+TN_Theni,42,123,5,15
+TN_Thiruvallur,38,123,5,15
+TN_Thiruvarur,51,124,7,15
+TN_Thoothukkudi,38,123,5,15
+TN_Tiruchirappalli,38,123,5,15
+TN_Tirunelveli,39,121,5,14
+TN_Tirupathur,53,123,7,15
+TN_Tiruppur,55,125,7,15
+TN_Tiruvannamalai,50,124,5,15
+TN_Vellore,39,120,5,14
+TN_Viluppuram,48,126,6,15
+TN_Virudhunagar,38,124,5,15
+TN_Mayiladuthurai,0,135,0,16
+TR_Dhalai,50,135,6,16
+TR_Gomati,53,140,7,16
+TR_Khowai,49,128,6,15
+TR_North Tripura,50,131,6,15
+TR_Sipahijala,50,124,6,15
+TR_South Tripura,55,124,7,15
+TR_Unokoti,53,138,7,16
+TR_West Tripura,50,123,6,15
+UP_Agra,54,117,7,14
+UP_Aligarh,52,119,6,14
+UP_Ambedkar Nagar,51,122,6,14
+UP_Amethi,51,115,6,14
+UP_Amroha,56,119,6,14
+UP_Auraiya,50,115,6,14
+UP_Ayodhya,47,116,6,14
+UP_Azamgarh,42,119,6,14
+UP_Baghpat,52,118,9,14
+UP_Bahraich,41,116,6,14
+UP_Ballia,38,116,5,14
+UP_Balrampur1,54,115,6,14
+UP_Banda,48,116,6,14
+UP_Barabanki,51,115,6,14
+UP_Bareilly,43,117,6,14
+UP_Basti,43,116,5,14
+UP_Bhadohi,38,116,5,14
+UP_Bijnor,49,117,6,14
+UP_Budaun,46,119,6,14
+UP_Bulandshahr,52,120,6,14
+UP_Chandauli,52,116,6,14
+UP_Chitrakoot,54,119,6,14
+UP_Deoria,46,119,6,14
+UP_Etah,51,117,6,14
+UP_Etawah,52,115,6,14
+UP_Farrukhabad,57,115,7,14
+UP_Fatehpur,59,115,7,14
+UP_Firozabad,49,116,6,14
+UP_Gautam Buddha Nagar,66,118,7,14
+UP_Ghaziabad,52,118,7,14
+UP_Ghazipur,44,116,5,14
+UP_Gonda,46,116,6,14
+UP_Gorakhpur,44,116,6,14
+UP_Hapur,55,120,7,14
+UP_Hardoi,51,117,6,14
+UP_Hathras,48,120,6,14
+UP_Jalaun,40,118,6,14
+UP_Jaunpur,38,115,5,14
+UP_Jhansi,52,118,6,14
+UP_Kannauj,39,118,5,14
+UP_Kanpur Dehat,49,115,6,14
+UP_Kanpur Nagar,51,116,6,14
+UP_Kasganj,50,118,6,14
+UP_Kaushambi,52,115,6,14
+UP_Kushinagar,49,120,6,14
+UP_Lakhimpur Kheri,53,116,7,14
+UP_Lalitpur,49,118,6,14
+UP_Lucknow,54,114,6,14
+UP_Maharajganj,47,121,6,14
+UP_Mahoba,69,118,6,14
+UP_Mainpuri,51,116,6,14
+UP_Mathura,53,117,6,14
+UP_Mau,50,116,6,14
+UP_Meerut,72,120,7,14
+UP_Mirzapur,39,115,5,14
+UP_Moradabad,47,118,6,14
+UP_Muzaffarnagar,53,120,7,14
+UP_Pilibhit,43,120,6,14
+UP_Pratapgarh1,52,119,6,14
+UP_Prayagraj,52,114,6,14
+UP_Rae Bareli,51,115,7,14
+UP_Rampur,47,118,6,14
+UP_Saharanpur,50,119,6,14
+UP_Sambhal,47,118,6,14
+UP_Sant Kabir Nagar,41,116,5,14
+UP_Shahjahanpur,50,116,6,14
+UP_Shamli,51,118,6,14
+UP_Shrawasti,44,116,6,14
+UP_Siddharthnagar,43,119,5,14
+UP_Sitapur,50,115,6,14
+UP_Sonbhadra,51,116,6,14
+UP_Sultanpur,43,115,5,14
+UP_Unnao,51,117,6,14
+UP_Varanasi,42,115,6,14
+UT_Almora,55,122,7,14
+UT_Bageshwar,53,119,7,14
+UT_Chamoli,68,122,8,14
+UT_Champawat,56,119,7,14
+UT_Dehradun,53,119,7,14
+UT_Haridwar,52,116,6,14
+UT_Nainital,53,120,6,14
+UT_Pauri Garhwal,68,122,8,14
+UT_Pithoragarh,73,121,9,15
+UT_Rudraprayag,66,122,8,14
+UT_Tehri Garhwal,50,121,6,14
+UT_Udham Singh Nagar,52,120,6,14
+UT_Uttarkashi,53,120,7,14
+WB_Alipurduar,49,125,6,15
+WB_Bankura,54,124,6,15
+WB_Birbhum,47,120,8,14
+WB_Cooch Behar,49,125,8,15
+WB_Dakshin Dinajpur,45,120,6,14
+WB_Darjeeling,70,124,8,15
+WB_Hooghly,72,123,8,14
+WB_Howrah,63,124,8,14
+WB_Jalpaiguri,70,125,8,15
+WB_Jhargram,61,124,8,15
+WB_Kalimpong,43,125,7,15
+WB_Kolkata,65,121,8,14
+WB_Malda,43,116,8,14
+WB_Murshidabad,45,116,8,14
+WB_Nadia,73,124,8,15
+WB_North 24 Parganas,65,122,8,14
+WB_Paschim Bardhaman,51,121,6,14
+WB_Paschim Medinipur,53,122,6,15
+WB_Purba Bardhaman,64,120,8,14
+WB_Purba Medinipur,51,121,6,15
+WB_Purulia,53,116,7,14
+WB_South 24 Parganas,66,123,8,14
+WB_Uttar Dinajpur,45,119,7,14

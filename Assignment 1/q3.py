@@ -1,4 +1,4 @@
-import csv, json, datetime
+import csv, json
 
 with open('out/neighbor-districts-modified.json') as ndjson:
     nds = json.load(ndjson)
