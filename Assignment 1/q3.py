@@ -6,11 +6,17 @@ with open('out/neighbor-districts-modified.json') as ndjson:
 with open('meta/dist_name_key.json') as dsnk:
     distnamekey = json.load(dsnk)
 
+with open("meta/state_codes.json") as stcdsjs:
+    state_codes = json.load(stcdsjs)
+
 convt_data={}
+state_unk_detailed={}
 lst = []
 not_in_cowin = []
 for k in distnamekey.keys():
     convt_data[k] = {}
+for scd in state_codes.keys():
+    state_unk_detailed[state_codes[scd]] = {}
 
 with open('districts.csv', newline='') as dswcsv:
     csvDict = csv.DictReader(dswcsv)
@@ -25,6 +31,13 @@ with open('districts.csv', newline='') as dswcsv:
                 }
             else:
                 lst.append(row["District"].lower().replace(" ", "_"))
+        else:
+            state_unk_detailed[state_codes[row["State"]]][row["Date"]] = {
+                "con":int(row["Confirmed"]),
+                "rec":int(row["Recovered"]),
+                "det":int(row["Deceased"]),
+                "oth":int(row["Other"])
+            }
 
 for k in distnamekey.keys():
     if convt_data[k] == {}:
@@ -52,6 +65,11 @@ ovdt = {}
 wk_typ1 = []
 wk_typ2 = []
 mnth = []
+
+state_unk = {
+    "wk": {},
+    "mn": {}
+}
 
 while str_date != endDate:
     d+=1
@@ -84,18 +102,39 @@ for i in range(0, len(wk_typ1)-1):
     for k in distnamekey.keys():
         if k not in not_in_cowin:
             wkdt[str(2*i+1)][k] = convt_data[k].get(wk_typ1[i+1], {"con": 0})["con"]-convt_data[k].get(wk_typ1[i], {"con": 0})["con"]
+    state_unk["wk"][str(2*i+1)] = {}
+    for skey in state_unk_detailed.keys():
+        if state_unk_detailed[skey].get(wk_typ1[i+1], {"con": 0})["con"] != 0:
+            state_unk["wk"][str(2*i+1)][skey] = state_unk_detailed[skey].get(wk_typ1[i+1], {"con": 0})["con"]-state_unk_detailed[skey].get(wk_typ1[i], {"con": 0})["con"]
+        else:
+            state_unk["wk"][str(2*i+1)][skey] = 0
 
 for i in range(0, len(wk_typ2)-1):
     wkdt[str(2*i+2)] = {}
     for k in distnamekey.keys():
         if k not in not_in_cowin:
             wkdt[str(2*i+2)][k] = convt_data[k].get(wk_typ2[i+1], {"con": 0})["con"]-convt_data[k].get(wk_typ2[i], {"con": 0})["con"]
+    state_unk["wk"][str(2*i+2)] = {}
+    for skey in state_unk_detailed.keys():
+        if state_unk_detailed[skey].get(wk_typ2[i+1], {"con": 0})["con"] != 0:
+            state_unk["wk"][str(2*i+2)][skey] = state_unk_detailed[skey].get(wk_typ2[i+1], {"con": 0})["con"]-state_unk_detailed[skey].get(wk_typ2[i], {"con": 0})["con"]
+        else:
+            state_unk["wk"][str(2*i+2)][skey] = 0
 
 for i in range(0, len(mnth)-1):
     mndt[str(i+1)] = {}
     for k in distnamekey.keys():
         if k not in not_in_cowin:
             mndt[str(i+1)][k] = convt_data[k].get(mnth[i+1], {"con": 0})["con"]-convt_data[k].get(mnth[i], {"con": 0})["con"]
+    state_unk["mn"][str(i+1)] = {}
+    for skey in state_unk_detailed.keys():
+        if state_unk_detailed[skey].get(mnth[i+1], {"con": 0})["con"] != 0:
+            state_unk["mn"][str(i+1)][skey] = state_unk_detailed[skey].get(mnth[i+1], {"con": 0})["con"]-state_unk_detailed[skey].get(mnth[i], {"con": 0})["con"]
+        else:
+            state_unk["mn"][str(i+1)][skey] = 0
+
+with open("meta/state_unknown.json", "w") as suk:
+    json.dump(state_unk, suk, indent="\t")
 
 with open("meta/covid_cases_weekly.json", "w") as cccjs:
     json.dump(wkdt, cccjs, indent="\t")
