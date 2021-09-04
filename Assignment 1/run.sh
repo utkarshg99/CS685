@@ -1,4 +1,4 @@
-python3 meta_q1.py > meta/edtDist.txt
+python3 meta.py > meta/edtDist.txt
 echo "Generated Metadata"
 python3 q1.py
 echo "Generated out/neighbor-districts-modified.json"

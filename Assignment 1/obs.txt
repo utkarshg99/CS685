@@ -1,0 +1,7 @@
+1-4-2021 : Registered Turns to Vaccinated
+BR_Aurangabad: BR_Aurangabad1
+MH_Aurangabad: MH_Aurangabad2
+UP_Balrampur: UP_Balrampur1
+CT_Balrampur: CT_Balrampur2
+UP_Pratapgarh: UP_Pratapgarh1
+RJ_Pratapgarh: RJ_Pratapgarh2
