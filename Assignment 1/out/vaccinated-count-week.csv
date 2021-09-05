@@ -127,9 +127,9 @@ AN_Nicobars,125,161,0
 AN_Nicobars,126,38,1
 AN_Nicobars,127,10,1
 AN_Nicobars,128,19,0
-AN_Nicobars,129,70,0
+AN_Nicobars,129,71,0
 AN_Nicobars,130,387,1
-AN_Nicobars,131,1193,1
+AN_Nicobars,131,1192,1
 AN_Nicobars,132,2556,12
 AN_Nicobars,133,3719,51
 AN_Nicobars,134,3423,795
@@ -276,9 +276,9 @@ AN_North and Middle Andaman,127,357,7
 AN_North and Middle Andaman,128,34,7
 AN_North and Middle Andaman,129,901,2
 AN_North and Middle Andaman,130,1820,3
-AN_North and Middle Andaman,131,1329,1
+AN_North and Middle Andaman,131,1330,1
 AN_North and Middle Andaman,132,1971,8
-AN_North and Middle Andaman,133,5036,152
+AN_North and Middle Andaman,133,5035,152
 AN_North and Middle Andaman,134,8921,1184
 AN_North and Middle Andaman,135,5541,2730
 AN_North and Middle Andaman,136,164,8048
@@ -552,14 +552,14 @@ AP_Anantapur,109,41180,2254
 AP_Anantapur,110,39202,2672
 AP_Anantapur,111,56584,3931
 AP_Anantapur,112,73489,5121
-AP_Anantapur,113,36573,2764
+AP_Anantapur,113,36604,2764
 AP_Anantapur,114,42446,1830
-AP_Anantapur,115,63040,33895
+AP_Anantapur,115,63009,33895
 AP_Anantapur,116,57961,46967
 AP_Anantapur,117,49088,38962
-AP_Anantapur,118,11943,25031
+AP_Anantapur,118,12023,25031
 AP_Anantapur,119,28427,54745
-AP_Anantapur,120,31432,61284
+AP_Anantapur,120,31352,61284
 AP_Anantapur,121,4609,11140
 AP_Anantapur,122,4234,9285
 AP_Anantapur,123,5383,5770
@@ -854,10 +854,10 @@ AP_East Godavari,117,52050,37828
 AP_East Godavari,118,23754,34121
 AP_East Godavari,119,11738,30496
 AP_East Godavari,120,13280,19772
-AP_East Godavari,121,4967,8374
-AP_East Godavari,122,627,15217
-AP_East Godavari,123,3298,26204
-AP_East Godavari,124,67440,12523
+AP_East Godavari,121,5321,8374
+AP_East Godavari,122,677,15217
+AP_East Godavari,123,2944,26204
+AP_East Godavari,124,67390,12523
 AP_East Godavari,125,196451,17126
 AP_East Godavari,126,164495,19173
 AP_East Godavari,127,81984,4767
@@ -1441,9 +1441,9 @@ AP_Prakasam,116,48314,48958
 AP_Prakasam,117,44386,34129
 AP_Prakasam,118,26257,27717
 AP_Prakasam,119,19314,34225
-AP_Prakasam,120,11326,22107
+AP_Prakasam,120,11480,22107
 AP_Prakasam,121,1626,7033
-AP_Prakasam,122,9630,31049
+AP_Prakasam,122,9476,31049
 AP_Prakasam,123,17266,26542
 AP_Prakasam,124,69152,4917
 AP_Prakasam,125,114760,7894
@@ -1451,9 +1451,9 @@ AP_Prakasam,126,78933,15380
 AP_Prakasam,127,61460,14224
 AP_Prakasam,128,77378,5968
 AP_Prakasam,129,72663,3336
-AP_Prakasam,130,57124,2366
+AP_Prakasam,130,57125,2366
 AP_Prakasam,131,24697,1243
-AP_Prakasam,132,109225,7799
+AP_Prakasam,132,109224,7799
 AP_Prakasam,133,157027,17632
 AP_Prakasam,134,95007,19476
 AP_Prakasam,135,78892,16326
@@ -1728,9 +1728,9 @@ AP_Srikakulam,109,39516,3238
 AP_Srikakulam,110,43470,5255
 AP_Srikakulam,111,50040,6822
 AP_Srikakulam,112,72058,6905
-AP_Srikakulam,113,44219,3288
+AP_Srikakulam,113,44231,3288
 AP_Srikakulam,114,5175,476
-AP_Srikakulam,115,29347,21652
+AP_Srikakulam,115,29335,21652
 AP_Srikakulam,116,50772,27684
 AP_Srikakulam,117,38616,19202
 AP_Srikakulam,118,14700,19442
@@ -1746,9 +1746,9 @@ AP_Srikakulam,127,61290,1293
 AP_Srikakulam,128,44417,852
 AP_Srikakulam,129,47487,3231
 AP_Srikakulam,130,92460,5027
-AP_Srikakulam,131,55863,2318
+AP_Srikakulam,131,55866,2318
 AP_Srikakulam,132,88735,7327
-AP_Srikakulam,133,134029,21196
+AP_Srikakulam,133,134026,21196
 AP_Srikakulam,134,77621,28329
 AP_Srikakulam,135,62803,23839
 AP_Srikakulam,136,39296,25728
@@ -2323,12 +2323,12 @@ AP_Y.S.R. Kadapa,116,49543,50917
 AP_Y.S.R. Kadapa,117,35731,32761
 AP_Y.S.R. Kadapa,118,28151,36920
 AP_Y.S.R. Kadapa,119,22875,42650
-AP_Y.S.R. Kadapa,120,7017,20011
-AP_Y.S.R. Kadapa,121,292,3000
-AP_Y.S.R. Kadapa,122,2896,12182
-AP_Y.S.R. Kadapa,123,2905,11757
+AP_Y.S.R. Kadapa,120,7092,20011
+AP_Y.S.R. Kadapa,121,319,3000
+AP_Y.S.R. Kadapa,122,2821,12182
+AP_Y.S.R. Kadapa,123,2881,11757
 AP_Y.S.R. Kadapa,124,32223,6877
-AP_Y.S.R. Kadapa,125,108856,9551
+AP_Y.S.R. Kadapa,125,108853,9551
 AP_Y.S.R. Kadapa,126,108700,8915
 AP_Y.S.R. Kadapa,127,64019,5699
 AP_Y.S.R. Kadapa,128,33644,2047
@@ -2493,9 +2493,9 @@ AR_Anjaw,139,417,122
 AR_Anjaw,140,477,199
 AR_Anjaw,141,450,258
 AR_Anjaw,142,304,294
-AR_Anjaw,143,154,226
+AR_Anjaw,143,165,226
 AR_Anjaw,144,207,120
-AR_Anjaw,145,266,124
+AR_Anjaw,145,255,124
 AR_Anjaw,146,177,286
 AR_Anjaw,147,96,262
 AR_Changlang,1,0,0
@@ -2881,7 +2881,7 @@ AR_East Siang,86,0,0
 AR_East Siang,87,0,0
 AR_East Siang,88,0,0
 AR_East Siang,89,74,0
-AR_East Siang,90,200,0
+AR_East Siang,90,198,0
 AR_East Siang,91,263,0
 AR_East Siang,92,148,0
 AR_East Siang,93,289,0
@@ -3194,11 +3194,11 @@ AR_Kra Daadi,105,8,56
 AR_Kra Daadi,106,63,43
 AR_Kra Daadi,107,156,17
 AR_Kra Daadi,108,293,7
-AR_Kra Daadi,109,218,-6
-AR_Kra Daadi,110,65,-4
-AR_Kra Daadi,111,113,4
-AR_Kra Daadi,112,342,13
-AR_Kra Daadi,113,341,15
+AR_Kra Daadi,109,218,1
+AR_Kra Daadi,110,65,0
+AR_Kra Daadi,111,113,0
+AR_Kra Daadi,112,342,9
+AR_Kra Daadi,113,341,12
 AR_Kra Daadi,114,124,5
 AR_Kra Daadi,115,141,52
 AR_Kra Daadi,116,215,121
@@ -3230,9 +3230,9 @@ AR_Kra Daadi,141,221,230
 AR_Kra Daadi,142,267,170
 AR_Kra Daadi,143,467,154
 AR_Kra Daadi,144,342,120
-AR_Kra Daadi,145,4,73
-AR_Kra Daadi,146,2,83
-AR_Kra Daadi,147,24,227
+AR_Kra Daadi,145,6,73
+AR_Kra Daadi,146,4,83
+AR_Kra Daadi,147,22,227
 AR_Kurung Kumey,1,0,0
 AR_Kurung Kumey,2,0,0
 AR_Kurung Kumey,3,0,0
@@ -3364,9 +3364,9 @@ AR_Kurung Kumey,128,169,0
 AR_Kurung Kumey,129,48,7
 AR_Kurung Kumey,130,53,7
 AR_Kurung Kumey,131,75,0
-AR_Kurung Kumey,132,60,0
+AR_Kurung Kumey,132,62,0
 AR_Kurung Kumey,133,299,12
-AR_Kurung Kumey,134,823,43
+AR_Kurung Kumey,134,821,43
 AR_Kurung Kumey,135,981,139
 AR_Kurung Kumey,136,1146,202
 AR_Kurung Kumey,137,766,115
@@ -3488,9 +3488,9 @@ AR_Lepa Rada,105,174,300
 AR_Lepa Rada,106,135,235
 AR_Lepa Rada,107,219,92
 AR_Lepa Rada,108,161,85
-AR_Lepa Rada,109,72,34
+AR_Lepa Rada,109,72,42
 AR_Lepa Rada,110,72,52
-AR_Lepa Rada,111,520,172
+AR_Lepa Rada,111,520,164
 AR_Lepa Rada,112,1389,152
 AR_Lepa Rada,113,1205,101
 AR_Lepa Rada,114,568,120
@@ -3763,7 +3763,7 @@ AR_Longding,86,0,0
 AR_Longding,87,0,0
 AR_Longding,88,0,0
 AR_Longding,89,61,0
-AR_Longding,90,63,0
+AR_Longding,90,62,0
 AR_Longding,91,17,0
 AR_Longding,92,16,0
 AR_Longding,93,81,0
@@ -3782,10 +3782,10 @@ AR_Longding,105,369,183
 AR_Longding,106,422,157
 AR_Longding,107,273,114
 AR_Longding,108,161,86
-AR_Longding,109,-134,59
-AR_Longding,110,-85,168
-AR_Longding,111,216,243
-AR_Longding,112,240,183
+AR_Longding,109,52,59
+AR_Longding,110,0,168
+AR_Longding,111,30,243
+AR_Longding,112,155,183
 AR_Longding,113,181,120
 AR_Longding,114,381,187
 AR_Longding,115,519,208
@@ -4693,9 +4693,9 @@ AR_Papum Pare,134,1810,417
 AR_Papum Pare,135,1663,416
 AR_Papum Pare,136,1486,560
 AR_Papum Pare,137,1390,658
-AR_Papum Pare,138,847,783
+AR_Papum Pare,138,1031,783
 AR_Papum Pare,139,735,831
-AR_Papum Pare,140,1004,823
+AR_Papum Pare,140,820,823
 AR_Papum Pare,141,945,883
 AR_Papum Pare,142,743,731
 AR_Papum Pare,143,825,696
@@ -4840,9 +4840,9 @@ AR_Papum Pare,134,1810,417
 AR_Papum Pare,135,1663,416
 AR_Papum Pare,136,1486,560
 AR_Papum Pare,137,1390,658
-AR_Papum Pare,138,847,783
+AR_Papum Pare,138,1031,783
 AR_Papum Pare,139,735,831
-AR_Papum Pare,140,1004,823
+AR_Papum Pare,140,820,823
 AR_Papum Pare,141,945,883
 AR_Papum Pare,142,743,731
 AR_Papum Pare,143,825,696
@@ -5108,18 +5108,18 @@ AR_Siang,108,657,10
 AR_Siang,109,630,40
 AR_Siang,110,780,127
 AR_Siang,111,997,136
-AR_Siang,112,747,87
+AR_Siang,112,748,87
 AR_Siang,113,344,58
-AR_Siang,114,382,96
+AR_Siang,114,381,96
 AR_Siang,115,394,171
 AR_Siang,116,331,155
 AR_Siang,117,439,228
 AR_Siang,118,530,382
 AR_Siang,119,297,283
 AR_Siang,120,131,352
-AR_Siang,121,79,438
+AR_Siang,121,82,438
 AR_Siang,122,455,152
-AR_Siang,123,504,0
+AR_Siang,123,501,0
 AR_Siang,124,199,0
 AR_Siang,125,190,0
 AR_Siang,126,130,3
@@ -5252,13 +5252,13 @@ AR_Tawang,105,398,120
 AR_Tawang,106,473,268
 AR_Tawang,107,311,181
 AR_Tawang,108,136,125
-AR_Tawang,109,475,56
+AR_Tawang,109,475,96
 AR_Tawang,110,1038,273
-AR_Tawang,111,1507,675
-AR_Tawang,112,1538,536
-AR_Tawang,113,754,250
-AR_Tawang,114,720,428
-AR_Tawang,115,1098,595
+AR_Tawang,111,1511,635
+AR_Tawang,112,1647,536
+AR_Tawang,113,776,250
+AR_Tawang,114,611,428
+AR_Tawang,115,1072,595
 AR_Tawang,116,1067,408
 AR_Tawang,117,1012,390
 AR_Tawang,118,863,600
@@ -5286,9 +5286,9 @@ AR_Tawang,139,442,1058
 AR_Tawang,140,363,932
 AR_Tawang,141,526,820
 AR_Tawang,142,479,557
-AR_Tawang,143,290,509
+AR_Tawang,143,305,509
 AR_Tawang,144,333,625
-AR_Tawang,145,1013,398
+AR_Tawang,145,998,398
 AR_Tawang,146,1244,621
 AR_Tawang,147,552,802
 AR_Tirap,1,0,0
@@ -5546,19 +5546,19 @@ AR_Upper Dibang Valley,105,289,117
 AR_Upper Dibang Valley,106,183,73
 AR_Upper Dibang Valley,107,98,54
 AR_Upper Dibang Valley,108,77,31
-AR_Upper Dibang Valley,109,118,13
-AR_Upper Dibang Valley,110,103,-2
-AR_Upper Dibang Valley,111,14,2
-AR_Upper Dibang Valley,112,97,165
-AR_Upper Dibang Valley,113,96,165
-AR_Upper Dibang Valley,114,20,58
-AR_Upper Dibang Valley,115,91,131
-AR_Upper Dibang Valley,116,68,79
-AR_Upper Dibang Valley,117,29,64
-AR_Upper Dibang Valley,118,129,161
-AR_Upper Dibang Valley,119,146,119
+AR_Upper Dibang Valley,109,118,17
+AR_Upper Dibang Valley,110,103,0
+AR_Upper Dibang Valley,111,19,0
+AR_Upper Dibang Valley,112,97,163
+AR_Upper Dibang Valley,113,97,163
+AR_Upper Dibang Valley,114,27,58
+AR_Upper Dibang Valley,115,85,131
+AR_Upper Dibang Valley,116,63,79
+AR_Upper Dibang Valley,117,30,64
+AR_Upper Dibang Valley,118,127,161
+AR_Upper Dibang Valley,119,148,119
 AR_Upper Dibang Valley,120,80,49
-AR_Upper Dibang Valley,121,61,62
+AR_Upper Dibang Valley,121,58,62
 AR_Upper Dibang Valley,122,109,29
 AR_Upper Dibang Valley,123,122,0
 AR_Upper Dibang Valley,124,66,1
@@ -5674,7 +5674,7 @@ AR_Upper Siang,86,0,0
 AR_Upper Siang,87,0,0
 AR_Upper Siang,88,0,0
 AR_Upper Siang,89,1,0
-AR_Upper Siang,90,59,0
+AR_Upper Siang,90,58,0
 AR_Upper Siang,91,122,0
 AR_Upper Siang,92,75,0
 AR_Upper Siang,93,210,0
@@ -5987,9 +5987,9 @@ AR_West Kameng,105,1100,493
 AR_West Kameng,106,1021,819
 AR_West Kameng,107,823,612
 AR_West Kameng,108,500,377
-AR_West Kameng,109,111,107
+AR_West Kameng,109,111,154
 AR_West Kameng,110,852,304
-AR_West Kameng,111,1849,803
+AR_West Kameng,111,1849,756
 AR_West Kameng,112,3060,1155
 AR_West Kameng,113,2221,904
 AR_West Kameng,114,1103,868
@@ -6578,9 +6578,9 @@ AS_Biswanath,108,2039,229
 AS_Biswanath,109,2215,924
 AS_Biswanath,110,3638,1768
 AS_Biswanath,111,2350,1406
-AS_Biswanath,112,444,859
+AS_Biswanath,112,445,859
 AS_Biswanath,113,519,919
-AS_Biswanath,114,4852,2480
+AS_Biswanath,114,4851,2480
 AS_Biswanath,115,6354,3018
 AS_Biswanath,116,5350,2174
 AS_Biswanath,117,10654,3390
@@ -6725,9 +6725,9 @@ AS_Bongaigaon,108,2934,811
 AS_Bongaigaon,109,3636,2566
 AS_Bongaigaon,110,4151,3006
 AS_Bongaigaon,111,2171,2745
-AS_Bongaigaon,112,1393,2411
+AS_Bongaigaon,112,1398,2411
 AS_Bongaigaon,113,427,931
-AS_Bongaigaon,114,3792,3821
+AS_Bongaigaon,114,3787,3821
 AS_Bongaigaon,115,4770,3743
 AS_Bongaigaon,116,6029,3557
 AS_Bongaigaon,117,11020,6167
@@ -6869,9 +6869,9 @@ AS_Cachar,105,3456,1128
 AS_Cachar,106,7139,1238
 AS_Cachar,107,12304,2565
 AS_Cachar,108,7148,1925
-AS_Cachar,109,1841,92
+AS_Cachar,109,1841,109
 AS_Cachar,110,4184,1616
-AS_Cachar,111,6574,4164
+AS_Cachar,111,6574,4147
 AS_Cachar,112,6784,4634
 AS_Cachar,113,4600,2982
 AS_Cachar,114,6713,2920
@@ -7165,11 +7165,11 @@ AS_Chirang,107,2808,1766
 AS_Chirang,108,1835,1051
 AS_Chirang,109,519,407
 AS_Chirang,110,374,538
-AS_Chirang,111,1129,1609
-AS_Chirang,112,1281,2006
-AS_Chirang,113,324,790
-AS_Chirang,114,525,815
-AS_Chirang,115,3770,2013
+AS_Chirang,111,1138,1609
+AS_Chirang,112,1287,2006
+AS_Chirang,113,342,790
+AS_Chirang,114,519,815
+AS_Chirang,115,3743,2013
 AS_Chirang,116,5083,2053
 AS_Chirang,117,5368,1914
 AS_Chirang,118,6520,1975
@@ -7180,9 +7180,9 @@ AS_Chirang,122,4623,326
 AS_Chirang,123,4139,301
 AS_Chirang,124,1816,485
 AS_Chirang,125,2738,351
-AS_Chirang,126,2836,129
+AS_Chirang,126,2845,129
 AS_Chirang,127,1362,95
-AS_Chirang,128,2222,910
+AS_Chirang,128,2213,910
 AS_Chirang,129,4420,1761
 AS_Chirang,130,4614,1820
 AS_Chirang,131,2856,2249
@@ -7197,9 +7197,9 @@ AS_Chirang,139,10766,1764
 AS_Chirang,140,10492,2165
 AS_Chirang,141,6640,1441
 AS_Chirang,142,8577,3380
-AS_Chirang,143,8594,3181
+AS_Chirang,143,8741,3181
 AS_Chirang,144,14499,2358
-AS_Chirang,145,24454,3107
+AS_Chirang,145,24307,3107
 AS_Chirang,146,21224,2870
 AS_Chirang,147,16258,3045
 AS_Darrang,1,0,0
@@ -7313,9 +7313,9 @@ AS_Darrang,108,4383,736
 AS_Darrang,109,708,281
 AS_Darrang,110,1386,1598
 AS_Darrang,111,2428,2892
-AS_Darrang,112,1547,2001
+AS_Darrang,112,1548,2001
 AS_Darrang,113,449,912
-AS_Darrang,114,3576,3551
+AS_Darrang,114,3575,3551
 AS_Darrang,115,5600,4245
 AS_Darrang,116,7985,3024
 AS_Darrang,117,13592,4754
@@ -7607,9 +7607,9 @@ AS_Dhubri,108,14483,1006
 AS_Dhubri,109,3559,1195
 AS_Dhubri,110,4417,1568
 AS_Dhubri,111,5729,3077
-AS_Dhubri,112,3961,2786
+AS_Dhubri,112,3980,2786
 AS_Dhubri,113,931,1217
-AS_Dhubri,114,4351,3544
+AS_Dhubri,114,4332,3544
 AS_Dhubri,115,4920,3835
 AS_Dhubri,116,3985,2875
 AS_Dhubri,117,8448,5898
@@ -7641,7 +7641,7 @@ AS_Dhubri,142,16440,6991
 AS_Dhubri,143,13417,6856
 AS_Dhubri,144,37108,7196
 AS_Dhubri,145,58608,7621
-AS_Dhubri,146,43200,3965
+AS_Dhubri,146,43218,3965
 AS_Dhubri,147,36602,3919
 AS_Dibrugarh,1,0,0
 AS_Dibrugarh,2,0,0
@@ -7902,9 +7902,9 @@ AS_Dima Hasao,109,340,182
 AS_Dima Hasao,110,1694,580
 AS_Dima Hasao,111,2888,1152
 AS_Dima Hasao,112,1642,1016
-AS_Dima Hasao,113,325,448
+AS_Dima Hasao,113,363,448
 AS_Dima Hasao,114,2021,850
-AS_Dima Hasao,115,3387,1153
+AS_Dima Hasao,115,3349,1153
 AS_Dima Hasao,116,2631,451
 AS_Dima Hasao,117,3605,764
 AS_Dima Hasao,118,4006,1471
@@ -8195,10 +8195,10 @@ AS_Golaghat,108,4640,549
 AS_Golaghat,109,7810,1683
 AS_Golaghat,110,10841,3007
 AS_Golaghat,111,7230,2978
-AS_Golaghat,112,2269,1851
-AS_Golaghat,113,330,589
-AS_Golaghat,114,5138,3857
-AS_Golaghat,115,7888,4609
+AS_Golaghat,112,2287,1851
+AS_Golaghat,113,370,589
+AS_Golaghat,114,5120,3857
+AS_Golaghat,115,7848,4609
 AS_Golaghat,116,8492,3024
 AS_Golaghat,117,18144,5287
 AS_Golaghat,118,16476,4506
@@ -8489,10 +8489,10 @@ AS_Hojai,108,6946,226
 AS_Hojai,109,3405,261
 AS_Hojai,110,5954,1022
 AS_Hojai,111,9075,2383
-AS_Hojai,112,4955,1945
-AS_Hojai,113,627,464
-AS_Hojai,114,5388,2796
-AS_Hojai,115,8817,3757
+AS_Hojai,112,4971,1945
+AS_Hojai,113,663,464
+AS_Hojai,114,5372,2796
+AS_Hojai,115,8781,3757
 AS_Hojai,116,5691,3491
 AS_Hojai,117,8176,4820
 AS_Hojai,118,9621,3925
@@ -8636,9 +8636,9 @@ AS_Jorhat,108,7681,636
 AS_Jorhat,109,9896,1609
 AS_Jorhat,110,11775,2735
 AS_Jorhat,111,6453,2681
-AS_Jorhat,112,2211,1876
+AS_Jorhat,112,2215,1876
 AS_Jorhat,113,515,715
-AS_Jorhat,114,4330,4800
+AS_Jorhat,114,4326,4800
 AS_Jorhat,115,8185,5956
 AS_Jorhat,116,11407,4435
 AS_Jorhat,117,18961,5473
@@ -8647,9 +8647,9 @@ AS_Jorhat,119,13994,3443
 AS_Jorhat,120,11468,2960
 AS_Jorhat,121,9921,1720
 AS_Jorhat,122,10234,331
-AS_Jorhat,123,5725,646
+AS_Jorhat,123,5729,646
 AS_Jorhat,124,6682,537
-AS_Jorhat,125,7544,10
+AS_Jorhat,125,7540,10
 AS_Jorhat,126,7406,10
 AS_Jorhat,127,9184,55
 AS_Jorhat,128,6050,1031
@@ -9225,9 +9225,9 @@ AS_Karimganj,109,2160,260
 AS_Karimganj,110,3320,897
 AS_Karimganj,111,5132,1279
 AS_Karimganj,112,3516,681
-AS_Karimganj,113,797,197
+AS_Karimganj,113,869,197
 AS_Karimganj,114,2729,2346
-AS_Karimganj,115,5084,3466
+AS_Karimganj,115,5012,3466
 AS_Karimganj,116,4759,2436
 AS_Karimganj,117,8360,5590
 AS_Karimganj,118,9863,6135
@@ -9402,9 +9402,9 @@ AS_Kokrajhar,139,8575,4132
 AS_Kokrajhar,140,6569,2910
 AS_Kokrajhar,141,7446,3561
 AS_Kokrajhar,142,10205,7250
-AS_Kokrajhar,143,8164,5398
+AS_Kokrajhar,143,8207,5398
 AS_Kokrajhar,144,36767,6222
-AS_Kokrajhar,145,56548,8163
+AS_Kokrajhar,145,56505,8163
 AS_Kokrajhar,146,44380,5125
 AS_Kokrajhar,147,43273,4859
 AS_Lakhimpur,1,0,0
@@ -9828,9 +9828,9 @@ AS_Morigaon,124,7891,452
 AS_Morigaon,125,5422,551
 AS_Morigaon,126,6985,269
 AS_Morigaon,127,6217,355
-AS_Morigaon,128,3466,266
+AS_Morigaon,128,3479,266
 AS_Morigaon,129,5899,155
-AS_Morigaon,130,6526,2415
+AS_Morigaon,130,6513,2415
 AS_Morigaon,131,6954,3791
 AS_Morigaon,132,28258,3620
 AS_Morigaon,133,34391,3276
@@ -10400,9 +10400,9 @@ AS_Sonitpur,108,4946,1049
 AS_Sonitpur,109,5450,1718
 AS_Sonitpur,110,8707,2958
 AS_Sonitpur,111,9431,3586
-AS_Sonitpur,112,5971,3449
+AS_Sonitpur,112,5977,3449
 AS_Sonitpur,113,2751,2366
-AS_Sonitpur,114,9424,4020
+AS_Sonitpur,114,9418,4020
 AS_Sonitpur,115,18105,6696
 AS_Sonitpur,116,23700,5698
 AS_Sonitpur,117,23534,4585
@@ -10841,9 +10841,9 @@ AS_Udalguri,108,4580,367
 AS_Udalguri,109,1552,488
 AS_Udalguri,110,3494,1514
 AS_Udalguri,111,6242,2033
-AS_Udalguri,112,5211,1670
+AS_Udalguri,112,5214,1670
 AS_Udalguri,113,2060,968
-AS_Udalguri,114,3507,1800
+AS_Udalguri,114,3504,1800
 AS_Udalguri,115,6013,2520
 AS_Udalguri,116,5770,2118
 AS_Udalguri,117,8515,2624
@@ -13631,9 +13631,9 @@ BR_Kishanganj,105,3186,1724
 BR_Kishanganj,106,4089,1534
 BR_Kishanganj,107,6891,1134
 BR_Kishanganj,108,5730,647
-BR_Kishanganj,109,9080,111
+BR_Kishanganj,109,9080,160
 BR_Kishanganj,110,16343,842
-BR_Kishanganj,111,16342,2349
+BR_Kishanganj,111,16342,2300
 BR_Kishanganj,112,14757,2846
 BR_Kishanganj,113,9827,2425
 BR_Kishanganj,114,7068,2718
@@ -14366,9 +14366,9 @@ BR_Muzaffarpur,105,10989,3424
 BR_Muzaffarpur,106,15249,2794
 BR_Muzaffarpur,107,15286,1944
 BR_Muzaffarpur,108,10280,726
-BR_Muzaffarpur,109,31131,-541
+BR_Muzaffarpur,109,31131,180
 BR_Muzaffarpur,110,54639,93
-BR_Muzaffarpur,111,40665,1436
+BR_Muzaffarpur,111,40665,715
 BR_Muzaffarpur,112,43429,2640
 BR_Muzaffarpur,113,43712,3606
 BR_Muzaffarpur,114,29067,4927
@@ -14807,9 +14807,9 @@ BR_Patna,105,36727,12974
 BR_Patna,106,33264,8280
 BR_Patna,107,27847,8828
 BR_Patna,108,18043,6741
-BR_Patna,109,41754,-1012
+BR_Patna,109,41754,1853
 BR_Patna,110,96967,1955
-BR_Patna,111,101548,9400
+BR_Patna,111,101548,6535
 BR_Patna,112,96721,13712
 BR_Patna,113,91229,18176
 BR_Patna,114,60455,19133
@@ -16277,9 +16277,9 @@ BR_Supaul,105,4654,1271
 BR_Supaul,106,8608,815
 BR_Supaul,107,14469,554
 BR_Supaul,108,9899,372
-BR_Supaul,109,7404,-217
+BR_Supaul,109,7404,185
 BR_Supaul,110,18084,709
-BR_Supaul,111,18871,1896
+BR_Supaul,111,18871,1494
 BR_Supaul,112,17273,1574
 BR_Supaul,113,16157,1728
 BR_Supaul,114,13474,1965
@@ -17600,9 +17600,9 @@ CT_Bijapur,105,3921,4327
 CT_Bijapur,106,4999,2671
 CT_Bijapur,107,6173,2259
 CT_Bijapur,108,5026,1448
-CT_Bijapur,109,4911,348
+CT_Bijapur,109,4911,482
 CT_Bijapur,110,6339,101
-CT_Bijapur,111,6235,1433
+CT_Bijapur,111,6235,1299
 CT_Bijapur,112,5579,1855
 CT_Bijapur,113,4662,1242
 CT_Bijapur,114,6219,1876
@@ -18492,9 +18492,9 @@ CT_Janjgir Champa,115,29031,5573
 CT_Janjgir Champa,116,17927,6891
 CT_Janjgir Champa,117,15206,7998
 CT_Janjgir Champa,118,11025,7455
-CT_Janjgir Champa,119,4769,4282
+CT_Janjgir Champa,119,4787,4282
 CT_Janjgir Champa,120,2550,5911
-CT_Janjgir Champa,121,4751,14003
+CT_Janjgir Champa,121,4733,14003
 CT_Janjgir Champa,122,3829,8756
 CT_Janjgir Champa,123,1506,301
 CT_Janjgir Champa,124,896,471
@@ -19658,9 +19658,9 @@ CT_Narayanpur,105,1677,1831
 CT_Narayanpur,106,1293,1424
 CT_Narayanpur,107,709,854
 CT_Narayanpur,108,365,460
-CT_Narayanpur,109,1292,99
+CT_Narayanpur,109,1292,115
 CT_Narayanpur,110,4317,332
-CT_Narayanpur,111,4160,495
+CT_Narayanpur,111,4160,479
 CT_Narayanpur,112,3440,370
 CT_Narayanpur,113,3660,449
 CT_Narayanpur,114,2374,359
@@ -20268,9 +20268,9 @@ CT_Sukma,127,122,189
 CT_Sukma,128,136,183
 CT_Sukma,129,275,148
 CT_Sukma,130,388,152
-CT_Sukma,131,157,113
+CT_Sukma,131,165,113
 CT_Sukma,132,1108,116
-CT_Sukma,133,5369,356
+CT_Sukma,133,5361,356
 CT_Sukma,134,14477,989
 CT_Sukma,135,14195,1083
 CT_Sukma,136,7070,735
@@ -20687,12 +20687,12 @@ CT_Uttar Bastar Kanker,105,17366,6805
 CT_Uttar Bastar Kanker,106,9953,5590
 CT_Uttar Bastar Kanker,107,6487,2796
 CT_Uttar Bastar Kanker,108,3899,1316
-CT_Uttar Bastar Kanker,109,18359,120
+CT_Uttar Bastar Kanker,109,18359,549
 CT_Uttar Bastar Kanker,110,35556,845
-CT_Uttar Bastar Kanker,111,32499,2997
-CT_Uttar Bastar Kanker,112,23667,3692
+CT_Uttar Bastar Kanker,111,32499,2568
+CT_Uttar Bastar Kanker,112,23679,3692
 CT_Uttar Bastar Kanker,113,14832,3952
-CT_Uttar Bastar Kanker,114,16438,6327
+CT_Uttar Bastar Kanker,114,16426,6327
 CT_Uttar Bastar Kanker,115,16369,7340
 CT_Uttar Bastar Kanker,116,7685,4720
 CT_Uttar Bastar Kanker,117,3276,2632
@@ -20868,9 +20868,9 @@ DL_Central Delhi,139,27722,12048
 DL_Central Delhi,140,19631,9746
 DL_Central Delhi,141,13915,13887
 DL_Central Delhi,142,9419,20264
-DL_Central Delhi,143,-1397,21996
+DL_Central Delhi,143,5747,21996
 DL_Central Delhi,144,5936,22523
-DL_Central Delhi,145,22663,20198
+DL_Central Delhi,145,15519,20198
 DL_Central Delhi,146,28364,21054
 DL_Central Delhi,147,41417,23152
 DL_East Delhi,1,0,0
@@ -21275,9 +21275,9 @@ DL_North Delhi,105,6374,4964
 DL_North Delhi,106,6967,4795
 DL_North Delhi,107,8893,3095
 DL_North Delhi,108,8390,1751
-DL_North Delhi,109,21174,729
+DL_North Delhi,109,21174,745
 DL_North Delhi,110,38408,2731
-DL_North Delhi,111,39461,6070
+DL_North Delhi,111,39461,6054
 DL_North Delhi,112,39928,7186
 DL_North Delhi,113,32416,6990
 DL_North Delhi,114,24424,7130
@@ -21309,9 +21309,9 @@ DL_North Delhi,139,22611,7856
 DL_North Delhi,140,8732,5995
 DL_North Delhi,141,5571,10527
 DL_North Delhi,142,2826,15681
-DL_North Delhi,143,42,19590
+DL_North Delhi,143,1441,19590
 DL_North Delhi,144,15973,20601
-DL_North Delhi,145,30417,19121
+DL_North Delhi,145,29018,19121
 DL_North Delhi,146,40044,22199
 DL_North Delhi,147,54120,24499
 DL_North East Delhi,1,0,0
@@ -21422,9 +21422,9 @@ DL_North East Delhi,105,2381,7315
 DL_North East Delhi,106,2516,8304
 DL_North East Delhi,107,2888,6188
 DL_North East Delhi,108,2178,2827
-DL_North East Delhi,109,25740,485
+DL_North East Delhi,109,25740,943
 DL_North East Delhi,110,41650,1177
-DL_North East Delhi,111,28014,3449
+DL_North East Delhi,111,28014,2991
 DL_North East Delhi,112,25312,3993
 DL_North East Delhi,113,19571,4439
 DL_North East Delhi,114,12463,5192
@@ -21456,9 +21456,9 @@ DL_North East Delhi,139,20890,6067
 DL_North East Delhi,140,13171,6675
 DL_North East Delhi,141,6096,8709
 DL_North East Delhi,142,2262,9919
-DL_North East Delhi,143,78,10916
+DL_North East Delhi,143,1793,10916
 DL_North East Delhi,144,7737,10926
-DL_North East Delhi,145,13891,9704
+DL_North East Delhi,145,12176,9704
 DL_North East Delhi,146,17884,10574
 DL_North East Delhi,147,28781,12667
 DL_North West Delhi,1,0,0
@@ -21569,10 +21569,10 @@ DL_North West Delhi,105,8185,10477
 DL_North West Delhi,106,9241,10107
 DL_North West Delhi,107,10610,7000
 DL_North West Delhi,108,9901,4271
-DL_North West Delhi,109,63696,-3467
-DL_North West Delhi,110,91659,-2095
-DL_North West Delhi,111,60358,7007
-DL_North West Delhi,112,61112,8552
+DL_North West Delhi,109,63696,1790
+DL_North West Delhi,110,91659,0
+DL_North West Delhi,111,60358,1750
+DL_North West Delhi,112,61112,6457
 DL_North West Delhi,113,50151,9012
 DL_North West Delhi,114,36713,10612
 DL_North West Delhi,115,32630,12403
@@ -21750,9 +21750,9 @@ DL_Shahdara,139,21924,12199
 DL_Shahdara,140,21866,10882
 DL_Shahdara,141,13124,11435
 DL_Shahdara,142,4254,13206
-DL_Shahdara,143,2585,20148
+DL_Shahdara,143,3081,20148
 DL_Shahdara,144,12200,23987
-DL_Shahdara,145,23431,20966
+DL_Shahdara,145,22935,20966
 DL_Shahdara,146,36991,26062
 DL_Shahdara,147,47182,31219
 DL_South Delhi,1,0,0
@@ -22157,10 +22157,10 @@ DL_South West Delhi,105,5652,9338
 DL_South West Delhi,106,6195,9622
 DL_South West Delhi,107,7513,6331
 DL_South West Delhi,108,7726,3307
-DL_South West Delhi,109,45546,-3370
-DL_South West Delhi,110,72127,-1509
-DL_South West Delhi,111,59273,7154
-DL_South West Delhi,112,63468,9407
+DL_South West Delhi,109,45546,1257
+DL_South West Delhi,110,72127,0
+DL_South West Delhi,111,59273,2527
+DL_South West Delhi,112,63468,7898
 DL_South West Delhi,113,55109,10639
 DL_South West Delhi,114,47317,12667
 DL_South West Delhi,115,46833,14777
@@ -22323,9 +22323,9 @@ DL_West Delhi,124,11513,8124
 DL_West Delhi,125,6974,2915
 DL_West Delhi,126,4937,6173
 DL_West Delhi,127,4462,7730
-DL_West Delhi,128,3572,9773
+DL_West Delhi,128,3973,9773
 DL_West Delhi,129,16992,16455
-DL_West Delhi,130,19705,14746
+DL_West Delhi,130,19304,14746
 DL_West Delhi,131,24508,13958
 DL_West Delhi,132,44934,14069
 DL_West Delhi,133,66676,15479
@@ -23181,13 +23181,13 @@ GJ_Ahmedabad,100,12694,15074
 GJ_Ahmedabad,101,39823,17723
 GJ_Ahmedabad,102,50654,14652
 GJ_Ahmedabad,103,45465,12815
-GJ_Ahmedabad,104,-83612,-16157
-GJ_Ahmedabad,105,-79108,-19755
-GJ_Ahmedabad,106,59393,4661
-GJ_Ahmedabad,107,63339,2008
-GJ_Ahmedabad,108,49304,1546
-GJ_Ahmedabad,109,394013,59420
-GJ_Ahmedabad,110,464144,69441
+GJ_Ahmedabad,104,34223,9582
+GJ_Ahmedabad,105,11685,2724
+GJ_Ahmedabad,106,0,0
+GJ_Ahmedabad,107,0,0
+GJ_Ahmedabad,108,0,0
+GJ_Ahmedabad,109,366559,38949
+GJ_Ahmedabad,110,455006,49909
 GJ_Ahmedabad,111,154181,25553
 GJ_Ahmedabad,112,119370,33370
 GJ_Ahmedabad,113,85029,37978
@@ -23328,13 +23328,13 @@ GJ_Ahmedabad,100,12694,15074
 GJ_Ahmedabad,101,39823,17723
 GJ_Ahmedabad,102,50654,14652
 GJ_Ahmedabad,103,45465,12815
-GJ_Ahmedabad,104,-83612,-16157
-GJ_Ahmedabad,105,-79108,-19755
-GJ_Ahmedabad,106,59393,4661
-GJ_Ahmedabad,107,63339,2008
-GJ_Ahmedabad,108,49304,1546
-GJ_Ahmedabad,109,394013,59420
-GJ_Ahmedabad,110,464144,69441
+GJ_Ahmedabad,104,34223,9582
+GJ_Ahmedabad,105,11685,2724
+GJ_Ahmedabad,106,0,0
+GJ_Ahmedabad,107,0,0
+GJ_Ahmedabad,108,0,0
+GJ_Ahmedabad,109,366559,38949
+GJ_Ahmedabad,110,455006,49909
 GJ_Ahmedabad,111,154181,25553
 GJ_Ahmedabad,112,119370,33370
 GJ_Ahmedabad,113,85029,37978
@@ -23492,11 +23492,11 @@ GJ_Amreli,117,4411,10352
 GJ_Amreli,118,4354,8117
 GJ_Amreli,119,4153,11516
 GJ_Amreli,120,4568,21528
-GJ_Amreli,121,3293,16827
-GJ_Amreli,122,462,2693
-GJ_Amreli,123,-19,78
-GJ_Amreli,124,1109,7359
-GJ_Amreli,125,3435,11395
+GJ_Amreli,121,3295,16827
+GJ_Amreli,122,465,2693
+GJ_Amreli,123,0,78
+GJ_Amreli,124,1106,7359
+GJ_Amreli,125,3414,11395
 GJ_Amreli,126,4953,9073
 GJ_Amreli,127,10242,8819
 GJ_Amreli,128,20552,6954
@@ -23639,10 +23639,10 @@ GJ_Anand,117,18558,25142
 GJ_Anand,118,13705,20558
 GJ_Anand,119,10053,17060
 GJ_Anand,120,13432,27349
-GJ_Anand,121,10295,20393
-GJ_Anand,122,1303,1942
-GJ_Anand,123,2952,2774
-GJ_Anand,124,8992,6453
+GJ_Anand,121,10310,20393
+GJ_Anand,122,1327,1942
+GJ_Anand,123,2937,2774
+GJ_Anand,124,8968,6453
 GJ_Anand,125,12613,8612
 GJ_Anand,126,12543,8202
 GJ_Anand,127,22048,6230
@@ -23934,9 +23934,9 @@ GJ_Banaskantha,118,21743,13540
 GJ_Banaskantha,119,13044,14729
 GJ_Banaskantha,120,16055,22021
 GJ_Banaskantha,121,16435,24359
-GJ_Banaskantha,122,7888,11892
+GJ_Banaskantha,122,7890,11892
 GJ_Banaskantha,123,22965,4574
-GJ_Banaskantha,124,33630,15008
+GJ_Banaskantha,124,33628,15008
 GJ_Banaskantha,125,21021,21188
 GJ_Banaskantha,126,15389,19646
 GJ_Banaskantha,127,14669,12797
@@ -24208,23 +24208,23 @@ GJ_Bhavnagar,98,706,1048
 GJ_Bhavnagar,99,604,1897
 GJ_Bhavnagar,100,3063,1962
 GJ_Bhavnagar,101,7833,3268
-GJ_Bhavnagar,102,8343,3832
+GJ_Bhavnagar,102,8344,3832
 GJ_Bhavnagar,103,6716,2318
-GJ_Bhavnagar,104,12568,3789
+GJ_Bhavnagar,104,12567,3789
 GJ_Bhavnagar,105,27895,4823
 GJ_Bhavnagar,106,46304,2824
 GJ_Bhavnagar,107,48833,1344
 GJ_Bhavnagar,108,34050,1067
-GJ_Bhavnagar,109,-20634,-2516
-GJ_Bhavnagar,110,-19842,-1515
-GJ_Bhavnagar,111,18435,3316
-GJ_Bhavnagar,112,8370,3814
-GJ_Bhavnagar,113,5695,4131
-GJ_Bhavnagar,114,3856,4656
-GJ_Bhavnagar,115,3878,6244
-GJ_Bhavnagar,116,4344,8001
-GJ_Bhavnagar,117,7568,11801
-GJ_Bhavnagar,118,14286,15489
+GJ_Bhavnagar,109,12936,658
+GJ_Bhavnagar,110,0,0
+GJ_Bhavnagar,111,0,142
+GJ_Bhavnagar,112,0,2299
+GJ_Bhavnagar,113,0,4131
+GJ_Bhavnagar,114,0,4656
+GJ_Bhavnagar,115,0,6244
+GJ_Bhavnagar,116,0,8001
+GJ_Bhavnagar,117,2006,11801
+GJ_Bhavnagar,118,11014,15489
 GJ_Bhavnagar,119,14011,16739
 GJ_Bhavnagar,120,11476,15910
 GJ_Bhavnagar,121,9999,8165
@@ -24355,23 +24355,23 @@ GJ_Bhavnagar,98,706,1048
 GJ_Bhavnagar,99,604,1897
 GJ_Bhavnagar,100,3063,1962
 GJ_Bhavnagar,101,7833,3268
-GJ_Bhavnagar,102,8343,3832
+GJ_Bhavnagar,102,8344,3832
 GJ_Bhavnagar,103,6716,2318
-GJ_Bhavnagar,104,12568,3789
+GJ_Bhavnagar,104,12567,3789
 GJ_Bhavnagar,105,27895,4823
 GJ_Bhavnagar,106,46304,2824
 GJ_Bhavnagar,107,48833,1344
 GJ_Bhavnagar,108,34050,1067
-GJ_Bhavnagar,109,-20634,-2516
-GJ_Bhavnagar,110,-19842,-1515
-GJ_Bhavnagar,111,18435,3316
-GJ_Bhavnagar,112,8370,3814
-GJ_Bhavnagar,113,5695,4131
-GJ_Bhavnagar,114,3856,4656
-GJ_Bhavnagar,115,3878,6244
-GJ_Bhavnagar,116,4344,8001
-GJ_Bhavnagar,117,7568,11801
-GJ_Bhavnagar,118,14286,15489
+GJ_Bhavnagar,109,12936,658
+GJ_Bhavnagar,110,0,0
+GJ_Bhavnagar,111,0,142
+GJ_Bhavnagar,112,0,2299
+GJ_Bhavnagar,113,0,4131
+GJ_Bhavnagar,114,0,4656
+GJ_Bhavnagar,115,0,6244
+GJ_Bhavnagar,116,0,8001
+GJ_Bhavnagar,117,2006,11801
+GJ_Bhavnagar,118,11014,15489
 GJ_Bhavnagar,119,14011,16739
 GJ_Bhavnagar,120,11476,15910
 GJ_Bhavnagar,121,9999,8165
@@ -24784,7 +24784,7 @@ GJ_Dahod,86,0,0
 GJ_Dahod,87,0,0
 GJ_Dahod,88,0,0
 GJ_Dahod,89,1962,0
-GJ_Dahod,90,2669,0
+GJ_Dahod,90,2607,0
 GJ_Dahod,91,8071,0
 GJ_Dahod,92,9062,0
 GJ_Dahod,93,8635,0
@@ -24962,10 +24962,10 @@ GJ_Dang,117,734,842
 GJ_Dang,118,930,1256
 GJ_Dang,119,777,1132
 GJ_Dang,120,784,1142
-GJ_Dang,121,594,731
-GJ_Dang,122,76,37
-GJ_Dang,123,92,0
-GJ_Dang,124,257,1
+GJ_Dang,121,595,731
+GJ_Dang,122,77,37
+GJ_Dang,123,91,0
+GJ_Dang,124,256,1
 GJ_Dang,125,357,9
 GJ_Dang,126,486,29
 GJ_Dang,127,1284,45
@@ -25110,9 +25110,9 @@ GJ_Devbhumi Dwarka,118,5924,7215
 GJ_Devbhumi Dwarka,119,5730,8845
 GJ_Devbhumi Dwarka,120,5590,9321
 GJ_Devbhumi Dwarka,121,3522,9825
-GJ_Devbhumi Dwarka,122,1263,5789
+GJ_Devbhumi Dwarka,122,1265,5789
 GJ_Devbhumi Dwarka,123,763,1433
-GJ_Devbhumi Dwarka,124,2031,5561
+GJ_Devbhumi Dwarka,124,2029,5561
 GJ_Devbhumi Dwarka,125,2916,6998
 GJ_Devbhumi Dwarka,126,2993,5709
 GJ_Devbhumi Dwarka,127,7479,4288
@@ -25244,24 +25244,24 @@ GJ_Gandhinagar,105,43196,10456
 GJ_Gandhinagar,106,36791,1172
 GJ_Gandhinagar,107,37965,645
 GJ_Gandhinagar,108,27324,1708
-GJ_Gandhinagar,109,-60339,-7023
-GJ_Gandhinagar,110,-65979,-7248
-GJ_Gandhinagar,111,6540,2553
-GJ_Gandhinagar,112,3708,2519
-GJ_Gandhinagar,113,2164,2309
-GJ_Gandhinagar,114,1629,2376
-GJ_Gandhinagar,115,2004,2770
-GJ_Gandhinagar,116,2933,3464
-GJ_Gandhinagar,117,6188,4690
-GJ_Gandhinagar,118,12277,5844
-GJ_Gandhinagar,119,15349,8271
-GJ_Gandhinagar,120,16352,10215
-GJ_Gandhinagar,121,14057,6607
-GJ_Gandhinagar,122,6667,1714
-GJ_Gandhinagar,123,7525,224
-GJ_Gandhinagar,124,21499,174
-GJ_Gandhinagar,125,31466,293
-GJ_Gandhinagar,126,35656,494
+GJ_Gandhinagar,109,9819,1431
+GJ_Gandhinagar,110,0,0
+GJ_Gandhinagar,111,0,0
+GJ_Gandhinagar,112,0,0
+GJ_Gandhinagar,113,0,0
+GJ_Gandhinagar,114,0,0
+GJ_Gandhinagar,115,0,0
+GJ_Gandhinagar,116,0,1111
+GJ_Gandhinagar,117,0,3868
+GJ_Gandhinagar,118,0,5844
+GJ_Gandhinagar,119,0,8271
+GJ_Gandhinagar,120,0,10215
+GJ_Gandhinagar,121,0,6607
+GJ_Gandhinagar,122,0,1714
+GJ_Gandhinagar,123,0,224
+GJ_Gandhinagar,124,0,174
+GJ_Gandhinagar,125,15135,293
+GJ_Gandhinagar,126,34742,494
 GJ_Gandhinagar,127,34403,602
 GJ_Gandhinagar,128,30247,930
 GJ_Gandhinagar,129,26098,5537
@@ -25391,24 +25391,24 @@ GJ_Gandhinagar,105,43196,10456
 GJ_Gandhinagar,106,36791,1172
 GJ_Gandhinagar,107,37965,645
 GJ_Gandhinagar,108,27324,1708
-GJ_Gandhinagar,109,-60339,-7023
-GJ_Gandhinagar,110,-65979,-7248
-GJ_Gandhinagar,111,6540,2553
-GJ_Gandhinagar,112,3708,2519
-GJ_Gandhinagar,113,2164,2309
-GJ_Gandhinagar,114,1629,2376
-GJ_Gandhinagar,115,2004,2770
-GJ_Gandhinagar,116,2933,3464
-GJ_Gandhinagar,117,6188,4690
-GJ_Gandhinagar,118,12277,5844
-GJ_Gandhinagar,119,15349,8271
-GJ_Gandhinagar,120,16352,10215
-GJ_Gandhinagar,121,14057,6607
-GJ_Gandhinagar,122,6667,1714
-GJ_Gandhinagar,123,7525,224
-GJ_Gandhinagar,124,21499,174
-GJ_Gandhinagar,125,31466,293
-GJ_Gandhinagar,126,35656,494
+GJ_Gandhinagar,109,9819,1431
+GJ_Gandhinagar,110,0,0
+GJ_Gandhinagar,111,0,0
+GJ_Gandhinagar,112,0,0
+GJ_Gandhinagar,113,0,0
+GJ_Gandhinagar,114,0,0
+GJ_Gandhinagar,115,0,0
+GJ_Gandhinagar,116,0,1111
+GJ_Gandhinagar,117,0,3868
+GJ_Gandhinagar,118,0,5844
+GJ_Gandhinagar,119,0,8271
+GJ_Gandhinagar,120,0,10215
+GJ_Gandhinagar,121,0,6607
+GJ_Gandhinagar,122,0,1714
+GJ_Gandhinagar,123,0,224
+GJ_Gandhinagar,124,0,174
+GJ_Gandhinagar,125,15135,293
+GJ_Gandhinagar,126,34742,494
 GJ_Gandhinagar,127,34403,602
 GJ_Gandhinagar,128,30247,930
 GJ_Gandhinagar,129,26098,5537
@@ -25685,22 +25685,22 @@ GJ_Jamnagar,105,30356,4133
 GJ_Jamnagar,106,33872,1145
 GJ_Jamnagar,107,31687,525
 GJ_Jamnagar,108,12658,918
-GJ_Jamnagar,109,-30134,-1073
-GJ_Jamnagar,110,-19911,-414
-GJ_Jamnagar,111,25108,3525
-GJ_Jamnagar,112,16135,4229
-GJ_Jamnagar,113,8362,4446
-GJ_Jamnagar,114,5284,5195
-GJ_Jamnagar,115,5479,6154
+GJ_Jamnagar,109,4358,769
+GJ_Jamnagar,110,0,0
+GJ_Jamnagar,111,0,1683
+GJ_Jamnagar,112,0,3815
+GJ_Jamnagar,113,0,4446
+GJ_Jamnagar,114,1508,5195
+GJ_Jamnagar,115,4457,6154
 GJ_Jamnagar,116,6204,6414
 GJ_Jamnagar,117,9230,7476
 GJ_Jamnagar,118,15593,9110
 GJ_Jamnagar,119,14800,9867
 GJ_Jamnagar,120,13704,11560
 GJ_Jamnagar,121,13605,7094
-GJ_Jamnagar,122,6526,626
+GJ_Jamnagar,122,6527,626
 GJ_Jamnagar,123,8784,413
-GJ_Jamnagar,124,28130,593
+GJ_Jamnagar,124,28129,593
 GJ_Jamnagar,125,39387,239
 GJ_Jamnagar,126,40623,380
 GJ_Jamnagar,127,33985,442
@@ -25832,22 +25832,22 @@ GJ_Jamnagar,105,30356,4133
 GJ_Jamnagar,106,33872,1145
 GJ_Jamnagar,107,31687,525
 GJ_Jamnagar,108,12658,918
-GJ_Jamnagar,109,-30134,-1073
-GJ_Jamnagar,110,-19911,-414
-GJ_Jamnagar,111,25108,3525
-GJ_Jamnagar,112,16135,4229
-GJ_Jamnagar,113,8362,4446
-GJ_Jamnagar,114,5284,5195
-GJ_Jamnagar,115,5479,6154
+GJ_Jamnagar,109,4358,769
+GJ_Jamnagar,110,0,0
+GJ_Jamnagar,111,0,1683
+GJ_Jamnagar,112,0,3815
+GJ_Jamnagar,113,0,4446
+GJ_Jamnagar,114,1508,5195
+GJ_Jamnagar,115,4457,6154
 GJ_Jamnagar,116,6204,6414
 GJ_Jamnagar,117,9230,7476
 GJ_Jamnagar,118,15593,9110
 GJ_Jamnagar,119,14800,9867
 GJ_Jamnagar,120,13704,11560
 GJ_Jamnagar,121,13605,7094
-GJ_Jamnagar,122,6526,626
+GJ_Jamnagar,122,6527,626
 GJ_Jamnagar,123,8784,413
-GJ_Jamnagar,124,28130,593
+GJ_Jamnagar,124,28129,593
 GJ_Jamnagar,125,39387,239
 GJ_Jamnagar,126,40623,380
 GJ_Jamnagar,127,33985,442
@@ -25979,29 +25979,29 @@ GJ_Junagadh,105,40128,7422
 GJ_Junagadh,106,36520,599
 GJ_Junagadh,107,34534,366
 GJ_Junagadh,108,18852,817
-GJ_Junagadh,109,-52499,-3942
-GJ_Junagadh,110,-50254,-2956
-GJ_Junagadh,111,11798,2733
-GJ_Junagadh,112,8453,2299
-GJ_Junagadh,113,5136,2259
-GJ_Junagadh,114,2362,2312
-GJ_Junagadh,115,2157,2734
-GJ_Junagadh,116,2723,3007
-GJ_Junagadh,117,3425,4345
-GJ_Junagadh,118,3865,4572
-GJ_Junagadh,119,3831,5009
-GJ_Junagadh,120,4191,7233
-GJ_Junagadh,121,2716,4649
-GJ_Junagadh,122,375,621
-GJ_Junagadh,123,485,9
-GJ_Junagadh,124,1452,42
-GJ_Junagadh,125,1804,79
-GJ_Junagadh,126,1698,352
-GJ_Junagadh,127,5171,640
-GJ_Junagadh,128,13183,942
-GJ_Junagadh,129,15551,1181
-GJ_Junagadh,130,15143,1160
-GJ_Junagadh,131,13268,1148
+GJ_Junagadh,109,4849,699
+GJ_Junagadh,110,0,0
+GJ_Junagadh,111,0,0
+GJ_Junagadh,112,0,0
+GJ_Junagadh,113,0,351
+GJ_Junagadh,114,0,1655
+GJ_Junagadh,115,0,2734
+GJ_Junagadh,116,0,3007
+GJ_Junagadh,117,0,4345
+GJ_Junagadh,118,0,4572
+GJ_Junagadh,119,0,5009
+GJ_Junagadh,120,0,7233
+GJ_Junagadh,121,0,4649
+GJ_Junagadh,122,0,621
+GJ_Junagadh,123,0,9
+GJ_Junagadh,124,0,42
+GJ_Junagadh,125,0,79
+GJ_Junagadh,126,0,352
+GJ_Junagadh,127,0,640
+GJ_Junagadh,128,0,942
+GJ_Junagadh,129,0,1181
+GJ_Junagadh,130,3191,1160
+GJ_Junagadh,131,7994,1148
 GJ_Junagadh,132,11025,1606
 GJ_Junagadh,133,12971,4684
 GJ_Junagadh,134,11495,6651
@@ -26126,29 +26126,29 @@ GJ_Junagadh,105,40128,7422
 GJ_Junagadh,106,36520,599
 GJ_Junagadh,107,34534,366
 GJ_Junagadh,108,18852,817
-GJ_Junagadh,109,-52499,-3942
-GJ_Junagadh,110,-50254,-2956
-GJ_Junagadh,111,11798,2733
-GJ_Junagadh,112,8453,2299
-GJ_Junagadh,113,5136,2259
-GJ_Junagadh,114,2362,2312
-GJ_Junagadh,115,2157,2734
-GJ_Junagadh,116,2723,3007
-GJ_Junagadh,117,3425,4345
-GJ_Junagadh,118,3865,4572
-GJ_Junagadh,119,3831,5009
-GJ_Junagadh,120,4191,7233
-GJ_Junagadh,121,2716,4649
-GJ_Junagadh,122,375,621
-GJ_Junagadh,123,485,9
-GJ_Junagadh,124,1452,42
-GJ_Junagadh,125,1804,79
-GJ_Junagadh,126,1698,352
-GJ_Junagadh,127,5171,640
-GJ_Junagadh,128,13183,942
-GJ_Junagadh,129,15551,1181
-GJ_Junagadh,130,15143,1160
-GJ_Junagadh,131,13268,1148
+GJ_Junagadh,109,4849,699
+GJ_Junagadh,110,0,0
+GJ_Junagadh,111,0,0
+GJ_Junagadh,112,0,0
+GJ_Junagadh,113,0,351
+GJ_Junagadh,114,0,1655
+GJ_Junagadh,115,0,2734
+GJ_Junagadh,116,0,3007
+GJ_Junagadh,117,0,4345
+GJ_Junagadh,118,0,4572
+GJ_Junagadh,119,0,5009
+GJ_Junagadh,120,0,7233
+GJ_Junagadh,121,0,4649
+GJ_Junagadh,122,0,621
+GJ_Junagadh,123,0,9
+GJ_Junagadh,124,0,42
+GJ_Junagadh,125,0,79
+GJ_Junagadh,126,0,352
+GJ_Junagadh,127,0,640
+GJ_Junagadh,128,0,942
+GJ_Junagadh,129,0,1181
+GJ_Junagadh,130,3191,1160
+GJ_Junagadh,131,7994,1148
 GJ_Junagadh,132,11025,1606
 GJ_Junagadh,133,12971,4684
 GJ_Junagadh,134,11495,6651
@@ -26286,9 +26286,9 @@ GJ_Kheda,118,11330,16310
 GJ_Kheda,119,11296,21003
 GJ_Kheda,120,15565,31345
 GJ_Kheda,121,12501,21649
-GJ_Kheda,122,2987,3551
+GJ_Kheda,122,2992,3551
 GJ_Kheda,123,5984,6591
-GJ_Kheda,124,15600,11945
+GJ_Kheda,124,15595,11945
 GJ_Kheda,125,20408,10886
 GJ_Kheda,126,24064,13067
 GJ_Kheda,127,27414,10643
@@ -26433,9 +26433,9 @@ GJ_Kutch,118,17691,13656
 GJ_Kutch,119,14446,11081
 GJ_Kutch,120,15627,17240
 GJ_Kutch,121,14123,12291
-GJ_Kutch,122,5673,2167
+GJ_Kutch,122,5675,2167
 GJ_Kutch,123,7388,356
-GJ_Kutch,124,23819,663
+GJ_Kutch,124,23817,663
 GJ_Kutch,125,34046,1311
 GJ_Kutch,126,39209,2520
 GJ_Kutch,127,41271,4053
@@ -26727,9 +26727,9 @@ GJ_Mehsana,118,28634,26166
 GJ_Mehsana,119,23171,22141
 GJ_Mehsana,120,21903,30301
 GJ_Mehsana,121,20313,24367
-GJ_Mehsana,122,7662,3590
+GJ_Mehsana,122,7668,3590
 GJ_Mehsana,123,10031,4291
-GJ_Mehsana,124,38264,4754
+GJ_Mehsana,124,38258,4754
 GJ_Mehsana,125,53022,1368
 GJ_Mehsana,126,55164,1606
 GJ_Mehsana,127,54052,3103
@@ -26874,9 +26874,9 @@ GJ_Morbi,118,5374,8008
 GJ_Morbi,119,6895,9586
 GJ_Morbi,120,10629,18141
 GJ_Morbi,121,6955,12120
-GJ_Morbi,122,1371,1588
+GJ_Morbi,122,1372,1588
 GJ_Morbi,123,1966,117
-GJ_Morbi,124,4780,1701
+GJ_Morbi,124,4779,1701
 GJ_Morbi,125,4802,2635
 GJ_Morbi,126,4694,2218
 GJ_Morbi,127,10749,2291
@@ -27136,7 +27136,7 @@ GJ_Navsari,86,0,0
 GJ_Navsari,87,0,0
 GJ_Navsari,88,0,0
 GJ_Navsari,89,644,0
-GJ_Navsari,90,1057,0
+GJ_Navsari,90,1048,0
 GJ_Navsari,91,4516,0
 GJ_Navsari,92,7074,0
 GJ_Navsari,93,6969,0
@@ -27167,10 +27167,10 @@ GJ_Navsari,117,13221,21059
 GJ_Navsari,118,10861,15024
 GJ_Navsari,119,8031,14382
 GJ_Navsari,120,7041,25694
-GJ_Navsari,121,4768,19391
-GJ_Navsari,122,1034,3371
-GJ_Navsari,123,1784,4069
-GJ_Navsari,124,6987,7948
+GJ_Navsari,121,4779,19391
+GJ_Navsari,122,1046,3371
+GJ_Navsari,123,1773,4069
+GJ_Navsari,124,6975,7948
 GJ_Navsari,125,8393,5877
 GJ_Navsari,126,5608,6040
 GJ_Navsari,127,11126,6697
@@ -27315,9 +27315,9 @@ GJ_Panchmahal,118,8950,20855
 GJ_Panchmahal,119,7731,25748
 GJ_Panchmahal,120,10400,27161
 GJ_Panchmahal,121,7267,16801
-GJ_Panchmahal,122,1228,1786
+GJ_Panchmahal,122,1232,1786
 GJ_Panchmahal,123,1919,5095
-GJ_Panchmahal,124,9953,6176
+GJ_Panchmahal,124,9949,6176
 GJ_Panchmahal,125,12396,6801
 GJ_Panchmahal,126,7623,12322
 GJ_Panchmahal,127,11897,10799
@@ -27608,10 +27608,10 @@ GJ_Porbandar,117,3231,8150
 GJ_Porbandar,118,3583,16408
 GJ_Porbandar,119,4202,20591
 GJ_Porbandar,120,4166,17875
-GJ_Porbandar,121,2371,9255
-GJ_Porbandar,122,389,917
-GJ_Porbandar,123,520,702
-GJ_Porbandar,124,1133,876
+GJ_Porbandar,121,2373,9255
+GJ_Porbandar,122,393,917
+GJ_Porbandar,123,518,702
+GJ_Porbandar,124,1129,876
 GJ_Porbandar,125,1167,1438
 GJ_Porbandar,126,1108,2261
 GJ_Porbandar,127,4558,1574
@@ -27738,9 +27738,9 @@ GJ_Rajkot,100,8348,5792
 GJ_Rajkot,101,19911,4610
 GJ_Rajkot,102,18622,2925
 GJ_Rajkot,103,14222,1898
-GJ_Rajkot,104,9587,1822
+GJ_Rajkot,104,10585,1822
 GJ_Rajkot,105,24048,1941
-GJ_Rajkot,106,49795,1738
+GJ_Rajkot,106,48797,1738
 GJ_Rajkot,107,41545,788
 GJ_Rajkot,108,20636,1483
 GJ_Rajkot,109,58593,4448
@@ -27885,9 +27885,9 @@ GJ_Rajkot,100,8348,5792
 GJ_Rajkot,101,19911,4610
 GJ_Rajkot,102,18622,2925
 GJ_Rajkot,103,14222,1898
-GJ_Rajkot,104,9587,1822
+GJ_Rajkot,104,10585,1822
 GJ_Rajkot,105,24048,1941
-GJ_Rajkot,106,49795,1738
+GJ_Rajkot,106,48797,1738
 GJ_Rajkot,107,41545,788
 GJ_Rajkot,108,20636,1483
 GJ_Rajkot,109,58593,4448
@@ -28049,10 +28049,10 @@ GJ_Sabarkantha,117,19938,15504
 GJ_Sabarkantha,118,17167,14871
 GJ_Sabarkantha,119,13173,13374
 GJ_Sabarkantha,120,9823,14078
-GJ_Sabarkantha,121,4909,8017
-GJ_Sabarkantha,122,917,1179
-GJ_Sabarkantha,123,5167,843
-GJ_Sabarkantha,124,12963,2317
+GJ_Sabarkantha,121,4910,8017
+GJ_Sabarkantha,122,919,1179
+GJ_Sabarkantha,123,5166,843
+GJ_Sabarkantha,124,12961,2317
 GJ_Sabarkantha,125,14738,3746
 GJ_Sabarkantha,126,15284,5628
 GJ_Sabarkantha,127,19417,5646
@@ -28179,13 +28179,13 @@ GJ_Surat,100,6829,12399
 GJ_Surat,101,18144,11158
 GJ_Surat,102,29940,6942
 GJ_Surat,103,36711,5406
-GJ_Surat,104,-42129,-14533
-GJ_Surat,105,-48361,-16273
-GJ_Surat,106,26373,2187
-GJ_Surat,107,28664,866
-GJ_Surat,108,23674,1112
-GJ_Surat,109,357670,25859
-GJ_Surat,110,461534,27287
+GJ_Surat,104,28302,5689
+GJ_Surat,105,9859,2416
+GJ_Surat,106,0,0
+GJ_Surat,107,0,0
+GJ_Surat,108,0,0
+GJ_Surat,109,328114,8036
+GJ_Surat,110,441150,10364
 GJ_Surat,111,173701,8914
 GJ_Surat,112,102786,16548
 GJ_Surat,113,65349,24805
@@ -28197,9 +28197,9 @@ GJ_Surat,118,47722,35402
 GJ_Surat,119,50301,41847
 GJ_Surat,120,50266,71270
 GJ_Surat,121,48439,54990
-GJ_Surat,122,25296,10566
+GJ_Surat,122,25312,10566
 GJ_Surat,123,32595,977
-GJ_Surat,124,97276,5271
+GJ_Surat,124,97260,5271
 GJ_Surat,125,131279,9809
 GJ_Surat,126,143676,9450
 GJ_Surat,127,146473,7339
@@ -28326,13 +28326,13 @@ GJ_Surat,100,6829,12399
 GJ_Surat,101,18144,11158
 GJ_Surat,102,29940,6942
 GJ_Surat,103,36711,5406
-GJ_Surat,104,-42129,-14533
-GJ_Surat,105,-48361,-16273
-GJ_Surat,106,26373,2187
-GJ_Surat,107,28664,866
-GJ_Surat,108,23674,1112
-GJ_Surat,109,357670,25859
-GJ_Surat,110,461534,27287
+GJ_Surat,104,28302,5689
+GJ_Surat,105,9859,2416
+GJ_Surat,106,0,0
+GJ_Surat,107,0,0
+GJ_Surat,108,0,0
+GJ_Surat,109,328114,8036
+GJ_Surat,110,441150,10364
 GJ_Surat,111,173701,8914
 GJ_Surat,112,102786,16548
 GJ_Surat,113,65349,24805
@@ -28344,9 +28344,9 @@ GJ_Surat,118,47722,35402
 GJ_Surat,119,50301,41847
 GJ_Surat,120,50266,71270
 GJ_Surat,121,48439,54990
-GJ_Surat,122,25296,10566
+GJ_Surat,122,25312,10566
 GJ_Surat,123,32595,977
-GJ_Surat,124,97276,5271
+GJ_Surat,124,97260,5271
 GJ_Surat,125,131279,9809
 GJ_Surat,126,143676,9450
 GJ_Surat,127,146473,7339
@@ -28491,9 +28491,9 @@ GJ_Surendranagar,118,7465,5848
 GJ_Surendranagar,119,8746,9609
 GJ_Surendranagar,120,9886,20593
 GJ_Surendranagar,121,6431,15008
-GJ_Surendranagar,122,837,1744
+GJ_Surendranagar,122,841,1744
 GJ_Surendranagar,123,5439,516
-GJ_Surendranagar,124,14285,2177
+GJ_Surendranagar,124,14281,2177
 GJ_Surendranagar,125,16362,3478
 GJ_Surendranagar,126,14624,3970
 GJ_Surendranagar,127,20765,4702
@@ -28637,10 +28637,10 @@ GJ_Tapi,117,8076,4690
 GJ_Tapi,118,8279,6459
 GJ_Tapi,119,7577,7308
 GJ_Tapi,120,6614,7873
-GJ_Tapi,121,4423,5919
-GJ_Tapi,122,926,1459
-GJ_Tapi,123,2248,118
-GJ_Tapi,124,7431,692
+GJ_Tapi,121,4443,5919
+GJ_Tapi,122,946,1459
+GJ_Tapi,123,2228,118
+GJ_Tapi,124,7411,692
 GJ_Tapi,125,11147,1253
 GJ_Tapi,126,12909,1640
 GJ_Tapi,127,16359,1741
@@ -28767,12 +28767,12 @@ GJ_Vadodara,100,7584,6132
 GJ_Vadodara,101,24164,6523
 GJ_Vadodara,102,31159,7173
 GJ_Vadodara,103,23016,4007
-GJ_Vadodara,104,14436,-310
-GJ_Vadodara,105,28553,-682
-GJ_Vadodara,106,48893,1768
-GJ_Vadodara,107,47333,813
-GJ_Vadodara,108,30098,1850
-GJ_Vadodara,109,66525,11144
+GJ_Vadodara,104,14436,2184
+GJ_Vadodara,105,28553,630
+GJ_Vadodara,106,48893,0
+GJ_Vadodara,107,47333,0
+GJ_Vadodara,108,30098,1124
+GJ_Vadodara,109,66525,10645
 GJ_Vadodara,110,90104,16111
 GJ_Vadodara,111,62343,16147
 GJ_Vadodara,112,52665,19037
@@ -28914,12 +28914,12 @@ GJ_Vadodara,100,7584,6132
 GJ_Vadodara,101,24164,6523
 GJ_Vadodara,102,31159,7173
 GJ_Vadodara,103,23016,4007
-GJ_Vadodara,104,14436,-310
-GJ_Vadodara,105,28553,-682
-GJ_Vadodara,106,48893,1768
-GJ_Vadodara,107,47333,813
-GJ_Vadodara,108,30098,1850
-GJ_Vadodara,109,66525,11144
+GJ_Vadodara,104,14436,2184
+GJ_Vadodara,105,28553,630
+GJ_Vadodara,106,48893,0
+GJ_Vadodara,107,47333,0
+GJ_Vadodara,108,30098,1124
+GJ_Vadodara,109,66525,10645
 GJ_Vadodara,110,90104,16111
 GJ_Vadodara,111,62343,16147
 GJ_Vadodara,112,52665,19037
@@ -29078,10 +29078,10 @@ GJ_Valsad,117,11692,20057
 GJ_Valsad,118,8278,18262
 GJ_Valsad,119,6410,17649
 GJ_Valsad,120,8358,25397
-GJ_Valsad,121,6191,18033
-GJ_Valsad,122,1195,2787
-GJ_Valsad,123,4348,3624
-GJ_Valsad,124,9854,9851
+GJ_Valsad,121,6354,18033
+GJ_Valsad,122,1377,2787
+GJ_Valsad,123,4185,3624
+GJ_Valsad,124,9672,9851
 GJ_Valsad,125,11127,9020
 GJ_Valsad,126,13266,5111
 GJ_Valsad,127,23381,4364
@@ -29213,9 +29213,9 @@ HP_Bilaspur,105,8362,1017
 HP_Bilaspur,106,7534,683
 HP_Bilaspur,107,7945,359
 HP_Bilaspur,108,7878,267
-HP_Bilaspur,109,10450,135
+HP_Bilaspur,109,10450,144
 HP_Bilaspur,110,16241,300
-HP_Bilaspur,111,20826,704
+HP_Bilaspur,111,20826,695
 HP_Bilaspur,112,24972,1035
 HP_Bilaspur,113,20413,1570
 HP_Bilaspur,114,14974,2658
@@ -29360,9 +29360,9 @@ HP_Bilaspur,105,8362,1017
 HP_Bilaspur,106,7534,683
 HP_Bilaspur,107,7945,359
 HP_Bilaspur,108,7878,267
-HP_Bilaspur,109,10450,135
+HP_Bilaspur,109,10450,144
 HP_Bilaspur,110,16241,300
-HP_Bilaspur,111,20826,704
+HP_Bilaspur,111,20826,695
 HP_Bilaspur,112,24972,1035
 HP_Bilaspur,113,20413,1570
 HP_Bilaspur,114,14974,2658
@@ -29782,7 +29782,7 @@ HP_Kinnaur,86,0,0
 HP_Kinnaur,87,0,0
 HP_Kinnaur,88,0,0
 HP_Kinnaur,89,97,0
-HP_Kinnaur,90,188,0
+HP_Kinnaur,90,175,0
 HP_Kinnaur,91,432,0
 HP_Kinnaur,92,516,0
 HP_Kinnaur,93,252,0
@@ -29801,10 +29801,10 @@ HP_Kinnaur,105,1798,569
 HP_Kinnaur,106,868,264
 HP_Kinnaur,107,886,156
 HP_Kinnaur,108,1608,117
-HP_Kinnaur,109,3248,-4
-HP_Kinnaur,110,5096,-16
-HP_Kinnaur,111,5644,112
-HP_Kinnaur,112,6213,131
+HP_Kinnaur,109,3248,34
+HP_Kinnaur,110,5096,0
+HP_Kinnaur,111,5644,74
+HP_Kinnaur,112,6213,115
 HP_Kinnaur,113,3807,468
 HP_Kinnaur,114,1257,841
 HP_Kinnaur,115,1011,604
@@ -29813,9 +29813,9 @@ HP_Kinnaur,117,2414,2777
 HP_Kinnaur,118,1489,1292
 HP_Kinnaur,119,642,683
 HP_Kinnaur,120,942,1337
-HP_Kinnaur,121,903,1788
+HP_Kinnaur,121,907,1788
 HP_Kinnaur,122,748,883
-HP_Kinnaur,123,1012,2
+HP_Kinnaur,123,1008,2
 HP_Kinnaur,124,1415,14
 HP_Kinnaur,125,1715,19
 HP_Kinnaur,126,1312,6
@@ -30076,7 +30076,7 @@ HP_Lahaul and Spiti,86,0,0
 HP_Lahaul and Spiti,87,0,0
 HP_Lahaul and Spiti,88,0,0
 HP_Lahaul and Spiti,89,0,0
-HP_Lahaul and Spiti,90,46,0
+HP_Lahaul and Spiti,90,45,0
 HP_Lahaul and Spiti,91,54,0
 HP_Lahaul and Spiti,92,86,0
 HP_Lahaul and Spiti,93,77,0
@@ -30101,9 +30101,9 @@ HP_Lahaul and Spiti,111,1856,9
 HP_Lahaul and Spiti,112,1881,22
 HP_Lahaul and Spiti,113,2017,148
 HP_Lahaul and Spiti,114,900,686
-HP_Lahaul and Spiti,115,280,554
+HP_Lahaul and Spiti,115,282,554
 HP_Lahaul and Spiti,116,254,603
-HP_Lahaul and Spiti,117,452,965
+HP_Lahaul and Spiti,117,450,965
 HP_Lahaul and Spiti,118,312,554
 HP_Lahaul and Spiti,119,253,445
 HP_Lahaul and Spiti,120,355,756
@@ -30114,10 +30114,10 @@ HP_Lahaul and Spiti,124,238,0
 HP_Lahaul and Spiti,125,238,2
 HP_Lahaul and Spiti,126,609,5
 HP_Lahaul and Spiti,127,908,3
-HP_Lahaul and Spiti,128,607,14
-HP_Lahaul and Spiti,129,158,14
-HP_Lahaul and Spiti,130,834,3
-HP_Lahaul and Spiti,131,1737,17
+HP_Lahaul and Spiti,128,610,14
+HP_Lahaul and Spiti,129,161,14
+HP_Lahaul and Spiti,130,831,3
+HP_Lahaul and Spiti,131,1734,17
 HP_Lahaul and Spiti,132,6253,23
 HP_Lahaul and Spiti,133,7235,135
 HP_Lahaul and Spiti,134,1959,1637
@@ -30536,9 +30536,9 @@ HP_Sirmaur,105,5164,1065
 HP_Sirmaur,106,4421,911
 HP_Sirmaur,107,6198,494
 HP_Sirmaur,108,5251,352
-HP_Sirmaur,109,4694,62
+HP_Sirmaur,109,4694,210
 HP_Sirmaur,110,8969,364
-HP_Sirmaur,111,13223,1431
+HP_Sirmaur,111,13223,1283
 HP_Sirmaur,112,23484,2834
 HP_Sirmaur,113,19092,2709
 HP_Sirmaur,114,6908,1659
@@ -31124,9 +31124,9 @@ HR_Bhiwani,105,13915,462
 HR_Bhiwani,106,16683,425
 HR_Bhiwani,107,16407,268
 HR_Bhiwani,108,12296,138
-HR_Bhiwani,109,18381,-102
+HR_Bhiwani,109,18381,98
 HR_Bhiwani,110,20119,173
-HR_Bhiwani,111,17865,774
+HR_Bhiwani,111,17865,574
 HR_Bhiwani,112,30657,3019
 HR_Bhiwani,113,31920,4228
 HR_Bhiwani,114,12552,4556
@@ -31720,9 +31720,9 @@ HR_Gurugram,113,65655,16103
 HR_Gurugram,114,40607,19018
 HR_Gurugram,115,39379,25330
 HR_Gurugram,116,24612,21262
-HR_Gurugram,117,7365,10183
+HR_Gurugram,117,7757,10183
 HR_Gurugram,118,7204,15061
-HR_Gurugram,119,33461,27003
+HR_Gurugram,119,33069,27003
 HR_Gurugram,120,54623,37219
 HR_Gurugram,121,49476,32107
 HR_Gurugram,122,46829,12103
@@ -32922,9 +32922,9 @@ HR_Nuh,139,8130,2141
 HR_Nuh,140,5686,1734
 HR_Nuh,141,6510,1521
 HR_Nuh,142,7990,2108
-HR_Nuh,143,7615,2376
+HR_Nuh,143,7657,2376
 HR_Nuh,144,11125,3511
-HR_Nuh,145,12683,3687
+HR_Nuh,145,12641,3687
 HR_Nuh,146,10045,2719
 HR_Nuh,147,10275,3022
 HR_Palwal,1,0,0
@@ -33190,9 +33190,9 @@ HR_Panchkula,113,17565,7746
 HR_Panchkula,114,12307,8160
 HR_Panchkula,115,12006,8991
 HR_Panchkula,116,8100,7009
-HR_Panchkula,117,3456,4304
+HR_Panchkula,117,3617,4304
 HR_Panchkula,118,3897,4070
-HR_Panchkula,119,7786,7214
+HR_Panchkula,119,7625,7214
 HR_Panchkula,120,11690,11508
 HR_Panchkula,121,12559,8950
 HR_Panchkula,122,12066,2641
@@ -33211,9 +33211,9 @@ HR_Panchkula,134,19765,7053
 HR_Panchkula,135,18594,8420
 HR_Panchkula,136,13745,7774
 HR_Panchkula,137,6539,7087
-HR_Panchkula,138,2681,8272
+HR_Panchkula,138,3395,8272
 HR_Panchkula,139,7329,10065
-HR_Panchkula,140,11595,9367
+HR_Panchkula,140,10881,9367
 HR_Panchkula,141,9405,7413
 HR_Panchkula,142,10561,8103
 HR_Panchkula,143,15987,9647
@@ -34098,9 +34098,9 @@ HR_Yamunanagar,139,16370,9858
 HR_Yamunanagar,140,19018,10995
 HR_Yamunanagar,141,12283,7764
 HR_Yamunanagar,142,10650,9604
-HR_Yamunanagar,143,19872,15550
+HR_Yamunanagar,143,20242,15550
 HR_Yamunanagar,144,27087,17849
-HR_Yamunanagar,145,19658,13578
+HR_Yamunanagar,145,19288,13578
 HR_Yamunanagar,146,9801,17341
 HR_Yamunanagar,147,19245,25129
 JH_Bokaro,1,0,0
@@ -34652,9 +34652,9 @@ JH_Dhanbad,105,8904,4584
 JH_Dhanbad,106,37849,3421
 JH_Dhanbad,107,47380,2071
 JH_Dhanbad,108,19747,1026
-JH_Dhanbad,109,23760,-15
+JH_Dhanbad,109,23760,379
 JH_Dhanbad,110,38801,208
-JH_Dhanbad,111,36338,1292
+JH_Dhanbad,111,36338,898
 JH_Dhanbad,112,56062,2408
 JH_Dhanbad,113,55473,3099
 JH_Dhanbad,114,29556,6135
@@ -34961,9 +34961,9 @@ JH_East Singhbhum,120,11956,12527
 JH_East Singhbhum,121,20263,14709
 JH_East Singhbhum,122,35375,6113
 JH_East Singhbhum,123,38855,827
-JH_East Singhbhum,124,30575,1442
+JH_East Singhbhum,124,30580,1442
 JH_East Singhbhum,125,19340,1785
-JH_East Singhbhum,126,15285,3844
+JH_East Singhbhum,126,15280,3844
 JH_East Singhbhum,127,29432,5350
 JH_East Singhbhum,128,40618,6645
 JH_East Singhbhum,129,45301,8405
@@ -36269,9 +36269,9 @@ JH_Latehar,105,5018,1843
 JH_Latehar,106,13149,1180
 JH_Latehar,107,13746,760
 JH_Latehar,108,4185,269
-JH_Latehar,109,993,49
+JH_Latehar,109,993,134
 JH_Latehar,110,6168,322
-JH_Latehar,111,12072,796
+JH_Latehar,111,12072,711
 JH_Latehar,112,13505,1143
 JH_Latehar,113,9023,1414
 JH_Latehar,114,3898,2012
@@ -37151,9 +37151,9 @@ JH_Sahibganj,105,7017,2225
 JH_Sahibganj,106,14432,1473
 JH_Sahibganj,107,14764,903
 JH_Sahibganj,108,4332,231
-JH_Sahibganj,109,1439,-35
+JH_Sahibganj,109,1439,43
 JH_Sahibganj,110,4865,74
-JH_Sahibganj,111,6691,296
+JH_Sahibganj,111,6691,218
 JH_Sahibganj,112,4630,258
 JH_Sahibganj,113,3428,330
 JH_Sahibganj,114,3234,643
@@ -37739,11 +37739,11 @@ JK_Anantnag,105,5618,3505
 JK_Anantnag,106,4668,2762
 JK_Anantnag,107,5573,2095
 JK_Anantnag,108,6773,1326
-JK_Anantnag,109,7214,-664
-JK_Anantnag,110,15380,-576
-JK_Anantnag,111,28044,956
-JK_Anantnag,112,25708,827
-JK_Anantnag,113,17449,1200
+JK_Anantnag,109,7214,385
+JK_Anantnag,110,15380,0
+JK_Anantnag,111,28044,0
+JK_Anantnag,112,25708,251
+JK_Anantnag,113,17449,1107
 JK_Anantnag,114,23042,2509
 JK_Anantnag,115,27234,3598
 JK_Anantnag,116,27705,4095
@@ -38192,9 +38192,9 @@ JK_Budgam,117,17149,3081
 JK_Budgam,118,10721,4749
 JK_Budgam,119,13407,7839
 JK_Budgam,120,5274,3823
-JK_Budgam,121,305,132
+JK_Budgam,121,311,132
 JK_Budgam,122,68,9
-JK_Budgam,123,2598,233
+JK_Budgam,123,2592,233
 JK_Budgam,124,10629,460
 JK_Budgam,125,16560,383
 JK_Budgam,126,21638,348
@@ -38474,9 +38474,9 @@ JK_Ganderbal,105,1646,987
 JK_Ganderbal,106,1328,866
 JK_Ganderbal,107,1686,839
 JK_Ganderbal,108,2083,461
-JK_Ganderbal,109,2757,20
+JK_Ganderbal,109,2757,109
 JK_Ganderbal,110,14458,162
-JK_Ganderbal,111,21643,805
+JK_Ganderbal,111,21643,716
 JK_Ganderbal,112,13862,924
 JK_Ganderbal,113,10255,755
 JK_Ganderbal,114,13028,1730
@@ -39073,11 +39073,11 @@ JK_Kulgam,116,24370,2226
 JK_Kulgam,117,17477,1687
 JK_Kulgam,118,9324,1194
 JK_Kulgam,119,9826,1561
-JK_Kulgam,120,3309,657
-JK_Kulgam,121,65,5
-JK_Kulgam,122,46,3
-JK_Kulgam,123,2196,79
-JK_Kulgam,124,6665,157
+JK_Kulgam,120,3322,657
+JK_Kulgam,121,68,5
+JK_Kulgam,122,35,3
+JK_Kulgam,123,2193,79
+JK_Kulgam,124,6663,157
 JK_Kulgam,125,6915,167
 JK_Kulgam,126,6377,238
 JK_Kulgam,127,5536,198
@@ -39222,9 +39222,9 @@ JK_Kupwara,118,7585,1519
 JK_Kupwara,119,9864,3060
 JK_Kupwara,120,6054,2512
 JK_Kupwara,121,764,562
-JK_Kupwara,122,5,10
+JK_Kupwara,122,6,10
 JK_Kupwara,123,3277,251
-JK_Kupwara,124,9273,566
+JK_Kupwara,124,9272,566
 JK_Kupwara,125,8925,466
 JK_Kupwara,126,7981,362
 JK_Kupwara,127,9157,373
@@ -39356,9 +39356,9 @@ JK_Pulwama,105,6000,3093
 JK_Pulwama,106,5320,2701
 JK_Pulwama,107,5847,1750
 JK_Pulwama,108,4686,912
-JK_Pulwama,109,2045,-243
+JK_Pulwama,109,2045,251
 JK_Pulwama,110,4410,138
-JK_Pulwama,111,8518,1677
+JK_Pulwama,111,8518,1183
 JK_Pulwama,112,11876,2189
 JK_Pulwama,113,11060,2028
 JK_Pulwama,114,15536,2973
@@ -39367,11 +39367,11 @@ JK_Pulwama,116,18938,4526
 JK_Pulwama,117,13483,3322
 JK_Pulwama,118,8369,2840
 JK_Pulwama,119,9301,3713
-JK_Pulwama,120,3620,1645
-JK_Pulwama,121,277,122
-JK_Pulwama,122,-11,0
-JK_Pulwama,123,4214,275
-JK_Pulwama,124,9387,358
+JK_Pulwama,120,3631,1645
+JK_Pulwama,121,298,122
+JK_Pulwama,122,0,0
+JK_Pulwama,123,4193,275
+JK_Pulwama,124,9365,358
 JK_Pulwama,125,12106,231
 JK_Pulwama,126,8439,173
 JK_Pulwama,127,8057,357
@@ -40091,9 +40091,9 @@ JK_Samba,105,5063,2097
 JK_Samba,106,4554,1836
 JK_Samba,107,4669,1082
 JK_Samba,108,4557,602
-JK_Samba,109,5460,96
+JK_Samba,109,5460,232
 JK_Samba,110,10982,128
-JK_Samba,111,13198,570
+JK_Samba,111,13198,434
 JK_Samba,112,11013,889
 JK_Samba,113,9529,1552
 JK_Samba,114,9667,2508
@@ -40218,9 +40218,9 @@ JK_Shopiyan,85,0,0
 JK_Shopiyan,86,0,0
 JK_Shopiyan,87,0,0
 JK_Shopiyan,88,0,0
-JK_Shopiyan,89,-45,0
-JK_Shopiyan,90,114,0
-JK_Shopiyan,91,286,0
+JK_Shopiyan,89,30,0
+JK_Shopiyan,90,18,0
+JK_Shopiyan,91,211,0
 JK_Shopiyan,92,193,0
 JK_Shopiyan,93,630,0
 JK_Shopiyan,94,1526,0
@@ -41120,9 +41120,9 @@ KA_Bengaluru Rural,105,13711,1983
 KA_Bengaluru Rural,106,14431,2073
 KA_Bengaluru Rural,107,13535,1575
 KA_Bengaluru Rural,108,14607,1007
-KA_Bengaluru Rural,109,14780,240
+KA_Bengaluru Rural,109,14780,445
 KA_Bengaluru Rural,110,12912,163
-KA_Bengaluru Rural,111,18416,1258
+KA_Bengaluru Rural,111,18416,1053
 KA_Bengaluru Rural,112,18065,1752
 KA_Bengaluru Rural,113,14934,3378
 KA_Bengaluru Rural,114,17005,5701
@@ -42011,9 +42011,9 @@ KA_Chikkamagaluru,114,24113,4395
 KA_Chikkamagaluru,115,20316,5730
 KA_Chikkamagaluru,116,18099,7691
 KA_Chikkamagaluru,117,14706,8681
-KA_Chikkamagaluru,118,6541,5187
+KA_Chikkamagaluru,118,6569,5187
 KA_Chikkamagaluru,119,2095,9592
-KA_Chikkamagaluru,120,5448,17993
+KA_Chikkamagaluru,120,5420,17993
 KA_Chikkamagaluru,121,5431,14187
 KA_Chikkamagaluru,122,5420,5961
 KA_Chikkamagaluru,123,8650,1962
@@ -42718,9 +42718,9 @@ KA_Gadag,86,0,0
 KA_Gadag,87,0,0
 KA_Gadag,88,0,0
 KA_Gadag,89,285,0
-KA_Gadag,90,-171,0
+KA_Gadag,90,563,0
 KA_Gadag,91,1257,0
-KA_Gadag,92,1603,0
+KA_Gadag,92,869,0
 KA_Gadag,93,1255,0
 KA_Gadag,94,4401,0
 KA_Gadag,95,3826,1
@@ -44951,9 +44951,9 @@ KA_Vijayapura,114,19617,4902
 KA_Vijayapura,115,26182,7764
 KA_Vijayapura,116,19217,7666
 KA_Vijayapura,117,13440,6420
-KA_Vijayapura,118,8189,3439
+KA_Vijayapura,118,8203,3439
 KA_Vijayapura,119,12748,9880
-KA_Vijayapura,120,17307,18626
+KA_Vijayapura,120,17293,18626
 KA_Vijayapura,121,11217,15430
 KA_Vijayapura,122,9983,12360
 KA_Vijayapura,123,12442,8297
@@ -45242,9 +45242,9 @@ KL_Alappuzha,111,54447,5374
 KL_Alappuzha,112,73015,8206
 KL_Alappuzha,113,60151,11611
 KL_Alappuzha,114,37288,17016
-KL_Alappuzha,115,13777,13977
+KL_Alappuzha,115,14073,13977
 KL_Alappuzha,116,17237,21567
-KL_Alappuzha,117,26661,35764
+KL_Alappuzha,117,26365,35764
 KL_Alappuzha,118,16916,33505
 KL_Alappuzha,119,9865,35857
 KL_Alappuzha,120,9499,29532
@@ -45383,18 +45383,18 @@ KL_Ernakulam,105,27454,16526
 KL_Ernakulam,106,31913,13244
 KL_Ernakulam,107,37534,7386
 KL_Ernakulam,108,39463,4229
-KL_Ernakulam,109,200031,2118
+KL_Ernakulam,109,200031,2123
 KL_Ernakulam,110,211097,2232
-KL_Ernakulam,111,106870,7862
+KL_Ernakulam,111,106870,7857
 KL_Ernakulam,112,141036,14017
 KL_Ernakulam,113,122251,16647
 KL_Ernakulam,114,85296,27664
 KL_Ernakulam,115,62695,47594
 KL_Ernakulam,116,45089,39314
 KL_Ernakulam,117,18427,22852
-KL_Ernakulam,118,12623,22204
+KL_Ernakulam,118,12671,22204
 KL_Ernakulam,119,8732,26687
-KL_Ernakulam,120,10241,40428
+KL_Ernakulam,120,10193,40428
 KL_Ernakulam,121,18207,27229
 KL_Ernakulam,122,31069,10467
 KL_Ernakulam,123,20087,7519
@@ -45544,9 +45544,9 @@ KL_Idukki,119,11899,11713
 KL_Idukki,120,14294,14083
 KL_Idukki,121,18742,8902
 KL_Idukki,122,13757,2600
-KL_Idukki,123,4192,27
+KL_Idukki,123,4192,28
 KL_Idukki,124,6700,56
-KL_Idukki,125,24299,85
+KL_Idukki,125,24299,84
 KL_Idukki,126,29109,2480
 KL_Idukki,127,25607,5993
 KL_Idukki,128,38548,4961
@@ -45686,12 +45686,12 @@ KL_Kannur,114,68106,22592
 KL_Kannur,115,49069,24755
 KL_Kannur,116,33596,19914
 KL_Kannur,117,16446,24549
-KL_Kannur,118,6852,21830
+KL_Kannur,118,6873,21830
 KL_Kannur,119,3761,38029
-KL_Kannur,120,2825,38950
-KL_Kannur,121,410,5571
+KL_Kannur,120,2804,38950
+KL_Kannur,121,514,5571
 KL_Kannur,122,26724,6221
-KL_Kannur,123,27832,6032
+KL_Kannur,123,27728,6032
 KL_Kannur,124,13358,15
 KL_Kannur,125,48867,133
 KL_Kannur,126,61933,2953
@@ -46126,10 +46126,10 @@ KL_Kottayam,113,65451,13429
 KL_Kottayam,114,54755,17183
 KL_Kottayam,115,31163,20366
 KL_Kottayam,116,26502,20699
-KL_Kottayam,117,18838,15713
-KL_Kottayam,118,6096,10879
-KL_Kottayam,119,8430,26969
-KL_Kottayam,120,10388,25673
+KL_Kottayam,117,18928,15713
+KL_Kottayam,118,6285,10879
+KL_Kottayam,119,8340,26969
+KL_Kottayam,120,10199,25673
 KL_Kottayam,121,17918,5557
 KL_Kottayam,122,16090,2395
 KL_Kottayam,123,2732,8
@@ -46424,9 +46424,9 @@ KL_Malappuram,117,27470,12422
 KL_Malappuram,118,10533,12789
 KL_Malappuram,119,10855,30143
 KL_Malappuram,120,13819,36539
-KL_Malappuram,121,9411,18962
+KL_Malappuram,121,9460,18962
 KL_Malappuram,122,22406,2952
-KL_Malappuram,123,24310,923
+KL_Malappuram,123,24261,923
 KL_Malappuram,124,12514,243
 KL_Malappuram,125,35756,198
 KL_Malappuram,126,56797,6035
@@ -46715,9 +46715,9 @@ KL_Pathanamthitta,114,46599,22330
 KL_Pathanamthitta,115,22025,27383
 KL_Pathanamthitta,116,19048,31478
 KL_Pathanamthitta,117,20496,25169
-KL_Pathanamthitta,118,7480,16543
+KL_Pathanamthitta,118,7482,16543
 KL_Pathanamthitta,119,2959,27361
-KL_Pathanamthitta,120,3839,30829
+KL_Pathanamthitta,120,3837,30829
 KL_Pathanamthitta,121,12953,10781
 KL_Pathanamthitta,122,24228,1515
 KL_Pathanamthitta,123,14340,100
@@ -46861,9 +46861,9 @@ KL_Thiruvananthapuram,113,86788,17880
 KL_Thiruvananthapuram,114,52385,27554
 KL_Thiruvananthapuram,115,39949,38634
 KL_Thiruvananthapuram,116,28500,42858
-KL_Thiruvananthapuram,117,28017,52425
+KL_Thiruvananthapuram,117,28435,52425
 KL_Thiruvananthapuram,118,16240,50072
-KL_Thiruvananthapuram,119,16897,59955
+KL_Thiruvananthapuram,119,16479,59955
 KL_Thiruvananthapuram,120,18363,49224
 KL_Thiruvananthapuram,121,25758,26217
 KL_Thiruvananthapuram,122,24741,19198
@@ -47020,9 +47020,9 @@ KL_Thrissur,125,41073,2516
 KL_Thrissur,126,66627,8102
 KL_Thrissur,127,74075,9216
 KL_Thrissur,128,66565,8634
-KL_Thrissur,129,51688,8513
+KL_Thrissur,129,51775,8513
 KL_Thrissur,130,64138,18343
-KL_Thrissur,131,63537,16001
+KL_Thrissur,131,63450,16001
 KL_Thrissur,132,50957,31232
 KL_Thrissur,133,58793,50429
 KL_Thrissur,134,52325,47437
@@ -47441,9 +47441,9 @@ LA_Leh,105,2495,1646
 LA_Leh,106,897,1703
 LA_Leh,107,497,909
 LA_Leh,108,279,393
-LA_Leh,109,9371,-100
+LA_Leh,109,9371,150
 LA_Leh,110,13623,125
-LA_Leh,111,5216,1211
+LA_Leh,111,5216,961
 LA_Leh,112,2008,1860
 LA_Leh,113,1246,1934
 LA_Leh,114,2327,6875
@@ -49352,9 +49352,9 @@ MH_Hingoli,105,7224,857
 MH_Hingoli,106,7927,813
 MH_Hingoli,107,7168,703
 MH_Hingoli,108,4475,468
-MH_Hingoli,109,6065,157
+MH_Hingoli,109,6065,170
 MH_Hingoli,110,9193,353
-MH_Hingoli,111,8307,1159
+MH_Hingoli,111,8307,1146
 MH_Hingoli,112,5177,1381
 MH_Hingoli,113,4571,1999
 MH_Hingoli,114,4748,1941
@@ -50095,9 +50095,9 @@ MH_Mumbai,113,273353,66419
 MH_Mumbai,114,211927,91239
 MH_Mumbai,115,168455,120476
 MH_Mumbai,116,146268,166801
-MH_Mumbai,117,90987,128014
+MH_Mumbai,117,92455,128014
 MH_Mumbai,118,44449,94150
-MH_Mumbai,119,87645,144142
+MH_Mumbai,119,86177,144142
 MH_Mumbai,120,121671,134338
 MH_Mumbai,121,93654,85078
 MH_Mumbai,122,68985,32346
@@ -50834,12 +50834,12 @@ MH_Osmanabad,117,21013,7370
 MH_Osmanabad,118,9079,2909
 MH_Osmanabad,119,6977,1593
 MH_Osmanabad,120,20870,10961
-MH_Osmanabad,121,16313,9468
+MH_Osmanabad,121,16551,9468
 MH_Osmanabad,122,19583,4404
-MH_Osmanabad,123,27504,5958
-MH_Osmanabad,124,25420,1791
+MH_Osmanabad,123,27266,5958
+MH_Osmanabad,124,25426,1791
 MH_Osmanabad,125,28639,1336
-MH_Osmanabad,126,16459,4417
+MH_Osmanabad,126,16453,4417
 MH_Osmanabad,127,15402,4381
 MH_Osmanabad,128,13361,3725
 MH_Osmanabad,129,7499,5507
@@ -50982,9 +50982,9 @@ MH_Palghar,118,11528,5066
 MH_Palghar,119,31778,15186
 MH_Palghar,120,51657,20521
 MH_Palghar,121,33310,11691
-MH_Palghar,122,9392,4647
+MH_Palghar,122,9403,4647
 MH_Palghar,123,4320,431
-MH_Palghar,124,8577,1857
+MH_Palghar,124,8566,1857
 MH_Palghar,125,10640,2151
 MH_Palghar,126,27569,1374
 MH_Palghar,127,53048,3397
@@ -51416,9 +51416,9 @@ MH_Raigad,111,30937,2272
 MH_Raigad,112,31065,3036
 MH_Raigad,113,31331,5508
 MH_Raigad,114,25820,7454
-MH_Raigad,115,23446,8083
+MH_Raigad,115,23890,8083
 MH_Raigad,116,32358,13445
-MH_Raigad,117,31924,11988
+MH_Raigad,117,31480,11988
 MH_Raigad,118,10895,2799
 MH_Raigad,119,28498,13773
 MH_Raigad,120,51583,23869
@@ -52013,14 +52013,14 @@ MH_Sindhudurg,120,25278,12399
 MH_Sindhudurg,121,23860,10435
 MH_Sindhudurg,122,12169,2301
 MH_Sindhudurg,123,2266,3982
-MH_Sindhudurg,124,12394,2711
+MH_Sindhudurg,124,12398,2711
 MH_Sindhudurg,125,24797,2453
-MH_Sindhudurg,126,19378,5391
+MH_Sindhudurg,126,19374,5391
 MH_Sindhudurg,127,19177,4490
 MH_Sindhudurg,128,15058,6979
-MH_Sindhudurg,129,592,5760
+MH_Sindhudurg,129,642,5760
 MH_Sindhudurg,130,7494,596
-MH_Sindhudurg,131,8594,1068
+MH_Sindhudurg,131,8544,1068
 MH_Sindhudurg,132,8542,541
 MH_Sindhudurg,133,11602,950
 MH_Sindhudurg,134,21238,1414
@@ -52861,7 +52861,7 @@ ML_East Garo Hills,86,0,0
 ML_East Garo Hills,87,0,0
 ML_East Garo Hills,88,0,0
 ML_East Garo Hills,89,24,0
-ML_East Garo Hills,90,218,0
+ML_East Garo Hills,90,207,0
 ML_East Garo Hills,91,183,0
 ML_East Garo Hills,92,84,0
 ML_East Garo Hills,93,352,0
@@ -52880,9 +52880,9 @@ ML_East Garo Hills,105,614,355
 ML_East Garo Hills,106,987,700
 ML_East Garo Hills,107,1098,643
 ML_East Garo Hills,108,693,282
-ML_East Garo Hills,109,477,119
+ML_East Garo Hills,109,478,119
 ML_East Garo Hills,110,424,147
-ML_East Garo Hills,111,433,283
+ML_East Garo Hills,111,432,283
 ML_East Garo Hills,112,315,277
 ML_East Garo Hills,113,388,367
 ML_East Garo Hills,114,637,507
@@ -53174,9 +53174,9 @@ ML_East Khasi Hills,105,3218,4764
 ML_East Khasi Hills,106,2908,5382
 ML_East Khasi Hills,107,2831,4098
 ML_East Khasi Hills,108,2150,2018
-ML_East Khasi Hills,109,1315,75
+ML_East Khasi Hills,109,1315,658
 ML_East Khasi Hills,110,3042,482
-ML_East Khasi Hills,111,5898,1470
+ML_East Khasi Hills,111,5898,887
 ML_East Khasi Hills,112,8924,1069
 ML_East Khasi Hills,113,8590,1332
 ML_East Khasi Hills,114,7122,1705
@@ -53468,9 +53468,9 @@ ML_Ribhoi,105,693,565
 ML_Ribhoi,106,742,947
 ML_Ribhoi,107,534,888
 ML_Ribhoi,108,294,428
-ML_Ribhoi,109,118,96
+ML_Ribhoi,109,136,147
 ML_Ribhoi,110,231,138
-ML_Ribhoi,111,629,300
+ML_Ribhoi,111,611,249
 ML_Ribhoi,112,897,323
 ML_Ribhoi,113,1044,316
 ML_Ribhoi,114,1078,246
@@ -53615,9 +53615,9 @@ ML_South Garo Hills,105,420,677
 ML_South Garo Hills,106,433,543
 ML_South Garo Hills,107,472,263
 ML_South Garo Hills,108,340,165
-ML_South Garo Hills,109,871,492
+ML_South Garo Hills,109,872,492
 ML_South Garo Hills,110,819,527
-ML_South Garo Hills,111,268,272
+ML_South Garo Hills,111,267,272
 ML_South Garo Hills,112,678,302
 ML_South Garo Hills,113,802,222
 ML_South Garo Hills,114,756,347
@@ -53764,9 +53764,9 @@ ML_South West Garo Hills,107,973,196
 ML_South West Garo Hills,108,798,92
 ML_South West Garo Hills,109,1076,324
 ML_South West Garo Hills,110,1482,461
-ML_South West Garo Hills,111,1378,283
+ML_South West Garo Hills,111,1379,283
 ML_South West Garo Hills,112,1189,261
-ML_South West Garo Hills,113,1320,264
+ML_South West Garo Hills,113,1319,264
 ML_South West Garo Hills,114,1705,366
 ML_South West Garo Hills,115,2139,492
 ML_South West Garo Hills,116,4505,592
@@ -53909,9 +53909,9 @@ ML_South West Khasi Hills,105,76,197
 ML_South West Khasi Hills,106,103,271
 ML_South West Khasi Hills,107,141,241
 ML_South West Khasi Hills,108,155,119
-ML_South West Khasi Hills,109,286,153
+ML_South West Khasi Hills,109,287,153
 ML_South West Khasi Hills,110,340,129
-ML_South West Khasi Hills,111,366,67
+ML_South West Khasi Hills,111,365,67
 ML_South West Khasi Hills,112,566,63
 ML_South West Khasi Hills,113,561,60
 ML_South West Khasi Hills,114,599,71
@@ -54056,10 +54056,10 @@ ML_West Garo Hills,105,2716,2245
 ML_West Garo Hills,106,2124,2564
 ML_West Garo Hills,107,1685,2251
 ML_West Garo Hills,108,1231,1110
-ML_West Garo Hills,109,-160,-818
-ML_West Garo Hills,110,1369,-647
-ML_West Garo Hills,111,4506,1248
-ML_West Garo Hills,112,3413,1360
+ML_West Garo Hills,109,572,359
+ML_West Garo Hills,110,1369,0
+ML_West Garo Hills,111,3774,71
+ML_West Garo Hills,112,3413,713
 ML_West Garo Hills,113,2325,1673
 ML_West Garo Hills,114,3426,2194
 ML_West Garo Hills,115,4654,2114
@@ -54203,9 +54203,9 @@ ML_West Jaintia Hills,105,511,509
 ML_West Jaintia Hills,106,682,593
 ML_West Jaintia Hills,107,673,361
 ML_West Jaintia Hills,108,582,173
-ML_West Jaintia Hills,109,1138,437
+ML_West Jaintia Hills,109,1139,437
 ML_West Jaintia Hills,110,1438,477
-ML_West Jaintia Hills,111,1579,362
+ML_West Jaintia Hills,111,1578,362
 ML_West Jaintia Hills,112,1935,364
 ML_West Jaintia Hills,113,1789,358
 ML_West Jaintia Hills,114,1570,367
@@ -54350,11 +54350,11 @@ ML_West Khasi Hills,105,786,373
 ML_West Khasi Hills,106,649,583
 ML_West Khasi Hills,107,811,660
 ML_West Khasi Hills,108,870,476
-ML_West Khasi Hills,109,396,56
+ML_West Khasi Hills,109,406,182
 ML_West Khasi Hills,110,460,85
-ML_West Khasi Hills,111,828,514
+ML_West Khasi Hills,111,819,388
 ML_West Khasi Hills,112,1426,717
-ML_West Khasi Hills,113,1963,670
+ML_West Khasi Hills,113,1962,670
 ML_West Khasi Hills,114,1856,576
 ML_West Khasi Hills,115,3528,662
 ML_West Khasi Hills,116,7550,825
@@ -54499,9 +54499,9 @@ MN_Bishnupur,107,156,410
 MN_Bishnupur,108,44,171
 MN_Bishnupur,109,194,317
 MN_Bishnupur,110,436,931
-MN_Bishnupur,111,305,798
+MN_Bishnupur,111,320,798
 MN_Bishnupur,112,320,408
-MN_Bishnupur,113,555,413
+MN_Bishnupur,113,540,413
 MN_Bishnupur,114,1035,438
 MN_Bishnupur,115,1410,393
 MN_Bishnupur,116,2951,381
@@ -54644,12 +54644,12 @@ MN_Chandel,105,221,459
 MN_Chandel,106,200,326
 MN_Chandel,107,252,611
 MN_Chandel,108,182,646
-MN_Chandel,109,-656,295
-MN_Chandel,110,-662,610
-MN_Chandel,111,86,859
-MN_Chandel,112,586,712
-MN_Chandel,113,821,653
-MN_Chandel,114,610,387
+MN_Chandel,109,56,295
+MN_Chandel,110,0,610
+MN_Chandel,111,0,859
+MN_Chandel,112,0,712
+MN_Chandel,113,195,653
+MN_Chandel,114,534,387
 MN_Chandel,115,525,210
 MN_Chandel,116,726,278
 MN_Chandel,117,1370,261
@@ -54791,9 +54791,9 @@ MN_Churachandpur,105,598,1045
 MN_Churachandpur,106,609,1224
 MN_Churachandpur,107,466,1155
 MN_Churachandpur,108,300,621
-MN_Churachandpur,109,145,634
+MN_Churachandpur,109,183,634
 MN_Churachandpur,110,171,896
-MN_Churachandpur,111,419,1091
+MN_Churachandpur,111,381,1091
 MN_Churachandpur,112,952,864
 MN_Churachandpur,113,1420,594
 MN_Churachandpur,114,2424,525
@@ -54815,9 +54815,9 @@ MN_Churachandpur,129,7511,37
 MN_Churachandpur,130,4998,64
 MN_Churachandpur,131,3265,73
 MN_Churachandpur,132,2760,50
-MN_Churachandpur,133,2775,15
+MN_Churachandpur,133,2775,35
 MN_Churachandpur,134,5720,112
-MN_Churachandpur,135,8207,195
+MN_Churachandpur,135,8207,175
 MN_Churachandpur,136,9162,618
 MN_Churachandpur,137,8192,1059
 MN_Churachandpur,138,5877,1904
@@ -55085,9 +55085,9 @@ MN_Imphal West,105,1499,1751
 MN_Imphal West,106,1268,1605
 MN_Imphal West,107,1182,1550
 MN_Imphal West,108,710,825
-MN_Imphal West,109,-176,576
+MN_Imphal West,109,177,576
 MN_Imphal West,110,304,1475
-MN_Imphal West,111,1656,2223
+MN_Imphal West,111,1303,2223
 MN_Imphal West,112,3177,1868
 MN_Imphal West,113,3766,1619
 MN_Imphal West,114,4798,1612
@@ -55526,17 +55526,17 @@ MN_Kamjong,105,90,157
 MN_Kamjong,106,163,78
 MN_Kamjong,107,298,26
 MN_Kamjong,108,161,10
-MN_Kamjong,109,-3,-9
+MN_Kamjong,109,2,0
 MN_Kamjong,110,63,9
-MN_Kamjong,111,82,26
+MN_Kamjong,111,77,17
 MN_Kamjong,112,60,16
 MN_Kamjong,113,99,26
 MN_Kamjong,114,245,50
 MN_Kamjong,115,390,53
 MN_Kamjong,116,445,127
-MN_Kamjong,117,379,150
+MN_Kamjong,117,379,151
 MN_Kamjong,118,238,48
-MN_Kamjong,119,159,16
+MN_Kamjong,119,159,15
 MN_Kamjong,120,101,28
 MN_Kamjong,121,87,20
 MN_Kamjong,122,420,4
@@ -55546,11 +55546,11 @@ MN_Kamjong,125,578,5
 MN_Kamjong,126,127,0
 MN_Kamjong,127,68,0
 MN_Kamjong,128,274,5
-MN_Kamjong,129,271,5
+MN_Kamjong,129,273,5
 MN_Kamjong,130,84,1
-MN_Kamjong,131,85,1
+MN_Kamjong,131,84,1
 MN_Kamjong,132,163,2
-MN_Kamjong,133,341,2
+MN_Kamjong,133,340,2
 MN_Kamjong,134,547,15
 MN_Kamjong,135,529,21
 MN_Kamjong,136,868,13
@@ -55675,9 +55675,9 @@ MN_Kangpokpi,107,364,485
 MN_Kangpokpi,108,313,258
 MN_Kangpokpi,109,243,117
 MN_Kangpokpi,110,303,237
-MN_Kangpokpi,111,191,222
+MN_Kangpokpi,111,192,222
 MN_Kangpokpi,112,418,203
-MN_Kangpokpi,113,657,219
+MN_Kangpokpi,113,656,219
 MN_Kangpokpi,114,556,240
 MN_Kangpokpi,115,330,228
 MN_Kangpokpi,116,1077,267
@@ -55820,10 +55820,10 @@ MN_Noney,105,173,201
 MN_Noney,106,163,318
 MN_Noney,107,136,190
 MN_Noney,108,84,133
-MN_Noney,109,-95,38
-MN_Noney,110,-89,-19
-MN_Noney,111,201,109
-MN_Noney,112,593,230
+MN_Noney,109,64,80
+MN_Noney,110,0,0
+MN_Noney,111,42,67
+MN_Noney,112,504,211
 MN_Noney,113,572,277
 MN_Noney,114,453,501
 MN_Noney,115,470,561
@@ -55967,21 +55967,21 @@ MN_Pherzawl,105,121,169
 MN_Pherzawl,106,68,85
 MN_Pherzawl,107,27,50
 MN_Pherzawl,108,13,19
-MN_Pherzawl,109,142,7
-MN_Pherzawl,110,131,1
-MN_Pherzawl,111,33,7
-MN_Pherzawl,112,327,62
+MN_Pherzawl,109,145,7
+MN_Pherzawl,110,135,1
+MN_Pherzawl,111,30,7
+MN_Pherzawl,112,323,62
 MN_Pherzawl,113,567,131
 MN_Pherzawl,114,551,114
 MN_Pherzawl,115,361,43
 MN_Pherzawl,116,517,18
 MN_Pherzawl,117,616,36
-MN_Pherzawl,118,250,36
+MN_Pherzawl,118,253,36
 MN_Pherzawl,119,266,57
-MN_Pherzawl,120,263,119
-MN_Pherzawl,121,64,81
+MN_Pherzawl,120,260,119
+MN_Pherzawl,121,66,81
 MN_Pherzawl,122,403,8
-MN_Pherzawl,123,413,4
+MN_Pherzawl,123,411,4
 MN_Pherzawl,124,603,4
 MN_Pherzawl,125,915,6
 MN_Pherzawl,126,610,13
@@ -56114,27 +56114,27 @@ MN_Senapati,105,252,477
 MN_Senapati,106,248,574
 MN_Senapati,107,207,575
 MN_Senapati,108,108,311
-MN_Senapati,109,-357,110
-MN_Senapati,110,-344,221
-MN_Senapati,111,72,283
-MN_Senapati,112,208,252
-MN_Senapati,113,278,303
-MN_Senapati,114,205,252
-MN_Senapati,115,355,227
+MN_Senapati,109,37,110
+MN_Senapati,110,0,221
+MN_Senapati,111,0,283
+MN_Senapati,112,0,252
+MN_Senapati,113,0,303
+MN_Senapati,114,69,252
+MN_Senapati,115,311,227
 MN_Senapati,116,589,207
 MN_Senapati,117,694,154
 MN_Senapati,118,712,152
-MN_Senapati,119,535,145
+MN_Senapati,119,537,145
 MN_Senapati,120,401,112
-MN_Senapati,121,332,81
+MN_Senapati,121,330,81
 MN_Senapati,122,389,21
 MN_Senapati,123,375,7
 MN_Senapati,124,794,7
 MN_Senapati,125,810,3
 MN_Senapati,126,916,4
-MN_Senapati,127,1291,10
+MN_Senapati,127,1292,10
 MN_Senapati,128,1558,8
-MN_Senapati,129,1587,7
+MN_Senapati,129,1586,7
 MN_Senapati,130,984,11
 MN_Senapati,131,778,15
 MN_Senapati,132,719,13
@@ -56242,7 +56242,7 @@ MN_Tamenglong,86,0,0
 MN_Tamenglong,87,0,0
 MN_Tamenglong,88,0,0
 MN_Tamenglong,89,25,0
-MN_Tamenglong,90,95,0
+MN_Tamenglong,90,85,0
 MN_Tamenglong,91,79,0
 MN_Tamenglong,92,8,0
 MN_Tamenglong,93,59,0
@@ -56261,15 +56261,15 @@ MN_Tamenglong,105,104,163
 MN_Tamenglong,106,161,211
 MN_Tamenglong,107,147,256
 MN_Tamenglong,108,44,150
-MN_Tamenglong,109,-358,-40
-MN_Tamenglong,110,-383,108
-MN_Tamenglong,111,10,397
-MN_Tamenglong,112,129,350
-MN_Tamenglong,113,206,205
-MN_Tamenglong,114,447,171
-MN_Tamenglong,115,430,125
+MN_Tamenglong,109,23,36
+MN_Tamenglong,110,0,108
+MN_Tamenglong,111,0,321
+MN_Tamenglong,112,0,350
+MN_Tamenglong,113,0,205
+MN_Tamenglong,114,193,171
+MN_Tamenglong,115,267,125
 MN_Tamenglong,116,708,296
-MN_Tamenglong,117,1383,416
+MN_Tamenglong,117,1381,416
 MN_Tamenglong,118,1285,185
 MN_Tamenglong,119,757,82
 MN_Tamenglong,120,597,122
@@ -56279,9 +56279,9 @@ MN_Tamenglong,123,486,1
 MN_Tamenglong,124,536,0
 MN_Tamenglong,125,471,3
 MN_Tamenglong,126,581,3
-MN_Tamenglong,127,552,1
+MN_Tamenglong,127,553,1
 MN_Tamenglong,128,503,3
-MN_Tamenglong,129,626,2
+MN_Tamenglong,129,625,2
 MN_Tamenglong,130,254,0
 MN_Tamenglong,131,523,2
 MN_Tamenglong,132,724,4
@@ -56555,9 +56555,9 @@ MN_Thoubal,105,350,1585
 MN_Thoubal,106,141,1316
 MN_Thoubal,107,236,1293
 MN_Thoubal,108,214,733
-MN_Thoubal,109,-16,173
+MN_Thoubal,109,0,173
 MN_Thoubal,110,108,431
-MN_Thoubal,111,253,391
+MN_Thoubal,111,237,391
 MN_Thoubal,112,679,276
 MN_Thoubal,113,1008,297
 MN_Thoubal,114,1635,282
@@ -56869,9 +56869,9 @@ MP_Agar Malwa,125,7293,19
 MP_Agar Malwa,126,8164,43
 MP_Agar Malwa,127,10152,237
 MP_Agar Malwa,128,13126,218
-MP_Agar Malwa,129,6342,18
+MP_Agar Malwa,129,6359,18
 MP_Agar Malwa,130,3289,729
-MP_Agar Malwa,131,5081,979
+MP_Agar Malwa,131,5064,979
 MP_Agar Malwa,132,14088,981
 MP_Agar Malwa,133,19980,1352
 MP_Agar Malwa,134,20612,1353
@@ -57162,9 +57162,9 @@ MP_Anuppur,124,3883,241
 MP_Anuppur,125,7204,98
 MP_Anuppur,126,8892,107
 MP_Anuppur,127,12002,307
-MP_Anuppur,128,11089,272
+MP_Anuppur,128,11108,272
 MP_Anuppur,129,5370,428
-MP_Anuppur,130,7447,816
+MP_Anuppur,130,7428,816
 MP_Anuppur,131,5494,583
 MP_Anuppur,132,17031,509
 MP_Anuppur,133,32137,1088
@@ -57442,9 +57442,9 @@ MP_Balaghat,110,27985,1992
 MP_Balaghat,111,26205,2511
 MP_Balaghat,112,47981,2878
 MP_Balaghat,113,43431,3032
-MP_Balaghat,114,6723,2091
+MP_Balaghat,114,6728,2091
 MP_Balaghat,115,2257,2470
-MP_Balaghat,116,2207,3292
+MP_Balaghat,116,2202,3292
 MP_Balaghat,117,1257,2959
 MP_Balaghat,118,1431,4661
 MP_Balaghat,119,2638,7032
@@ -57459,9 +57459,9 @@ MP_Balaghat,127,35098,669
 MP_Balaghat,128,35150,677
 MP_Balaghat,129,16277,1914
 MP_Balaghat,130,30157,3114
-MP_Balaghat,131,26473,1345
+MP_Balaghat,131,26483,1345
 MP_Balaghat,132,50010,3124
-MP_Balaghat,133,81390,6013
+MP_Balaghat,133,81380,6013
 MP_Balaghat,134,34542,2933
 MP_Balaghat,135,18759,8095
 MP_Balaghat,136,17351,24752
@@ -57604,11 +57604,11 @@ MP_Barwani,125,11517,74
 MP_Barwani,126,12932,64
 MP_Barwani,127,17249,273
 MP_Barwani,128,28220,705
-MP_Barwani,129,17198,803
+MP_Barwani,129,17218,803
 MP_Barwani,130,10409,1202
-MP_Barwani,131,16707,1210
+MP_Barwani,131,16688,1210
 MP_Barwani,132,43214,1719
-MP_Barwani,133,56585,2865
+MP_Barwani,133,56584,2865
 MP_Barwani,134,39402,2882
 MP_Barwani,135,30984,4667
 MP_Barwani,136,11795,10610
@@ -58040,9 +58040,9 @@ MP_Bhopal,120,20041,32084
 MP_Bhopal,121,27304,28154
 MP_Bhopal,122,31448,13573
 MP_Bhopal,123,59581,2586
-MP_Bhopal,124,75203,1766
+MP_Bhopal,124,75205,1766
 MP_Bhopal,125,100630,2013
-MP_Bhopal,126,117055,2651
+MP_Bhopal,126,117053,2651
 MP_Bhopal,127,131809,3775
 MP_Bhopal,128,174654,8567
 MP_Bhopal,129,126196,13071
@@ -58194,15 +58194,15 @@ MP_Burhanpur,127,16753,1260
 MP_Burhanpur,128,21316,642
 MP_Burhanpur,129,8565,644
 MP_Burhanpur,130,15006,1501
-MP_Burhanpur,131,16627,1060
+MP_Burhanpur,131,16629,1060
 MP_Burhanpur,132,39787,1499
-MP_Burhanpur,133,53918,2895
+MP_Burhanpur,133,53916,2895
 MP_Burhanpur,134,19494,1648
 MP_Burhanpur,135,11877,8044
 MP_Burhanpur,136,8390,13897
-MP_Burhanpur,137,7986,9428
+MP_Burhanpur,137,7987,9428
 MP_Burhanpur,138,12804,5503
-MP_Burhanpur,139,4818,2028
+MP_Burhanpur,139,4817,2028
 MP_Burhanpur,140,2720,1529
 MP_Burhanpur,141,18172,9487
 MP_Burhanpur,142,35546,13718
@@ -58466,9 +58466,9 @@ MP_Chhindwara,105,20502,3258
 MP_Chhindwara,106,30133,1587
 MP_Chhindwara,107,21420,941
 MP_Chhindwara,108,13438,539
-MP_Chhindwara,109,27172,270
+MP_Chhindwara,109,27172,306
 MP_Chhindwara,110,38162,395
-MP_Chhindwara,111,30598,1292
+MP_Chhindwara,111,30598,1256
 MP_Chhindwara,112,35880,3296
 MP_Chhindwara,113,29154,4493
 MP_Chhindwara,114,5886,3857
@@ -58488,9 +58488,9 @@ MP_Chhindwara,127,31399,1229
 MP_Chhindwara,128,41136,1879
 MP_Chhindwara,129,19605,3204
 MP_Chhindwara,130,18561,4705
-MP_Chhindwara,131,18525,2712
+MP_Chhindwara,131,18531,2712
 MP_Chhindwara,132,51278,4225
-MP_Chhindwara,133,82652,7451
+MP_Chhindwara,133,82646,7451
 MP_Chhindwara,134,40206,5795
 MP_Chhindwara,135,26881,15604
 MP_Chhindwara,136,19078,29913
@@ -58760,16 +58760,16 @@ MP_Datia,105,16276,2333
 MP_Datia,106,17879,1145
 MP_Datia,107,10391,580
 MP_Datia,108,2562,189
-MP_Datia,109,4382,-1697
-MP_Datia,110,6328,-1583
-MP_Datia,111,7575,401
-MP_Datia,112,13670,1635
-MP_Datia,113,14504,2596
+MP_Datia,109,4382,68
+MP_Datia,110,6328,0
+MP_Datia,111,7575,0
+MP_Datia,112,13670,52
+MP_Datia,113,14504,1232
 MP_Datia,114,9120,1965
 MP_Datia,115,8174,2478
-MP_Datia,116,4333,1984
+MP_Datia,116,4347,1984
 MP_Datia,117,407,691
-MP_Datia,118,1164,2425
+MP_Datia,118,1150,2425
 MP_Datia,119,2125,3729
 MP_Datia,120,2007,2562
 MP_Datia,121,1955,1276
@@ -58929,9 +58929,9 @@ MP_Dewas,127,34886,820
 MP_Dewas,128,51221,710
 MP_Dewas,129,25212,1197
 MP_Dewas,130,29537,2770
-MP_Dewas,131,29404,2097
+MP_Dewas,131,29413,2097
 MP_Dewas,132,74963,4814
-MP_Dewas,133,139899,10039
+MP_Dewas,133,139890,10039
 MP_Dewas,134,68663,5500
 MP_Dewas,135,25975,9716
 MP_Dewas,136,26860,21433
@@ -59223,9 +59223,9 @@ MP_Dindori,127,11231,270
 MP_Dindori,128,12896,448
 MP_Dindori,129,9695,586
 MP_Dindori,130,9845,696
-MP_Dindori,131,6856,413
+MP_Dindori,131,6871,413
 MP_Dindori,132,13541,412
-MP_Dindori,133,28292,905
+MP_Dindori,133,28277,905
 MP_Dindori,134,27252,848
 MP_Dindori,135,22224,2383
 MP_Dindori,136,14026,8679
@@ -59350,9 +59350,9 @@ MP_Guna,107,13760,442
 MP_Guna,108,1826,319
 MP_Guna,109,7975,364
 MP_Guna,110,16958,623
-MP_Guna,111,13469,831
+MP_Guna,111,13471,831
 MP_Guna,112,27301,2030
-MP_Guna,113,29847,2846
+MP_Guna,113,29845,2846
 MP_Guna,114,9789,2096
 MP_Guna,115,7474,2803
 MP_Guna,116,4600,3060
@@ -59367,9 +59367,9 @@ MP_Guna,124,7738,591
 MP_Guna,125,11464,515
 MP_Guna,126,14296,656
 MP_Guna,127,19173,911
-MP_Guna,128,16684,671
+MP_Guna,128,16696,671
 MP_Guna,129,10727,996
-MP_Guna,130,16276,1888
+MP_Guna,130,16264,1888
 MP_Guna,131,11053,1231
 MP_Guna,132,37750,2002
 MP_Guna,133,64379,3861
@@ -59510,9 +59510,9 @@ MP_Gwalior,120,14331,13145
 MP_Gwalior,121,16150,8511
 MP_Gwalior,122,17952,4224
 MP_Gwalior,123,29315,2117
-MP_Gwalior,124,46707,1463
+MP_Gwalior,124,46709,1463
 MP_Gwalior,125,61654,2021
-MP_Gwalior,126,67254,2038
+MP_Gwalior,126,67252,2038
 MP_Gwalior,127,71149,2241
 MP_Gwalior,128,75987,4469
 MP_Gwalior,129,53837,7105
@@ -59644,9 +59644,9 @@ MP_Harda,107,4062,428
 MP_Harda,108,1702,207
 MP_Harda,109,5114,304
 MP_Harda,110,10623,311
-MP_Harda,111,6774,99
+MP_Harda,111,6775,99
 MP_Harda,112,14677,474
-MP_Harda,113,18308,891
+MP_Harda,113,18307,891
 MP_Harda,114,4807,774
 MP_Harda,115,1952,962
 MP_Harda,116,1524,1023
@@ -59804,16 +59804,16 @@ MP_Hoshangabad,120,4454,6036
 MP_Hoshangabad,121,4579,5520
 MP_Hoshangabad,122,5523,3478
 MP_Hoshangabad,123,8600,1030
-MP_Hoshangabad,124,10842,224
+MP_Hoshangabad,124,10844,224
 MP_Hoshangabad,125,15115,90
-MP_Hoshangabad,126,16981,239
+MP_Hoshangabad,126,16979,239
 MP_Hoshangabad,127,28800,535
 MP_Hoshangabad,128,31709,721
 MP_Hoshangabad,129,10502,1272
 MP_Hoshangabad,130,17086,2306
-MP_Hoshangabad,131,17527,1687
+MP_Hoshangabad,131,17537,1687
 MP_Hoshangabad,132,34459,2642
-MP_Hoshangabad,133,70273,5671
+MP_Hoshangabad,133,70263,5671
 MP_Hoshangabad,134,40457,3508
 MP_Hoshangabad,135,16908,7825
 MP_Hoshangabad,136,12826,21706
@@ -60098,9 +60098,9 @@ MP_Jabalpur,120,15428,20574
 MP_Jabalpur,121,20418,16942
 MP_Jabalpur,122,25478,11445
 MP_Jabalpur,123,39134,8614
-MP_Jabalpur,124,53228,5240
+MP_Jabalpur,124,53229,5240
 MP_Jabalpur,125,75388,3364
-MP_Jabalpur,126,81929,3844
+MP_Jabalpur,126,81928,3844
 MP_Jabalpur,127,88754,4882
 MP_Jabalpur,128,97502,6218
 MP_Jabalpur,129,59620,8593
@@ -60397,11 +60397,11 @@ MP_Katni,125,14449,153
 MP_Katni,126,15625,244
 MP_Katni,127,17784,397
 MP_Katni,128,21731,751
-MP_Katni,129,14814,1058
+MP_Katni,129,14820,1058
 MP_Katni,130,14243,1457
-MP_Katni,131,9990,1094
+MP_Katni,131,9996,1094
 MP_Katni,132,31195,1676
-MP_Katni,133,53651,3115
+MP_Katni,133,53639,3115
 MP_Katni,134,34616,2453
 MP_Katni,135,26211,4979
 MP_Katni,136,21154,12956
@@ -60543,9 +60543,9 @@ MP_Khandwa,124,9061,98
 MP_Khandwa,125,13373,1070
 MP_Khandwa,126,16851,1633
 MP_Khandwa,127,24572,1001
-MP_Khandwa,128,24600,510
+MP_Khandwa,128,24609,510
 MP_Khandwa,129,13915,1247
-MP_Khandwa,130,21412,2545
+MP_Khandwa,130,21403,2545
 MP_Khandwa,131,18669,1707
 MP_Khandwa,132,61370,2616
 MP_Khandwa,133,90670,4293
@@ -60691,9 +60691,9 @@ MP_Khargone,125,18925,675
 MP_Khargone,126,28482,586
 MP_Khargone,127,42526,613
 MP_Khargone,128,45828,640
-MP_Khargone,129,20295,1153
+MP_Khargone,129,20305,1153
 MP_Khargone,130,13417,2146
-MP_Khargone,131,20704,2231
+MP_Khargone,131,20694,2231
 MP_Khargone,132,44373,3108
 MP_Khargone,133,61813,4625
 MP_Khargone,134,42758,4674
@@ -60840,9 +60840,9 @@ MP_Mandla,127,10648,407
 MP_Mandla,128,11362,773
 MP_Mandla,129,7605,974
 MP_Mandla,130,6927,1250
-MP_Mandla,131,5015,981
+MP_Mandla,131,5018,981
 MP_Mandla,132,23975,1206
-MP_Mandla,133,48211,2433
+MP_Mandla,133,48208,2433
 MP_Mandla,134,35574,1896
 MP_Mandla,135,20411,2859
 MP_Mandla,136,15362,9124
@@ -61278,9 +61278,9 @@ MP_Narsinghpur,124,9681,137
 MP_Narsinghpur,125,12375,53
 MP_Narsinghpur,126,13126,115
 MP_Narsinghpur,127,17990,290
-MP_Narsinghpur,128,16090,332
+MP_Narsinghpur,128,16095,332
 MP_Narsinghpur,129,9452,951
-MP_Narsinghpur,130,12972,1498
+MP_Narsinghpur,130,12967,1498
 MP_Narsinghpur,131,8550,1181
 MP_Narsinghpur,132,24642,2168
 MP_Narsinghpur,133,48883,4101
@@ -61426,9 +61426,9 @@ MP_Neemuch,125,12963,25
 MP_Neemuch,126,14321,83
 MP_Neemuch,127,14307,374
 MP_Neemuch,128,17895,646
-MP_Neemuch,129,9803,714
+MP_Neemuch,129,9827,714
 MP_Neemuch,130,7913,2112
-MP_Neemuch,131,10859,2034
+MP_Neemuch,131,10835,2034
 MP_Neemuch,132,38999,1741
 MP_Neemuch,133,47546,2907
 MP_Neemuch,134,15036,2710
@@ -61715,9 +61715,9 @@ MP_Raisen,120,2717,3357
 MP_Raisen,121,3218,1999
 MP_Raisen,122,4119,760
 MP_Raisen,123,6506,415
-MP_Raisen,124,9274,328
+MP_Raisen,124,9275,328
 MP_Raisen,125,14664,363
-MP_Raisen,126,16194,481
+MP_Raisen,126,16193,481
 MP_Raisen,127,23428,494
 MP_Raisen,128,28168,496
 MP_Raisen,129,18661,1074
@@ -61867,11 +61867,11 @@ MP_Rajgarh,125,14902,562
 MP_Rajgarh,126,20940,665
 MP_Rajgarh,127,37877,744
 MP_Rajgarh,128,57776,965
-MP_Rajgarh,129,33098,1128
+MP_Rajgarh,129,33113,1128
 MP_Rajgarh,130,26320,2084
-MP_Rajgarh,131,25591,1524
+MP_Rajgarh,131,25587,1524
 MP_Rajgarh,132,76806,3129
-MP_Rajgarh,133,133168,4995
+MP_Rajgarh,133,133157,4995
 MP_Rajgarh,134,67263,2519
 MP_Rajgarh,135,37533,5307
 MP_Rajgarh,136,32472,17234
@@ -62881,9 +62881,9 @@ MP_Shahdol,110,14738,962
 MP_Shahdol,111,12481,1089
 MP_Shahdol,112,63497,2077
 MP_Shahdol,113,63904,2251
-MP_Shahdol,114,11357,1476
+MP_Shahdol,114,11359,1476
 MP_Shahdol,115,10807,2468
-MP_Shahdol,116,6230,2636
+MP_Shahdol,116,6228,2636
 MP_Shahdol,117,1272,1302
 MP_Shahdol,118,580,1050
 MP_Shahdol,119,973,1421
@@ -63043,9 +63043,9 @@ MP_Shajapur,125,10099,282
 MP_Shajapur,126,13128,440
 MP_Shajapur,127,19463,646
 MP_Shajapur,128,20256,731
-MP_Shajapur,129,7529,986
+MP_Shajapur,129,7536,986
 MP_Shajapur,130,5536,1627
-MP_Shajapur,131,9876,1382
+MP_Shajapur,131,9869,1382
 MP_Shajapur,132,27174,1478
 MP_Shajapur,133,33980,2197
 MP_Shajapur,134,23818,2356
@@ -63206,9 +63206,9 @@ MP_Sheopur,141,16024,2897
 MP_Sheopur,142,20903,3639
 MP_Sheopur,143,15470,2195
 MP_Sheopur,144,9762,1237
-MP_Sheopur,145,4027,527
+MP_Sheopur,145,4039,527
 MP_Sheopur,146,143,184
-MP_Sheopur,147,5521,1460
+MP_Sheopur,147,5509,1460
 MP_Shivpuri,1,0,0
 MP_Shivpuri,2,0,0
 MP_Shivpuri,3,0,0
@@ -63486,9 +63486,9 @@ MP_Sidhi,127,13288,371
 MP_Sidhi,128,13235,727
 MP_Sidhi,129,6467,832
 MP_Sidhi,130,6094,846
-MP_Sidhi,131,4830,592
+MP_Sidhi,131,4843,592
 MP_Sidhi,132,21343,1107
-MP_Sidhi,133,40701,1961
+MP_Sidhi,133,40688,1961
 MP_Sidhi,134,30733,1510
 MP_Sidhi,135,22601,3297
 MP_Sidhi,136,15599,8826
@@ -64072,11 +64072,11 @@ MP_Umaria,125,5381,28
 MP_Umaria,126,6187,45
 MP_Umaria,127,7924,195
 MP_Umaria,128,12171,320
-MP_Umaria,129,8883,198
+MP_Umaria,129,8888,198
 MP_Umaria,130,5812,207
-MP_Umaria,131,5400,230
+MP_Umaria,131,5412,230
 MP_Umaria,132,13405,773
-MP_Umaria,133,27801,1397
+MP_Umaria,133,27784,1397
 MP_Umaria,134,24550,1110
 MP_Umaria,135,18923,2368
 MP_Umaria,136,13002,6683
@@ -64327,7 +64327,7 @@ MZ_Aizawl,86,0,0
 MZ_Aizawl,87,0,0
 MZ_Aizawl,88,0,0
 MZ_Aizawl,89,84,0
-MZ_Aizawl,90,880,0
+MZ_Aizawl,90,875,0
 MZ_Aizawl,91,1783,0
 MZ_Aizawl,92,992,0
 MZ_Aizawl,93,2,0
@@ -64346,9 +64346,9 @@ MZ_Aizawl,105,1508,24
 MZ_Aizawl,106,188,8
 MZ_Aizawl,107,188,38
 MZ_Aizawl,108,3,46
-MZ_Aizawl,109,-86,-50
+MZ_Aizawl,109,1,16
 MZ_Aizawl,110,563,247
-MZ_Aizawl,111,2057,703
+MZ_Aizawl,111,1970,637
 MZ_Aizawl,112,7403,1431
 MZ_Aizawl,113,14152,1594
 MZ_Aizawl,114,12313,713
@@ -64356,9 +64356,9 @@ MZ_Aizawl,115,9739,1520
 MZ_Aizawl,116,10241,2596
 MZ_Aizawl,117,5390,1285
 MZ_Aizawl,118,3047,402
-MZ_Aizawl,119,3607,411
+MZ_Aizawl,119,3609,411
 MZ_Aizawl,120,1394,233
-MZ_Aizawl,121,235,180
+MZ_Aizawl,121,233,180
 MZ_Aizawl,122,1389,5
 MZ_Aizawl,123,2317,0
 MZ_Aizawl,124,1762,5
@@ -64382,9 +64382,9 @@ MZ_Aizawl,141,2888,7692
 MZ_Aizawl,142,1681,3631
 MZ_Aizawl,143,2183,4271
 MZ_Aizawl,144,2190,2315
-MZ_Aizawl,145,1264,345
+MZ_Aizawl,145,1284,345
 MZ_Aizawl,146,150,989
-MZ_Aizawl,147,251,1626
+MZ_Aizawl,147,231,1626
 MZ_Aizawl,1,0,0
 MZ_Aizawl,2,0,0
 MZ_Aizawl,3,0,0
@@ -64474,7 +64474,7 @@ MZ_Aizawl,86,0,0
 MZ_Aizawl,87,0,0
 MZ_Aizawl,88,0,0
 MZ_Aizawl,89,84,0
-MZ_Aizawl,90,880,0
+MZ_Aizawl,90,875,0
 MZ_Aizawl,91,1783,0
 MZ_Aizawl,92,992,0
 MZ_Aizawl,93,2,0
@@ -64493,9 +64493,9 @@ MZ_Aizawl,105,1508,24
 MZ_Aizawl,106,188,8
 MZ_Aizawl,107,188,38
 MZ_Aizawl,108,3,46
-MZ_Aizawl,109,-86,-50
+MZ_Aizawl,109,1,16
 MZ_Aizawl,110,563,247
-MZ_Aizawl,111,2057,703
+MZ_Aizawl,111,1970,637
 MZ_Aizawl,112,7403,1431
 MZ_Aizawl,113,14152,1594
 MZ_Aizawl,114,12313,713
@@ -64503,9 +64503,9 @@ MZ_Aizawl,115,9739,1520
 MZ_Aizawl,116,10241,2596
 MZ_Aizawl,117,5390,1285
 MZ_Aizawl,118,3047,402
-MZ_Aizawl,119,3607,411
+MZ_Aizawl,119,3609,411
 MZ_Aizawl,120,1394,233
-MZ_Aizawl,121,235,180
+MZ_Aizawl,121,233,180
 MZ_Aizawl,122,1389,5
 MZ_Aizawl,123,2317,0
 MZ_Aizawl,124,1762,5
@@ -64529,9 +64529,9 @@ MZ_Aizawl,141,2888,7692
 MZ_Aizawl,142,1681,3631
 MZ_Aizawl,143,2183,4271
 MZ_Aizawl,144,2190,2315
-MZ_Aizawl,145,1264,345
+MZ_Aizawl,145,1284,345
 MZ_Aizawl,146,150,989
-MZ_Aizawl,147,251,1626
+MZ_Aizawl,147,231,1626
 MZ_Champhai,1,0,0
 MZ_Champhai,2,0,0
 MZ_Champhai,3,0,0
@@ -64640,9 +64640,9 @@ MZ_Champhai,105,893,3
 MZ_Champhai,106,382,235
 MZ_Champhai,107,277,240
 MZ_Champhai,108,1,18
-MZ_Champhai,109,-121,-9
+MZ_Champhai,109,1,13
 MZ_Champhai,110,220,172
-MZ_Champhai,111,540,917
+MZ_Champhai,111,418,895
 MZ_Champhai,112,915,1769
 MZ_Champhai,113,949,1558
 MZ_Champhai,114,2755,1168
@@ -64651,9 +64651,9 @@ MZ_Champhai,116,8626,160
 MZ_Champhai,117,8965,65
 MZ_Champhai,118,6856,28
 MZ_Champhai,119,5786,28
-MZ_Champhai,120,2327,21
+MZ_Champhai,120,2329,21
 MZ_Champhai,121,602,9
-MZ_Champhai,122,1018,2
+MZ_Champhai,122,1016,2
 MZ_Champhai,123,1191,0
 MZ_Champhai,124,436,1
 MZ_Champhai,125,167,1
@@ -64787,27 +64787,27 @@ MZ_Kolasib,105,905,4
 MZ_Kolasib,106,1,0
 MZ_Kolasib,107,0,3
 MZ_Kolasib,108,0,10
-MZ_Kolasib,109,46,-12
+MZ_Kolasib,109,53,7
 MZ_Kolasib,110,1231,997
-MZ_Kolasib,111,2446,1297
+MZ_Kolasib,111,2441,1278
 MZ_Kolasib,112,1768,1090
 MZ_Kolasib,113,1608,1376
 MZ_Kolasib,114,2826,599
-MZ_Kolasib,115,3524,171
+MZ_Kolasib,115,3522,171
 MZ_Kolasib,116,4076,168
 MZ_Kolasib,117,4612,46
-MZ_Kolasib,118,2333,17
+MZ_Kolasib,118,2335,17
 MZ_Kolasib,119,14,110
-MZ_Kolasib,120,290,774
+MZ_Kolasib,120,288,774
 MZ_Kolasib,121,544,669
 MZ_Kolasib,122,818,5
 MZ_Kolasib,123,1044,0
 MZ_Kolasib,124,666,2
 MZ_Kolasib,125,929,13
 MZ_Kolasib,126,959,11
-MZ_Kolasib,127,199,0
+MZ_Kolasib,127,200,0
 MZ_Kolasib,128,1140,10
-MZ_Kolasib,129,2351,10
+MZ_Kolasib,129,2350,10
 MZ_Kolasib,130,3069,1
 MZ_Kolasib,131,5452,3
 MZ_Kolasib,132,4630,3
@@ -64821,9 +64821,9 @@ MZ_Kolasib,139,1295,1364
 MZ_Kolasib,140,1040,1407
 MZ_Kolasib,141,1059,2962
 MZ_Kolasib,142,935,3017
-MZ_Kolasib,143,672,1548
+MZ_Kolasib,143,673,1548
 MZ_Kolasib,144,823,854
-MZ_Kolasib,145,995,517
+MZ_Kolasib,145,994,517
 MZ_Kolasib,146,1144,1159
 MZ_Kolasib,147,790,1073
 MZ_Lawngtlai,1,0,0
@@ -64951,14 +64951,14 @@ MZ_Lawngtlai,122,1795,225
 MZ_Lawngtlai,123,1193,0
 MZ_Lawngtlai,124,650,0
 MZ_Lawngtlai,125,363,1
-MZ_Lawngtlai,126,477,14
+MZ_Lawngtlai,126,478,14
 MZ_Lawngtlai,127,735,19
-MZ_Lawngtlai,128,1342,6
+MZ_Lawngtlai,128,1341,6
 MZ_Lawngtlai,129,1447,0
 MZ_Lawngtlai,130,1563,0
-MZ_Lawngtlai,131,2050,30
+MZ_Lawngtlai,131,2053,30
 MZ_Lawngtlai,132,2636,31
-MZ_Lawngtlai,133,3240,25
+MZ_Lawngtlai,133,3237,25
 MZ_Lawngtlai,134,4296,322
 MZ_Lawngtlai,135,5185,639
 MZ_Lawngtlai,136,3907,613
@@ -65081,23 +65081,23 @@ MZ_Lunglei,105,540,269
 MZ_Lunglei,106,314,432
 MZ_Lunglei,107,389,301
 MZ_Lunglei,108,126,53
-MZ_Lunglei,109,-285,-120
-MZ_Lunglei,110,959,-152
-MZ_Lunglei,111,2543,472
-MZ_Lunglei,112,5253,771
+MZ_Lunglei,109,14,37
+MZ_Lunglei,110,959,0
+MZ_Lunglei,111,2244,315
+MZ_Lunglei,112,5253,619
 MZ_Lunglei,113,7809,614
 MZ_Lunglei,114,6512,1484
 MZ_Lunglei,115,5466,3013
 MZ_Lunglei,116,5993,3277
-MZ_Lunglei,117,4410,1488
+MZ_Lunglei,117,4411,1488
 MZ_Lunglei,118,1697,155
-MZ_Lunglei,119,549,202
+MZ_Lunglei,119,553,202
 MZ_Lunglei,120,1174,140
-MZ_Lunglei,121,1922,70
+MZ_Lunglei,121,1918,70
 MZ_Lunglei,122,1601,27
-MZ_Lunglei,123,1326,0
+MZ_Lunglei,123,1327,0
 MZ_Lunglei,124,1204,51
-MZ_Lunglei,125,943,52
+MZ_Lunglei,125,941,52
 MZ_Lunglei,126,815,16
 MZ_Lunglei,127,1076,28
 MZ_Lunglei,128,2044,482
@@ -65228,9 +65228,9 @@ MZ_Mamit,105,212,18
 MZ_Mamit,106,190,11
 MZ_Mamit,107,252,102
 MZ_Mamit,108,277,123
-MZ_Mamit,109,243,152
+MZ_Mamit,109,249,152
 MZ_Mamit,110,371,527
-MZ_Mamit,111,474,1026
+MZ_Mamit,111,468,1026
 MZ_Mamit,112,2317,934
 MZ_Mamit,113,3677,566
 MZ_Mamit,114,2982,1104
@@ -65239,15 +65239,15 @@ MZ_Mamit,116,3573,137
 MZ_Mamit,117,2445,105
 MZ_Mamit,118,1432,285
 MZ_Mamit,119,643,341
-MZ_Mamit,120,321,131
+MZ_Mamit,120,324,131
 MZ_Mamit,121,13,104
-MZ_Mamit,122,523,104
+MZ_Mamit,122,520,104
 MZ_Mamit,123,649,1
 MZ_Mamit,124,375,1
-MZ_Mamit,125,296,2
-MZ_Mamit,126,63,2
-MZ_Mamit,127,1058,0
-MZ_Mamit,128,1358,0
+MZ_Mamit,125,297,2
+MZ_Mamit,126,64,2
+MZ_Mamit,127,1057,0
+MZ_Mamit,128,1357,0
 MZ_Mamit,129,496,6
 MZ_Mamit,130,2191,6
 MZ_Mamit,131,3872,0
@@ -65523,25 +65523,25 @@ MZ_Serchhip,106,1004,378
 MZ_Serchhip,107,292,270
 MZ_Serchhip,108,178,247
 MZ_Serchhip,109,77,234
-MZ_Serchhip,110,88,378
-MZ_Serchhip,111,641,285
-MZ_Serchhip,112,1965,513
-MZ_Serchhip,113,2407,756
+MZ_Serchhip,110,97,378
+MZ_Serchhip,111,642,285
+MZ_Serchhip,112,1956,513
+MZ_Serchhip,113,2410,756
 MZ_Serchhip,114,2582,1101
-MZ_Serchhip,115,3278,947
+MZ_Serchhip,115,3274,947
 MZ_Serchhip,116,3964,189
 MZ_Serchhip,117,3401,130
 MZ_Serchhip,118,1723,101
-MZ_Serchhip,119,737,43
+MZ_Serchhip,119,739,43
 MZ_Serchhip,120,347,542
-MZ_Serchhip,121,148,534
+MZ_Serchhip,121,160,534
 MZ_Serchhip,122,304,10
-MZ_Serchhip,123,828,1
+MZ_Serchhip,123,814,1
 MZ_Serchhip,124,784,2
 MZ_Serchhip,125,443,2
-MZ_Serchhip,126,454,2
+MZ_Serchhip,126,455,2
 MZ_Serchhip,127,1136,8
-MZ_Serchhip,128,1733,12
+MZ_Serchhip,128,1732,12
 MZ_Serchhip,129,1302,6
 MZ_Serchhip,130,3195,2
 MZ_Serchhip,131,6176,22
@@ -65557,9 +65557,9 @@ MZ_Serchhip,140,802,2855
 MZ_Serchhip,141,607,3289
 MZ_Serchhip,142,386,2847
 MZ_Serchhip,143,201,1452
-MZ_Serchhip,144,310,658
+MZ_Serchhip,144,312,658
 MZ_Serchhip,145,350,508
-MZ_Serchhip,146,86,386
+MZ_Serchhip,146,84,386
 MZ_Serchhip,147,77,527
 NL_Dimapur,1,0,0
 NL_Dimapur,2,0,0
@@ -65679,11 +65679,11 @@ NL_Dimapur,115,8592,1414
 NL_Dimapur,116,7013,1315
 NL_Dimapur,117,8934,1142
 NL_Dimapur,118,6234,1158
-NL_Dimapur,119,3469,1184
+NL_Dimapur,119,3486,1184
 NL_Dimapur,120,3224,1544
-NL_Dimapur,121,3217,1356
+NL_Dimapur,121,3206,1356
 NL_Dimapur,122,4893,186
-NL_Dimapur,123,4767,4
+NL_Dimapur,123,4761,4
 NL_Dimapur,124,3603,6
 NL_Dimapur,125,3568,10
 NL_Dimapur,126,5356,16
@@ -65816,25 +65816,25 @@ NL_Kiphire,105,268,301
 NL_Kiphire,106,414,299
 NL_Kiphire,107,374,274
 NL_Kiphire,108,372,237
-NL_Kiphire,109,-212,-5
-NL_Kiphire,110,-394,-7
-NL_Kiphire,111,141,326
-NL_Kiphire,112,323,398
-NL_Kiphire,113,352,196
-NL_Kiphire,114,266,190
-NL_Kiphire,115,244,198
+NL_Kiphire,109,277,107
+NL_Kiphire,110,0,0
+NL_Kiphire,111,0,214
+NL_Kiphire,112,0,391
+NL_Kiphire,113,5,196
+NL_Kiphire,114,195,190
+NL_Kiphire,115,243,198
 NL_Kiphire,116,939,188
-NL_Kiphire,117,959,172
+NL_Kiphire,117,964,172
 NL_Kiphire,118,255,202
-NL_Kiphire,119,230,234
+NL_Kiphire,119,225,234
 NL_Kiphire,120,107,115
 NL_Kiphire,121,61,73
 NL_Kiphire,122,213,1
 NL_Kiphire,123,220,0
 NL_Kiphire,124,475,0
-NL_Kiphire,125,470,1
+NL_Kiphire,125,471,1
 NL_Kiphire,126,162,3
-NL_Kiphire,127,158,2
+NL_Kiphire,127,157,2
 NL_Kiphire,128,200,0
 NL_Kiphire,129,519,5
 NL_Kiphire,130,616,8
@@ -65963,23 +65963,23 @@ NL_Kohima,105,1302,1097
 NL_Kohima,106,1253,1244
 NL_Kohima,107,1150,1057
 NL_Kohima,108,749,593
-NL_Kohima,109,167,156
+NL_Kohima,109,530,431
 NL_Kohima,110,1177,41
-NL_Kohima,111,2246,391
+NL_Kohima,111,1899,116
 NL_Kohima,112,2745,412
-NL_Kohima,113,3172,521
+NL_Kohima,113,3156,521
 NL_Kohima,114,3990,611
-NL_Kohima,115,3551,598
+NL_Kohima,115,3568,598
 NL_Kohima,116,2152,1120
-NL_Kohima,117,3630,1282
+NL_Kohima,117,3615,1282
 NL_Kohima,118,3741,893
-NL_Kohima,119,1898,794
+NL_Kohima,119,1903,794
 NL_Kohima,120,1183,644
-NL_Kohima,121,1590,598
+NL_Kohima,121,1583,598
 NL_Kohima,122,2270,213
-NL_Kohima,123,1677,32
+NL_Kohima,123,1678,32
 NL_Kohima,124,1919,11
-NL_Kohima,125,2017,19
+NL_Kohima,125,2016,19
 NL_Kohima,126,2227,25
 NL_Kohima,127,3431,11
 NL_Kohima,128,5985,14
@@ -66257,13 +66257,13 @@ NL_Mokokchung,105,414,564
 NL_Mokokchung,106,611,301
 NL_Mokokchung,107,687,356
 NL_Mokokchung,108,759,271
-NL_Mokokchung,109,234,39
+NL_Mokokchung,109,669,204
 NL_Mokokchung,110,1227,23
-NL_Mokokchung,111,2034,254
+NL_Mokokchung,111,1600,89
 NL_Mokokchung,112,6398,264
 NL_Mokokchung,113,6355,229
 NL_Mokokchung,114,2867,194
-NL_Mokokchung,115,3769,311
+NL_Mokokchung,115,3768,311
 NL_Mokokchung,116,3313,511
 NL_Mokokchung,117,2148,413
 NL_Mokokchung,118,1412,437
@@ -66551,12 +66551,12 @@ NL_Peren,105,642,498
 NL_Peren,106,452,250
 NL_Peren,107,363,186
 NL_Peren,108,195,51
-NL_Peren,109,45,-82
-NL_Peren,110,78,-68
-NL_Peren,111,293,52
-NL_Peren,112,1135,64
-NL_Peren,113,1243,53
-NL_Peren,114,825,84
+NL_Peren,109,100,22
+NL_Peren,110,78,0
+NL_Peren,111,238,0
+NL_Peren,112,1135,0
+NL_Peren,113,1243,1
+NL_Peren,114,825,80
 NL_Peren,115,626,210
 NL_Peren,116,479,230
 NL_Peren,117,637,184
@@ -66698,9 +66698,9 @@ NL_Phek,105,1175,276
 NL_Phek,106,958,635
 NL_Phek,107,439,492
 NL_Phek,108,463,245
-NL_Phek,109,705,146
+NL_Phek,109,707,146
 NL_Phek,110,997,228
-NL_Phek,111,1200,495
+NL_Phek,111,1198,495
 NL_Phek,112,1329,836
 NL_Phek,113,1683,742
 NL_Phek,114,1973,809
@@ -66735,7 +66735,7 @@ NL_Phek,142,782,442
 NL_Phek,143,521,295
 NL_Phek,144,269,148
 NL_Phek,145,234,213
-NL_Phek,146,150,447
+NL_Phek,146,151,447
 NL_Phek,147,132,487
 NL_Tuensang,1,0,0
 NL_Tuensang,2,0,0
@@ -66845,9 +66845,9 @@ NL_Tuensang,105,330,175
 NL_Tuensang,106,290,488
 NL_Tuensang,107,605,663
 NL_Tuensang,108,528,550
-NL_Tuensang,109,130,310
+NL_Tuensang,109,142,310
 NL_Tuensang,110,362,171
-NL_Tuensang,111,1150,224
+NL_Tuensang,111,1138,224
 NL_Tuensang,112,2357,258
 NL_Tuensang,113,1781,250
 NL_Tuensang,114,965,230
@@ -66992,15 +66992,15 @@ NL_Wokha,105,169,105
 NL_Wokha,106,1524,218
 NL_Wokha,107,1837,255
 NL_Wokha,108,892,90
-NL_Wokha,109,1023,13
-NL_Wokha,110,1123,-1
-NL_Wokha,111,1189,45
-NL_Wokha,112,2883,133
+NL_Wokha,109,1023,30
+NL_Wokha,110,1123,0
+NL_Wokha,111,1189,28
+NL_Wokha,112,2883,132
 NL_Wokha,113,2908,127
 NL_Wokha,114,2030,92
-NL_Wokha,115,1697,103
+NL_Wokha,115,1699,103
 NL_Wokha,116,1088,191
-NL_Wokha,117,1291,218
+NL_Wokha,117,1289,218
 NL_Wokha,118,1133,1154
 NL_Wokha,119,996,1245
 NL_Wokha,120,511,625
@@ -67139,11 +67139,11 @@ NL_Zunheboto,105,679,443
 NL_Zunheboto,106,917,544
 NL_Zunheboto,107,722,306
 NL_Zunheboto,108,273,128
-NL_Zunheboto,109,-367,-115
-NL_Zunheboto,110,-400,-111
-NL_Zunheboto,111,330,134
-NL_Zunheboto,112,1657,179
-NL_Zunheboto,113,1791,222
+NL_Zunheboto,109,156,79
+NL_Zunheboto,110,0,0
+NL_Zunheboto,111,0,0
+NL_Zunheboto,112,1257,68
+NL_Zunheboto,113,1598,162
 NL_Zunheboto,114,1161,249
 NL_Zunheboto,115,1795,307
 NL_Zunheboto,116,1472,546
@@ -67163,9 +67163,9 @@ NL_Zunheboto,129,4764,62
 NL_Zunheboto,130,6510,68
 NL_Zunheboto,131,6414,177
 NL_Zunheboto,132,5009,275
-NL_Zunheboto,133,3903,143
+NL_Zunheboto,133,3903,149
 NL_Zunheboto,134,3059,118
-NL_Zunheboto,135,2537,226
+NL_Zunheboto,135,2537,220
 NL_Zunheboto,136,913,534
 NL_Zunheboto,137,866,521
 NL_Zunheboto,138,2157,755
@@ -67295,9 +67295,9 @@ OR_Angul,114,13958,3106
 OR_Angul,115,10931,3199
 OR_Angul,116,7620,2644
 OR_Angul,117,7148,2926
-OR_Angul,118,3470,1950
+OR_Angul,118,3477,1950
 OR_Angul,119,887,3865
-OR_Angul,120,1433,8975
+OR_Angul,120,1426,8975
 OR_Angul,121,1285,5963
 OR_Angul,122,4265,294
 OR_Angul,123,6662,47
@@ -67592,13 +67592,13 @@ OR_Balasore,117,9443,9525
 OR_Balasore,118,3950,6638
 OR_Balasore,119,4813,16320
 OR_Balasore,120,7159,26822
-OR_Balasore,121,2729,11088
+OR_Balasore,121,2754,11088
 OR_Balasore,122,11358,17
-OR_Balasore,123,18036,8
+OR_Balasore,123,18011,8
 OR_Balasore,124,14345,8
-OR_Balasore,125,7690,5
+OR_Balasore,125,7691,5
 OR_Balasore,126,29455,585
-OR_Balasore,127,46340,1065
+OR_Balasore,127,46339,1065
 OR_Balasore,128,35391,2392
 OR_Balasore,129,27586,2937
 OR_Balasore,130,19492,4387
@@ -67735,13 +67735,13 @@ OR_Bargarh,113,35046,3498
 OR_Bargarh,114,13209,4379
 OR_Bargarh,115,10913,4647
 OR_Bargarh,116,5369,5284
-OR_Bargarh,117,3943,6045
-OR_Bargarh,118,923,2037
-OR_Bargarh,119,500,3313
-OR_Bargarh,120,1939,11415
-OR_Bargarh,121,1606,9512
+OR_Bargarh,117,3944,6045
+OR_Bargarh,118,929,2037
+OR_Bargarh,119,499,3313
+OR_Bargarh,120,1933,11415
+OR_Bargarh,121,1608,9512
 OR_Bargarh,122,4625,1269
-OR_Bargarh,123,6986,5
+OR_Bargarh,123,6984,5
 OR_Bargarh,124,16758,17
 OR_Bargarh,125,28645,39
 OR_Bargarh,126,19906,64
@@ -68030,9 +68030,9 @@ OR_Boudh,114,4595,1194
 OR_Boudh,115,3531,1194
 OR_Boudh,116,3526,1418
 OR_Boudh,117,2285,979
-OR_Boudh,118,324,170
+OR_Boudh,118,325,170
 OR_Boudh,119,719,1616
-OR_Boudh,120,1434,3014
+OR_Boudh,120,1433,3014
 OR_Boudh,121,1493,2372
 OR_Boudh,122,1856,1422
 OR_Boudh,123,1557,503
@@ -68177,9 +68177,9 @@ OR_Cuttack,114,39925,13120
 OR_Cuttack,115,46935,16405
 OR_Cuttack,116,20040,8559
 OR_Cuttack,117,11353,8760
-OR_Cuttack,118,6506,6162
+OR_Cuttack,118,6573,6162
 OR_Cuttack,119,2807,12665
-OR_Cuttack,120,10280,28114
+OR_Cuttack,120,10213,28114
 OR_Cuttack,121,16593,17156
 OR_Cuttack,122,37462,1443
 OR_Cuttack,123,51450,41
@@ -68315,19 +68315,19 @@ OR_Deogarh,105,4323,1517
 OR_Deogarh,106,5474,497
 OR_Deogarh,107,4862,78
 OR_Deogarh,108,3055,64
-OR_Deogarh,109,4244,-97
-OR_Deogarh,110,8905,-33
-OR_Deogarh,111,9381,220
-OR_Deogarh,112,4711,173
+OR_Deogarh,109,4244,15
+OR_Deogarh,110,8905,0
+OR_Deogarh,111,9381,108
+OR_Deogarh,112,4711,140
 OR_Deogarh,113,2198,351
 OR_Deogarh,114,3104,1138
 OR_Deogarh,115,2896,1149
 OR_Deogarh,116,2103,907
 OR_Deogarh,117,1933,978
 OR_Deogarh,118,810,470
-OR_Deogarh,119,323,1111
+OR_Deogarh,119,329,1111
 OR_Deogarh,120,746,2516
-OR_Deogarh,121,557,1889
+OR_Deogarh,121,551,1889
 OR_Deogarh,122,1356,419
 OR_Deogarh,123,1919,5
 OR_Deogarh,124,1517,17
@@ -68909,23 +68909,23 @@ OR_Jagatsinghpur,111,31835,1354
 OR_Jagatsinghpur,112,14036,1071
 OR_Jagatsinghpur,113,10552,1844
 OR_Jagatsinghpur,114,15871,4388
-OR_Jagatsinghpur,115,12545,4261
+OR_Jagatsinghpur,115,12547,4261
 OR_Jagatsinghpur,116,9176,2860
-OR_Jagatsinghpur,117,6999,3236
-OR_Jagatsinghpur,118,3418,2434
-OR_Jagatsinghpur,119,1842,2607
-OR_Jagatsinghpur,120,1723,9651
-OR_Jagatsinghpur,121,656,7697
-OR_Jagatsinghpur,122,6120,13
-OR_Jagatsinghpur,123,8310,27
+OR_Jagatsinghpur,117,6997,3236
+OR_Jagatsinghpur,118,3421,2434
+OR_Jagatsinghpur,119,1873,2607
+OR_Jagatsinghpur,120,1727,9651
+OR_Jagatsinghpur,121,654,7697
+OR_Jagatsinghpur,122,6113,13
+OR_Jagatsinghpur,123,8281,27
 OR_Jagatsinghpur,124,2170,14
 OR_Jagatsinghpur,125,2,0
 OR_Jagatsinghpur,126,16594,217
 OR_Jagatsinghpur,127,27118,428
 OR_Jagatsinghpur,128,21989,616
-OR_Jagatsinghpur,129,13492,1676
+OR_Jagatsinghpur,129,13496,1676
 OR_Jagatsinghpur,130,3707,8802
-OR_Jagatsinghpur,131,5461,7531
+OR_Jagatsinghpur,131,5457,7531
 OR_Jagatsinghpur,132,25781,4028
 OR_Jagatsinghpur,133,38423,10141
 OR_Jagatsinghpur,134,18728,15183
@@ -69205,9 +69205,9 @@ OR_Jharsuguda,113,7877,1703
 OR_Jharsuguda,114,7844,3646
 OR_Jharsuguda,115,4911,2579
 OR_Jharsuguda,116,3184,2053
-OR_Jharsuguda,117,2619,2117
+OR_Jharsuguda,117,2620,2117
 OR_Jharsuguda,118,1391,3303
-OR_Jharsuguda,119,1793,4883
+OR_Jharsuguda,119,1792,4883
 OR_Jharsuguda,120,1517,5305
 OR_Jharsuguda,121,1564,4530
 OR_Jharsuguda,122,3556,1090
@@ -69352,9 +69352,9 @@ OR_Kalahandi,113,29724,4815
 OR_Kalahandi,114,11879,4932
 OR_Kalahandi,115,9116,5412
 OR_Kalahandi,116,5788,4971
-OR_Kalahandi,117,4594,5402
+OR_Kalahandi,117,4595,5402
 OR_Kalahandi,118,3013,7580
-OR_Kalahandi,119,2092,9040
+OR_Kalahandi,119,2091,9040
 OR_Kalahandi,120,2429,10705
 OR_Kalahandi,121,2721,8241
 OR_Kalahandi,122,2521,1380
@@ -69641,9 +69641,9 @@ OR_Kendrapara,108,10456,904
 OR_Kendrapara,109,22034,2126
 OR_Kendrapara,110,45397,2614
 OR_Kendrapara,111,44661,2376
-OR_Kendrapara,112,16946,1139
+OR_Kendrapara,112,16948,1139
 OR_Kendrapara,113,11143,2726
-OR_Kendrapara,114,16895,5270
+OR_Kendrapara,114,16893,5270
 OR_Kendrapara,115,12043,4674
 OR_Kendrapara,116,9233,5091
 OR_Kendrapara,117,7002,4486
@@ -69793,15 +69793,15 @@ OR_Kendujhar,113,11052,2136
 OR_Kendujhar,114,18598,4830
 OR_Kendujhar,115,17108,4890
 OR_Kendujhar,116,6971,2353
-OR_Kendujhar,117,552,272
-OR_Kendujhar,118,1977,4705
-OR_Kendujhar,119,3622,9559
-OR_Kendujhar,120,4093,12515
+OR_Kendujhar,117,553,272
+OR_Kendujhar,118,2032,4705
+OR_Kendujhar,119,3621,9559
+OR_Kendujhar,120,4038,12515
 OR_Kendujhar,121,3381,8895
 OR_Kendujhar,122,8694,1323
-OR_Kendujhar,123,8244,65
+OR_Kendujhar,123,8245,65
 OR_Kendujhar,124,6546,43
-OR_Kendujhar,125,9605,97
+OR_Kendujhar,125,9604,97
 OR_Kendujhar,126,19132,307
 OR_Kendujhar,127,24565,365
 OR_Kendujhar,128,27375,837
@@ -70087,10 +70087,10 @@ OR_Koraput,113,20037,4063
 OR_Koraput,114,18314,6860
 OR_Koraput,115,14139,6209
 OR_Koraput,116,9414,6075
-OR_Koraput,117,7745,5466
-OR_Koraput,118,1243,665
-OR_Koraput,119,655,2970
-OR_Koraput,120,3980,9590
+OR_Koraput,117,7747,5466
+OR_Koraput,118,1297,665
+OR_Koraput,119,653,2970
+OR_Koraput,120,3926,9590
 OR_Koraput,121,4411,10164
 OR_Koraput,122,5824,3599
 OR_Koraput,123,6819,178
@@ -70226,9 +70226,9 @@ OR_Malkangiri,105,5104,744
 OR_Malkangiri,106,6659,742
 OR_Malkangiri,107,6816,799
 OR_Malkangiri,108,3910,307
-OR_Malkangiri,109,4340,20
+OR_Malkangiri,109,4340,132
 OR_Malkangiri,110,10940,276
-OR_Malkangiri,111,12964,1304
+OR_Malkangiri,111,12964,1192
 OR_Malkangiri,112,13412,1489
 OR_Malkangiri,113,12004,1243
 OR_Malkangiri,114,7091,1904
@@ -70529,9 +70529,9 @@ OR_Nabarangapur,114,9864,3659
 OR_Nabarangapur,115,8859,3118
 OR_Nabarangapur,116,6471,2326
 OR_Nabarangapur,117,4558,2536
-OR_Nabarangapur,118,1197,1196
+OR_Nabarangapur,118,1204,1196
 OR_Nabarangapur,119,1168,4786
-OR_Nabarangapur,120,2141,9082
+OR_Nabarangapur,120,2134,9082
 OR_Nabarangapur,121,1745,5341
 OR_Nabarangapur,122,3111,992
 OR_Nabarangapur,123,3558,47
@@ -70679,9 +70679,9 @@ OR_Nayagarh,117,3004,3978
 OR_Nayagarh,118,1475,2291
 OR_Nayagarh,119,1174,3529
 OR_Nayagarh,120,2901,7514
-OR_Nayagarh,121,2240,5497
+OR_Nayagarh,121,2241,5497
 OR_Nayagarh,122,3996,314
-OR_Nayagarh,123,4475,3
+OR_Nayagarh,123,4474,3
 OR_Nayagarh,124,5866,15
 OR_Nayagarh,125,8659,21
 OR_Nayagarh,126,12423,47
@@ -70822,9 +70822,9 @@ OR_Nuapada,113,13070,797
 OR_Nuapada,114,2234,953
 OR_Nuapada,115,2358,1608
 OR_Nuapada,116,1664,1473
-OR_Nuapada,117,868,1602
+OR_Nuapada,117,870,1602
 OR_Nuapada,118,626,2193
-OR_Nuapada,119,631,3078
+OR_Nuapada,119,629,3078
 OR_Nuapada,120,733,3753
 OR_Nuapada,121,628,2392
 OR_Nuapada,122,566,456
@@ -71117,9 +71117,9 @@ OR_Rayagada,114,9356,5567
 OR_Rayagada,115,6158,4650
 OR_Rayagada,116,5490,4662
 OR_Rayagada,117,4364,4246
-OR_Rayagada,118,1499,1526
+OR_Rayagada,118,1502,1526
 OR_Rayagada,119,422,2405
-OR_Rayagada,120,1894,7742
+OR_Rayagada,120,1891,7742
 OR_Rayagada,121,2223,6683
 OR_Rayagada,122,3050,1236
 OR_Rayagada,123,3978,9
@@ -71264,9 +71264,9 @@ OR_Sambalpur,114,16016,7226
 OR_Sambalpur,115,11866,5896
 OR_Sambalpur,116,7448,4553
 OR_Sambalpur,117,4955,3557
-OR_Sambalpur,118,1002,602
+OR_Sambalpur,118,1021,602
 OR_Sambalpur,119,265,2293
-OR_Sambalpur,120,4735,9284
+OR_Sambalpur,120,4716,9284
 OR_Sambalpur,121,10257,8229
 OR_Sambalpur,122,15285,1210
 OR_Sambalpur,123,24229,13
@@ -71405,18 +71405,18 @@ OR_Subarnapur,108,6541,893
 OR_Subarnapur,109,10997,1940
 OR_Subarnapur,110,20016,2485
 OR_Subarnapur,111,19261,2046
-OR_Subarnapur,112,9023,1126
+OR_Subarnapur,112,9024,1126
 OR_Subarnapur,113,7711,1610
-OR_Subarnapur,114,9320,2667
+OR_Subarnapur,114,9319,2667
 OR_Subarnapur,115,5038,2048
 OR_Subarnapur,116,4072,2330
-OR_Subarnapur,117,2339,1669
+OR_Subarnapur,117,2340,1669
 OR_Subarnapur,118,170,223
-OR_Subarnapur,119,282,1820
+OR_Subarnapur,119,281,1820
 OR_Subarnapur,120,710,4859
-OR_Subarnapur,121,420,3114
+OR_Subarnapur,121,462,3114
 OR_Subarnapur,122,1330,2
-OR_Subarnapur,123,2369,1
+OR_Subarnapur,123,2327,1
 OR_Subarnapur,124,3641,19
 OR_Subarnapur,125,2802,25
 OR_Subarnapur,126,2144,88
@@ -71432,9 +71432,9 @@ OR_Subarnapur,135,3461,2026
 OR_Subarnapur,136,9522,4989
 OR_Subarnapur,137,10217,5892
 OR_Subarnapur,138,2259,904
-OR_Subarnapur,139,4141,2826
+OR_Subarnapur,139,4142,2826
 OR_Subarnapur,140,10558,7695
-OR_Subarnapur,141,17393,7846
+OR_Subarnapur,141,17392,7846
 OR_Subarnapur,142,20153,4955
 OR_Subarnapur,143,20799,3131
 OR_Subarnapur,144,24581,2337
@@ -71699,31 +71699,31 @@ PB_Amritsar,108,18617,1733
 PB_Amritsar,109,28953,2206
 PB_Amritsar,110,43250,3470
 PB_Amritsar,111,45783,4593
-PB_Amritsar,112,-104040,79294
-PB_Amritsar,113,37586,6247
-PB_Amritsar,114,178781,-63680
-PB_Amritsar,115,27808,13175
-PB_Amritsar,116,25975,12500
-PB_Amritsar,117,22686,12284
-PB_Amritsar,118,17512,11330
-PB_Amritsar,119,13619,11394
-PB_Amritsar,120,13439,12462
-PB_Amritsar,121,9926,7801
-PB_Amritsar,122,4389,1443
-PB_Amritsar,123,8885,425
-PB_Amritsar,124,16020,781
-PB_Amritsar,125,17351,923
-PB_Amritsar,126,20090,909
-PB_Amritsar,127,23906,973
-PB_Amritsar,128,23647,1175
-PB_Amritsar,129,23850,1559
-PB_Amritsar,130,21095,1877
-PB_Amritsar,131,12366,2263
-PB_Amritsar,132,27672,5607
-PB_Amritsar,133,46215,9882
-PB_Amritsar,134,32584,9226
-PB_Amritsar,135,42376,18758
-PB_Amritsar,136,47736,25275
+PB_Amritsar,112,38381,79294
+PB_Amritsar,113,37586,77034
+PB_Amritsar,114,36360,0
+PB_Amritsar,115,27808,0
+PB_Amritsar,116,25975,0
+PB_Amritsar,117,22686,0
+PB_Amritsar,118,17512,0
+PB_Amritsar,119,13619,0
+PB_Amritsar,120,13439,0
+PB_Amritsar,121,9926,0
+PB_Amritsar,122,4389,0
+PB_Amritsar,123,8885,0
+PB_Amritsar,124,16020,0
+PB_Amritsar,125,17351,0
+PB_Amritsar,126,20090,0
+PB_Amritsar,127,23906,0
+PB_Amritsar,128,23647,0
+PB_Amritsar,129,23850,0
+PB_Amritsar,130,21095,0
+PB_Amritsar,131,12366,0
+PB_Amritsar,132,27672,0
+PB_Amritsar,133,46215,0
+PB_Amritsar,134,32584,0
+PB_Amritsar,135,42376,8650
+PB_Amritsar,136,47736,18905
 PB_Amritsar,137,18460,11631
 PB_Amritsar,138,21440,10688
 PB_Amritsar,139,26886,15131
@@ -71846,31 +71846,31 @@ PB_Barnala,108,3426,121
 PB_Barnala,109,3946,187
 PB_Barnala,110,5585,235
 PB_Barnala,111,6773,292
-PB_Barnala,112,-15127,13904
-PB_Barnala,113,8253,847
-PB_Barnala,114,31928,-12232
-PB_Barnala,115,9325,1320
-PB_Barnala,116,7572,1458
-PB_Barnala,117,6325,1540
-PB_Barnala,118,5349,1535
-PB_Barnala,119,4355,1866
-PB_Barnala,120,5678,2979
-PB_Barnala,121,5321,2695
-PB_Barnala,122,2057,938
-PB_Barnala,123,2447,402
-PB_Barnala,124,4159,769
-PB_Barnala,125,3357,928
-PB_Barnala,126,3003,830
-PB_Barnala,127,3542,857
-PB_Barnala,128,4244,650
-PB_Barnala,129,4023,430
-PB_Barnala,130,4138,436
-PB_Barnala,131,3744,619
-PB_Barnala,132,6680,1053
-PB_Barnala,133,11715,1431
-PB_Barnala,134,8829,1229
-PB_Barnala,135,10255,2130
-PB_Barnala,136,12134,3226
+PB_Barnala,112,6453,13904
+PB_Barnala,113,8253,13724
+PB_Barnala,114,10348,0
+PB_Barnala,115,9325,0
+PB_Barnala,116,7572,0
+PB_Barnala,117,6325,0
+PB_Barnala,118,5349,0
+PB_Barnala,119,4355,0
+PB_Barnala,120,5678,0
+PB_Barnala,121,5321,0
+PB_Barnala,122,2057,0
+PB_Barnala,123,2447,0
+PB_Barnala,124,4159,0
+PB_Barnala,125,3357,0
+PB_Barnala,126,3003,0
+PB_Barnala,127,3542,0
+PB_Barnala,128,4244,0
+PB_Barnala,129,4023,0
+PB_Barnala,130,4138,0
+PB_Barnala,131,3744,0
+PB_Barnala,132,6680,0
+PB_Barnala,133,11715,0
+PB_Barnala,134,8829,0
+PB_Barnala,135,10255,1341
+PB_Barnala,136,12134,2871
 PB_Barnala,137,5548,1938
 PB_Barnala,138,6440,2237
 PB_Barnala,139,8580,3529
@@ -73166,9 +73166,9 @@ PB_Kapurthala,105,3221,636
 PB_Kapurthala,106,3761,486
 PB_Kapurthala,107,4480,294
 PB_Kapurthala,108,5058,299
-PB_Kapurthala,109,10912,51
+PB_Kapurthala,109,10912,211
 PB_Kapurthala,110,17596,417
-PB_Kapurthala,111,20641,1273
+PB_Kapurthala,111,20641,1113
 PB_Kapurthala,112,21983,1369
 PB_Kapurthala,113,19346,1313
 PB_Kapurthala,114,15491,1117
@@ -73623,9 +73623,9 @@ PB_Moga,121,5246,2913
 PB_Moga,122,1683,309
 PB_Moga,123,3580,264
 PB_Moga,124,3778,357
-PB_Moga,125,1626,285
+PB_Moga,125,1627,285
 PB_Moga,126,6303,239
-PB_Moga,127,15216,266
+PB_Moga,127,15215,266
 PB_Moga,128,20010,261
 PB_Moga,129,17288,190
 PB_Moga,130,11159,429
@@ -74085,7 +74085,7 @@ PB_Rupnagar,142,4407,3733
 PB_Rupnagar,143,14898,5098
 PB_Rupnagar,144,29691,5922
 PB_Rupnagar,145,20798,4965
-PB_Rupnagar,146,6507,3836
+PB_Rupnagar,146,6553,3836
 PB_Rupnagar,147,11792,6305
 PB_S.A.S. Nagar,1,0,0
 PB_S.A.S. Nagar,2,0,0
@@ -74933,32 +74933,32 @@ PY_Karaikal,108,1584,41
 PY_Karaikal,109,1659,84
 PY_Karaikal,110,1276,110
 PY_Karaikal,111,1512,131
-PY_Karaikal,112,-5888,6818
-PY_Karaikal,113,11388,390
-PY_Karaikal,114,19015,-6073
-PY_Karaikal,115,838,532
-PY_Karaikal,116,484,690
-PY_Karaikal,117,517,742
-PY_Karaikal,118,468,721
-PY_Karaikal,119,415,940
-PY_Karaikal,120,391,1186
-PY_Karaikal,121,459,1204
-PY_Karaikal,122,677,556
-PY_Karaikal,123,1381,8
-PY_Karaikal,124,1899,10
-PY_Karaikal,125,1882,28
-PY_Karaikal,126,2459,48
-PY_Karaikal,127,2903,71
-PY_Karaikal,128,4915,87
-PY_Karaikal,129,6253,119
-PY_Karaikal,130,7345,179
-PY_Karaikal,131,15717,256
-PY_Karaikal,132,17715,409
-PY_Karaikal,133,10017,598
-PY_Karaikal,134,7402,743
-PY_Karaikal,135,5730,1087
-PY_Karaikal,136,3796,3931
-PY_Karaikal,137,3992,6644
+PY_Karaikal,112,6212,6818
+PY_Karaikal,113,11388,6736
+PY_Karaikal,114,6915,0
+PY_Karaikal,115,838,0
+PY_Karaikal,116,484,0
+PY_Karaikal,117,517,0
+PY_Karaikal,118,468,0
+PY_Karaikal,119,415,0
+PY_Karaikal,120,391,0
+PY_Karaikal,121,459,0
+PY_Karaikal,122,677,0
+PY_Karaikal,123,1381,0
+PY_Karaikal,124,1899,0
+PY_Karaikal,125,1882,0
+PY_Karaikal,126,2459,0
+PY_Karaikal,127,2903,0
+PY_Karaikal,128,4915,0
+PY_Karaikal,129,6253,0
+PY_Karaikal,130,7345,0
+PY_Karaikal,131,15717,0
+PY_Karaikal,132,17715,0
+PY_Karaikal,133,10017,0
+PY_Karaikal,134,7402,0
+PY_Karaikal,135,5730,0
+PY_Karaikal,136,3796,2487
+PY_Karaikal,137,3992,5883
 PY_Karaikal,138,5774,5602
 PY_Karaikal,139,4945,2848
 PY_Karaikal,140,2221,1143
@@ -75080,13 +75080,13 @@ PY_Mahe,108,1005,16
 PY_Mahe,109,986,66
 PY_Mahe,110,711,62
 PY_Mahe,111,667,24
-PY_Mahe,112,-3786,1607
-PY_Mahe,113,1725,116
-PY_Mahe,114,7317,-1271
-PY_Mahe,115,2754,531
-PY_Mahe,116,2333,923
-PY_Mahe,117,2132,997
-PY_Mahe,118,1953,850
+PY_Mahe,112,634,1607
+PY_Mahe,113,1725,1589
+PY_Mahe,114,2897,0
+PY_Mahe,115,2754,0
+PY_Mahe,116,2333,0
+PY_Mahe,117,2132,55
+PY_Mahe,118,1953,502
 PY_Mahe,119,1251,800
 PY_Mahe,120,709,639
 PY_Mahe,121,562,480
@@ -75227,30 +75227,30 @@ PY_Puducherry,108,13628,756
 PY_Puducherry,109,15187,1130
 PY_Puducherry,110,11576,1278
 PY_Puducherry,111,10550,1728
-PY_Puducherry,112,-56734,47840
-PY_Puducherry,113,49040,3383
-PY_Puducherry,114,116438,-40809
-PY_Puducherry,115,6625,4854
-PY_Puducherry,116,5116,6014
-PY_Puducherry,117,5260,7237
-PY_Puducherry,118,4772,7462
-PY_Puducherry,119,4344,8798
-PY_Puducherry,120,4198,9786
-PY_Puducherry,121,4830,8471
-PY_Puducherry,122,5529,3927
-PY_Puducherry,123,7997,395
-PY_Puducherry,124,12654,224
-PY_Puducherry,125,14857,248
-PY_Puducherry,126,17197,345
-PY_Puducherry,127,17852,433
-PY_Puducherry,128,21425,725
-PY_Puducherry,129,26930,1045
-PY_Puducherry,130,32854,1540
-PY_Puducherry,131,60329,2744
-PY_Puducherry,132,72235,4759
-PY_Puducherry,133,47656,5950
-PY_Puducherry,134,34004,6446
-PY_Puducherry,135,28253,7423
+PY_Puducherry,112,32111,47840
+PY_Puducherry,113,49040,46656
+PY_Puducherry,114,27593,0
+PY_Puducherry,115,6625,0
+PY_Puducherry,116,5116,0
+PY_Puducherry,117,5260,0
+PY_Puducherry,118,4772,0
+PY_Puducherry,119,4344,0
+PY_Puducherry,120,4198,0
+PY_Puducherry,121,4830,0
+PY_Puducherry,122,5529,0
+PY_Puducherry,123,7997,0
+PY_Puducherry,124,12654,0
+PY_Puducherry,125,14857,0
+PY_Puducherry,126,17197,0
+PY_Puducherry,127,17852,0
+PY_Puducherry,128,21425,0
+PY_Puducherry,129,26930,0
+PY_Puducherry,130,32854,0
+PY_Puducherry,131,60329,0
+PY_Puducherry,132,72235,0
+PY_Puducherry,133,47656,0
+PY_Puducherry,134,34004,419
+PY_Puducherry,135,28253,4325
 PY_Puducherry,136,20980,18156
 PY_Puducherry,137,19269,26774
 PY_Puducherry,138,30688,23213
@@ -75374,16 +75374,16 @@ PY_Yanam,108,347,6
 PY_Yanam,109,311,40
 PY_Yanam,110,254,60
 PY_Yanam,111,206,53
-PY_Yanam,112,-1547,1150
-PY_Yanam,113,770,215
-PY_Yanam,114,3146,-747
-PY_Yanam,115,1553,268
-PY_Yanam,116,1155,251
-PY_Yanam,117,623,267
-PY_Yanam,118,459,281
-PY_Yanam,119,290,352
-PY_Yanam,120,424,380
-PY_Yanam,121,466,263
+PY_Yanam,112,424,1150
+PY_Yanam,113,770,1119
+PY_Yanam,114,1175,0
+PY_Yanam,115,1553,0
+PY_Yanam,116,1155,0
+PY_Yanam,117,623,0
+PY_Yanam,118,459,0
+PY_Yanam,119,290,0
+PY_Yanam,120,424,165
+PY_Yanam,121,466,246
 PY_Yanam,122,281,81
 PY_Yanam,123,473,0
 PY_Yanam,124,852,0
@@ -75539,9 +75539,9 @@ RJ_Ajmer,126,26278,7419
 RJ_Ajmer,127,20987,7001
 RJ_Ajmer,128,73296,5981
 RJ_Ajmer,129,75357,3647
-RJ_Ajmer,130,13237,314
+RJ_Ajmer,130,13265,314
 RJ_Ajmer,131,68270,5788
-RJ_Ajmer,132,124599,10676
+RJ_Ajmer,132,124571,10676
 RJ_Ajmer,133,147364,20851
 RJ_Ajmer,134,116586,30013
 RJ_Ajmer,135,49629,24336
@@ -76581,10 +76581,10 @@ RJ_Bikaner,139,29708,27889
 RJ_Bikaner,140,30882,24471
 RJ_Bikaner,141,29858,21565
 RJ_Bikaner,142,21729,34926
-RJ_Bikaner,143,17485,56976
+RJ_Bikaner,143,17619,56976
 RJ_Bikaner,144,42374,44910
-RJ_Bikaner,145,51506,22569
-RJ_Bikaner,146,33243,17295
+RJ_Bikaner,145,51372,22569
+RJ_Bikaner,146,33574,17295
 RJ_Bikaner,147,56179,28052
 RJ_Bundi,1,0,0
 RJ_Bundi,2,0,0
@@ -77009,9 +77009,9 @@ RJ_Churu,126,31737,936
 RJ_Churu,127,35999,2238
 RJ_Churu,128,45409,4628
 RJ_Churu,129,36405,4864
-RJ_Churu,130,10884,1664
+RJ_Churu,130,10887,1664
 RJ_Churu,131,5373,18
-RJ_Churu,132,34231,3015
+RJ_Churu,132,34228,3015
 RJ_Churu,133,45941,5391
 RJ_Churu,134,54908,11205
 RJ_Churu,135,72542,19923
@@ -77316,9 +77316,9 @@ RJ_Dholpur,139,29356,7273
 RJ_Dholpur,140,26218,7143
 RJ_Dholpur,141,23781,11757
 RJ_Dholpur,142,20675,11049
-RJ_Dholpur,143,15157,9495
+RJ_Dholpur,143,15170,9495
 RJ_Dholpur,144,17317,13807
-RJ_Dholpur,145,18895,13168
+RJ_Dholpur,145,18882,13168
 RJ_Dholpur,146,28589,16614
 RJ_Dholpur,147,18463,11339
 RJ_Dungarpur,1,0,0
@@ -78626,9 +78626,9 @@ RJ_Jhunjhunu,126,26471,2402
 RJ_Jhunjhunu,127,35720,4802
 RJ_Jhunjhunu,128,17487,3924
 RJ_Jhunjhunu,129,29900,1020
-RJ_Jhunjhunu,130,28855,64
+RJ_Jhunjhunu,130,28864,64
 RJ_Jhunjhunu,131,28999,4
-RJ_Jhunjhunu,132,64579,18292
+RJ_Jhunjhunu,132,64570,18292
 RJ_Jhunjhunu,133,101546,20542
 RJ_Jhunjhunu,134,63834,6016
 RJ_Jhunjhunu,135,16767,9146
@@ -79080,10 +79080,10 @@ RJ_Kota,139,14131,48229
 RJ_Kota,140,26639,49774
 RJ_Kota,141,20536,37211
 RJ_Kota,142,22277,46884
-RJ_Kota,143,32456,49403
+RJ_Kota,143,32646,49403
 RJ_Kota,144,34788,36711
-RJ_Kota,145,78366,32468
-RJ_Kota,146,72112,15756
+RJ_Kota,145,78176,32468
+RJ_Kota,146,72181,15756
 RJ_Kota,147,70789,27375
 RJ_Nagaur,1,0,0
 RJ_Nagaur,2,0,0
@@ -80350,7 +80350,7 @@ RJ_Udaipur,86,0,0
 RJ_Udaipur,87,0,0
 RJ_Udaipur,88,0,0
 RJ_Udaipur,89,1857,0
-RJ_Udaipur,90,17285,0
+RJ_Udaipur,90,17174,0
 RJ_Udaipur,91,22633,0
 RJ_Udaipur,92,7909,0
 RJ_Udaipur,93,4587,0
@@ -80516,9 +80516,9 @@ SK_East Sikkim,105,6357,1204
 SK_East Sikkim,106,6756,1558
 SK_East Sikkim,107,5993,1213
 SK_East Sikkim,108,2669,393
-SK_East Sikkim,109,3165,309
+SK_East Sikkim,109,3173,309
 SK_East Sikkim,110,8614,546
-SK_East Sikkim,111,13764,1011
+SK_East Sikkim,111,13756,1011
 SK_East Sikkim,112,20682,1718
 SK_East Sikkim,113,20506,2215
 SK_East Sikkim,114,12640,2907
@@ -80663,9 +80663,9 @@ SK_North Sikkim,105,593,172
 SK_North Sikkim,106,577,568
 SK_North Sikkim,107,345,476
 SK_North Sikkim,108,209,119
-SK_North Sikkim,109,590,-39
+SK_North Sikkim,109,590,63
 SK_North Sikkim,110,926,37
-SK_North Sikkim,111,1851,357
+SK_North Sikkim,111,1851,255
 SK_North Sikkim,112,3201,459
 SK_North Sikkim,113,2577,508
 SK_North Sikkim,114,1067,413
@@ -80673,11 +80673,11 @@ SK_North Sikkim,115,472,459
 SK_North Sikkim,116,350,688
 SK_North Sikkim,117,308,879
 SK_North Sikkim,118,208,664
-SK_North Sikkim,119,194,358
+SK_North Sikkim,119,199,358
 SK_North Sikkim,120,204,263
-SK_North Sikkim,121,135,594
+SK_North Sikkim,121,132,594
 SK_North Sikkim,122,159,529
-SK_North Sikkim,123,197,2
+SK_North Sikkim,123,195,2
 SK_North Sikkim,124,118,2
 SK_North Sikkim,125,10,0
 SK_North Sikkim,126,59,1
@@ -80698,9 +80698,9 @@ SK_North Sikkim,140,317,662
 SK_North Sikkim,141,322,264
 SK_North Sikkim,142,371,422
 SK_North Sikkim,143,226,336
-SK_North Sikkim,144,265,187
+SK_North Sikkim,144,270,187
 SK_North Sikkim,145,146,38
-SK_North Sikkim,146,48,29
+SK_North Sikkim,146,53,29
 SK_North Sikkim,147,66,63
 SK_South Sikkim,1,0,0
 SK_South Sikkim,2,0,0
@@ -80810,9 +80810,9 @@ SK_South Sikkim,105,1682,237
 SK_South Sikkim,106,637,566
 SK_South Sikkim,107,439,384
 SK_South Sikkim,108,205,31
-SK_South Sikkim,109,2195,-79
+SK_South Sikkim,109,2195,10
 SK_South Sikkim,110,8548,55
-SK_South Sikkim,111,13086,530
+SK_South Sikkim,111,13086,441
 SK_South Sikkim,112,11078,735
 SK_South Sikkim,113,5815,2209
 SK_South Sikkim,114,2372,3301
@@ -80844,9 +80844,9 @@ SK_South Sikkim,139,4217,1915
 SK_South Sikkim,140,3717,1659
 SK_South Sikkim,141,2222,1097
 SK_South Sikkim,142,1506,754
-SK_South Sikkim,143,890,345
+SK_South Sikkim,143,892,345
 SK_South Sikkim,144,947,412
-SK_South Sikkim,145,837,371
+SK_South Sikkim,145,835,371
 SK_South Sikkim,146,664,287
 SK_South Sikkim,147,528,618
 SK_West Sikkim,1,0,0
@@ -80957,10 +80957,10 @@ SK_West Sikkim,105,3871,916
 SK_West Sikkim,106,3135,1307
 SK_West Sikkim,107,2006,736
 SK_West Sikkim,108,1432,132
-SK_West Sikkim,109,-134,-452
-SK_West Sikkim,110,1222,-324
-SK_West Sikkim,111,5044,678
-SK_West Sikkim,112,8679,799
+SK_West Sikkim,109,584,62
+SK_West Sikkim,110,1222,0
+SK_West Sikkim,111,4326,164
+SK_West Sikkim,112,8679,475
 SK_West Sikkim,113,10533,559
 SK_West Sikkim,114,7176,812
 SK_West Sikkim,115,3583,1798
@@ -80969,10 +80969,10 @@ SK_West Sikkim,117,1891,2496
 SK_West Sikkim,118,1198,3504
 SK_West Sikkim,119,531,3210
 SK_West Sikkim,120,270,1816
-SK_West Sikkim,121,62,434
-SK_West Sikkim,122,0,27
-SK_West Sikkim,123,254,7
-SK_West Sikkim,124,371,8
+SK_West Sikkim,121,63,434
+SK_West Sikkim,122,1,27
+SK_West Sikkim,123,253,7
+SK_West Sikkim,124,370,8
 SK_West Sikkim,125,127,1
 SK_West Sikkim,126,10,0
 SK_West Sikkim,127,0,0
@@ -80991,9 +80991,9 @@ SK_West Sikkim,139,2607,4503
 SK_West Sikkim,140,1671,3225
 SK_West Sikkim,141,497,1676
 SK_West Sikkim,142,408,1493
-SK_West Sikkim,143,193,560
+SK_West Sikkim,143,198,560
 SK_West Sikkim,144,610,540
-SK_West Sikkim,145,702,494
+SK_West Sikkim,145,697,494
 SK_West Sikkim,146,735,1372
 SK_West Sikkim,147,871,1611
 TG_Adilabad,1,0,0
@@ -81104,9 +81104,9 @@ TG_Adilabad,105,1654,288
 TG_Adilabad,106,1925,287
 TG_Adilabad,107,2214,107
 TG_Adilabad,108,2039,143
-TG_Adilabad,109,3990,20
+TG_Adilabad,109,3990,64
 TG_Adilabad,110,5632,180
-TG_Adilabad,111,7525,609
+TG_Adilabad,111,7525,565
 TG_Adilabad,112,10121,834
 TG_Adilabad,113,11030,1065
 TG_Adilabad,114,9400,1090
@@ -81118,9 +81118,9 @@ TG_Adilabad,119,1924,2647
 TG_Adilabad,120,1153,3931
 TG_Adilabad,121,414,2630
 TG_Adilabad,122,42,312
-TG_Adilabad,123,-1,0
+TG_Adilabad,123,0,0
 TG_Adilabad,124,103,941
-TG_Adilabad,125,1293,2043
+TG_Adilabad,125,1292,2043
 TG_Adilabad,126,1973,1644
 TG_Adilabad,127,1620,787
 TG_Adilabad,128,4207,470
@@ -81263,11 +81263,11 @@ TG_Bhadradri Kothagudem,117,20093,2680
 TG_Bhadradri Kothagudem,118,12052,2935
 TG_Bhadradri Kothagudem,119,8304,5481
 TG_Bhadradri Kothagudem,120,6507,10201
-TG_Bhadradri Kothagudem,121,3126,7424
-TG_Bhadradri Kothagudem,122,677,1037
-TG_Bhadradri Kothagudem,123,-42,0
-TG_Bhadradri Kothagudem,124,1363,4738
-TG_Bhadradri Kothagudem,125,4690,6600
+TG_Bhadradri Kothagudem,121,3128,7424
+TG_Bhadradri Kothagudem,122,703,1037
+TG_Bhadradri Kothagudem,123,0,0
+TG_Bhadradri Kothagudem,124,1337,4738
+TG_Bhadradri Kothagudem,125,4646,6600
 TG_Bhadradri Kothagudem,126,4846,2223
 TG_Bhadradri Kothagudem,127,2885,1122
 TG_Bhadradri Kothagudem,128,7476,1123
@@ -81558,10 +81558,10 @@ TG_Jagtial,118,10698,2142
 TG_Jagtial,119,3315,5957
 TG_Jagtial,120,2058,9619
 TG_Jagtial,121,322,5676
-TG_Jagtial,122,41,729
-TG_Jagtial,123,-4,0
-TG_Jagtial,124,174,5072
-TG_Jagtial,125,2617,7766
+TG_Jagtial,122,44,729
+TG_Jagtial,123,0,0
+TG_Jagtial,124,171,5072
+TG_Jagtial,125,2613,7766
 TG_Jagtial,126,2963,3218
 TG_Jagtial,127,2034,681
 TG_Jagtial,128,11018,189
@@ -81580,10 +81580,10 @@ TG_Jagtial,140,1316,6051
 TG_Jagtial,141,0,18727
 TG_Jagtial,142,0,21264
 TG_Jagtial,143,20,15218
-TG_Jagtial,144,-710,13534
-TG_Jagtial,145,-662,8929
-TG_Jagtial,146,-110,7280
-TG_Jagtial,147,9403,5132
+TG_Jagtial,144,20,13534
+TG_Jagtial,145,0,8929
+TG_Jagtial,146,0,7280
+TG_Jagtial,147,8741,5132
 TG_Jangaon,1,0,0
 TG_Jangaon,2,0,0
 TG_Jangaon,3,0,0
@@ -81705,10 +81705,10 @@ TG_Jangaon,118,4596,1892
 TG_Jangaon,119,3182,3537
 TG_Jangaon,120,1830,5481
 TG_Jangaon,121,392,3512
-TG_Jangaon,122,54,322
-TG_Jangaon,123,-11,0
-TG_Jangaon,124,91,1765
-TG_Jangaon,125,1381,3038
+TG_Jangaon,122,56,322
+TG_Jangaon,123,0,0
+TG_Jangaon,124,89,1765
+TG_Jangaon,125,1370,3038
 TG_Jangaon,126,1535,1814
 TG_Jangaon,127,471,747
 TG_Jangaon,128,1212,388
@@ -81726,9 +81726,9 @@ TG_Jangaon,139,4366,3844
 TG_Jangaon,140,2873,3894
 TG_Jangaon,141,2514,7768
 TG_Jangaon,142,1148,7868
-TG_Jangaon,143,-31,5282
+TG_Jangaon,143,0,5282
 TG_Jangaon,144,374,4331
-TG_Jangaon,145,465,2535
+TG_Jangaon,145,434,2535
 TG_Jangaon,146,101,1881
 TG_Jangaon,147,3052,1282
 TG_Jayashankar Bhupalapally,1,0,0
@@ -81839,10 +81839,10 @@ TG_Jayashankar Bhupalapally,105,134,58
 TG_Jayashankar Bhupalapally,106,424,36
 TG_Jayashankar Bhupalapally,107,654,79
 TG_Jayashankar Bhupalapally,108,566,79
-TG_Jayashankar Bhupalapally,109,849,-44
-TG_Jayashankar Bhupalapally,110,1317,-4
-TG_Jayashankar Bhupalapally,111,3272,96
-TG_Jayashankar Bhupalapally,112,10884,61
+TG_Jayashankar Bhupalapally,109,849,23
+TG_Jayashankar Bhupalapally,110,1317,0
+TG_Jayashankar Bhupalapally,111,3272,29
+TG_Jayashankar Bhupalapally,112,10884,57
 TG_Jayashankar Bhupalapally,113,24384,85
 TG_Jayashankar Bhupalapally,114,25974,288
 TG_Jayashankar Bhupalapally,115,23628,474
@@ -81852,10 +81852,10 @@ TG_Jayashankar Bhupalapally,118,4259,446
 TG_Jayashankar Bhupalapally,119,2792,1258
 TG_Jayashankar Bhupalapally,120,2199,2876
 TG_Jayashankar Bhupalapally,121,1471,3192
-TG_Jayashankar Bhupalapally,122,591,1287
-TG_Jayashankar Bhupalapally,123,-2,0
-TG_Jayashankar Bhupalapally,124,793,1776
-TG_Jayashankar Bhupalapally,125,2678,4201
+TG_Jayashankar Bhupalapally,122,592,1287
+TG_Jayashankar Bhupalapally,123,0,0
+TG_Jayashankar Bhupalapally,124,792,1776
+TG_Jayashankar Bhupalapally,125,2676,4201
 TG_Jayashankar Bhupalapally,126,3025,4703
 TG_Jayashankar Bhupalapally,127,2138,3310
 TG_Jayashankar Bhupalapally,128,3480,2253
@@ -81986,9 +81986,9 @@ TG_Jogulamba Gadwal,105,976,32
 TG_Jogulamba Gadwal,106,1536,11
 TG_Jogulamba Gadwal,107,1618,58
 TG_Jogulamba Gadwal,108,1248,70
-TG_Jogulamba Gadwal,109,2402,9
+TG_Jogulamba Gadwal,109,2402,18
 TG_Jogulamba Gadwal,110,5315,15
-TG_Jogulamba Gadwal,111,10298,100
+TG_Jogulamba Gadwal,111,10298,91
 TG_Jogulamba Gadwal,112,11328,172
 TG_Jogulamba Gadwal,113,10036,510
 TG_Jogulamba Gadwal,114,9930,969
@@ -81999,11 +81999,11 @@ TG_Jogulamba Gadwal,118,5032,1364
 TG_Jogulamba Gadwal,119,3513,2066
 TG_Jogulamba Gadwal,120,1946,2847
 TG_Jogulamba Gadwal,121,469,1892
-TG_Jogulamba Gadwal,122,35,246
-TG_Jogulamba Gadwal,123,-27,0
-TG_Jogulamba Gadwal,124,3,402
-TG_Jogulamba Gadwal,125,1026,569
-TG_Jogulamba Gadwal,126,1386,313
+TG_Jogulamba Gadwal,122,48,246
+TG_Jogulamba Gadwal,123,0,0
+TG_Jogulamba Gadwal,124,0,402
+TG_Jogulamba Gadwal,125,999,569
+TG_Jogulamba Gadwal,126,1376,313
 TG_Jogulamba Gadwal,127,689,240
 TG_Jogulamba Gadwal,128,2555,134
 TG_Jogulamba Gadwal,129,5545,61
@@ -82145,11 +82145,11 @@ TG_Kamareddy,117,16814,4511
 TG_Kamareddy,118,7948,4090
 TG_Kamareddy,119,5602,5938
 TG_Kamareddy,120,3471,10736
-TG_Kamareddy,121,1126,9358
-TG_Kamareddy,122,292,2123
-TG_Kamareddy,123,-17,0
-TG_Kamareddy,124,177,2113
-TG_Kamareddy,125,2406,3394
+TG_Kamareddy,121,1127,9358
+TG_Kamareddy,122,303,2123
+TG_Kamareddy,123,0,0
+TG_Kamareddy,124,166,2113
+TG_Kamareddy,125,2388,3394
 TG_Kamareddy,126,3268,1879
 TG_Kamareddy,127,1952,1041
 TG_Kamareddy,128,7307,906
@@ -82293,10 +82293,10 @@ TG_Karimnagar,118,9072,2286
 TG_Karimnagar,119,6785,4759
 TG_Karimnagar,120,4395,7443
 TG_Karimnagar,121,1433,6837
-TG_Karimnagar,122,703,2715
-TG_Karimnagar,123,-16,0
-TG_Karimnagar,124,667,3873
-TG_Karimnagar,125,5086,5180
+TG_Karimnagar,122,714,2715
+TG_Karimnagar,123,0,0
+TG_Karimnagar,124,656,3873
+TG_Karimnagar,125,5070,5180
 TG_Karimnagar,126,5896,2125
 TG_Karimnagar,127,4809,1286
 TG_Karimnagar,128,18029,743
@@ -82439,11 +82439,11 @@ TG_Khammam,117,16440,3497
 TG_Khammam,118,12670,4541
 TG_Khammam,119,12173,8667
 TG_Khammam,120,5841,12107
-TG_Khammam,121,948,7781
-TG_Khammam,122,283,1238
-TG_Khammam,123,-62,0
-TG_Khammam,124,380,5093
-TG_Khammam,125,6518,7730
+TG_Khammam,121,966,7781
+TG_Khammam,122,333,1238
+TG_Khammam,123,0,0
+TG_Khammam,124,330,5093
+TG_Khammam,125,6438,7730
 TG_Khammam,126,8043,3277
 TG_Khammam,127,4483,829
 TG_Khammam,128,20218,471
@@ -82574,9 +82574,9 @@ TG_Komaram Bheem,105,358,106
 TG_Komaram Bheem,106,359,67
 TG_Komaram Bheem,107,500,16
 TG_Komaram Bheem,108,482,33
-TG_Komaram Bheem,109,1525,-3
+TG_Komaram Bheem,109,1525,21
 TG_Komaram Bheem,110,3732,25
-TG_Komaram Bheem,111,5668,111
+TG_Komaram Bheem,111,5668,87
 TG_Komaram Bheem,112,9871,155
 TG_Komaram Bheem,113,10662,196
 TG_Komaram Bheem,114,7682,331
@@ -82585,12 +82585,12 @@ TG_Komaram Bheem,116,11824,574
 TG_Komaram Bheem,117,7788,586
 TG_Komaram Bheem,118,2847,880
 TG_Komaram Bheem,119,1144,1731
-TG_Komaram Bheem,120,602,1240
-TG_Komaram Bheem,121,12,130
-TG_Komaram Bheem,122,19,72
-TG_Komaram Bheem,123,-1,0
-TG_Komaram Bheem,124,47,900
-TG_Komaram Bheem,125,988,1913
+TG_Komaram Bheem,120,610,1240
+TG_Komaram Bheem,121,13,130
+TG_Komaram Bheem,122,13,72
+TG_Komaram Bheem,123,0,0
+TG_Komaram Bheem,124,45,900
+TG_Komaram Bheem,125,986,1913
 TG_Komaram Bheem,126,1224,1460
 TG_Komaram Bheem,127,806,844
 TG_Komaram Bheem,128,3294,615
@@ -82607,11 +82607,11 @@ TG_Komaram Bheem,138,4475,3447
 TG_Komaram Bheem,139,4146,2643
 TG_Komaram Bheem,140,3439,2829
 TG_Komaram Bheem,141,1757,2952
-TG_Komaram Bheem,142,406,2534
-TG_Komaram Bheem,143,-22,1794
-TG_Komaram Bheem,144,184,1351
-TG_Komaram Bheem,145,233,885
-TG_Komaram Bheem,146,37,639
+TG_Komaram Bheem,142,406,2535
+TG_Komaram Bheem,143,0,1794
+TG_Komaram Bheem,144,190,1350
+TG_Komaram Bheem,145,211,885
+TG_Komaram Bheem,146,31,639
 TG_Komaram Bheem,147,933,444
 TG_Mahabubabad,1,0,0
 TG_Mahabubabad,2,0,0
@@ -82734,10 +82734,10 @@ TG_Mahabubabad,118,6730,2044
 TG_Mahabubabad,119,3945,3873
 TG_Mahabubabad,120,2842,6991
 TG_Mahabubabad,121,1064,7555
-TG_Mahabubabad,122,289,3056
-TG_Mahabubabad,123,-10,0
-TG_Mahabubabad,124,209,2450
-TG_Mahabubabad,125,1825,4110
+TG_Mahabubabad,122,296,3056
+TG_Mahabubabad,123,0,0
+TG_Mahabubabad,124,202,2450
+TG_Mahabubabad,125,1815,4110
 TG_Mahabubabad,126,2516,3617
 TG_Mahabubabad,127,1273,2485
 TG_Mahabubabad,128,2246,810
@@ -82881,10 +82881,10 @@ TG_Mahabubnagar,118,7321,1672
 TG_Mahabubnagar,119,6088,4416
 TG_Mahabubnagar,120,3896,7326
 TG_Mahabubnagar,121,1229,4825
-TG_Mahabubnagar,122,324,708
-TG_Mahabubnagar,123,-31,0
-TG_Mahabubnagar,124,321,2079
-TG_Mahabubnagar,125,2350,3278
+TG_Mahabubnagar,122,334,708
+TG_Mahabubnagar,123,0,0
+TG_Mahabubnagar,124,311,2079
+TG_Mahabubnagar,125,2319,3278
 TG_Mahabubnagar,126,2393,1655
 TG_Mahabubnagar,127,1083,857
 TG_Mahabubnagar,128,3968,894
@@ -83027,11 +83027,11 @@ TG_Mancherial,117,21327,1469
 TG_Mancherial,118,9613,1865
 TG_Mancherial,119,5570,2990
 TG_Mancherial,120,2637,2656
-TG_Mancherial,121,22,1012
-TG_Mancherial,122,9,186
-TG_Mancherial,123,-8,0
-TG_Mancherial,124,7,1137
-TG_Mancherial,125,1464,1568
+TG_Mancherial,121,23,1012
+TG_Mancherial,122,12,186
+TG_Mancherial,123,0,0
+TG_Mancherial,124,4,1137
+TG_Mancherial,125,1455,1568
 TG_Mancherial,126,3102,515
 TG_Mancherial,127,3497,147
 TG_Mancherial,128,10221,100
@@ -83175,10 +83175,10 @@ TG_Medak,118,8746,1764
 TG_Medak,119,6538,3050
 TG_Medak,120,5630,6296
 TG_Medak,121,3988,6038
-TG_Medak,122,1100,1578
-TG_Medak,123,-50,1
-TG_Medak,124,836,1610
-TG_Medak,125,3658,3154
+TG_Medak,122,1114,1578
+TG_Medak,123,0,1
+TG_Medak,124,822,1610
+TG_Medak,125,3608,3154
 TG_Medak,126,3644,1783
 TG_Medak,127,1651,581
 TG_Medak,128,4089,593
@@ -83196,9 +83196,9 @@ TG_Medak,139,8148,3815
 TG_Medak,140,3072,4338
 TG_Medak,141,2497,7468
 TG_Medak,142,976,10268
-TG_Medak,143,-222,9416
+TG_Medak,143,35,9416
 TG_Medak,144,4241,6253
-TG_Medak,145,4918,4478
+TG_Medak,145,4661,4478
 TG_Medak,146,870,4140
 TG_Medak,147,2961,3150
 TG_Medchal Malkajgiri,1,0,0
@@ -83321,12 +83321,12 @@ TG_Medchal Malkajgiri,117,45239,19557
 TG_Medchal Malkajgiri,118,24933,11830
 TG_Medchal Malkajgiri,119,19520,20950
 TG_Medchal Malkajgiri,120,9332,35029
-TG_Medchal Malkajgiri,121,2776,28352
-TG_Medchal Malkajgiri,122,-785,7947
-TG_Medchal Malkajgiri,123,-2340,921
-TG_Medchal Malkajgiri,124,708,8421
-TG_Medchal Malkajgiri,125,30133,12898
-TG_Medchal Malkajgiri,126,74646,8180
+TG_Medchal Malkajgiri,121,3134,28352
+TG_Medchal Malkajgiri,122,890,7947
+TG_Medchal Malkajgiri,123,0,921
+TG_Medchal Malkajgiri,124,0,8421
+TG_Medchal Malkajgiri,125,27435,12898
+TG_Medchal Malkajgiri,126,73679,8180
 TG_Medchal Malkajgiri,127,86003,5178
 TG_Medchal Malkajgiri,128,123303,5184
 TG_Medchal Malkajgiri,129,162907,5812
@@ -83469,10 +83469,10 @@ TG_Mulugu,118,3358,284
 TG_Mulugu,119,2436,649
 TG_Mulugu,120,1488,1045
 TG_Mulugu,121,767,1350
-TG_Mulugu,122,403,763
-TG_Mulugu,123,-6,0
-TG_Mulugu,124,1404,2942
-TG_Mulugu,125,3449,5506
+TG_Mulugu,122,407,763
+TG_Mulugu,123,0,0
+TG_Mulugu,124,1400,2942
+TG_Mulugu,125,3443,5506
 TG_Mulugu,126,2779,3385
 TG_Mulugu,127,853,1052
 TG_Mulugu,128,294,519
@@ -83615,14 +83615,14 @@ TG_Nagarkurnool,117,13470,1800
 TG_Nagarkurnool,118,6728,2088
 TG_Nagarkurnool,119,5730,4444
 TG_Nagarkurnool,120,4114,6535
-TG_Nagarkurnool,121,810,3375
-TG_Nagarkurnool,122,51,134
-TG_Nagarkurnool,123,-3,0
-TG_Nagarkurnool,124,9,409
-TG_Nagarkurnool,125,1020,728
-TG_Nagarkurnool,126,1937,518
+TG_Nagarkurnool,121,811,3375
+TG_Nagarkurnool,122,53,134
+TG_Nagarkurnool,123,0,0
+TG_Nagarkurnool,124,7,409
+TG_Nagarkurnool,125,1016,728
+TG_Nagarkurnool,126,1943,518
 TG_Nagarkurnool,127,1496,372
-TG_Nagarkurnool,128,4325,284
+TG_Nagarkurnool,128,4319,284
 TG_Nagarkurnool,129,7410,181
 TG_Nagarkurnool,130,7125,139
 TG_Nagarkurnool,131,5585,130
@@ -83637,9 +83637,9 @@ TG_Nagarkurnool,139,7766,8872
 TG_Nagarkurnool,140,4777,7588
 TG_Nagarkurnool,141,1871,8470
 TG_Nagarkurnool,142,1450,9944
-TG_Nagarkurnool,143,-84,5466
+TG_Nagarkurnool,143,0,5466
 TG_Nagarkurnool,144,498,4260
-TG_Nagarkurnool,145,684,3568
+TG_Nagarkurnool,145,600,3568
 TG_Nagarkurnool,146,222,2839
 TG_Nagarkurnool,147,3033,1780
 TG_Nalgonda,1,0,0
@@ -83763,10 +83763,10 @@ TG_Nalgonda,118,15006,2879
 TG_Nalgonda,119,11824,7251
 TG_Nalgonda,120,8475,12390
 TG_Nalgonda,121,2277,7345
-TG_Nalgonda,122,200,571
-TG_Nalgonda,123,-31,0
-TG_Nalgonda,124,141,748
-TG_Nalgonda,125,5235,1315
+TG_Nalgonda,122,207,571
+TG_Nalgonda,123,0,0
+TG_Nalgonda,124,134,748
+TG_Nalgonda,125,5204,1315
 TG_Nalgonda,126,7304,831
 TG_Nalgonda,127,4301,397
 TG_Nalgonda,128,13210,285
@@ -83909,11 +83909,11 @@ TG_Narayanpet,117,6187,628
 TG_Narayanpet,118,3847,845
 TG_Narayanpet,119,2538,1728
 TG_Narayanpet,120,2248,2604
-TG_Narayanpet,121,803,1504
-TG_Narayanpet,122,45,79
-TG_Narayanpet,123,-9,0
-TG_Narayanpet,124,103,300
-TG_Narayanpet,125,976,684
+TG_Narayanpet,121,804,1504
+TG_Narayanpet,122,51,79
+TG_Narayanpet,123,0,0
+TG_Narayanpet,124,97,300
+TG_Narayanpet,125,966,684
 TG_Narayanpet,126,1409,785
 TG_Narayanpet,127,861,576
 TG_Narayanpet,128,1686,269
@@ -84056,11 +84056,11 @@ TG_Nirmal,117,21291,1635
 TG_Nirmal,118,5747,1832
 TG_Nirmal,119,3085,5361
 TG_Nirmal,120,3305,8310
-TG_Nirmal,121,1174,4137
-TG_Nirmal,122,79,146
-TG_Nirmal,123,-5,0
-TG_Nirmal,124,625,2794
-TG_Nirmal,125,1928,4355
+TG_Nirmal,121,1176,4137
+TG_Nirmal,122,81,146
+TG_Nirmal,123,0,0
+TG_Nirmal,124,623,2794
+TG_Nirmal,125,1921,4355
 TG_Nirmal,126,2013,2064
 TG_Nirmal,127,1497,990
 TG_Nirmal,128,3947,678
@@ -84203,11 +84203,11 @@ TG_Nizamabad,117,27195,2797
 TG_Nizamabad,118,12379,2481
 TG_Nizamabad,119,5248,6812
 TG_Nizamabad,120,3875,13313
-TG_Nizamabad,121,897,8227
-TG_Nizamabad,122,-19,424
-TG_Nizamabad,123,-25,0
-TG_Nizamabad,124,77,1064
-TG_Nizamabad,125,3580,2079
+TG_Nizamabad,121,908,8227
+TG_Nizamabad,122,0,424
+TG_Nizamabad,123,0,0
+TG_Nizamabad,124,58,1064
+TG_Nizamabad,125,3544,2079
 TG_Nizamabad,126,4865,1183
 TG_Nizamabad,127,2919,375
 TG_Nizamabad,128,13662,586
@@ -84346,15 +84346,15 @@ TG_Peddapalli,113,17098,886
 TG_Peddapalli,114,19332,1342
 TG_Peddapalli,115,30925,1925
 TG_Peddapalli,116,39902,1824
-TG_Peddapalli,117,24552,1385
+TG_Peddapalli,117,24553,1385
 TG_Peddapalli,118,9580,2221
-TG_Peddapalli,119,6038,4544
+TG_Peddapalli,119,6037,4544
 TG_Peddapalli,120,3436,6892
-TG_Peddapalli,121,201,4966
-TG_Peddapalli,122,-26,992
-TG_Peddapalli,123,-3,0
-TG_Peddapalli,124,90,2856
-TG_Peddapalli,125,2338,4263
+TG_Peddapalli,121,226,4966
+TG_Peddapalli,122,0,992
+TG_Peddapalli,123,0,0
+TG_Peddapalli,124,64,2856
+TG_Peddapalli,125,2310,4263
 TG_Peddapalli,126,3269,1765
 TG_Peddapalli,127,2883,604
 TG_Peddapalli,128,15942,344
@@ -84485,11 +84485,11 @@ TG_Rajanna Sircilla,105,314,124
 TG_Rajanna Sircilla,106,628,9
 TG_Rajanna Sircilla,107,1142,15
 TG_Rajanna Sircilla,108,1405,12
-TG_Rajanna Sircilla,109,2635,-98
-TG_Rajanna Sircilla,110,4409,-88
-TG_Rajanna Sircilla,111,7311,45
-TG_Rajanna Sircilla,112,10339,100
-TG_Rajanna Sircilla,113,13063,166
+TG_Rajanna Sircilla,109,2635,5
+TG_Rajanna Sircilla,110,4409,0
+TG_Rajanna Sircilla,111,7311,0
+TG_Rajanna Sircilla,112,10339,12
+TG_Rajanna Sircilla,113,13063,108
 TG_Rajanna Sircilla,114,26164,268
 TG_Rajanna Sircilla,115,52614,470
 TG_Rajanna Sircilla,116,50515,701
@@ -84497,11 +84497,11 @@ TG_Rajanna Sircilla,117,20970,884
 TG_Rajanna Sircilla,118,6030,1229
 TG_Rajanna Sircilla,119,3138,2393
 TG_Rajanna Sircilla,120,2036,3349
-TG_Rajanna Sircilla,121,583,2381
-TG_Rajanna Sircilla,122,91,677
-TG_Rajanna Sircilla,123,-4,0
-TG_Rajanna Sircilla,124,431,3509
-TG_Rajanna Sircilla,125,1567,4388
+TG_Rajanna Sircilla,121,584,2381
+TG_Rajanna Sircilla,122,94,677
+TG_Rajanna Sircilla,123,0,0
+TG_Rajanna Sircilla,124,428,3509
+TG_Rajanna Sircilla,125,1562,4388
 TG_Rajanna Sircilla,126,1550,1131
 TG_Rajanna Sircilla,127,882,483
 TG_Rajanna Sircilla,128,2735,351
@@ -84519,9 +84519,9 @@ TG_Rajanna Sircilla,139,3372,2902
 TG_Rajanna Sircilla,140,2495,3598
 TG_Rajanna Sircilla,141,1869,7335
 TG_Rajanna Sircilla,142,572,9680
-TG_Rajanna Sircilla,143,-33,13149
+TG_Rajanna Sircilla,143,0,13149
 TG_Rajanna Sircilla,144,127,17544
-TG_Rajanna Sircilla,145,1219,18064
+TG_Rajanna Sircilla,145,1186,18064
 TG_Rajanna Sircilla,146,1657,15517
 TG_Rajanna Sircilla,147,2814,10728
 TG_Ranga Reddy,1,0,0
@@ -84643,12 +84643,12 @@ TG_Ranga Reddy,116,43023,19301
 TG_Ranga Reddy,117,36027,16112
 TG_Ranga Reddy,118,22966,10688
 TG_Ranga Reddy,119,14939,16329
-TG_Ranga Reddy,120,3509,26041
-TG_Ranga Reddy,121,-1398,20256
-TG_Ranga Reddy,122,1473,5552
-TG_Ranga Reddy,123,1973,1469
-TG_Ranga Reddy,124,4755,5327
-TG_Ranga Reddy,125,28533,7598
+TG_Ranga Reddy,120,5463,26041
+TG_Ranga Reddy,121,0,20256
+TG_Ranga Reddy,122,0,5552
+TG_Ranga Reddy,123,578,1469
+TG_Ranga Reddy,124,4274,5327
+TG_Ranga Reddy,125,28530,7598
 TG_Ranga Reddy,126,80440,4878
 TG_Ranga Reddy,127,135628,3618
 TG_Ranga Reddy,128,212777,4995
@@ -84792,11 +84792,11 @@ TG_Sangareddy,118,11805,3099
 TG_Sangareddy,119,10503,6259
 TG_Sangareddy,120,8402,11824
 TG_Sangareddy,121,4115,9491
-TG_Sangareddy,122,725,1871
-TG_Sangareddy,123,-270,13
-TG_Sangareddy,124,-121,2749
-TG_Sangareddy,125,6400,5731
-TG_Sangareddy,126,13244,4651
+TG_Sangareddy,122,819,1871
+TG_Sangareddy,123,0,13
+TG_Sangareddy,124,0,2749
+TG_Sangareddy,125,6130,5731
+TG_Sangareddy,126,13029,4651
 TG_Sangareddy,127,13611,2293
 TG_Sangareddy,128,24976,1300
 TG_Sangareddy,129,35194,1422
@@ -84934,15 +84934,15 @@ TG_Siddipet,113,45495,1364
 TG_Siddipet,114,60965,1834
 TG_Siddipet,115,88568,1991
 TG_Siddipet,116,61718,1716
-TG_Siddipet,117,13765,1902
+TG_Siddipet,117,13766,1902
 TG_Siddipet,118,11683,2257
-TG_Siddipet,119,4232,3065
+TG_Siddipet,119,4231,3065
 TG_Siddipet,120,1387,4668
 TG_Siddipet,121,817,5070
-TG_Siddipet,122,338,2429
-TG_Siddipet,123,-45,0
-TG_Siddipet,124,440,5615
-TG_Siddipet,125,4004,10634
+TG_Siddipet,122,353,2429
+TG_Siddipet,123,0,0
+TG_Siddipet,124,425,5615
+TG_Siddipet,125,3959,10634
 TG_Siddipet,126,5614,8062
 TG_Siddipet,127,3960,4251
 TG_Siddipet,128,10371,2007
@@ -85081,18 +85081,18 @@ TG_Suryapet,113,19112,2545
 TG_Suryapet,114,19054,3205
 TG_Suryapet,115,25907,2916
 TG_Suryapet,116,33127,2725
-TG_Suryapet,117,22414,2479
+TG_Suryapet,117,22415,2479
 TG_Suryapet,118,10466,2622
-TG_Suryapet,119,7700,4319
+TG_Suryapet,119,7777,4319
 TG_Suryapet,120,6488,9993
-TG_Suryapet,121,3544,9208
-TG_Suryapet,122,1157,1943
-TG_Suryapet,123,-18,0
-TG_Suryapet,124,848,2235
-TG_Suryapet,125,5570,4033
-TG_Suryapet,126,6304,2312
+TG_Suryapet,121,3470,9208
+TG_Suryapet,122,1164,1943
+TG_Suryapet,123,0,0
+TG_Suryapet,124,841,2235
+TG_Suryapet,125,5548,4033
+TG_Suryapet,126,6305,2312
 TG_Suryapet,127,4114,1178
-TG_Suryapet,128,9047,1227
+TG_Suryapet,128,9046,1227
 TG_Suryapet,129,11986,708
 TG_Suryapet,130,14216,805
 TG_Suryapet,131,10804,1123
@@ -85233,13 +85233,13 @@ TG_Vikarabad,118,6746,1675
 TG_Vikarabad,119,4940,3210
 TG_Vikarabad,120,3762,5526
 TG_Vikarabad,121,1387,3668
-TG_Vikarabad,122,32,190
-TG_Vikarabad,123,-2,0
-TG_Vikarabad,124,68,144
-TG_Vikarabad,125,1663,216
-TG_Vikarabad,126,2067,112
+TG_Vikarabad,122,33,190
+TG_Vikarabad,123,0,0
+TG_Vikarabad,124,67,144
+TG_Vikarabad,125,1661,216
+TG_Vikarabad,126,2068,112
 TG_Vikarabad,127,1239,444
-TG_Vikarabad,128,5098,432
+TG_Vikarabad,128,5097,432
 TG_Vikarabad,129,8721,63
 TG_Vikarabad,130,8953,128
 TG_Vikarabad,131,6630,129
@@ -85254,9 +85254,9 @@ TG_Vikarabad,139,7715,5262
 TG_Vikarabad,140,5727,4534
 TG_Vikarabad,141,3385,6514
 TG_Vikarabad,142,1379,7245
-TG_Vikarabad,143,-47,4754
+TG_Vikarabad,143,0,4754
 TG_Vikarabad,144,1891,3380
-TG_Vikarabad,145,2181,2385
+TG_Vikarabad,145,2134,2385
 TG_Vikarabad,146,502,2110
 TG_Vikarabad,147,2487,1418
 TG_Wanaparthy,1,0,0
@@ -85380,10 +85380,10 @@ TG_Wanaparthy,118,4826,1398
 TG_Wanaparthy,119,2909,2662
 TG_Wanaparthy,120,1579,4345
 TG_Wanaparthy,121,171,2747
-TG_Wanaparthy,122,3,153
-TG_Wanaparthy,123,-7,0
-TG_Wanaparthy,124,22,395
-TG_Wanaparthy,125,1305,561
+TG_Wanaparthy,122,6,153
+TG_Wanaparthy,123,0,0
+TG_Wanaparthy,124,19,395
+TG_Wanaparthy,125,1298,561
 TG_Wanaparthy,126,1445,439
 TG_Wanaparthy,127,738,313
 TG_Wanaparthy,128,3557,70
@@ -85514,9 +85514,9 @@ TG_Warangal Rural,105,303,168
 TG_Warangal Rural,106,536,99
 TG_Warangal Rural,107,918,138
 TG_Warangal Rural,108,884,135
-TG_Warangal Rural,109,1232,30
+TG_Warangal Rural,109,1232,55
 TG_Warangal Rural,110,2189,88
-TG_Warangal Rural,111,3923,173
+TG_Warangal Rural,111,3923,148
 TG_Warangal Rural,112,5733,184
 TG_Warangal Rural,113,8882,221
 TG_Warangal Rural,114,11161,254
@@ -85527,10 +85527,10 @@ TG_Warangal Rural,118,8240,1064
 TG_Warangal Rural,119,7246,2113
 TG_Warangal Rural,120,4056,3610
 TG_Warangal Rural,121,733,2781
-TG_Warangal Rural,122,48,386
-TG_Warangal Rural,123,-6,0
-TG_Warangal Rural,124,137,1737
-TG_Warangal Rural,125,3204,2694
+TG_Warangal Rural,122,49,386
+TG_Warangal Rural,123,0,0
+TG_Warangal Rural,124,136,1737
+TG_Warangal Rural,125,3198,2694
 TG_Warangal Rural,126,4655,1240
 TG_Warangal Rural,127,2408,348
 TG_Warangal Rural,128,4403,137
@@ -85673,11 +85673,11 @@ TG_Warangal Urban,117,23017,4490
 TG_Warangal Urban,118,11143,4053
 TG_Warangal Urban,119,9370,8885
 TG_Warangal Urban,120,5256,15057
-TG_Warangal Urban,121,838,9779
-TG_Warangal Urban,122,124,955
-TG_Warangal Urban,123,-62,0
-TG_Warangal Urban,124,708,9183
-TG_Warangal Urban,125,11476,13130
+TG_Warangal Urban,121,849,9779
+TG_Warangal Urban,122,164,955
+TG_Warangal Urban,123,0,0
+TG_Warangal Urban,124,668,9183
+TG_Warangal Urban,125,11403,13130
 TG_Warangal Urban,126,32448,4814
 TG_Warangal Urban,127,38753,1422
 TG_Warangal Urban,128,40802,1190
@@ -85820,11 +85820,11 @@ TG_Yadadri Bhuvanagiri,117,9821,1740
 TG_Yadadri Bhuvanagiri,118,5443,1523
 TG_Yadadri Bhuvanagiri,119,2185,1498
 TG_Yadadri Bhuvanagiri,120,1406,5238
-TG_Yadadri Bhuvanagiri,121,1225,5094
-TG_Yadadri Bhuvanagiri,122,29,625
-TG_Yadadri Bhuvanagiri,123,-168,0
-TG_Yadadri Bhuvanagiri,124,651,6649
-TG_Yadadri Bhuvanagiri,125,5446,16168
+TG_Yadadri Bhuvanagiri,121,1281,5094
+TG_Yadadri Bhuvanagiri,122,138,625
+TG_Yadadri Bhuvanagiri,123,0,0
+TG_Yadadri Bhuvanagiri,124,542,6649
+TG_Yadadri Bhuvanagiri,125,5222,16168
 TG_Yadadri Bhuvanagiri,126,7842,15801
 TG_Yadadri Bhuvanagiri,127,6636,11958
 TG_Yadadri Bhuvanagiri,128,10035,8854
@@ -85842,9 +85842,9 @@ TG_Yadadri Bhuvanagiri,139,5930,8189
 TG_Yadadri Bhuvanagiri,140,2436,6454
 TG_Yadadri Bhuvanagiri,141,1628,23076
 TG_Yadadri Bhuvanagiri,142,963,25905
-TG_Yadadri Bhuvanagiri,143,-69,15243
+TG_Yadadri Bhuvanagiri,143,0,15243
 TG_Yadadri Bhuvanagiri,144,3966,16824
-TG_Yadadri Bhuvanagiri,145,5598,14628
+TG_Yadadri Bhuvanagiri,145,5529,14628
 TG_Yadadri Bhuvanagiri,146,3149,12126
 TG_Yadadri Bhuvanagiri,147,4647,7174
 TN_Ariyalur,1,0,0
@@ -85974,9 +85974,9 @@ TN_Ariyalur,124,5892,489
 TN_Ariyalur,125,11995,142
 TN_Ariyalur,126,12357,385
 TN_Ariyalur,127,9792,491
-TN_Ariyalur,128,5541,159
+TN_Ariyalur,128,5543,159
 TN_Ariyalur,129,2619,319
-TN_Ariyalur,130,11747,816
+TN_Ariyalur,130,11745,816
 TN_Ariyalur,131,17542,917
 TN_Ariyalur,132,17813,982
 TN_Ariyalur,133,18124,1059
@@ -87278,10 +87278,10 @@ TN_Kallakurichi,105,5200,870
 TN_Kallakurichi,106,6397,1038
 TN_Kallakurichi,107,6152,782
 TN_Kallakurichi,108,5297,575
-TN_Kallakurichi,109,1847,386
-TN_Kallakurichi,110,-29,205
-TN_Kallakurichi,111,3326,921
-TN_Kallakurichi,112,5655,1433
+TN_Kallakurichi,109,2808,386
+TN_Kallakurichi,110,0,205
+TN_Kallakurichi,111,2365,921
+TN_Kallakurichi,112,5626,1433
 TN_Kallakurichi,113,7754,1743
 TN_Kallakurichi,114,6167,1946
 TN_Kallakurichi,115,2819,2156
@@ -87885,9 +87885,9 @@ TN_Krishnagiri,124,14568,556
 TN_Krishnagiri,125,38561,1173
 TN_Krishnagiri,126,40846,2143
 TN_Krishnagiri,127,30946,2034
-TN_Krishnagiri,128,21009,814
+TN_Krishnagiri,128,21017,814
 TN_Krishnagiri,129,14084,819
-TN_Krishnagiri,130,36389,2157
+TN_Krishnagiri,130,36381,2157
 TN_Krishnagiri,131,46342,2486
 TN_Krishnagiri,132,55974,2722
 TN_Krishnagiri,133,71552,3299
@@ -88620,9 +88620,9 @@ TN_Perambalur,124,5280,184
 TN_Perambalur,125,11640,245
 TN_Perambalur,126,9860,273
 TN_Perambalur,127,7897,198
-TN_Perambalur,128,5837,66
+TN_Perambalur,128,5838,66
 TN_Perambalur,129,3734,228
-TN_Perambalur,130,10433,715
+TN_Perambalur,130,10432,715
 TN_Perambalur,131,13904,941
 TN_Perambalur,132,15432,1165
 TN_Perambalur,133,21009,1565
@@ -90365,9 +90365,9 @@ TN_Thiruvallur,105,10907,2246
 TN_Thiruvallur,106,12425,2955
 TN_Thiruvallur,107,11734,2233
 TN_Thiruvallur,108,10148,1187
-TN_Thiruvallur,109,7570,495
+TN_Thiruvallur,109,7570,596
 TN_Thiruvallur,110,5499,520
-TN_Thiruvallur,111,8792,2001
+TN_Thiruvallur,111,8792,1900
 TN_Thiruvallur,112,13352,2891
 TN_Thiruvallur,113,19085,4835
 TN_Thiruvallur,114,15322,6420
@@ -90512,9 +90512,9 @@ TN_Thiruvallur,105,10907,2246
 TN_Thiruvallur,106,12425,2955
 TN_Thiruvallur,107,11734,2233
 TN_Thiruvallur,108,10148,1187
-TN_Thiruvallur,109,7570,495
+TN_Thiruvallur,109,7570,596
 TN_Thiruvallur,110,5499,520
-TN_Thiruvallur,111,8792,2001
+TN_Thiruvallur,111,8792,1900
 TN_Thiruvallur,112,13352,2891
 TN_Thiruvallur,113,19085,4835
 TN_Thiruvallur,114,15322,6420
@@ -91247,9 +91247,9 @@ TN_Tirunelveli,105,8227,1306
 TN_Tirunelveli,106,7513,1638
 TN_Tirunelveli,107,6595,1313
 TN_Tirunelveli,108,5666,815
-TN_Tirunelveli,109,4292,352
+TN_Tirunelveli,109,4292,459
 TN_Tirunelveli,110,3279,348
-TN_Tirunelveli,111,5366,1573
+TN_Tirunelveli,111,5366,1466
 TN_Tirunelveli,112,8638,2119
 TN_Tirunelveli,113,9917,1992
 TN_Tirunelveli,114,6084,2666
@@ -91413,9 +91413,9 @@ TN_Tirupathur,124,8240,585
 TN_Tirupathur,125,20356,553
 TN_Tirupathur,126,27876,885
 TN_Tirupathur,127,21221,962
-TN_Tirupathur,128,8072,465
+TN_Tirupathur,128,8074,465
 TN_Tirupathur,129,9375,726
-TN_Tirupathur,130,23023,1808
+TN_Tirupathur,130,23021,1808
 TN_Tirupathur,131,25061,2151
 TN_Tirupathur,132,23543,2450
 TN_Tirupathur,133,28600,3504
@@ -91560,9 +91560,9 @@ TN_Tiruppur,124,26819,306
 TN_Tiruppur,125,61650,2155
 TN_Tiruppur,126,52546,3433
 TN_Tiruppur,127,36969,2041
-TN_Tiruppur,128,25053,843
+TN_Tiruppur,128,25055,843
 TN_Tiruppur,129,18664,1386
-TN_Tiruppur,130,49222,2386
+TN_Tiruppur,130,49220,2386
 TN_Tiruppur,131,51089,2081
 TN_Tiruppur,132,61855,2772
 TN_Tiruppur,133,74879,9765
@@ -92570,9 +92570,9 @@ TR_Dhalai,105,6920,3564
 TR_Dhalai,106,16776,2166
 TR_Dhalai,107,27847,1227
 TR_Dhalai,108,17746,511
-TR_Dhalai,109,6471,-139
+TR_Dhalai,109,6471,124
 TR_Dhalai,110,8628,184
-TR_Dhalai,111,7756,1179
+TR_Dhalai,111,7756,916
 TR_Dhalai,112,5944,1254
 TR_Dhalai,113,4149,1295
 TR_Dhalai,114,4095,2711
@@ -92864,12 +92864,12 @@ TR_Khowai,105,2386,1641
 TR_Khowai,106,7564,1950
 TR_Khowai,107,22177,1536
 TR_Khowai,108,17293,646
-TR_Khowai,109,1128,-709
-TR_Khowai,110,2282,-669
-TR_Khowai,111,6103,550
-TR_Khowai,112,6421,618
-TR_Khowai,113,7704,1029
-TR_Khowai,114,7844,1350
+TR_Khowai,109,1302,197
+TR_Khowai,110,2282,0
+TR_Khowai,111,5929,0
+TR_Khowai,112,6421,0
+TR_Khowai,113,7704,673
+TR_Khowai,114,7844,1299
 TR_Khowai,115,5120,3410
 TR_Khowai,116,9270,11503
 TR_Khowai,117,9312,10254
@@ -93011,32 +93011,32 @@ TR_North Tripura,105,15734,1507
 TR_North Tripura,106,29965,1261
 TR_North Tripura,107,44385,901
 TR_North Tripura,108,26348,435
-TR_North Tripura,109,4226,628
+TR_North Tripura,109,4228,628
 TR_North Tripura,110,5085,1059
-TR_North Tripura,111,6085,1509
+TR_North Tripura,111,6083,1509
 TR_North Tripura,112,5123,1953
 TR_North Tripura,113,2691,2279
-TR_North Tripura,114,2497,3691
+TR_North Tripura,114,2507,3691
 TR_North Tripura,115,4880,12341
-TR_North Tripura,116,9910,27470
+TR_North Tripura,116,9900,27470
 TR_North Tripura,117,14707,35531
-TR_North Tripura,118,9364,20460
+TR_North Tripura,118,9372,20460
 TR_North Tripura,119,4141,9191
-TR_North Tripura,120,4012,9209
+TR_North Tripura,120,4008,9209
 TR_North Tripura,121,1679,3409
-TR_North Tripura,122,792,835
+TR_North Tripura,122,788,835
 TR_North Tripura,123,415,14
 TR_North Tripura,124,365,50
 TR_North Tripura,125,326,52
-TR_North Tripura,126,487,23
+TR_North Tripura,126,488,23
 TR_North Tripura,127,954,58
-TR_North Tripura,128,959,126
+TR_North Tripura,128,958,126
 TR_North Tripura,129,587,165
 TR_North Tripura,130,7208,145
 TR_North Tripura,131,65838,219
-TR_North Tripura,132,99404,944
+TR_North Tripura,132,99407,944
 TR_North Tripura,133,57725,2747
-TR_North Tripura,134,24205,3036
+TR_North Tripura,134,24202,3036
 TR_North Tripura,135,10326,2154
 TR_North Tripura,136,5725,2067
 TR_North Tripura,137,5303,1797
@@ -93158,9 +93158,9 @@ TR_Sipahijala,105,10014,3614
 TR_Sipahijala,106,29421,1727
 TR_Sipahijala,107,38583,692
 TR_Sipahijala,108,29118,571
-TR_Sipahijala,109,18690,-33
+TR_Sipahijala,109,18690,354
 TR_Sipahijala,110,12899,10
-TR_Sipahijala,111,12522,879
+TR_Sipahijala,111,12522,492
 TR_Sipahijala,112,10641,857
 TR_Sipahijala,113,6851,1179
 TR_Sipahijala,114,7138,4214
@@ -93173,9 +93173,9 @@ TR_Sipahijala,120,2690,7420
 TR_Sipahijala,121,168,474
 TR_Sipahijala,122,62,42
 TR_Sipahijala,123,287,9
-TR_Sipahijala,124,991,24
+TR_Sipahijala,124,992,24
 TR_Sipahijala,125,1048,25
-TR_Sipahijala,126,2637,43
+TR_Sipahijala,126,2636,43
 TR_Sipahijala,127,3997,72
 TR_Sipahijala,128,2565,60
 TR_Sipahijala,129,1246,511
@@ -93320,11 +93320,11 @@ TR_South Tripura,120,2559,7213
 TR_South Tripura,121,4530,2971
 TR_South Tripura,122,3401,258
 TR_South Tripura,123,8613,0
-TR_South Tripura,124,10077,-2
-TR_South Tripura,125,10754,-2
-TR_South Tripura,126,26789,2
-TR_South Tripura,127,17501,2
-TR_South Tripura,128,12,4
+TR_South Tripura,124,10080,0
+TR_South Tripura,125,10754,0
+TR_South Tripura,126,26787,0
+TR_South Tripura,127,17501,0
+TR_South Tripura,128,11,4
 TR_South Tripura,129,189,78
 TR_South Tripura,130,7130,162
 TR_South Tripura,131,28370,181
@@ -93727,7 +93727,7 @@ UP_Agra,86,0,0
 UP_Agra,87,0,0
 UP_Agra,88,0,0
 UP_Agra,89,466,0
-UP_Agra,90,1592,0
+UP_Agra,90,1577,0
 UP_Agra,91,7523,0
 UP_Agra,92,6568,0
 UP_Agra,93,4142,0
@@ -93874,7 +93874,7 @@ UP_Aligarh,86,0,0
 UP_Aligarh,87,0,0
 UP_Aligarh,88,0,0
 UP_Aligarh,89,418,0
-UP_Aligarh,90,1235,0
+UP_Aligarh,90,1232,0
 UP_Aligarh,91,5996,0
 UP_Aligarh,92,5190,0
 UP_Aligarh,93,2800,0
@@ -94168,7 +94168,7 @@ UP_Amethi,86,0,0
 UP_Amethi,87,0,0
 UP_Amethi,88,0,0
 UP_Amethi,89,71,0
-UP_Amethi,90,814,0
+UP_Amethi,90,804,0
 UP_Amethi,91,3687,0
 UP_Amethi,92,2955,0
 UP_Amethi,93,3127,0
@@ -94315,7 +94315,7 @@ UP_Amroha,86,0,0
 UP_Amroha,87,0,0
 UP_Amroha,88,0,0
 UP_Amroha,89,242,0
-UP_Amroha,90,625,0
+UP_Amroha,90,613,0
 UP_Amroha,91,2796,0
 UP_Amroha,92,2434,0
 UP_Amroha,93,2115,0
@@ -94462,7 +94462,7 @@ UP_Auraiya,86,0,0
 UP_Auraiya,87,0,0
 UP_Auraiya,88,0,0
 UP_Auraiya,89,47,0
-UP_Auraiya,90,631,0
+UP_Auraiya,90,625,0
 UP_Auraiya,91,2588,0
 UP_Auraiya,92,2021,0
 UP_Auraiya,93,1247,0
@@ -94609,7 +94609,7 @@ UP_Ayodhya,86,0,0
 UP_Ayodhya,87,0,0
 UP_Ayodhya,88,0,0
 UP_Ayodhya,89,378,0
-UP_Ayodhya,90,1289,0
+UP_Ayodhya,90,1267,0
 UP_Ayodhya,91,6443,0
 UP_Ayodhya,92,5831,0
 UP_Ayodhya,93,3223,0
@@ -94756,7 +94756,7 @@ UP_Azamgarh,86,0,0
 UP_Azamgarh,87,0,0
 UP_Azamgarh,88,0,0
 UP_Azamgarh,89,620,0
-UP_Azamgarh,90,1822,0
+UP_Azamgarh,90,1811,0
 UP_Azamgarh,91,6858,0
 UP_Azamgarh,92,5758,0
 UP_Azamgarh,93,4078,0
@@ -94903,7 +94903,7 @@ UP_Baghpat,86,0,0
 UP_Baghpat,87,0,0
 UP_Baghpat,88,0,0
 UP_Baghpat,89,356,0
-UP_Baghpat,90,808,0
+UP_Baghpat,90,803,0
 UP_Baghpat,91,2632,0
 UP_Baghpat,92,2186,0
 UP_Baghpat,93,990,0
@@ -95050,7 +95050,7 @@ UP_Bahraich,86,0,0
 UP_Bahraich,87,0,0
 UP_Bahraich,88,0,0
 UP_Bahraich,89,591,0
-UP_Bahraich,90,1696,0
+UP_Bahraich,90,1693,0
 UP_Bahraich,91,6244,0
 UP_Bahraich,92,5147,0
 UP_Bahraich,93,2175,0
@@ -95069,9 +95069,9 @@ UP_Bahraich,105,48673,3152
 UP_Bahraich,106,47935,3112
 UP_Bahraich,107,21883,1576
 UP_Bahraich,108,5680,411
-UP_Bahraich,109,29713,-226
+UP_Bahraich,109,29713,83
 UP_Bahraich,110,47952,3083
-UP_Bahraich,111,22570,5091
+UP_Bahraich,111,22570,4782
 UP_Bahraich,112,27634,6202
 UP_Bahraich,113,26909,8727
 UP_Bahraich,114,6642,9610
@@ -95197,7 +95197,7 @@ UP_Ballia,86,0,0
 UP_Ballia,87,0,0
 UP_Ballia,88,0,0
 UP_Ballia,89,743,0
-UP_Ballia,90,1127,0
+UP_Ballia,90,1118,0
 UP_Ballia,91,3438,0
 UP_Ballia,92,3071,0
 UP_Ballia,93,2119,0
@@ -95344,7 +95344,7 @@ UP_Balrampur1,86,0,0
 UP_Balrampur1,87,0,0
 UP_Balrampur1,88,0,0
 UP_Balrampur1,89,312,0
-UP_Balrampur1,90,1061,0
+UP_Balrampur1,90,1060,0
 UP_Balrampur1,91,4549,0
 UP_Balrampur1,92,3823,0
 UP_Balrampur1,93,2540,0
@@ -95491,7 +95491,7 @@ UP_Banda,86,0,0
 UP_Banda,87,0,0
 UP_Banda,88,0,0
 UP_Banda,89,271,0
-UP_Banda,90,857,0
+UP_Banda,90,849,0
 UP_Banda,91,2742,0
 UP_Banda,92,2164,0
 UP_Banda,93,1489,0
@@ -95638,7 +95638,7 @@ UP_Barabanki,86,0,0
 UP_Barabanki,87,0,0
 UP_Barabanki,88,0,0
 UP_Barabanki,89,297,0
-UP_Barabanki,90,1933,0
+UP_Barabanki,90,1923,0
 UP_Barabanki,91,8836,0
 UP_Barabanki,92,7232,0
 UP_Barabanki,93,4342,0
@@ -95785,7 +95785,7 @@ UP_Bareilly,86,0,0
 UP_Bareilly,87,0,0
 UP_Bareilly,88,0,0
 UP_Bareilly,89,640,0
-UP_Bareilly,90,2947,0
+UP_Bareilly,90,2918,0
 UP_Bareilly,91,12559,0
 UP_Bareilly,92,10340,0
 UP_Bareilly,93,5777,0
@@ -95932,7 +95932,7 @@ UP_Basti,86,0,0
 UP_Basti,87,0,0
 UP_Basti,88,0,0
 UP_Basti,89,596,0
-UP_Basti,90,1887,0
+UP_Basti,90,1878,0
 UP_Basti,91,5627,0
 UP_Basti,92,4986,0
 UP_Basti,93,2558,0
@@ -95942,9 +95942,9 @@ UP_Basti,96,4580,281
 UP_Basti,97,2979,1873
 UP_Basti,98,3456,1592
 UP_Basti,99,1551,3377
-UP_Basti,100,564,3377
+UP_Basti,100,565,3378
 UP_Basti,101,3113,1444
-UP_Basti,102,4482,1492
+UP_Basti,102,4481,1491
 UP_Basti,103,5230,1855
 UP_Basti,104,7901,3859
 UP_Basti,105,11838,4103
@@ -96079,7 +96079,7 @@ UP_Bhadohi,86,0,0
 UP_Bhadohi,87,0,0
 UP_Bhadohi,88,0,0
 UP_Bhadohi,89,223,0
-UP_Bhadohi,90,591,0
+UP_Bhadohi,90,589,0
 UP_Bhadohi,91,2259,0
 UP_Bhadohi,92,1955,0
 UP_Bhadohi,93,1357,0
@@ -96226,7 +96226,7 @@ UP_Bijnor,86,0,0
 UP_Bijnor,87,0,0
 UP_Bijnor,88,0,0
 UP_Bijnor,89,145,0
-UP_Bijnor,90,1471,0
+UP_Bijnor,90,1457,0
 UP_Bijnor,91,5634,0
 UP_Bijnor,92,4337,0
 UP_Bijnor,93,4402,0
@@ -96373,7 +96373,7 @@ UP_Budaun,86,0,0
 UP_Budaun,87,0,0
 UP_Budaun,88,0,0
 UP_Budaun,89,87,0
-UP_Budaun,90,1211,0
+UP_Budaun,90,1206,0
 UP_Budaun,91,5169,0
 UP_Budaun,92,4051,0
 UP_Budaun,93,1634,0
@@ -96520,7 +96520,7 @@ UP_Bulandshahr,86,0,0
 UP_Bulandshahr,87,0,0
 UP_Bulandshahr,88,0,0
 UP_Bulandshahr,89,736,0
-UP_Bulandshahr,90,2027,0
+UP_Bulandshahr,90,2015,0
 UP_Bulandshahr,91,7146,0
 UP_Bulandshahr,92,5878,0
 UP_Bulandshahr,93,4085,0
@@ -96667,7 +96667,7 @@ UP_Chandauli,86,0,0
 UP_Chandauli,87,0,0
 UP_Chandauli,88,0,0
 UP_Chandauli,89,188,0
-UP_Chandauli,90,746,0
+UP_Chandauli,90,724,0
 UP_Chandauli,91,2610,0
 UP_Chandauli,92,2074,0
 UP_Chandauli,93,1671,0
@@ -96961,7 +96961,7 @@ UP_Deoria,86,0,0
 UP_Deoria,87,0,0
 UP_Deoria,88,0,0
 UP_Deoria,89,425,0
-UP_Deoria,90,1453,0
+UP_Deoria,90,1447,0
 UP_Deoria,91,6285,0
 UP_Deoria,92,5263,0
 UP_Deoria,93,2684,0
@@ -97108,7 +97108,7 @@ UP_Etah,86,0,0
 UP_Etah,87,0,0
 UP_Etah,88,0,0
 UP_Etah,89,97,0
-UP_Etah,90,677,0
+UP_Etah,90,665,0
 UP_Etah,91,3427,0
 UP_Etah,92,2859,0
 UP_Etah,93,946,0
@@ -97127,9 +97127,9 @@ UP_Etah,105,5845,2733
 UP_Etah,106,5634,2316
 UP_Etah,107,4394,1006
 UP_Etah,108,2480,182
-UP_Etah,109,4408,-85
+UP_Etah,109,4408,16
 UP_Etah,110,10313,645
-UP_Etah,111,12380,1421
+UP_Etah,111,12380,1320
 UP_Etah,112,21226,1648
 UP_Etah,113,17966,2193
 UP_Etah,114,4882,2341
@@ -97255,7 +97255,7 @@ UP_Etawah,86,0,0
 UP_Etawah,87,0,0
 UP_Etawah,88,0,0
 UP_Etawah,89,133,0
-UP_Etawah,90,669,0
+UP_Etawah,90,665,0
 UP_Etawah,91,4108,0
 UP_Etawah,92,3576,0
 UP_Etawah,93,2830,0
@@ -97559,9 +97559,9 @@ UP_Fatehpur,96,3355,260
 UP_Fatehpur,97,3727,2118
 UP_Fatehpur,98,3820,1859
 UP_Fatehpur,99,1090,4417
-UP_Fatehpur,100,287,4415
+UP_Fatehpur,100,288,4416
 UP_Fatehpur,101,664,1442
-UP_Fatehpur,102,4943,1468
+UP_Fatehpur,102,4942,1467
 UP_Fatehpur,103,9336,836
 UP_Fatehpur,104,13247,2046
 UP_Fatehpur,105,19232,3613
@@ -97570,9 +97570,9 @@ UP_Fatehpur,107,17202,1136
 UP_Fatehpur,108,10495,267
 UP_Fatehpur,109,10175,233
 UP_Fatehpur,110,25806,2614
-UP_Fatehpur,111,19657,3064
+UP_Fatehpur,111,19660,3064
 UP_Fatehpur,112,16047,4926
-UP_Fatehpur,113,17226,7791
+UP_Fatehpur,113,17223,7791
 UP_Fatehpur,114,6478,4868
 UP_Fatehpur,115,3567,3211
 UP_Fatehpur,116,2805,3080
@@ -97696,7 +97696,7 @@ UP_Firozabad,86,0,0
 UP_Firozabad,87,0,0
 UP_Firozabad,88,0,0
 UP_Firozabad,89,575,0
-UP_Firozabad,90,1086,0
+UP_Firozabad,90,1077,0
 UP_Firozabad,91,2243,0
 UP_Firozabad,92,1741,0
 UP_Firozabad,93,2799,0
@@ -97708,9 +97708,9 @@ UP_Firozabad,98,2992,636
 UP_Firozabad,99,2354,1068
 UP_Firozabad,100,947,1064
 UP_Firozabad,101,1555,1755
-UP_Firozabad,102,4789,1813
+UP_Firozabad,102,4789,1814
 UP_Firozabad,103,7534,688
-UP_Firozabad,104,9858,1027
+UP_Firozabad,104,9858,1026
 UP_Firozabad,105,14881,1048
 UP_Firozabad,106,15104,1470
 UP_Firozabad,107,11566,1618
@@ -97990,7 +97990,7 @@ UP_Ghaziabad,86,0,0
 UP_Ghaziabad,87,0,0
 UP_Ghaziabad,88,0,0
 UP_Ghaziabad,89,978,0
-UP_Ghaziabad,90,2923,0
+UP_Ghaziabad,90,2915,0
 UP_Ghaziabad,91,10301,0
 UP_Ghaziabad,92,8410,0
 UP_Ghaziabad,93,6533,0
@@ -98000,9 +98000,9 @@ UP_Ghaziabad,96,4741,253
 UP_Ghaziabad,97,4597,2322
 UP_Ghaziabad,98,5300,2128
 UP_Ghaziabad,99,3847,7105
-UP_Ghaziabad,100,1760,7048
+UP_Ghaziabad,100,1760,7050
 UP_Ghaziabad,101,5015,3737
-UP_Ghaziabad,102,10431,4141
+UP_Ghaziabad,102,10431,4139
 UP_Ghaziabad,103,11894,1699
 UP_Ghaziabad,104,14777,2848
 UP_Ghaziabad,105,19469,4133
@@ -98137,7 +98137,7 @@ UP_Ghazipur,86,0,0
 UP_Ghazipur,87,0,0
 UP_Ghazipur,88,0,0
 UP_Ghazipur,89,339,0
-UP_Ghazipur,90,1254,0
+UP_Ghazipur,90,1247,0
 UP_Ghazipur,91,5767,0
 UP_Ghazipur,92,4867,0
 UP_Ghazipur,93,2451,0
@@ -98284,7 +98284,7 @@ UP_Gonda,86,0,0
 UP_Gonda,87,0,0
 UP_Gonda,88,0,0
 UP_Gonda,89,364,0
-UP_Gonda,90,1492,0
+UP_Gonda,90,1480,0
 UP_Gonda,91,7976,0
 UP_Gonda,92,6907,0
 UP_Gonda,93,2185,0
@@ -98431,7 +98431,7 @@ UP_Gorakhpur,86,0,0
 UP_Gorakhpur,87,0,0
 UP_Gorakhpur,88,0,0
 UP_Gorakhpur,89,1674,0
-UP_Gorakhpur,90,2676,0
+UP_Gorakhpur,90,2662,0
 UP_Gorakhpur,91,10426,0
 UP_Gorakhpur,92,9439,0
 UP_Gorakhpur,93,4385,0
@@ -98578,7 +98578,7 @@ UP_Hamirpur,86,0,0
 UP_Hamirpur,87,0,0
 UP_Hamirpur,88,0,0
 UP_Hamirpur,89,50,0
-UP_Hamirpur,90,578,0
+UP_Hamirpur,90,566,0
 UP_Hamirpur,91,2550,0
 UP_Hamirpur,92,2039,0
 UP_Hamirpur,93,1530,0
@@ -98725,7 +98725,7 @@ UP_Hamirpur,86,0,0
 UP_Hamirpur,87,0,0
 UP_Hamirpur,88,0,0
 UP_Hamirpur,89,50,0
-UP_Hamirpur,90,578,0
+UP_Hamirpur,90,566,0
 UP_Hamirpur,91,2550,0
 UP_Hamirpur,92,2039,0
 UP_Hamirpur,93,1530,0
@@ -98872,7 +98872,7 @@ UP_Hapur,86,0,0
 UP_Hapur,87,0,0
 UP_Hapur,88,0,0
 UP_Hapur,89,121,0
-UP_Hapur,90,708,0
+UP_Hapur,90,691,0
 UP_Hapur,91,2993,0
 UP_Hapur,92,2435,0
 UP_Hapur,93,1682,0
@@ -99019,7 +99019,7 @@ UP_Hardoi,86,0,0
 UP_Hardoi,87,0,0
 UP_Hardoi,88,0,0
 UP_Hardoi,89,661,0
-UP_Hardoi,90,1963,0
+UP_Hardoi,90,1952,0
 UP_Hardoi,91,7763,0
 UP_Hardoi,92,6472,0
 UP_Hardoi,93,3273,0
@@ -99166,7 +99166,7 @@ UP_Hathras,86,0,0
 UP_Hathras,87,0,0
 UP_Hathras,88,0,0
 UP_Hathras,89,309,0
-UP_Hathras,90,772,0
+UP_Hathras,90,771,0
 UP_Hathras,91,3542,0
 UP_Hathras,92,3081,0
 UP_Hathras,93,1106,0
@@ -99313,7 +99313,7 @@ UP_Jalaun,86,0,0
 UP_Jalaun,87,0,0
 UP_Jalaun,88,0,0
 UP_Jalaun,89,255,0
-UP_Jalaun,90,750,0
+UP_Jalaun,90,748,0
 UP_Jalaun,91,3158,0
 UP_Jalaun,92,2665,0
 UP_Jalaun,93,912,0
@@ -99460,7 +99460,7 @@ UP_Jaunpur,86,0,0
 UP_Jaunpur,87,0,0
 UP_Jaunpur,88,0,0
 UP_Jaunpur,89,257,0
-UP_Jaunpur,90,1538,0
+UP_Jaunpur,90,1509,0
 UP_Jaunpur,91,7515,0
 UP_Jaunpur,92,6276,0
 UP_Jaunpur,93,3253,0
@@ -99607,7 +99607,7 @@ UP_Jhansi,86,0,0
 UP_Jhansi,87,0,0
 UP_Jhansi,88,0,0
 UP_Jhansi,89,165,0
-UP_Jhansi,90,1377,0
+UP_Jhansi,90,1373,0
 UP_Jhansi,91,5830,0
 UP_Jhansi,92,4628,0
 UP_Jhansi,93,1768,0
@@ -99754,7 +99754,7 @@ UP_Kannauj,86,0,0
 UP_Kannauj,87,0,0
 UP_Kannauj,88,0,0
 UP_Kannauj,89,206,0
-UP_Kannauj,90,754,0
+UP_Kannauj,90,747,0
 UP_Kannauj,91,2940,0
 UP_Kannauj,92,2399,0
 UP_Kannauj,93,1814,0
@@ -99901,7 +99901,7 @@ UP_Kanpur Dehat,86,0,0
 UP_Kanpur Dehat,87,0,0
 UP_Kanpur Dehat,88,0,0
 UP_Kanpur Dehat,89,135,0
-UP_Kanpur Dehat,90,830,0
+UP_Kanpur Dehat,90,823,0
 UP_Kanpur Dehat,91,3347,0
 UP_Kanpur Dehat,92,2659,0
 UP_Kanpur Dehat,93,1424,0
@@ -99911,9 +99911,9 @@ UP_Kanpur Dehat,96,3375,229
 UP_Kanpur Dehat,97,2527,990
 UP_Kanpur Dehat,98,2345,763
 UP_Kanpur Dehat,99,919,2208
-UP_Kanpur Dehat,100,193,2205
+UP_Kanpur Dehat,100,193,2206
 UP_Kanpur Dehat,101,800,1156
-UP_Kanpur Dehat,102,2732,1170
+UP_Kanpur Dehat,102,2732,1169
 UP_Kanpur Dehat,103,5089,813
 UP_Kanpur Dehat,104,10606,2045
 UP_Kanpur Dehat,105,15227,2622
@@ -100048,7 +100048,7 @@ UP_Kanpur Nagar,86,0,0
 UP_Kanpur Nagar,87,0,0
 UP_Kanpur Nagar,88,0,0
 UP_Kanpur Nagar,89,521,0
-UP_Kanpur Nagar,90,1808,0
+UP_Kanpur Nagar,90,1801,0
 UP_Kanpur Nagar,91,8335,0
 UP_Kanpur Nagar,92,7246,0
 UP_Kanpur Nagar,93,4064,0
@@ -100195,7 +100195,7 @@ UP_Kasganj,86,0,0
 UP_Kasganj,87,0,0
 UP_Kasganj,88,0,0
 UP_Kasganj,89,200,0
-UP_Kasganj,90,963,0
+UP_Kasganj,90,962,0
 UP_Kasganj,91,3326,0
 UP_Kasganj,92,2564,0
 UP_Kasganj,93,1012,0
@@ -100342,7 +100342,7 @@ UP_Kaushambi,86,0,0
 UP_Kaushambi,87,0,0
 UP_Kaushambi,88,0,0
 UP_Kaushambi,89,42,0
-UP_Kaushambi,90,708,0
+UP_Kaushambi,90,705,0
 UP_Kaushambi,91,2492,0
 UP_Kaushambi,92,1831,0
 UP_Kaushambi,93,1551,0
@@ -100489,7 +100489,7 @@ UP_Kushinagar,86,0,0
 UP_Kushinagar,87,0,0
 UP_Kushinagar,88,0,0
 UP_Kushinagar,89,373,0
-UP_Kushinagar,90,1221,0
+UP_Kushinagar,90,1215,0
 UP_Kushinagar,91,5705,0
 UP_Kushinagar,92,4864,0
 UP_Kushinagar,93,3097,0
@@ -100636,7 +100636,7 @@ UP_Lakhimpur Kheri,86,0,0
 UP_Lakhimpur Kheri,87,0,0
 UP_Lakhimpur Kheri,88,0,0
 UP_Lakhimpur Kheri,89,399,0
-UP_Lakhimpur Kheri,90,1151,0
+UP_Lakhimpur Kheri,90,1145,0
 UP_Lakhimpur Kheri,91,6260,0
 UP_Lakhimpur Kheri,92,5519,0
 UP_Lakhimpur Kheri,93,2820,0
@@ -100783,7 +100783,7 @@ UP_Lalitpur,86,0,0
 UP_Lalitpur,87,0,0
 UP_Lalitpur,88,0,0
 UP_Lalitpur,89,172,0
-UP_Lalitpur,90,481,0
+UP_Lalitpur,90,470,0
 UP_Lalitpur,91,1859,0
 UP_Lalitpur,92,1561,0
 UP_Lalitpur,93,979,0
@@ -100930,7 +100930,7 @@ UP_Lucknow,86,0,0
 UP_Lucknow,87,0,0
 UP_Lucknow,88,0,0
 UP_Lucknow,89,941,0
-UP_Lucknow,90,3964,0
+UP_Lucknow,90,3931,0
 UP_Lucknow,91,17232,0
 UP_Lucknow,92,14618,0
 UP_Lucknow,93,14268,0
@@ -101077,7 +101077,7 @@ UP_Maharajganj,86,0,0
 UP_Maharajganj,87,0,0
 UP_Maharajganj,88,0,0
 UP_Maharajganj,89,294,0
-UP_Maharajganj,90,594,0
+UP_Maharajganj,90,590,0
 UP_Maharajganj,91,5524,0
 UP_Maharajganj,92,5529,0
 UP_Maharajganj,93,2652,0
@@ -101224,7 +101224,7 @@ UP_Mahoba,86,0,0
 UP_Mahoba,87,0,0
 UP_Mahoba,88,0,0
 UP_Mahoba,89,61,0
-UP_Mahoba,90,286,0
+UP_Mahoba,90,282,0
 UP_Mahoba,91,1458,0
 UP_Mahoba,92,1238,0
 UP_Mahoba,93,867,0
@@ -101234,9 +101234,9 @@ UP_Mahoba,96,1052,203
 UP_Mahoba,97,1414,467
 UP_Mahoba,98,1421,264
 UP_Mahoba,99,385,1051
-UP_Mahoba,100,180,1050
+UP_Mahoba,100,181,1051
 UP_Mahoba,101,824,696
-UP_Mahoba,102,1621,712
+UP_Mahoba,102,1620,711
 UP_Mahoba,103,2201,215
 UP_Mahoba,104,3836,544
 UP_Mahoba,105,6393,1254
@@ -101371,7 +101371,7 @@ UP_Mainpuri,86,0,0
 UP_Mainpuri,87,0,0
 UP_Mainpuri,88,0,0
 UP_Mainpuri,89,234,0
-UP_Mainpuri,90,929,0
+UP_Mainpuri,90,924,0
 UP_Mainpuri,91,4339,0
 UP_Mainpuri,92,3657,0
 UP_Mainpuri,93,2093,0
@@ -101518,7 +101518,7 @@ UP_Mathura,86,0,0
 UP_Mathura,87,0,0
 UP_Mathura,88,0,0
 UP_Mathura,89,551,0
-UP_Mathura,90,1814,0
+UP_Mathura,90,1812,0
 UP_Mathura,91,5861,0
 UP_Mathura,92,4618,0
 UP_Mathura,93,2535,0
@@ -101665,7 +101665,7 @@ UP_Mau,86,0,0
 UP_Mau,87,0,0
 UP_Mau,88,0,0
 UP_Mau,89,67,0
-UP_Mau,90,1020,0
+UP_Mau,90,1008,0
 UP_Mau,91,4124,0
 UP_Mau,92,3183,0
 UP_Mau,93,2372,0
@@ -101812,7 +101812,7 @@ UP_Meerut,86,0,0
 UP_Meerut,87,0,0
 UP_Meerut,88,0,0
 UP_Meerut,89,931,0
-UP_Meerut,90,2182,0
+UP_Meerut,90,2160,0
 UP_Meerut,91,9247,0
 UP_Meerut,92,8046,0
 UP_Meerut,93,4218,0
@@ -101822,9 +101822,9 @@ UP_Meerut,96,8393,522
 UP_Meerut,97,7779,2022
 UP_Meerut,98,7645,1509
 UP_Meerut,99,3794,7386
-UP_Meerut,100,1205,7376
+UP_Meerut,100,1205,7378
 UP_Meerut,101,5051,2957
-UP_Meerut,102,12091,3048
+UP_Meerut,102,12091,3046
 UP_Meerut,103,14346,1761
 UP_Meerut,104,17772,4979
 UP_Meerut,105,24193,6852
@@ -101959,7 +101959,7 @@ UP_Mirzapur,86,0,0
 UP_Mirzapur,87,0,0
 UP_Mirzapur,88,0,0
 UP_Mirzapur,89,98,0
-UP_Mirzapur,90,923,0
+UP_Mirzapur,90,917,0
 UP_Mirzapur,91,5263,0
 UP_Mirzapur,92,4454,0
 UP_Mirzapur,93,2650,0
@@ -101978,9 +101978,9 @@ UP_Mirzapur,105,21734,4351
 UP_Mirzapur,106,20723,4495
 UP_Mirzapur,107,19463,1925
 UP_Mirzapur,108,8687,390
-UP_Mirzapur,109,10143,-75
+UP_Mirzapur,109,10143,13
 UP_Mirzapur,110,23711,106
-UP_Mirzapur,111,19143,338
+UP_Mirzapur,111,19143,250
 UP_Mirzapur,112,20703,1140
 UP_Mirzapur,113,21631,1777
 UP_Mirzapur,114,9688,1843
@@ -102106,7 +102106,7 @@ UP_Moradabad,86,0,0
 UP_Moradabad,87,0,0
 UP_Moradabad,88,0,0
 UP_Moradabad,89,307,0
-UP_Moradabad,90,1876,0
+UP_Moradabad,90,1855,0
 UP_Moradabad,91,7970,0
 UP_Moradabad,92,6441,0
 UP_Moradabad,93,5854,0
@@ -102125,9 +102125,9 @@ UP_Moradabad,105,12851,7191
 UP_Moradabad,106,13305,6443
 UP_Moradabad,107,12025,3016
 UP_Moradabad,108,11096,576
-UP_Moradabad,109,18528,-508
+UP_Moradabad,109,18528,55
 UP_Moradabad,110,29304,165
-UP_Moradabad,111,26990,1616
+UP_Moradabad,111,26990,1053
 UP_Moradabad,112,32658,2041
 UP_Moradabad,113,25164,3886
 UP_Moradabad,114,7954,5216
@@ -102253,7 +102253,7 @@ UP_Muzaffarnagar,86,0,0
 UP_Muzaffarnagar,87,0,0
 UP_Muzaffarnagar,88,0,0
 UP_Muzaffarnagar,89,473,0
-UP_Muzaffarnagar,90,1224,0
+UP_Muzaffarnagar,90,1196,0
 UP_Muzaffarnagar,91,4078,0
 UP_Muzaffarnagar,92,3357,0
 UP_Muzaffarnagar,93,1390,0
@@ -102400,7 +102400,7 @@ UP_Pilibhit,86,0,0
 UP_Pilibhit,87,0,0
 UP_Pilibhit,88,0,0
 UP_Pilibhit,89,91,0
-UP_Pilibhit,90,983,0
+UP_Pilibhit,90,979,0
 UP_Pilibhit,91,4365,0
 UP_Pilibhit,92,3479,0
 UP_Pilibhit,93,1945,0
@@ -102424,9 +102424,9 @@ UP_Pilibhit,110,30036,726
 UP_Pilibhit,111,25269,847
 UP_Pilibhit,112,30837,2265
 UP_Pilibhit,113,32971,4544
-UP_Pilibhit,114,15957,5394
+UP_Pilibhit,114,15962,5394
 UP_Pilibhit,115,14578,5371
-UP_Pilibhit,116,10335,4078
+UP_Pilibhit,116,10330,4078
 UP_Pilibhit,117,9001,4257
 UP_Pilibhit,118,9032,5489
 UP_Pilibhit,119,5648,5253
@@ -102547,7 +102547,7 @@ UP_Pratapgarh1,86,0,0
 UP_Pratapgarh1,87,0,0
 UP_Pratapgarh1,88,0,0
 UP_Pratapgarh1,89,604,0
-UP_Pratapgarh1,90,1029,0
+UP_Pratapgarh1,90,1015,0
 UP_Pratapgarh1,91,4852,0
 UP_Pratapgarh1,92,4458,0
 UP_Pratapgarh1,93,2513,0
@@ -102694,7 +102694,7 @@ UP_Prayagraj,86,0,0
 UP_Prayagraj,87,0,0
 UP_Prayagraj,88,0,0
 UP_Prayagraj,89,1587,0
-UP_Prayagraj,90,2243,0
+UP_Prayagraj,90,2231,0
 UP_Prayagraj,91,8814,0
 UP_Prayagraj,92,8188,0
 UP_Prayagraj,93,8812,0
@@ -102841,7 +102841,7 @@ UP_Rae Bareli,86,0,0
 UP_Rae Bareli,87,0,0
 UP_Rae Bareli,88,0,0
 UP_Rae Bareli,89,236,0
-UP_Rae Bareli,90,1525,0
+UP_Rae Bareli,90,1523,0
 UP_Rae Bareli,91,5668,0
 UP_Rae Bareli,92,4382,0
 UP_Rae Bareli,93,2344,0
@@ -102860,9 +102860,9 @@ UP_Rae Bareli,105,10943,2759
 UP_Rae Bareli,106,14464,2865
 UP_Rae Bareli,107,28523,1583
 UP_Rae Bareli,108,25740,452
-UP_Rae Bareli,109,16403,-65
+UP_Rae Bareli,109,16403,84
 UP_Rae Bareli,110,24746,697
-UP_Rae Bareli,111,20416,1528
+UP_Rae Bareli,111,20416,1379
 UP_Rae Bareli,112,16100,1883
 UP_Rae Bareli,113,12547,2264
 UP_Rae Bareli,114,5164,2030
@@ -102988,7 +102988,7 @@ UP_Rampur,86,0,0
 UP_Rampur,87,0,0
 UP_Rampur,88,0,0
 UP_Rampur,89,43,0
-UP_Rampur,90,492,0
+UP_Rampur,90,490,0
 UP_Rampur,91,4010,0
 UP_Rampur,92,3578,0
 UP_Rampur,93,1605,0
@@ -103135,7 +103135,7 @@ UP_Saharanpur,86,0,0
 UP_Saharanpur,87,0,0
 UP_Saharanpur,88,0,0
 UP_Saharanpur,89,385,0
-UP_Saharanpur,90,1322,0
+UP_Saharanpur,90,1317,0
 UP_Saharanpur,91,7484,0
 UP_Saharanpur,92,6552,0
 UP_Saharanpur,93,2232,0
@@ -103147,9 +103147,9 @@ UP_Saharanpur,98,5693,1068
 UP_Saharanpur,99,2235,5796
 UP_Saharanpur,100,479,5765
 UP_Saharanpur,101,5348,1857
-UP_Saharanpur,102,9720,1888
+UP_Saharanpur,102,9720,1889
 UP_Saharanpur,103,9067,1649
-UP_Saharanpur,104,10614,3092
+UP_Saharanpur,104,10614,3091
 UP_Saharanpur,105,20585,4585
 UP_Saharanpur,106,23723,4641
 UP_Saharanpur,107,19704,1819
@@ -103282,7 +103282,7 @@ UP_Sambhal,86,0,0
 UP_Sambhal,87,0,0
 UP_Sambhal,88,0,0
 UP_Sambhal,89,320,0
-UP_Sambhal,90,673,0
+UP_Sambhal,90,660,0
 UP_Sambhal,91,3320,0
 UP_Sambhal,92,2984,0
 UP_Sambhal,93,1057,0
@@ -103429,7 +103429,7 @@ UP_Sant Kabir Nagar,86,0,0
 UP_Sant Kabir Nagar,87,0,0
 UP_Sant Kabir Nagar,88,0,0
 UP_Sant Kabir Nagar,89,96,0
-UP_Sant Kabir Nagar,90,712,0
+UP_Sant Kabir Nagar,90,709,0
 UP_Sant Kabir Nagar,91,3331,0
 UP_Sant Kabir Nagar,92,2734,0
 UP_Sant Kabir Nagar,93,1942,0
@@ -103576,7 +103576,7 @@ UP_Shahjahanpur,86,0,0
 UP_Shahjahanpur,87,0,0
 UP_Shahjahanpur,88,0,0
 UP_Shahjahanpur,89,198,0
-UP_Shahjahanpur,90,1029,0
+UP_Shahjahanpur,90,1027,0
 UP_Shahjahanpur,91,8258,0
 UP_Shahjahanpur,92,7429,0
 UP_Shahjahanpur,93,1206,0
@@ -103723,7 +103723,7 @@ UP_Shamli,86,0,0
 UP_Shamli,87,0,0
 UP_Shamli,88,0,0
 UP_Shamli,89,51,0
-UP_Shamli,90,335,0
+UP_Shamli,90,314,0
 UP_Shamli,91,1651,0
 UP_Shamli,92,1388,0
 UP_Shamli,93,1062,0
@@ -103870,7 +103870,7 @@ UP_Shrawasti,86,0,0
 UP_Shrawasti,87,0,0
 UP_Shrawasti,88,0,0
 UP_Shrawasti,89,31,0
-UP_Shrawasti,90,505,0
+UP_Shrawasti,90,501,0
 UP_Shrawasti,91,2054,0
 UP_Shrawasti,92,1584,0
 UP_Shrawasti,93,1300,0
@@ -104038,9 +104038,9 @@ UP_Siddharthnagar,107,11535,1030
 UP_Siddharthnagar,108,8184,173
 UP_Siddharthnagar,109,22749,285
 UP_Siddharthnagar,110,51518,2184
-UP_Siddharthnagar,111,33920,2012
+UP_Siddharthnagar,111,33922,2012
 UP_Siddharthnagar,112,29036,3102
-UP_Siddharthnagar,113,32434,4414
+UP_Siddharthnagar,113,32432,4414
 UP_Siddharthnagar,114,12405,3783
 UP_Siddharthnagar,115,9067,4283
 UP_Siddharthnagar,116,4447,2474
@@ -104183,9 +104183,9 @@ UP_Sitapur,105,29228,6457
 UP_Sitapur,106,35882,6155
 UP_Sitapur,107,25116,1990
 UP_Sitapur,108,10821,323
-UP_Sitapur,109,16771,-201
+UP_Sitapur,109,16771,24
 UP_Sitapur,110,35974,368
-UP_Sitapur,111,29588,1023
+UP_Sitapur,111,29588,798
 UP_Sitapur,112,35507,1423
 UP_Sitapur,113,30311,1998
 UP_Sitapur,114,8976,3083
@@ -104311,7 +104311,7 @@ UP_Sonbhadra,86,0,0
 UP_Sonbhadra,87,0,0
 UP_Sonbhadra,88,0,0
 UP_Sonbhadra,89,110,0
-UP_Sonbhadra,90,658,0
+UP_Sonbhadra,90,636,0
 UP_Sonbhadra,91,3122,0
 UP_Sonbhadra,92,2601,0
 UP_Sonbhadra,93,2493,0
@@ -104330,9 +104330,9 @@ UP_Sonbhadra,105,9198,2289
 UP_Sonbhadra,106,7310,2186
 UP_Sonbhadra,107,5401,1600
 UP_Sonbhadra,108,3105,601
-UP_Sonbhadra,109,5358,-36
+UP_Sonbhadra,109,5358,32
 UP_Sonbhadra,110,11532,1168
-UP_Sonbhadra,111,15051,1865
+UP_Sonbhadra,111,15051,1797
 UP_Sonbhadra,112,21925,1950
 UP_Sonbhadra,113,19502,2169
 UP_Sonbhadra,114,9285,1764
@@ -104458,7 +104458,7 @@ UP_Sultanpur,86,0,0
 UP_Sultanpur,87,0,0
 UP_Sultanpur,88,0,0
 UP_Sultanpur,89,322,0
-UP_Sultanpur,90,1347,0
+UP_Sultanpur,90,1335,0
 UP_Sultanpur,91,7120,0
 UP_Sultanpur,92,6107,0
 UP_Sultanpur,93,2844,0
@@ -104605,7 +104605,7 @@ UP_Unnao,86,0,0
 UP_Unnao,87,0,0
 UP_Unnao,88,0,0
 UP_Unnao,89,396,0
-UP_Unnao,90,1615,0
+UP_Unnao,90,1605,0
 UP_Unnao,91,6993,0
 UP_Unnao,92,5788,0
 UP_Unnao,93,2545,0
@@ -104615,9 +104615,9 @@ UP_Unnao,96,3935,272
 UP_Unnao,97,3919,1723
 UP_Unnao,98,3877,1453
 UP_Unnao,99,896,4704
-UP_Unnao,100,324,4701
+UP_Unnao,100,324,4702
 UP_Unnao,101,2448,2224
-UP_Unnao,102,5040,2316
+UP_Unnao,102,5040,2315
 UP_Unnao,103,7706,1237
 UP_Unnao,104,17837,2715
 UP_Unnao,105,26848,3806
@@ -104752,7 +104752,7 @@ UP_Varanasi,86,0,0
 UP_Varanasi,87,0,0
 UP_Varanasi,88,0,0
 UP_Varanasi,89,419,0
-UP_Varanasi,90,1639,0
+UP_Varanasi,90,1633,0
 UP_Varanasi,91,6851,0
 UP_Varanasi,92,5637,0
 UP_Varanasi,93,4279,0
@@ -105340,7 +105340,7 @@ UT_Champawat,86,0,0
 UT_Champawat,87,0,0
 UT_Champawat,88,0,0
 UT_Champawat,89,248,0
-UT_Champawat,90,762,0
+UT_Champawat,90,754,0
 UT_Champawat,91,963,0
 UT_Champawat,92,941,0
 UT_Champawat,93,619,0
@@ -105359,9 +105359,9 @@ UT_Champawat,105,1883,1162
 UT_Champawat,106,2268,753
 UT_Champawat,107,2427,364
 UT_Champawat,108,1327,231
-UT_Champawat,109,4488,-143
+UT_Champawat,109,4488,122
 UT_Champawat,110,12336,326
-UT_Champawat,111,14294,1013
+UT_Champawat,111,14294,748
 UT_Champawat,112,10911,830
 UT_Champawat,113,5942,737
 UT_Champawat,114,3553,1172
@@ -105373,9 +105373,9 @@ UT_Champawat,119,3300,5104
 UT_Champawat,120,6608,6897
 UT_Champawat,121,9614,4160
 UT_Champawat,122,9235,628
-UT_Champawat,123,5830,17
+UT_Champawat,123,5831,17
 UT_Champawat,124,3692,79
-UT_Champawat,125,4522,181
+UT_Champawat,125,4521,181
 UT_Champawat,126,4360,148
 UT_Champawat,127,2543,114
 UT_Champawat,128,5313,262
@@ -106988,9 +106988,9 @@ WB_Bankura,117,3589,8005
 WB_Bankura,118,2324,10216
 WB_Bankura,119,1693,9952
 WB_Bankura,120,641,3984
-WB_Bankura,121,448,1386
+WB_Bankura,121,460,1386
 WB_Bankura,122,1187,778
-WB_Bankura,123,3425,89
+WB_Bankura,123,3413,89
 WB_Bankura,124,9751,497
 WB_Bankura,125,13466,673
 WB_Bankura,126,19658,359
@@ -107135,9 +107135,9 @@ WB_Bankura,117,3589,8005
 WB_Bankura,118,2324,10216
 WB_Bankura,119,1693,9952
 WB_Bankura,120,641,3984
-WB_Bankura,121,448,1386
+WB_Bankura,121,460,1386
 WB_Bankura,122,1187,778
-WB_Bankura,123,3425,89
+WB_Bankura,123,3413,89
 WB_Bankura,124,9751,497
 WB_Bankura,125,13466,673
 WB_Bankura,126,19658,359
@@ -108167,9 +108167,9 @@ WB_Howrah,120,4233,48580
 WB_Howrah,121,5338,33210
 WB_Howrah,122,6481,10796
 WB_Howrah,123,11570,4713
-WB_Howrah,124,31711,4288
+WB_Howrah,124,31718,4288
 WB_Howrah,125,51059,2129
-WB_Howrah,126,68010,3359
+WB_Howrah,126,68003,3359
 WB_Howrah,127,81929,3747
 WB_Howrah,128,78254,3604
 WB_Howrah,129,70355,4557
@@ -108452,11 +108452,11 @@ WB_Jhargram,111,9158,2986
 WB_Jhargram,112,10456,3158
 WB_Jhargram,113,8438,2608
 WB_Jhargram,114,8200,2360
-WB_Jhargram,115,5494,2611
+WB_Jhargram,115,5526,2611
 WB_Jhargram,116,478,2839
-WB_Jhargram,117,382,3276
+WB_Jhargram,117,379,3276
 WB_Jhargram,118,118,3538
-WB_Jhargram,119,311,4577
+WB_Jhargram,119,282,4577
 WB_Jhargram,120,524,5689
 WB_Jhargram,121,736,4764
 WB_Jhargram,122,1228,2469
@@ -108597,9 +108597,9 @@ WB_Kalimpong,109,3662,642
 WB_Kalimpong,110,5268,1402
 WB_Kalimpong,111,5918,1735
 WB_Kalimpong,112,6152,1797
-WB_Kalimpong,113,4572,1508
+WB_Kalimpong,113,4573,1508
 WB_Kalimpong,114,2698,2349
-WB_Kalimpong,115,4773,4676
+WB_Kalimpong,115,4772,4676
 WB_Kalimpong,116,6684,6927
 WB_Kalimpong,117,4199,7203
 WB_Kalimpong,118,1379,6735
@@ -109037,9 +109037,9 @@ WB_Murshidabad,108,58440,7149
 WB_Murshidabad,109,73824,7154
 WB_Murshidabad,110,106398,10556
 WB_Murshidabad,111,108123,16838
-WB_Murshidabad,112,64279,14489
+WB_Murshidabad,112,64368,14489
 WB_Murshidabad,113,13237,7953
-WB_Murshidabad,114,13689,22760
+WB_Murshidabad,114,13600,22760
 WB_Murshidabad,115,20834,30718
 WB_Murshidabad,116,15741,28243
 WB_Murshidabad,117,8029,26606
@@ -109634,9 +109634,9 @@ WB_Paschim Bardhaman,117,7401,13870
 WB_Paschim Bardhaman,118,6395,19055
 WB_Paschim Bardhaman,119,2269,19009
 WB_Paschim Bardhaman,120,725,15942
-WB_Paschim Bardhaman,121,612,10723
+WB_Paschim Bardhaman,121,627,10723
 WB_Paschim Bardhaman,122,1819,4251
-WB_Paschim Bardhaman,123,5952,1275
+WB_Paschim Bardhaman,123,5937,1275
 WB_Paschim Bardhaman,124,21697,972
 WB_Paschim Bardhaman,125,42958,1186
 WB_Paschim Bardhaman,126,44079,1200

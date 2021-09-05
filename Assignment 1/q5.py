@@ -39,6 +39,7 @@ with open("cowin_vaccine_data_districtwise_modified.csv", newline='') as cvddm:
         dkey = row["District_Key"]
         dkey_internal = row["District"].lower().replace(" ", "_")
         valdist.append(dkey_internal)
+        lastValDate = ""
         while strDate != endDate:
             d+=1
             if d > mnt_day[str(m)]:
@@ -60,7 +61,7 @@ with open("cowin_vaccine_data_districtwise_modified.csv", newline='') as cvddm:
                 strDate = "0"+str(d)+"/0"+str(m)+"/"+str(y)
                 strDate_internal = str(y)+"-0"+str(m)+"-0"+str(d)
             cvdcases[dkey_internal][strDate_internal] = cvdcases[dkey_internal].get(strDate_internal, {})
-            cvdcases[dkey_internal][strDate_internal]["indi"] = row.get(strDate+"_Total Individuals Registered", row.get(strDate+"_Total Individuals Vaccinated", 0))
+            cvdcases[dkey_internal][strDate_internal]["indi"] = row.get(strDate+"_Total Individuals Registered", row.get(strDate+"_Total Individuals Vaccinated", row.get(strDate+"_Total Doses Administered", 0)))
             cvdcases[dkey_internal][strDate_internal]["sess"] = row[strDate+"_Sessions"]
             cvdcases[dkey_internal][strDate_internal]["sts"] = row[strDate+"_Sites "]
             cvdcases[dkey_internal][strDate_internal]["1D"] = row[strDate+"_First Dose Administered"]
@@ -70,17 +71,18 @@ with open("cowin_vaccine_data_districtwise_modified.csv", newline='') as cvddm:
             cvdcases[dkey_internal][strDate_internal]["trans"] = row.get(strDate+"_Transgender(Individuals Vaccinated)", row.get(strDate+"_Transgender(Doses Administered)", 0))
             cvdcases[dkey_internal][strDate_internal]["covaxin"] = row[strDate+"_Covaxin (Doses Administered)"]
             cvdcases[dkey_internal][strDate_internal]["covishield"] = row[strDate+"_CoviShield (Doses Administered)"]
-            cvdcases[dkey_internal][strDate_internal]["indi"] = int(cvdcases[dkey_internal][strDate_internal]["indi"]) if cvdcases[dkey_internal][strDate_internal]["indi"] != '' else 0
+            cvdcases[dkey_internal][strDate_internal]["indi"] = max(int(cvdcases[dkey_internal][strDate_internal]["indi"]) if cvdcases[dkey_internal][strDate_internal]["indi"] != '' else 0, cvdcases[dkey_internal][lastValDate]["indi"] if lastValDate != "" else 0)
             cvdcases[dkey_internal][strDate_internal]["sess"] = int(cvdcases[dkey_internal][strDate_internal]["sess"]) if cvdcases[dkey_internal][strDate_internal]["sess"] != '' else 0
             cvdcases[dkey_internal][strDate_internal]["sts"] = int(cvdcases[dkey_internal][strDate_internal]["sts"]) if cvdcases[dkey_internal][strDate_internal]["sts"] != '' else 0
-            cvdcases[dkey_internal][strDate_internal]["1D"] = int(cvdcases[dkey_internal][strDate_internal]["1D"]) if cvdcases[dkey_internal][strDate_internal]["1D"] != '' else 0
-            cvdcases[dkey_internal][strDate_internal]["2D"] = int(cvdcases[dkey_internal][strDate_internal]["2D"]) if cvdcases[dkey_internal][strDate_internal]["2D"] != '' else 0
-            cvdcases[dkey_internal][strDate_internal]["m"] = int(cvdcases[dkey_internal][strDate_internal]["m"]) if cvdcases[dkey_internal][strDate_internal]["m"] != '' else 0
-            cvdcases[dkey_internal][strDate_internal]["f"] = int(cvdcases[dkey_internal][strDate_internal]["f"]) if cvdcases[dkey_internal][strDate_internal]["f"] != '' else 0
-            cvdcases[dkey_internal][strDate_internal]["trans"] = int(cvdcases[dkey_internal][strDate_internal]["trans"]) if cvdcases[dkey_internal][strDate_internal]["trans"] != '' else 0
-            cvdcases[dkey_internal][strDate_internal]["covaxin"] = int(cvdcases[dkey_internal][strDate_internal]["covaxin"]) if cvdcases[dkey_internal][strDate_internal]["covaxin"] != '' else 0
-            cvdcases[dkey_internal][strDate_internal]["covishield"] = int(cvdcases[dkey_internal][strDate_internal]["covishield"]) if cvdcases[dkey_internal][strDate_internal]["covishield"] != '' else 0
+            cvdcases[dkey_internal][strDate_internal]["1D"] = max(int(cvdcases[dkey_internal][strDate_internal]["1D"]) if cvdcases[dkey_internal][strDate_internal]["1D"] != '' else 0, cvdcases[dkey_internal][lastValDate]["1D"] if lastValDate != "" else 0)
+            cvdcases[dkey_internal][strDate_internal]["2D"] = max(int(cvdcases[dkey_internal][strDate_internal]["2D"]) if cvdcases[dkey_internal][strDate_internal]["2D"] != '' else 0, cvdcases[dkey_internal][lastValDate]["2D"] if lastValDate != "" else 0)
+            cvdcases[dkey_internal][strDate_internal]["m"] = max(int(cvdcases[dkey_internal][strDate_internal]["m"]) if cvdcases[dkey_internal][strDate_internal]["m"] != '' else 0, cvdcases[dkey_internal][lastValDate]["m"] if lastValDate != "" else 0)
+            cvdcases[dkey_internal][strDate_internal]["f"] = max(int(cvdcases[dkey_internal][strDate_internal]["f"]) if cvdcases[dkey_internal][strDate_internal]["f"] != '' else 0, cvdcases[dkey_internal][lastValDate]["f"] if lastValDate != "" else 0)
+            cvdcases[dkey_internal][strDate_internal]["trans"] = max(int(cvdcases[dkey_internal][strDate_internal]["trans"]) if cvdcases[dkey_internal][strDate_internal]["trans"] != '' else 0, cvdcases[dkey_internal][lastValDate]["trans"] if lastValDate != "" else 0)
+            cvdcases[dkey_internal][strDate_internal]["covaxin"] = max(int(cvdcases[dkey_internal][strDate_internal]["covaxin"]) if cvdcases[dkey_internal][strDate_internal]["covaxin"] != '' else 0, cvdcases[dkey_internal][lastValDate]["covaxin"] if lastValDate != "" else 0)
+            cvdcases[dkey_internal][strDate_internal]["covishield"] = max(int(cvdcases[dkey_internal][strDate_internal]["covishield"]) if cvdcases[dkey_internal][strDate_internal]["covishield"] != '' else 0, cvdcases[dkey_internal][lastValDate]["covishield"] if lastValDate != "" else 0)
             vaccdts.append(strDate_internal.strip())
+            lastValDate = vaccdts[-1]
 
 vaccdts = set(vaccdts)
 
@@ -88,8 +90,9 @@ for i in range(0, len(wk_typ1)-1):
     for k in valdist:
         wkdt[str(2*i+1)][k] = {}
         if wk_typ1[i] in vaccdts and wk_typ1[i+1] in vaccdts:
-            # print(cvdcases[k].get(wk_typ1[i+1], {"indi": 0}), wk_typ1[i+1], k)
             wkdt[str(2*i+1)][k]["indi"] = cvdcases[k].get(wk_typ1[i+1], {"indi": 0})["indi"]-cvdcases[k].get(wk_typ1[i], {"indi": 0})["indi"]
+            if wkdt[str(2*i+1)][k]["indi"] < 0:
+                print(wk_typ1[i+1], wk_typ1[i], distnamekey[k])
             wkdt[str(2*i+1)][k]["m"] = cvdcases[k].get(wk_typ1[i+1], {"m": 0})["m"]-cvdcases[k].get(wk_typ1[i], {"m": 0})["m"]
             wkdt[str(2*i+1)][k]["f"] = cvdcases[k].get(wk_typ1[i+1], {"f": 0})["f"]-cvdcases[k].get(wk_typ1[i], {"f": 0})["f"]
             wkdt[str(2*i+1)][k]["trans"] = cvdcases[k].get(wk_typ1[i+1], {"trans": 0})["trans"]-cvdcases[k].get(wk_typ1[i], {"trans": 0})["trans"]
