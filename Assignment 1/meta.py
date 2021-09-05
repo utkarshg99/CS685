@@ -7,14 +7,21 @@ dlist1 = [nd.split("/")[0] for nd in nds.keys()]
 dlist2 = []
 
 state_code = {}
+state_code_backmap = {}
+state_to_dist = {}
 
 with open('district_wise.csv', newline='') as dswcsv:
     csvDict = csv.DictReader(dswcsv)
     for row in csvDict:
-        if(int(row["SlNo"])!=0 and row["District"] != "Unknown"):
+        if int(row["SlNo"])!=0 and row["District"] != "Unknown":
             dlist2.append(row["District"].lower().replace(" ", "_"))
         if row["State_Code"] != "UN":
             state_code[row["State"]] = row["State_Code"]
+            state_code_backmap[row["State_Code"]] = row["State"]
+            if state_to_dist.get(row["State_Code"], 0) == 0:
+                state_to_dist[row["State_Code"]] = []
+            if int(row["SlNo"])!=0 and row["District"] != "Unknown":
+                state_to_dist[row["State_Code"]].append(row["District"].lower().replace(" ", "_"))
 
 def editDistDP(str1, str2, m, n):
     dp = [[0 for x in range(n + 1)] for x in range(m + 1)]
@@ -38,3 +45,9 @@ for i in dlist1:
 
 with open("meta/state_codes.json", "w") as scdjs:
     json.dump(state_code, scdjs, indent="\t")
+
+with open("meta/state_codes_backmap.json", "w") as scdjs:
+    json.dump(state_code_backmap, scdjs, indent="\t")
+
+with open("meta/state_district.json", "w") as scdjs:
+    json.dump(state_to_dist, scdjs, indent="\t")

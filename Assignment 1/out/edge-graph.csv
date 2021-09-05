@@ -51,12 +51,13 @@ MH_Jalgaon,MH_Aurangabad2
 MH_Aurangabad2,MH_Ahmednagar
 MH_Ahmednagar,KA_Dakshina Kannada
 KA_Dakshina Kannada,KA_Kodagu
-KA_Kodagu,KL_Alappuzha
-KL_Alappuzha,KL_Ernakulam
-KL_Ernakulam,KL_Idukki
-KL_Idukki,KL_Kollam
-KL_Kollam,KL_Kottayam
-KL_Kottayam,KL_Malappuram
+KA_Kodagu,KL_Ernakulam
+KL_Ernakulam,KL_Alappuzha
+KL_Alappuzha,KL_Kollam
+KL_Kollam,KL_Idukki
+KL_Idukki,KL_Kottayam
+KL_Kottayam,KL_Pathanamthitta
+KL_Pathanamthitta,KL_Malappuram
 KL_Malappuram,KL_Kozhikode
 KL_Kozhikode,KL_Wayanad
 KL_Wayanad,KL_Thiruvananthapuram
@@ -72,7 +73,8 @@ MH_Nagpur,MH_Bhandara
 MH_Bhandara,MH_Chandrapur
 MH_Chandrapur,MH_Gadchiroli
 MH_Gadchiroli,CT_Rajnandgaon
-CT_Rajnandgaon,CT_Mungeli
+CT_Rajnandgaon,CT_Kabeerdham
+CT_Kabeerdham,CT_Mungeli
 CT_Mungeli,HP_Bilaspur
 HP_Bilaspur,CT_Janjgir Champa
 CT_Janjgir Champa,CT_Korba
@@ -181,7 +183,8 @@ AS_Golaghat,AS_Cachar
 AS_Cachar,AS_Hailakandi
 AS_Hailakandi,AS_Karimganj
 AS_Karimganj,MZ_Mamit
-MZ_Mamit,MN_Pherzawl
+MZ_Mamit,MZ_Aizawl
+MZ_Aizawl,MN_Pherzawl
 MN_Pherzawl,MN_Churachandpur
 MN_Churachandpur,MN_Bishnupur
 MN_Bishnupur,MN_Imphal West
@@ -270,21 +273,16 @@ MN_Churachandpur,MN_Noney
 MN_Pherzawl,MN_Jiribam
 MN_Pherzawl,MN_Noney
 MN_Pherzawl,MZ_Champhai
-MZ_Champhai,MZ_Kolasib
-MZ_Kolasib,MZ_Lunglei
+MZ_Champhai,MZ_Serchhip
+MZ_Serchhip,MZ_Lunglei
 MZ_Lunglei,MZ_Lawngtlai
 MZ_Lawngtlai,MZ_Saiha
-MZ_Lunglei,MZ_Serchhip
-MZ_Kolasib,MZ_Serchhip
-MZ_Champhai,MZ_Lunglei
-MZ_Champhai,MZ_Serchhip
-MN_Pherzawl,MZ_Kolasib
-MN_Pherzawl,MZ_Lunglei
-MN_Pherzawl,MZ_Serchhip
-MZ_Mamit,MZ_Champhai
+MZ_Aizawl,MZ_Champhai
+MZ_Aizawl,MZ_Kolasib
+MZ_Aizawl,MZ_Lunglei
+MZ_Aizawl,MZ_Serchhip
 MZ_Mamit,MZ_Kolasib
 MZ_Mamit,MZ_Lunglei
-MZ_Mamit,MZ_Serchhip
 MZ_Mamit,TR_North Tripura
 TR_North Tripura,TR_Dhalai
 TR_Dhalai,TR_Gomati
@@ -309,11 +307,8 @@ AS_Cachar,ML_West Jaintia Hills
 AS_Cachar,MN_Jiribam
 AS_Cachar,MN_Pherzawl
 AS_Cachar,MN_Tamenglong
-AS_Cachar,MZ_Champhai
+AS_Cachar,MZ_Aizawl
 AS_Cachar,MZ_Kolasib
-AS_Cachar,MZ_Lunglei
-AS_Cachar,MZ_Mamit
-AS_Cachar,MZ_Serchhip
 AS_Cachar,NL_Dimapur
 AS_Cachar,NL_Peren
 AS_Golaghat,AS_Hojai
@@ -867,10 +862,10 @@ UP_Sonbhadra,JH_Garhwa
 JH_Garhwa,JH_Palamu
 MP_Shahdol,MP_Umaria
 MP_Anuppur,MP_Umaria
-MP_Dindori,MP_Balaghat
+MP_Dindori,MP_Mandla
+MP_Mandla,MP_Balaghat
 MP_Balaghat,MH_Gondia
-MP_Balaghat,MP_Mandla
-MP_Mandla,MP_Seoni
+MP_Balaghat,MP_Seoni
 MP_Seoni,MP_Sagar
 MP_Sagar,MP_Vidisha
 MP_Sagar,UP_Lalitpur
@@ -881,8 +876,7 @@ UP_Jhansi,UP_Mahoba
 MP_Niwari,UP_Jhansi
 UP_Lalitpur,MP_Tikamgarh
 UP_Lalitpur,UP_Jhansi
-MP_Balaghat,MP_Seoni
-MP_Dindori,MP_Mandla
+MP_Mandla,MP_Seoni
 MP_Dindori,MP_Umaria
 MP_Jabalpur,MP_Mandla
 MP_Jabalpur,MP_Sagar
@@ -926,11 +920,16 @@ PB_Barnala,PB_Bathinda
 PB_Bathinda,HR_Sirsa
 HR_Sirsa,PB_Faridkot
 PB_Faridkot,PB_Fazilka
-PB_Fazilka,PB_Jalandhar
+PB_Fazilka,PB_Ferozepur
+PB_Ferozepur,PB_Jalandhar
 PB_Jalandhar,PB_Hoshiarpur
 PB_Hoshiarpur,HP_Una
 HP_Una,PB_Rupnagar
-PB_Rupnagar,PB_Kapurthala
+PB_Rupnagar,PB_Patiala
+PB_Patiala,PB_Sangrur
+PB_Sangrur,PB_Mansa
+PB_Rupnagar,PB_Shahid Bhagat Singh Nagar
+PB_Shahid Bhagat Singh Nagar,PB_Kapurthala
 PB_Kapurthala,PB_Amritsar
 PB_Amritsar,PB_Gurdaspur
 PB_Gurdaspur,PB_Pathankot
@@ -985,8 +984,19 @@ JK_Doda,JK_Udhampur
 JK_Kathua,JK_Samba
 JK_Kathua,JK_Udhampur
 PB_Amritsar,PB_Tarn Taran
-PB_Tarn Taran,PB_Moga
-PB_Moga,RJ_Hanumangarh
+PB_Kapurthala,PB_Gurdaspur
+PB_Kapurthala,PB_Tarn Taran
+PB_Hoshiarpur,PB_Gurdaspur
+PB_Hoshiarpur,PB_Kapurthala
+PB_Hoshiarpur,PB_Rupnagar
+PB_Hoshiarpur,PB_Shahid Bhagat Singh Nagar
+PB_Jalandhar,PB_Kapurthala
+PB_Jalandhar,PB_Moga
+PB_Jalandhar,PB_Shahid Bhagat Singh Nagar
+PB_Ferozepur,PB_Kapurthala
+PB_Ferozepur,PB_Moga
+PB_Ferozepur,PB_Tarn Taran
+PB_Ferozepur,RJ_Hanumangarh
 RJ_Hanumangarh,HR_Rohtak
 HR_Rohtak,HR_Jhajjar
 HR_Jhajjar,DL_North West Delhi
@@ -1022,6 +1032,7 @@ RJ_Bharatpur,RJ_Alwar
 RJ_Alwar,HR_Rewari
 RJ_Alwar,RJ_Dausa
 RJ_Dausa,RJ_Karauli
+RJ_Karauli,RJ_Dholpur
 RJ_Karauli,RJ_Sawai Madhopur
 RJ_Sawai Madhopur,RJ_Bundi
 RJ_Bundi,RJ_Chittorgarh
@@ -1076,31 +1087,32 @@ RJ_Sawai Madhopur,RJ_Tonk
 RJ_Dausa,RJ_Sawai Madhopur
 RJ_Dausa,RJ_Tonk
 RJ_Bharatpur,RJ_Dausa
+RJ_Bharatpur,RJ_Dholpur
 RJ_Bharatpur,RJ_Karauli
 RJ_Bharatpur,UP_Mathura
 UP_Mathura,UP_Hathras
 UP_Hathras,UP_Kasganj
-UP_Agra,RJ_Karauli
+UP_Agra,RJ_Dholpur
 UP_Agra,UP_Etawah
 UP_Etawah,UP_Auraiya
 UP_Auraiya,UP_Kannauj
 UP_Kannauj,UP_Kanpur Dehat
 UP_Kanpur Dehat,UP_Kanpur Nagar
 UP_Kanpur Nagar,UP_Unnao
-UP_Unnao,UP_Kaushambi
-UP_Kaushambi,UP_Lucknow
-UP_Lucknow,UP_Pratapgarh1
+UP_Unnao,UP_Lucknow
+UP_Lucknow,UP_Rae Bareli
+UP_Rae Bareli,UP_Kaushambi
+UP_Kaushambi,UP_Pratapgarh1
 UP_Pratapgarh1,UP_Jaunpur
 UP_Jaunpur,UP_Prayagraj
 UP_Prayagraj,UP_Varanasi
 UP_Jaunpur,UP_Varanasi
 UP_Pratapgarh1,UP_Prayagraj
+UP_Kaushambi,UP_Prayagraj
+UP_Rae Bareli,UP_Pratapgarh1
 UP_Lucknow,UP_Sitapur
 UP_Sitapur,UP_Shahjahanpur
-UP_Kaushambi,UP_Pratapgarh1
-UP_Kaushambi,UP_Prayagraj
-UP_Unnao,UP_Lucknow
-UP_Unnao,UP_Pratapgarh1
+UP_Unnao,UP_Rae Bareli
 UP_Kannauj,UP_Kanpur Nagar
 UP_Kannauj,UP_Mainpuri
 UP_Mainpuri,UP_Firozabad
@@ -1253,56 +1265,29 @@ HR_Rohtak,RJ_Jhunjhunu
 RJ_Hanumangarh,RJ_Bikaner
 RJ_Hanumangarh,RJ_Churu
 RJ_Hanumangarh,RJ_Jhunjhunu
-PB_Tarn Taran,RJ_Hanumangarh
-PB_Kapurthala,PB_Gurdaspur
-PB_Kapurthala,PB_Moga
-PB_Kapurthala,PB_Tarn Taran
-PB_Kapurthala,RJ_Hanumangarh
-PB_Rupnagar,PB_Patiala
-PB_Patiala,PB_Sangrur
-PB_Sangrur,PB_Mansa
-PB_Hoshiarpur,PB_Gurdaspur
-PB_Hoshiarpur,PB_Kapurthala
-PB_Hoshiarpur,PB_Rupnagar
-PB_Jalandhar,PB_Kapurthala
-PB_Jalandhar,PB_Moga
-PB_Jalandhar,PB_Rupnagar
-PB_Jalandhar,PB_Tarn Taran
-PB_Jalandhar,RJ_Hanumangarh
-PB_Fazilka,PB_Kapurthala
-PB_Fazilka,PB_Moga
-PB_Fazilka,PB_Tarn Taran
 PB_Fazilka,RJ_Bikaner
 PB_Fazilka,RJ_Hanumangarh
-PB_Faridkot,PB_Jalandhar
-PB_Faridkot,PB_Kapurthala
+PB_Faridkot,PB_Ferozepur
 PB_Faridkot,PB_Moga
-PB_Faridkot,PB_Tarn Taran
 PB_Faridkot,RJ_Hanumangarh
 HR_Sirsa,PB_Fazilka
-HR_Sirsa,PB_Jalandhar
-HR_Sirsa,PB_Kapurthala
+HR_Sirsa,PB_Ferozepur
 HR_Sirsa,PB_Mansa
-HR_Sirsa,PB_Moga
-HR_Sirsa,PB_Tarn Taran
 HR_Sirsa,RJ_Hanumangarh
 PB_Bathinda,PB_Faridkot
 PB_Bathinda,PB_Fazilka
-PB_Bathinda,PB_Jalandhar
-PB_Bathinda,PB_Kapurthala
+PB_Bathinda,PB_Ferozepur
 PB_Bathinda,PB_Mansa
 PB_Bathinda,PB_Moga
-PB_Bathinda,PB_Tarn Taran
 PB_Bathinda,RJ_Hanumangarh
 PB_Barnala,PB_Mansa
 PB_Barnala,PB_Moga
 PB_Barnala,PB_Sangrur
-PB_Ludhiana,PB_Hoshiarpur
 PB_Ludhiana,PB_Jalandhar
-PB_Ludhiana,PB_Kapurthala
 PB_Ludhiana,PB_Moga
 PB_Ludhiana,PB_Rupnagar
 PB_Ludhiana,PB_Sangrur
+PB_Ludhiana,PB_Shahid Bhagat Singh Nagar
 PB_Fatehgarh Sahib,PB_Patiala
 PB_Fatehgarh Sahib,PB_Rupnagar
 PB_Fatehgarh Sahib,PB_Sangrur
@@ -1501,7 +1486,7 @@ MP_Sheopur,RJ_Karauli
 MP_Sheopur,RJ_Kota
 MP_Sheopur,RJ_Sawai Madhopur
 MP_Morena,MP_Shivpuri
-MP_Morena,RJ_Bharatpur
+MP_Morena,RJ_Dholpur
 MP_Morena,RJ_Karauli
 MP_Morena,UP_Agra
 MP_Gwalior,MP_Shivpuri
@@ -1523,8 +1508,8 @@ UP_Hamirpur,UP_Kanpur Nagar
 UP_Hamirpur,UP_Mahoba
 UP_Fatehpur,UP_Kanpur Nagar
 UP_Fatehpur,UP_Kaushambi
-UP_Fatehpur,UP_Lucknow
 UP_Fatehpur,UP_Pratapgarh1
+UP_Fatehpur,UP_Rae Bareli
 UP_Fatehpur,UP_Unnao
 UP_Chitrakoot,UP_Kaushambi
 UP_Chitrakoot,UP_Prayagraj
@@ -1583,22 +1568,16 @@ UP_Bahraich,UP_Shahjahanpur
 UP_Bahraich,UP_Shrawasti
 UP_Bahraich,UP_Sitapur
 UP_Barabanki,UP_Basti
-UP_Barabanki,UP_Fatehpur
 UP_Barabanki,UP_Gonda
-UP_Barabanki,UP_Kaushambi
 UP_Barabanki,UP_Lucknow
-UP_Barabanki,UP_Pratapgarh1
+UP_Barabanki,UP_Rae Bareli
 UP_Barabanki,UP_Sitapur
 UP_Barabanki,UP_Sultanpur
-UP_Barabanki,UP_Unnao
 UP_Amethi,UP_Basti
-UP_Amethi,UP_Fatehpur
 UP_Amethi,UP_Gonda
-UP_Amethi,UP_Kaushambi
-UP_Amethi,UP_Lucknow
 UP_Amethi,UP_Pratapgarh1
+UP_Amethi,UP_Rae Bareli
 UP_Amethi,UP_Sultanpur
-UP_Amethi,UP_Unnao
 UP_Ambedkar Nagar,UP_Azamgarh
 UP_Ambedkar Nagar,UP_Barabanki
 UP_Ambedkar Nagar,UP_Basti
@@ -1728,14 +1707,13 @@ HP_Bilaspur,CT_Korba
 HP_Bilaspur,CT_Koriya
 HP_Bilaspur,MP_Anuppur
 CT_Mungeli,MP_Anuppur
-CT_Mungeli,MP_Balaghat
 CT_Mungeli,MP_Dindori
-CT_Mungeli,MP_Mandla
+CT_Kabeerdham,MP_Balaghat
+CT_Kabeerdham,MP_Dindori
+CT_Kabeerdham,MP_Mandla
 CT_Rajnandgaon,CT_Uttar Bastar Kanker
 CT_Rajnandgaon,MH_Gondia
 CT_Rajnandgaon,MP_Balaghat
-CT_Rajnandgaon,MP_Dindori
-CT_Rajnandgaon,MP_Mandla
 MH_Gadchiroli,CT_Uttar Bastar Kanker
 MH_Gadchiroli,MH_Gondia
 MH_Gadchiroli,TG_Jagtial
@@ -1895,57 +1873,32 @@ KL_Malappuram,TG_Vikarabad
 KL_Malappuram,TN_Kallakurichi
 KL_Malappuram,TN_Krishnagiri
 KL_Malappuram,TN_Tiruppur
-KL_Kottayam,KL_Thiruvananthapuram
-KL_Kottayam,KL_Thrissur
-KL_Kottayam,KL_Wayanad
-KL_Kottayam,MH_Kolhapur
-KL_Kottayam,MH_Latur
-KL_Kottayam,MH_Mumbai Suburban
-KL_Kottayam,MH_Nanded
-KL_Kottayam,MH_Nashik
-KL_Kottayam,MH_Osmanabad
-KL_Kottayam,MH_Palghar
-KL_Kottayam,MH_Raigad
-KL_Kottayam,MH_Ratnagiri
-KL_Kottayam,MH_Satara
-KL_Kottayam,MH_Sindhudurg
-KL_Kottayam,MH_Solapur
-KL_Kottayam,MH_Thane
-KL_Kottayam,PY_Karaikal
-KL_Kottayam,TG_Jogulamba Gadwal
-KL_Kottayam,TG_Narayanpet
-KL_Kottayam,TG_Sangareddy
-KL_Kottayam,TG_Vikarabad
-KL_Kottayam,TN_Kallakurichi
-KL_Kottayam,TN_Krishnagiri
-KL_Kottayam,TN_Tiruppur
-KL_Kollam,KL_Malappuram
-KL_Kollam,KL_Thiruvananthapuram
-KL_Kollam,KL_Thrissur
-KL_Kollam,KL_Wayanad
-KL_Kollam,MH_Kolhapur
-KL_Kollam,MH_Latur
-KL_Kollam,MH_Mumbai Suburban
-KL_Kollam,MH_Nanded
-KL_Kollam,MH_Nashik
-KL_Kollam,MH_Osmanabad
-KL_Kollam,MH_Palghar
-KL_Kollam,MH_Raigad
-KL_Kollam,MH_Ratnagiri
-KL_Kollam,MH_Satara
-KL_Kollam,MH_Sindhudurg
-KL_Kollam,MH_Solapur
-KL_Kollam,MH_Thane
-KL_Kollam,PY_Karaikal
-KL_Kollam,TG_Jogulamba Gadwal
-KL_Kollam,TG_Narayanpet
-KL_Kollam,TG_Sangareddy
-KL_Kollam,TG_Vikarabad
-KL_Kollam,TN_Kallakurichi
-KL_Kollam,TN_Krishnagiri
-KL_Kollam,TN_Tiruppur
-KL_Idukki,KL_Kottayam
+KL_Pathanamthitta,KL_Thiruvananthapuram
+KL_Pathanamthitta,KL_Thrissur
+KL_Pathanamthitta,KL_Wayanad
+KL_Pathanamthitta,MH_Kolhapur
+KL_Pathanamthitta,MH_Latur
+KL_Pathanamthitta,MH_Mumbai Suburban
+KL_Pathanamthitta,MH_Nanded
+KL_Pathanamthitta,MH_Nashik
+KL_Pathanamthitta,MH_Osmanabad
+KL_Pathanamthitta,MH_Palghar
+KL_Pathanamthitta,MH_Raigad
+KL_Pathanamthitta,MH_Ratnagiri
+KL_Pathanamthitta,MH_Satara
+KL_Pathanamthitta,MH_Sindhudurg
+KL_Pathanamthitta,MH_Solapur
+KL_Pathanamthitta,MH_Thane
+KL_Pathanamthitta,PY_Karaikal
+KL_Pathanamthitta,TG_Jogulamba Gadwal
+KL_Pathanamthitta,TG_Narayanpet
+KL_Pathanamthitta,TG_Sangareddy
+KL_Pathanamthitta,TG_Vikarabad
+KL_Pathanamthitta,TN_Kallakurichi
+KL_Pathanamthitta,TN_Krishnagiri
+KL_Pathanamthitta,TN_Tiruppur
 KL_Idukki,KL_Malappuram
+KL_Idukki,KL_Pathanamthitta
 KL_Idukki,KL_Thiruvananthapuram
 KL_Idukki,KL_Thrissur
 KL_Idukki,KL_Wayanad
@@ -1970,9 +1923,39 @@ KL_Idukki,TG_Vikarabad
 KL_Idukki,TN_Kallakurichi
 KL_Idukki,TN_Krishnagiri
 KL_Idukki,TN_Tiruppur
+KL_Kollam,KL_Malappuram
+KL_Kollam,KL_Pathanamthitta
+KL_Kollam,KL_Thiruvananthapuram
+KL_Kollam,KL_Thrissur
+KL_Kollam,KL_Wayanad
+KL_Kollam,MH_Kolhapur
+KL_Kollam,MH_Latur
+KL_Kollam,MH_Mumbai Suburban
+KL_Kollam,MH_Nanded
+KL_Kollam,MH_Nashik
+KL_Kollam,MH_Osmanabad
+KL_Kollam,MH_Palghar
+KL_Kollam,MH_Raigad
+KL_Kollam,MH_Ratnagiri
+KL_Kollam,MH_Satara
+KL_Kollam,MH_Sindhudurg
+KL_Kollam,MH_Solapur
+KL_Kollam,MH_Thane
+KL_Kollam,PY_Karaikal
+KL_Kollam,TG_Jogulamba Gadwal
+KL_Kollam,TG_Narayanpet
+KL_Kollam,TG_Sangareddy
+KL_Kollam,TG_Vikarabad
+KL_Kollam,TN_Kallakurichi
+KL_Kollam,TN_Krishnagiri
+KL_Kollam,TN_Tiruppur
+KL_Alappuzha,KL_Kottayam
+KL_Alappuzha,KL_Pathanamthitta
+KL_Ernakulam,KL_Idukki
 KL_Ernakulam,KL_Kollam
 KL_Ernakulam,KL_Kottayam
 KL_Ernakulam,KL_Malappuram
+KL_Ernakulam,KL_Pathanamthitta
 KL_Ernakulam,KL_Thiruvananthapuram
 KL_Ernakulam,KL_Thrissur
 KL_Ernakulam,KL_Wayanad
@@ -1997,40 +1980,11 @@ KL_Ernakulam,TG_Vikarabad
 KL_Ernakulam,TN_Kallakurichi
 KL_Ernakulam,TN_Krishnagiri
 KL_Ernakulam,TN_Tiruppur
-KL_Alappuzha,KL_Idukki
-KL_Alappuzha,KL_Kollam
-KL_Alappuzha,KL_Kottayam
-KL_Alappuzha,KL_Malappuram
-KL_Alappuzha,KL_Thiruvananthapuram
-KL_Alappuzha,KL_Thrissur
-KL_Alappuzha,KL_Wayanad
-KL_Alappuzha,MH_Kolhapur
-KL_Alappuzha,MH_Latur
-KL_Alappuzha,MH_Mumbai Suburban
-KL_Alappuzha,MH_Nanded
-KL_Alappuzha,MH_Nashik
-KL_Alappuzha,MH_Osmanabad
-KL_Alappuzha,MH_Palghar
-KL_Alappuzha,MH_Raigad
-KL_Alappuzha,MH_Ratnagiri
-KL_Alappuzha,MH_Satara
-KL_Alappuzha,MH_Sindhudurg
-KL_Alappuzha,MH_Solapur
-KL_Alappuzha,MH_Thane
-KL_Alappuzha,PY_Karaikal
-KL_Alappuzha,TG_Jogulamba Gadwal
-KL_Alappuzha,TG_Narayanpet
-KL_Alappuzha,TG_Sangareddy
-KL_Alappuzha,TG_Vikarabad
-KL_Alappuzha,TN_Kallakurichi
-KL_Alappuzha,TN_Krishnagiri
-KL_Alappuzha,TN_Tiruppur
-KA_Kodagu,KL_Ernakulam
 KA_Kodagu,KL_Idukki
 KA_Kodagu,KL_Kollam
-KA_Kodagu,KL_Kottayam
 KA_Kodagu,KL_Kozhikode
 KA_Kodagu,KL_Malappuram
+KA_Kodagu,KL_Pathanamthitta
 KA_Kodagu,KL_Thiruvananthapuram
 KA_Kodagu,KL_Thrissur
 KA_Kodagu,KL_Wayanad
@@ -2055,13 +2009,12 @@ KA_Kodagu,TG_Vikarabad
 KA_Kodagu,TN_Kallakurichi
 KA_Kodagu,TN_Krishnagiri
 KA_Kodagu,TN_Tiruppur
-KA_Dakshina Kannada,KL_Alappuzha
 KA_Dakshina Kannada,KL_Ernakulam
 KA_Dakshina Kannada,KL_Idukki
 KA_Dakshina Kannada,KL_Kollam
-KA_Dakshina Kannada,KL_Kottayam
 KA_Dakshina Kannada,KL_Kozhikode
 KA_Dakshina Kannada,KL_Malappuram
+KA_Dakshina Kannada,KL_Pathanamthitta
 KA_Dakshina Kannada,KL_Thiruvananthapuram
 KA_Dakshina Kannada,KL_Thrissur
 KA_Dakshina Kannada,KL_Wayanad
@@ -2087,12 +2040,11 @@ KA_Dakshina Kannada,TN_Kallakurichi
 KA_Dakshina Kannada,TN_Krishnagiri
 KA_Dakshina Kannada,TN_Tiruppur
 MH_Ahmednagar,KA_Kodagu
-MH_Ahmednagar,KL_Alappuzha
 MH_Ahmednagar,KL_Ernakulam
 MH_Ahmednagar,KL_Idukki
 MH_Ahmednagar,KL_Kollam
-MH_Ahmednagar,KL_Kottayam
 MH_Ahmednagar,KL_Malappuram
+MH_Ahmednagar,KL_Pathanamthitta
 MH_Ahmednagar,KL_Thiruvananthapuram
 MH_Ahmednagar,KL_Thrissur
 MH_Ahmednagar,KL_Wayanad
@@ -2192,12 +2144,11 @@ GJ_Valsad,GJ_Rajkot
 GJ_Valsad,GJ_Surat
 GJ_Valsad,KA_Dakshina Kannada
 GJ_Valsad,KA_Kodagu
-GJ_Valsad,KL_Alappuzha
 GJ_Valsad,KL_Ernakulam
 GJ_Valsad,KL_Idukki
 GJ_Valsad,KL_Kollam
-GJ_Valsad,KL_Kottayam
 GJ_Valsad,KL_Malappuram
+GJ_Valsad,KL_Pathanamthitta
 GJ_Valsad,KL_Thiruvananthapuram
 GJ_Valsad,KL_Thrissur
 GJ_Valsad,KL_Wayanad
@@ -2235,12 +2186,11 @@ GJ_Valsad,TN_Krishnagiri
 GJ_Valsad,TN_Tiruppur
 KA_Uttara Kannada,KA_Dakshina Kannada
 KA_Uttara Kannada,KA_Kodagu
-KA_Uttara Kannada,KL_Alappuzha
 KA_Uttara Kannada,KL_Ernakulam
 KA_Uttara Kannada,KL_Idukki
 KA_Uttara Kannada,KL_Kollam
-KA_Uttara Kannada,KL_Kottayam
 KA_Uttara Kannada,KL_Malappuram
+KA_Uttara Kannada,KL_Pathanamthitta
 KA_Uttara Kannada,KL_Thiruvananthapuram
 KA_Uttara Kannada,KL_Thrissur
 KA_Uttara Kannada,KL_Wayanad
@@ -2270,12 +2220,11 @@ GA_North Goa,GJ_Valsad
 GA_North Goa,KA_Dakshina Kannada
 GA_North Goa,KA_Kodagu
 GA_North Goa,KA_Uttara Kannada
-GA_North Goa,KL_Alappuzha
 GA_North Goa,KL_Ernakulam
 GA_North Goa,KL_Idukki
 GA_North Goa,KL_Kollam
-GA_North Goa,KL_Kottayam
 GA_North Goa,KL_Malappuram
+GA_North Goa,KL_Pathanamthitta
 GA_North Goa,KL_Thiruvananthapuram
 GA_North Goa,KL_Thrissur
 GA_North Goa,KL_Wayanad
@@ -2305,12 +2254,11 @@ DN_Dadra and Nagar Haveli,GJ_Valsad
 DN_Dadra and Nagar Haveli,KA_Dakshina Kannada
 DN_Dadra and Nagar Haveli,KA_Kodagu
 DN_Dadra and Nagar Haveli,KA_Uttara Kannada
-DN_Dadra and Nagar Haveli,KL_Alappuzha
 DN_Dadra and Nagar Haveli,KL_Ernakulam
 DN_Dadra and Nagar Haveli,KL_Idukki
 DN_Dadra and Nagar Haveli,KL_Kollam
-DN_Dadra and Nagar Haveli,KL_Kottayam
 DN_Dadra and Nagar Haveli,KL_Malappuram
+DN_Dadra and Nagar Haveli,KL_Pathanamthitta
 DN_Dadra and Nagar Haveli,KL_Thiruvananthapuram
 DN_Dadra and Nagar Haveli,KL_Thrissur
 DN_Dadra and Nagar Haveli,KL_Wayanad
@@ -2341,12 +2289,11 @@ TG_Kamareddy,GJ_Valsad
 TG_Kamareddy,KA_Dakshina Kannada
 TG_Kamareddy,KA_Kodagu
 TG_Kamareddy,KA_Uttara Kannada
-TG_Kamareddy,KL_Alappuzha
 TG_Kamareddy,KL_Ernakulam
 TG_Kamareddy,KL_Idukki
 TG_Kamareddy,KL_Kollam
-TG_Kamareddy,KL_Kottayam
 TG_Kamareddy,KL_Malappuram
+TG_Kamareddy,KL_Pathanamthitta
 TG_Kamareddy,KL_Thiruvananthapuram
 TG_Kamareddy,KL_Thrissur
 TG_Kamareddy,KL_Wayanad
@@ -2424,12 +2371,10 @@ CT_Balod,CT_Uttar Bastar Kanker
 CT_Durg,CT_Dhamtari
 CT_Durg,CT_Raipur
 CT_Durg,CT_Rajnandgaon
+CT_Bametara,CT_Kabeerdham
 CT_Bametara,CT_Mungeli
 CT_Bametara,CT_Raipur
 CT_Bametara,CT_Rajnandgaon
-CT_Bametara,MP_Balaghat
-CT_Bametara,MP_Dindori
-CT_Bametara,MP_Mandla
 CT_Baloda Bazar,CT_Janjgir Champa
 CT_Baloda Bazar,CT_Mungeli
 CT_Baloda Bazar,CT_Raigarh
@@ -2487,12 +2432,11 @@ AP_Prakasam,GJ_Valsad
 AP_Prakasam,KA_Dakshina Kannada
 AP_Prakasam,KA_Kodagu
 AP_Prakasam,KA_Uttara Kannada
-AP_Prakasam,KL_Alappuzha
 AP_Prakasam,KL_Ernakulam
 AP_Prakasam,KL_Idukki
 AP_Prakasam,KL_Kollam
-AP_Prakasam,KL_Kottayam
 AP_Prakasam,KL_Malappuram
+AP_Prakasam,KL_Pathanamthitta
 AP_Prakasam,KL_Thiruvananthapuram
 AP_Prakasam,KL_Thrissur
 AP_Prakasam,KL_Wayanad
@@ -2526,12 +2470,11 @@ AP_Kurnool,GJ_Valsad
 AP_Kurnool,KA_Dakshina Kannada
 AP_Kurnool,KA_Kodagu
 AP_Kurnool,KA_Uttara Kannada
-AP_Kurnool,KL_Alappuzha
 AP_Kurnool,KL_Ernakulam
 AP_Kurnool,KL_Idukki
 AP_Kurnool,KL_Kollam
-AP_Kurnool,KL_Kottayam
 AP_Kurnool,KL_Malappuram
+AP_Kurnool,KL_Pathanamthitta
 AP_Kurnool,KL_Thiruvananthapuram
 AP_Kurnool,KL_Thrissur
 AP_Kurnool,KL_Wayanad
@@ -2567,12 +2510,11 @@ AP_Chittoor,GJ_Valsad
 AP_Chittoor,KA_Dakshina Kannada
 AP_Chittoor,KA_Kodagu
 AP_Chittoor,KA_Uttara Kannada
-AP_Chittoor,KL_Alappuzha
 AP_Chittoor,KL_Ernakulam
 AP_Chittoor,KL_Idukki
 AP_Chittoor,KL_Kollam
-AP_Chittoor,KL_Kottayam
 AP_Chittoor,KL_Malappuram
+AP_Chittoor,KL_Pathanamthitta
 AP_Chittoor,KL_Thiruvananthapuram
 AP_Chittoor,KL_Thrissur
 AP_Chittoor,KL_Wayanad

@@ -1,5 +1,4 @@
 import csv, json
-from os import waitpid
 
 startDate = "16/01/2021"
 endDate = "15/08/2021"
@@ -12,15 +11,16 @@ wk_typ2 = []
 mnth = []
 vaccdts = []
 valdist = []
+ov1d = {}
+ov2d = {}
+ovm = {}
+ovf = {}
 
 with open('meta/dist_name_key.json') as dsnk:
     distnamekey = json.load(dsnk)
 
 with open("meta/covid_cases.json") as ccjs:
     cvdcases = json.load(ccjs)
-
-with open("meta/covid_cases_weekly.json") as cccjs:
-    wkdt = json.load(cccjs)
 
 with open("meta/covid_cases_monthly.json") as cccjs:
     mndt = json.load(cccjs)
@@ -87,32 +87,20 @@ with open("cowin_vaccine_data_districtwise_modified.csv", newline='') as cvddm:
 vaccdts = set(vaccdts)
 
 for i in range(0, len(wk_typ1)-1):
+    wkdt[str(i+1)] = {}
     for k in valdist:
-        wkdt[str(2*i+1)][k] = {}
+        wkdt[str(i+1)][k] = {}
         if wk_typ1[i] in vaccdts and wk_typ1[i+1] in vaccdts:
-            wkdt[str(2*i+1)][k]["indi"] = cvdcases[k].get(wk_typ1[i+1], {"indi": 0})["indi"]-cvdcases[k].get(wk_typ1[i], {"indi": 0})["indi"]
-            if wkdt[str(2*i+1)][k]["indi"] < 0:
+            wkdt[str(i+1)][k]["indi"] = cvdcases[k].get(wk_typ1[i+1], {"indi": 0})["indi"]-cvdcases[k].get(wk_typ1[i], {"indi": 0})["indi"]
+            if wkdt[str(i+1)][k]["indi"] < 0:
                 print(wk_typ1[i+1], wk_typ1[i], distnamekey[k])
-            wkdt[str(2*i+1)][k]["m"] = cvdcases[k].get(wk_typ1[i+1], {"m": 0})["m"]-cvdcases[k].get(wk_typ1[i], {"m": 0})["m"]
-            wkdt[str(2*i+1)][k]["f"] = cvdcases[k].get(wk_typ1[i+1], {"f": 0})["f"]-cvdcases[k].get(wk_typ1[i], {"f": 0})["f"]
-            wkdt[str(2*i+1)][k]["trans"] = cvdcases[k].get(wk_typ1[i+1], {"trans": 0})["trans"]-cvdcases[k].get(wk_typ1[i], {"trans": 0})["trans"]
-            wkdt[str(2*i+1)][k]["covaxin"] = cvdcases[k].get(wk_typ1[i+1], {"covaxin": 0})["covaxin"]-cvdcases[k].get(wk_typ1[i], {"covaxin": 0})["covaxin"]
-            wkdt[str(2*i+1)][k]["covishield"] = cvdcases[k].get(wk_typ1[i+1], {"covishield": 0})["covishield"]-cvdcases[k].get(wk_typ1[i], {"covishield": 0})["covishield"]
-            wkdt[str(2*i+1)][k]["1D"] = cvdcases[k].get(wk_typ1[i+1], {"1D": 0})["1D"]-cvdcases[k].get(wk_typ1[i], {"1D": 0})["1D"]
-            wkdt[str(2*i+1)][k]["2D"] = cvdcases[k].get(wk_typ1[i+1], {"2D": 0})["2D"]-cvdcases[k].get(wk_typ1[i], {"2D": 0})["2D"]
-
-for i in range(0, len(wk_typ2)-1):
-    for k in valdist:
-        wkdt[str(2*i+2)][k] = {}
-        if wk_typ2[i] in vaccdts and wk_typ2[i+1] in vaccdts:
-            wkdt[str(2*i+2)][k]["indi"] = cvdcases[k].get(wk_typ2[i+1], {"indi": 0})["indi"]-cvdcases[k].get(wk_typ2[i], {"indi": 0})["indi"]
-            wkdt[str(2*i+2)][k]["m"] = cvdcases[k].get(wk_typ2[i+1], {"m": 0})["m"]-cvdcases[k].get(wk_typ2[i], {"m": 0})["m"]
-            wkdt[str(2*i+2)][k]["f"] = cvdcases[k].get(wk_typ2[i+1], {"f": 0})["f"]-cvdcases[k].get(wk_typ2[i], {"f": 0})["f"]
-            wkdt[str(2*i+2)][k]["trans"] = cvdcases[k].get(wk_typ2[i+1], {"trans": 0})["trans"]-cvdcases[k].get(wk_typ2[i], {"trans": 0})["trans"]
-            wkdt[str(2*i+2)][k]["covaxin"] = cvdcases[k].get(wk_typ2[i+1], {"covaxin": 0})["covaxin"]-cvdcases[k].get(wk_typ2[i], {"covaxin": 0})["covaxin"]
-            wkdt[str(2*i+2)][k]["covishield"] = cvdcases[k].get(wk_typ2[i+1], {"covishield": 0})["covishield"]-cvdcases[k].get(wk_typ2[i], {"covishield": 0})["covishield"]
-            wkdt[str(2*i+2)][k]["1D"] = cvdcases[k].get(wk_typ2[i+1], {"1D": 0})["1D"]-cvdcases[k].get(wk_typ2[i], {"1D": 0})["1D"]
-            wkdt[str(2*i+2)][k]["2D"] = cvdcases[k].get(wk_typ2[i+1], {"2D": 0})["2D"]-cvdcases[k].get(wk_typ2[i], {"2D": 0})["2D"]
+            wkdt[str(i+1)][k]["m"] = cvdcases[k].get(wk_typ1[i+1], {"m": 0})["m"]-cvdcases[k].get(wk_typ1[i], {"m": 0})["m"]
+            wkdt[str(i+1)][k]["f"] = cvdcases[k].get(wk_typ1[i+1], {"f": 0})["f"]-cvdcases[k].get(wk_typ1[i], {"f": 0})["f"]
+            wkdt[str(i+1)][k]["trans"] = cvdcases[k].get(wk_typ1[i+1], {"trans": 0})["trans"]-cvdcases[k].get(wk_typ1[i], {"trans": 0})["trans"]
+            wkdt[str(i+1)][k]["covaxin"] = cvdcases[k].get(wk_typ1[i+1], {"covaxin": 0})["covaxin"]-cvdcases[k].get(wk_typ1[i], {"covaxin": 0})["covaxin"]
+            wkdt[str(i+1)][k]["covishield"] = cvdcases[k].get(wk_typ1[i+1], {"covishield": 0})["covishield"]-cvdcases[k].get(wk_typ1[i], {"covishield": 0})["covishield"]
+            wkdt[str(i+1)][k]["1D"] = cvdcases[k].get(wk_typ1[i+1], {"1D": 0})["1D"]-cvdcases[k].get(wk_typ1[i], {"1D": 0})["1D"]
+            wkdt[str(i+1)][k]["2D"] = cvdcases[k].get(wk_typ1[i+1], {"2D": 0})["2D"]-cvdcases[k].get(wk_typ1[i], {"2D": 0})["2D"]
 
 for i in range(0, len(mnth)-1):
     for k in valdist:
@@ -126,12 +114,19 @@ for i in range(0, len(mnth)-1):
             mndt[str(i+1)][k]["covishield"] = cvdcases[k].get(mnth[i+1], {"covishield": 0})["covishield"]-cvdcases[k].get(mnth[i], {"covishield": 0})["covishield"]
             mndt[str(i+1)][k]["1D"] = cvdcases[k].get(mnth[i+1], {"1D": 0})["1D"]-cvdcases[k].get(mnth[i], {"1D": 0})["1D"]
             mndt[str(i+1)][k]["2D"] = cvdcases[k].get(mnth[i+1], {"2D": 0})["2D"]-cvdcases[k].get(mnth[i], {"2D": 0})["2D"]
+            ov1d[k] = ov1d.get(k, 0) + mndt[str(i+1)][k]["1D"]
+            ov2d[k] = ov2d.get(k, 0) + mndt[str(i+1)][k]["2D"]
+            ovm[k] = ovm.get(k, 0) + mndt[str(i+1)][k]["m"]
+            ovf[k] = ovm.get(k, 0) + mndt[str(i+1)][k]["f"]
 
 with open("meta/vaccine_weekly.json", "w") as cccjs:
     json.dump(wkdt, cccjs, indent="\t")
 
 with open("meta/vaccine_monthly.json", "w") as cccjs:
     json.dump(mndt, cccjs, indent="\t")
+
+with open("meta/vaccine_overall.json", "w") as cccjs:
+    json.dump({"1D": ov1d, "2D": ov2d, "m": ovm, "f": ovf}, cccjs, indent="\t")
 
 with open("meta/covid_cases_vaccinated.json", "w") as ccvjs:
     json.dump(cvdcases, ccvjs, indent="\t")
@@ -143,7 +138,7 @@ with open("out/vaccinated-count-week.csv", "w") as vcw:
         dkeys.append(distnamekey[dkey_int])
     dkeys.sort()
     for k in dkeys:
-        for i in range(0, len(wkdt.keys())):
+        for i in range(0, len(wk_typ1)-1):
             dint = k[3:].lower().replace(" ", "_")
             lines.append(k+","+str(i+1)+","+str(wkdt[str(i+1)][dint].get("1D", 0))+","+str(wkdt[str(i+1)][dint].get("2D", 0))+"\n")
     vcw.writelines(lines)
@@ -159,3 +154,14 @@ with open("out/vaccinated-count-month.csv", "w") as mcw:
             dint = k[3:].lower().replace(" ", "_")
             lines.append(k+","+str(i+1)+","+str(mndt[str(i+1)][dint].get("1D", 0))+","+str(mndt[str(i+1)][dint].get("2D", 0))+"\n")
     mcw.writelines(lines)
+
+with open("out/vaccinated-count-overall.csv", "w") as ocw:
+    lines=["districtid,overallid,dose1,dose2\n"]
+    dkeys = []
+    for dkey_int in valdist:
+        dkeys.append(distnamekey[dkey_int])
+    dkeys.sort()
+    for k in dkeys:
+        dint = k[3:].lower().replace(" ", "_")
+        lines.append(k+",1,"+str(ov1d.get(dint, 0))+","+str(ov2d.get(dint, 0))+"\n")
+    ocw.writelines(lines)

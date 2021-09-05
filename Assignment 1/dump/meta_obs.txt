@@ -1,0 +1,5 @@
+palghat,palghar
+sant_kibir_nagar,sant_kabir_nagar
+seraikela-kharsawan,saraikela-kharsawan
+baleshwar,bageshwar
+sonapur,solapur
