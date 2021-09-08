@@ -23,25 +23,25 @@ with open('district_wise.csv', newline='') as dswcsv:
             if int(row["SlNo"])!=0 and row["District"] != "Unknown":
                 state_to_dist[row["State_Code"]].append(row["District"].lower().replace(" ", "_"))
 
-def editDistDP(str1, str2, m, n):
-    dp = [[0 for x in range(n + 1)] for x in range(m + 1)]
-    for i in range(m + 1):
-        for j in range(n + 1):
-            if i == 0:
-                dp[i][j] = j
-            elif j == 0:
-                dp[i][j] = i
-            elif str1[i-1] == str2[j-1]:
-                dp[i][j] = dp[i-1][j-1]
-            else:
-                dp[i][j] = 1 + min(dp[i][j-1], dp[i-1][j], dp[i-1][j-1])
-    return dp[m][n]
+# def editDistDP(str1, str2, m, n):
+#     dp = [[0 for x in range(n + 1)] for x in range(m + 1)]
+#     for i in range(m + 1):
+#         for j in range(n + 1):
+#             if i == 0:
+#                 dp[i][j] = j
+#             elif j == 0:
+#                 dp[i][j] = i
+#             elif str1[i-1] == str2[j-1]:
+#                 dp[i][j] = dp[i-1][j-1]
+#             else:
+#                 dp[i][j] = 1 + min(dp[i][j-1], dp[i-1][j], dp[i-1][j-1])
+#     return dp[m][n]
 
-for i in dlist1:
-    for j in dlist2:
-        if abs(editDistDP(i, j, len(i), len(j))) == 1:
-            if i not in dlist2:
-                print(i+","+j)
+# for i in dlist1:
+#     for j in dlist2:
+#         if abs(editDistDP(i, j, len(i), len(j))) == 1:
+#             if i not in dlist2:
+#                 print(i+","+j)
 
 with open("meta/state_codes.json", "w") as scdjs:
     json.dump(state_code, scdjs, indent="\t")

@@ -321,7 +321,6 @@
     "budaun/Q1815262"
   ],
   "pilibhit/Q2980705": [
-    "kheri/Q1755447",
     "udham_singh_nagar/Q1805082",
     "bareilly/Q1797378",
     "shahjahanpur/Q1812557"
@@ -890,7 +889,6 @@
     "kanpur_nagar/Q2089152",
     "unnao/Q1937875",
     "shahjahanpur/Q1812557",
-    "kheri/Q1755447",
     "sitapur/Q1812539",
     "farrukhabad/Q1897251",
     "kannauj/Q627979"
@@ -939,7 +937,6 @@
     "thoothukudi_district/Q15198",
     "virudhunagar_district/Q15209",
     "idukki/Q301821",
-    "pathanamthitta/Q634935",
     "thiruvananthapuram/Q162612"
   ],
   "thiruvananthapuram/Q162612": [
@@ -964,8 +961,7 @@
     "theni_district/Q15196",
     "dindigul_district/Q15154",
     "tiruppur/Q15202",
-    "coimbatore_district/Q15136",
-    "pathanamthitta/Q634935"
+    "coimbatore_district/Q15136"
   ],
   "thoothukudi_district/Q15198": [
     "virudhunagar_district/Q15209",
@@ -973,17 +969,9 @@
     "tirunelveli_kattabo/Q15200"
   ],
   "kollam/Q1356124": [
-    "pathanamthitta/Q634935",
     "alappuzha/Q928959",
     "thiruvananthapuram/Q162612",
     "tirunelveli_kattabo/Q15200"
-  ],
-  "pathanamthitta/Q634935": [
-    "kollam/Q1356124",
-    "kottayam/Q1353354",
-    "tirunelveli_kattabo/Q15200",
-    "idukki/Q301821",
-    "alappuzha/Q928959"
   ],
   "pudukkottai_district/Q15190": [
     "tiruchchirappalli_district/Q15201",
@@ -1067,7 +1055,6 @@
     "alappuzha/Q928959"
   ],
   "kottayam/Q1353354": [
-    "pathanamthitta/Q634935",
     "idukki/Q301821",
     "alappuzha/Q928959",
     "ernakulam/Q1356097"
@@ -2168,7 +2155,6 @@
     "nav_sari_district/Q1797349",
     "valsad/Q1946743",
     "dhule/Q1797383",
-    "konkan_division/Q6268840",
     "jalgaon/Q1797291",
     "ahmednagar/Q401744",
     "palghar/Q18003119",
@@ -2178,40 +2164,18 @@
   ],
   "dadra_and_nagar_haveli/Q46107": [
     "palghar/Q18003119",
-    "valsad/Q1946743",
-    "konkan_division/Q6268840"
+    "valsad/Q1946743"
   ],
   "valsad/Q1946743": [
     "nashik/Q1797269",
-    "konkan_division/Q6268840",
     "palghar/Q18003119",
     "nav_sari_district/Q1797349",
     "daman/Q1158197",
     "dadra_and_nagar_haveli/Q46107"
   ],
-  "konkan_division/Q6268840": [
-    "kolhapur/Q1797312",
-    "sindhudurg/Q768332",
-    "raigad/Q2019683",
-    "nashik/Q1797269",
-    "thane/Q943099",
-    "valsad/Q1946743",
-    "mumbai_city/Q2341660",
-    "belgaum_district/Q815464",
-    "mumbai_suburban/Q2085374",
-    "pune_district/Q1797336",
-    "ahmednagar/Q401744",
-    "palghar/Q18003119",
-    "north_goa/Q108234",
-    "satara/Q1135612",
-    "ratnagiri/Q1771768",
-    "dadra_and_nagar_haveli/Q46107",
-    "sangli_district/Q1425060"
-  ],
   "palghar/Q18003119": [
     "nashik/Q1797269",
     "valsad/Q1946743",
-    "konkan_division/Q6268840",
     "thane/Q943099",
     "dadra_and_nagar_haveli/Q46107"
   ],
@@ -2352,7 +2316,6 @@
   "shahjahanpur/Q1812557": [
     "pilibhit/Q2980705",
     "bareilly/Q1797378",
-    "kheri/Q1755447",
     "budaun/Q1815262",
     "farrukhabad/Q1897251",
     "hardoi/Q1772822"
@@ -2406,18 +2369,10 @@
     "farrukhabad/Q1897251",
     "hardoi/Q1772822"
   ],
-  "kheri/Q1755447": [
-    "pilibhit/Q2980705",
-    "bahraich/Q1812548",
-    "shahjahanpur/Q1812557",
-    "sitapur/Q1812539",
-    "hardoi/Q1772822"
-  ],
   "bahraich/Q1812548": [
     "shrawasti/Q1945458",
     "sitapur/Q1812539",
     "barabanki/Q633114",
-    "kheri/Q1755447",
     "gonda/Q1937857"
   ],
   "shrawasti/Q1945458": [
@@ -2429,7 +2384,6 @@
     "lucknow/Q1773416",
     "bahraich/Q1812548",
     "barabanki/Q633114",
-    "kheri/Q1755447",
     "hardoi/Q1772822"
   ],
   "barabanki/Q633114": [
@@ -2546,8 +2500,7 @@
     "datia/Q2206266",
     "bhind/Q2341700",
     "jalaun/Q2089115",
-    "chhatarpur/Q2449785",
-    "niwari/Q63563797"
+    "chhatarpur/Q2449785"
   ],
   "lalitpur/Q1947336": [
     "shivpuri/Q2299042",
@@ -2556,8 +2509,7 @@
     "tikamgarh/Q2449760",
     "sagar/Q2085421",
     "datia/Q2206266",
-    "chhatarpur/Q2449785",
-    "niwari/Q63563797"
+    "chhatarpur/Q2449785"
   ],
   "mahoba/Q1815322": [
     "jhansi/Q1937885",
@@ -2584,13 +2536,7 @@
   ],
   "tikamgarh/Q2449760": [
     "jhansi/Q1937885",
-    "niwari/Q63563797",
     "chhatarpur/Q2449785",
-    "lalitpur/Q1947336"
-  ],
-  "niwari/Q63563797": [
-    "jhansi/Q1937885",
-    "tikamgarh/Q2449760",
     "lalitpur/Q1947336"
   ],
   "sagar/Q2085421": [
@@ -3985,7 +3931,6 @@
   ],
   "ahmednagar/Q401744": [
     "nashik/Q1797269",
-    "konkan_division/Q6268840",
     "pune_district/Q1797336",
     "bid/Q814037",
     "osmanabad/Q1647186",
@@ -4004,7 +3949,6 @@
     "raigad/Q2019683",
     "nashik/Q1797269",
     "mumbai_suburban/Q2085374",
-    "konkan_division/Q6268840",
     "pune_district/Q1797336",
     "ahmednagar/Q401744",
     "palghar/Q18003119"
@@ -4012,7 +3956,6 @@
   "pune_district/Q1797336": [
     "raigad/Q2019683",
     "satara/Q1135612",
-    "konkan_division/Q6268840",
     "ahmednagar/Q401744",
     "thane/Q943099",
     "solapur/Q1797263"
@@ -4022,8 +3965,7 @@
     "latur/Q1948713",
     "ahmednagar/Q401744",
     "osmanabad/Q1647186",
-    "aurangabad2/Q592942",
-    "parbhani/Q1797389"
+    "aurangabad2/Q592942"
   ],
   "solapur/Q1797263": [
     "kalaburagi_district/Q2641873",
@@ -4045,14 +3987,12 @@
   "satara/Q1135612": [
     "raigad/Q2019683",
     "sangli_district/Q1425060",
-    "konkan_division/Q6268840",
     "pune_district/Q1797336",
     "ratnagiri/Q1771768",
     "solapur/Q1797263"
   ],
   "raigad/Q2019683": [
     "satara/Q1135612",
-    "konkan_division/Q6268840",
     "pune_district/Q1797336",
     "thane/Q943099",
     "ratnagiri/Q1771768"
@@ -4061,7 +4001,6 @@
     "kolhapur/Q1797312",
     "sindhudurg/Q768332",
     "raigad/Q2019683",
-    "konkan_division/Q6268840",
     "satara/Q1135612",
     "sangli_district/Q1425060"
   ],
@@ -4069,21 +4008,18 @@
     "kolhapur/Q1797312",
     "bijapur_district/Q1727570",
     "belgaum_district/Q815464",
-    "konkan_division/Q6268840",
     "satara/Q1135612",
     "ratnagiri/Q1771768",
     "solapur/Q1797263"
   ],
   "kolhapur/Q1797312": [
     "sindhudurg/Q768332",
-    "konkan_division/Q6268840",
     "belgaum_district/Q815464",
     "ratnagiri/Q1771768",
     "sangli_district/Q1425060"
   ],
   "sindhudurg/Q768332": [
     "kolhapur/Q1797312",
-    "konkan_division/Q6268840",
     "belgaum_district/Q815464",
     "north_goa/Q108234",
     "ratnagiri/Q1771768"
@@ -4149,8 +4085,7 @@
     "akola/Q520510",
     "buldhana/Q47929",
     "yavatmal/Q1804852",
-    "amravati/Q1771774",
-    "parbhani/Q1797389"
+    "amravati/Q1771774"
   ],
   "nanded/Q692389": [
     "hingoli/Q2087615",
@@ -4160,27 +4095,16 @@
     "bidar_district/Q1790568",
     "yavatmal/Q1804852",
     "nirmal/Q28169750",
-    "adilabad/Q15211",
-    "parbhani/Q1797389"
+    "adilabad/Q15211"
   ],
   "hingoli/Q2087615": [
     "nanded/Q692389",
     "washim/Q1804858",
-    "yavatmal/Q1804852",
-    "parbhani/Q1797389"
+    "yavatmal/Q1804852"
   ],
   "akola/Q520510": [
     "amravati/Q1771774",
     "washim/Q1804858",
-    "buldhana/Q47929"
-  ],
-  "parbhani/Q1797389": [
-    "jalna/Q1804863",
-    "hingoli/Q2087615",
-    "latur/Q1948713",
-    "nanded/Q692389",
-    "washim/Q1804858",
-    "bid/Q814037",
     "buldhana/Q47929"
   ],
   "buldhana/Q47929": [
@@ -4189,15 +4113,13 @@
     "akola/Q520510",
     "washim/Q1804858",
     "jalgaon/Q1797291",
-    "amravati/Q1771774",
-    "parbhani/Q1797389"
+    "amravati/Q1771774"
   ],
   "latur/Q1948713": [
     "bidar_district/Q1790568",
     "nanded/Q692389",
     "bid/Q814037",
-    "osmanabad/Q1647186",
-    "parbhani/Q1797389"
+    "osmanabad/Q1647186"
   ],
   "bidar_district/Q1790568": [
     "kalaburagi_district/Q2641873",
@@ -4235,8 +4157,7 @@
     "jalgaon/Q1797291",
     "bid/Q814037",
     "buldhana/Q47929",
-    "aurangabad2/Q592942",
-    "parbhani/Q1797389"
+    "aurangabad2/Q592942"
   ],
   "belgaum_district/Q815464": [
     "bagalkote_district/Q1910231",
@@ -4245,7 +4166,6 @@
     "uttara_kannada/Q579205",
     "bijapur_district/Q1727570",
     "gadag_district/Q2353931",
-    "konkan_division/Q6268840",
     "dharwad_district/Q1790904",
     "north_goa/Q108234",
     "sangli_district/Q1425060"
@@ -4263,7 +4183,6 @@
     "sindhudurg/Q768332",
     "south_goa/Q108244",
     "uttara_kannada/Q579205",
-    "konkan_division/Q6268840",
     "belgaum_district/Q815464"
   ],
   "kalaburagi_district/Q2641873": [
@@ -4292,7 +4211,6 @@
   "alappuzha/Q928959": [
     "kollam/Q1356124",
     "kottayam/Q1353354",
-    "pathanamthitta/Q634935",
     "ernakulam/Q1356097"
   ],
   "kozhikode/Q1142979": [
@@ -5097,7 +5015,6 @@
   "mon/Q2339648": [
     "longding/Q5627568",
     "longleng/Q1426783",
-    "noklak/Q48731903",
     "charaideo/Q24039029",
     "sivasagar/Q42768",
     "tuensang/Q2571393"
@@ -5364,14 +5281,9 @@
   "tuensang/Q2571393": [
     "longleng/Q1426783",
     "zunheboto/Q2091461",
-    "noklak/Q48731903",
     "mokokchung/Q2175311",
     "mon/Q2339648",
     "kiphire/Q2597908"
-  ],
-  "noklak/Q48731903": [
-    "mon/Q2339648",
-    "tuensang/Q2571393"
   ],
   "lawngtlai/Q2086209": [
     "lunglei/Q1947352",
@@ -5411,11 +5323,9 @@
   ],
   "mumbai_suburban/Q2085374": [
     "thane/Q943099",
-    "mumbai_city/Q2341660",
-    "konkan_division/Q6268840"
+    "mumbai_city/Q2341660"
   ],
   "mumbai_city/Q2341660": [
-    "konkan_division/Q6268840",
     "mumbai_suburban/Q2085374"
   ],
   "gir_somnath_district/Q15244465": [
