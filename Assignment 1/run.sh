@@ -16,3 +16,5 @@ python3 q7.py
 echo "Generated out/vaccine-type-ratio-district.csv, out/vaccine-type-ratio-state.csv and out/vaccine-type-ratio-overall.csv"
 python3 q8.py
 echo "Generated out/vaccinated-dose-ratio-district.csv, out/vaccinated-dose-ratio-state.csv and out/vaccinated-dose-ratio-overall.csv"
+python3 q9.py
+echo "Generated out/complete-vaccination.csv"
