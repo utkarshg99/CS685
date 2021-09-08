@@ -42,14 +42,3 @@ for aDist in allDist:
 
 with open("out/edge-graph.csv", "w") as edg:
     edg.writelines(lines)
-
-# x=0
-# for aDist in allDist:
-#     for d in nds[aDist]:
-#         if aDist+","+d+"\n" in lines and d+","+aDist+"\n" in lines:
-#             print(aDist+","+d+"\n")
-#         if aDist+","+d+"\n" not in lines and d+","+aDist+"\n" not in lines:
-#             print(aDist+","+d+"\n")
-#             x+=1
-# print(x)
-# print(visited["MH_Aurangabad"])

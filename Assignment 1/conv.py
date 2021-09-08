@@ -78,3 +78,15 @@ print(len(subset_dist))
 print(len(edit_dist))
 print(len(ab_districts))
 print(len(ba_districts))
+
+with open("districts.csv") as dst:
+    lines = dst.readlines()
+    lines_out = []
+    for line in lines:
+        cont = line.split(",")
+        # if cont[1] != "Andaman and Nicobar Islands":
+        if cont[2] not in ["Saraikela-Kharsawan", "Yanam", "Tirupathur", "Tenkasi", "Chengalpattu", "Gaurela Pendra Marwahi"]:
+            lines_out.append(line)
+
+with open("districts.csv", "w") as dst:
+    dst.writelines(lines_out)

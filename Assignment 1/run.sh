@@ -11,10 +11,10 @@ echo "Generated out/district-peaks.csv, out/state-peaks.csv and out/overall-peak
 python3 q5.py
 echo "Generated out/vaccinated-count-week.csv, out/vaccinated-count-month.csv and out/vaccinated-count-overall.csv"
 python3 q6.py
-echo "Generated out/vaccination-population-ratio-district.csv, out/vaccination-population-ratio-state.csv and out/vaccination-population-ratio-overall.csv"
+echo "Generated out/district-vaccination-population-ratio.csv, out/state-vaccination-population-ratio.csv and out/overall-vaccination-population-ratio.csv"
 python3 q7.py
-echo "Generated out/vaccine-type-ratio-district.csv, out/vaccine-type-ratio-state.csv and out/vaccine-type-ratio-overall.csv"
+echo "Generated out/district-vaccine-type-ratio.csv, out/state-vaccine-type-ratio.csv and out/overall-vaccine-type-ratio.csv"
 python3 q8.py
-echo "Generated out/vaccinated-dose-ratio-district.csv, out/vaccinated-dose-ratio-state.csv and out/vaccinated-dose-ratio-overall.csv"
+echo "Generated out/district-vaccinated-dose-ratio.csv, out/state-vaccinated-dose-ratio.csv and out/overall-vaccinated-dose-ratio.csv"
 python3 q9.py
 echo "Generated out/complete-vaccination.csv"

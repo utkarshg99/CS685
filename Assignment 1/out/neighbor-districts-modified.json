@@ -1089,84 +1089,14 @@
 		"CT_Rajnandgaon",
 		"MH_Gadchiroli"
 	],
-	"DL_Central Delhi": [
-		"DL_East Delhi",
-		"DL_New Delhi",
-		"DL_North Delhi",
-		"DL_North East Delhi",
-		"DL_North West Delhi",
-		"DL_Shahdara",
-		"DL_South East Delhi",
-		"DL_West Delhi"
-	],
-	"DL_East Delhi": [
-		"DL_Central Delhi",
-		"DL_Shahdara",
-		"DL_South East Delhi",
-		"UP_Gautam Buddha Nagar",
-		"UP_Ghaziabad"
-	],
 	"DL_New Delhi": [
-		"DL_Central Delhi",
-		"DL_South Delhi",
-		"DL_South East Delhi",
-		"DL_South West Delhi",
-		"DL_West Delhi",
-		"HR_Gurugram"
-	],
-	"DL_North Delhi": [
-		"DL_Central Delhi",
-		"DL_North East Delhi",
-		"DL_North West Delhi",
+		"HR_Faridabad",
+		"HR_Gurugram",
+		"HR_Jhajjar",
 		"HR_Sonipat",
 		"UP_Baghpat",
+		"UP_Gautam Buddha Nagar",
 		"UP_Ghaziabad"
-	],
-	"DL_North East Delhi": [
-		"DL_Central Delhi",
-		"DL_North Delhi",
-		"DL_Shahdara",
-		"UP_Ghaziabad"
-	],
-	"DL_North West Delhi": [
-		"DL_Central Delhi",
-		"DL_North Delhi",
-		"DL_West Delhi",
-		"HR_Jhajjar",
-		"HR_Sonipat"
-	],
-	"DL_Shahdara": [
-		"DL_Central Delhi",
-		"DL_East Delhi",
-		"DL_North East Delhi",
-		"UP_Ghaziabad"
-	],
-	"DL_South Delhi": [
-		"DL_New Delhi",
-		"DL_South East Delhi",
-		"HR_Faridabad",
-		"HR_Gurugram"
-	],
-	"DL_South East Delhi": [
-		"DL_Central Delhi",
-		"DL_East Delhi",
-		"DL_New Delhi",
-		"DL_South Delhi",
-		"HR_Faridabad",
-		"UP_Gautam Buddha Nagar"
-	],
-	"DL_South West Delhi": [
-		"DL_New Delhi",
-		"DL_West Delhi",
-		"HR_Gurugram",
-		"HR_Jhajjar"
-	],
-	"DL_West Delhi": [
-		"DL_Central Delhi",
-		"DL_New Delhi",
-		"DL_North West Delhi",
-		"DL_South West Delhi",
-		"HR_Jhajjar"
 	],
 	"DN_Dadra and Nagar Haveli": [
 		"AP_Chittoor",
@@ -1498,11 +1428,14 @@
 		"RJ_Jhunjhunu"
 	],
 	"HR_Faridabad": [
-		"DL_South Delhi",
-		"DL_South East Delhi",
+		"DL_New Delhi",
 		"HR_Gurugram",
+		"HR_Jhajjar",
 		"HR_Palwal",
-		"UP_Gautam Buddha Nagar"
+		"HR_Sonipat",
+		"UP_Baghpat",
+		"UP_Gautam Buddha Nagar",
+		"UP_Ghaziabad"
 	],
 	"HR_Fatehabad": [
 		"HR_Hisar",
@@ -1514,13 +1447,15 @@
 	],
 	"HR_Gurugram": [
 		"DL_New Delhi",
-		"DL_South Delhi",
-		"DL_South West Delhi",
 		"HR_Faridabad",
 		"HR_Jhajjar",
 		"HR_Nuh",
 		"HR_Palwal",
-		"HR_Rewari"
+		"HR_Rewari",
+		"HR_Sonipat",
+		"UP_Baghpat",
+		"UP_Gautam Buddha Nagar",
+		"UP_Ghaziabad"
 	],
 	"HR_Hisar": [
 		"HR_Charkhi Dadri",
@@ -1533,15 +1468,17 @@
 		"RJ_Jhunjhunu"
 	],
 	"HR_Jhajjar": [
-		"DL_North West Delhi",
-		"DL_South West Delhi",
-		"DL_West Delhi",
+		"DL_New Delhi",
 		"HR_Charkhi Dadri",
+		"HR_Faridabad",
 		"HR_Gurugram",
 		"HR_Mahendragarh",
 		"HR_Rewari",
 		"HR_Rohtak",
-		"HR_Sonipat"
+		"HR_Sonipat",
+		"UP_Baghpat",
+		"UP_Gautam Buddha Nagar",
+		"UP_Ghaziabad"
 	],
 	"HR_Jind": [
 		"HR_Fatehabad",
@@ -1649,13 +1586,16 @@
 		"RJ_Hanumangarh"
 	],
 	"HR_Sonipat": [
-		"DL_North Delhi",
-		"DL_North West Delhi",
+		"DL_New Delhi",
+		"HR_Faridabad",
+		"HR_Gurugram",
 		"HR_Jhajjar",
 		"HR_Jind",
 		"HR_Panipat",
 		"HR_Rohtak",
-		"UP_Baghpat"
+		"UP_Baghpat",
+		"UP_Gautam Buddha Nagar",
+		"UP_Ghaziabad"
 	],
 	"HR_Yamunanagar": [
 		"HP_Sirmaur",
@@ -5424,7 +5364,7 @@
 		"UP_Basti",
 		"UP_Gonda",
 		"UP_Gorakhpur",
-		"UP_Siddharthnagar",
+		"UP_Sant Kabir Nagar",
 		"UP_Sultanpur"
 	],
 	"UP_Amethi": [
@@ -5451,9 +5391,13 @@
 		"UP_Sultanpur"
 	],
 	"UP_Baghpat": [
-		"DL_North Delhi",
+		"DL_New Delhi",
+		"HR_Faridabad",
+		"HR_Gurugram",
+		"HR_Jhajjar",
 		"HR_Panipat",
 		"HR_Sonipat",
+		"UP_Gautam Buddha Nagar",
 		"UP_Ghaziabad",
 		"UP_Meerut",
 		"UP_Muzaffarnagar",
@@ -5514,7 +5458,7 @@
 		"UP_Amethi",
 		"UP_Barabanki",
 		"UP_Gonda",
-		"UP_Gorakhpur",
+		"UP_Sant Kabir Nagar",
 		"UP_Siddharthnagar",
 		"UP_Sultanpur"
 	],
@@ -5616,20 +5560,24 @@
 		"UP_Mainpuri"
 	],
 	"UP_Gautam Buddha Nagar": [
-		"DL_East Delhi",
-		"DL_South East Delhi",
+		"DL_New Delhi",
 		"HR_Faridabad",
+		"HR_Gurugram",
+		"HR_Jhajjar",
 		"HR_Palwal",
+		"HR_Sonipat",
 		"UP_Aligarh",
+		"UP_Baghpat",
 		"UP_Bulandshahr",
 		"UP_Ghaziabad",
 		"UP_Hapur"
 	],
 	"UP_Ghaziabad": [
-		"DL_East Delhi",
-		"DL_North Delhi",
-		"DL_North East Delhi",
-		"DL_Shahdara",
+		"DL_New Delhi",
+		"HR_Faridabad",
+		"HR_Gurugram",
+		"HR_Jhajjar",
+		"HR_Sonipat",
 		"UP_Baghpat",
 		"UP_Gautam Buddha Nagar",
 		"UP_Hapur",
@@ -5660,11 +5608,11 @@
 	"UP_Gorakhpur": [
 		"UP_Ambedkar Nagar",
 		"UP_Azamgarh",
-		"UP_Basti",
 		"UP_Deoria",
 		"UP_Kushinagar",
 		"UP_Maharajganj",
 		"UP_Mau",
+		"UP_Sant Kabir Nagar",
 		"UP_Siddharthnagar"
 	],
 	"UP_Hamirpur": [
@@ -5929,6 +5877,12 @@
 		"UP_Meerut",
 		"UP_Moradabad"
 	],
+	"UP_Sant Kabir Nagar": [
+		"UP_Ambedkar Nagar",
+		"UP_Basti",
+		"UP_Gorakhpur",
+		"UP_Siddharthnagar"
+	],
 	"UP_Shahjahanpur": [
 		"UP_Bahraich",
 		"UP_Bareilly",
@@ -5951,12 +5905,12 @@
 		"UP_Gonda"
 	],
 	"UP_Siddharthnagar": [
-		"UP_Ambedkar Nagar",
 		"UP_Balrampur1",
 		"UP_Basti",
 		"UP_Gonda",
 		"UP_Gorakhpur",
-		"UP_Maharajganj"
+		"UP_Maharajganj",
+		"UP_Sant Kabir Nagar"
 	],
 	"UP_Sitapur": [
 		"UP_Bahraich",

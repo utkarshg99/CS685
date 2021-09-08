@@ -45,20 +45,20 @@ statel = [(states_dt[k]["rat"], k) for k in states_dt.keys()]
 distl.sort()
 statel.sort()
 
-with open("out/vaccine-type-ratio-district.csv", "w") as vctrd:
+with open("out/district-vaccine-type-ratio.csv", "w") as vctrd:
     lines = ["districtid,vaccineratio\n"]
     for d in distl:
-        lines.append(d[1]+","+str(d[0])+"\n")
+        lines.append(d[1]+","+(str(d[0]) if d[0] != 1e9 else "NA")+"\n")
     vctrd.writelines(lines)
 
-with open("out/vaccine-type-ratio-state.csv", "w") as vctrs:
+with open("out/state-vaccine-type-ratio.csv", "w") as vctrs:
     lines = ["stateid,vaccineratio\n"]
     for s in statel:
-        lines.append(s[1]+","+str(s[0])+"\n")
+        lines.append(s[1]+","+(str(s[0]) if s[0] != 1e9 else "NA\n")+"\n")
     vctrs.writelines(lines)
 
-with open("out/vaccine-type-ratio-overall.csv", "w") as vctro:
-    vctro.writelines(["overallid,vaccineratio\n", "1,"+str(ov)+"\n"])
+with open("out/overall-vaccine-type-ratio.csv", "w") as vctro:
+    vctro.writelines(["overallid,vaccineratio\n", "1,"+(str(ov) if ov != 1e9 else "NA")+"\n"])
 
 with open("meta/vacc_ratios.json", "w") as vcrjs:
     json.dump(vacRatios, vcrjs, indent="\t")

@@ -1,9 +1,4 @@
 {
-	"AN": [
-		"nicobars",
-		"north_and_middle_andaman",
-		"south_andaman"
-	],
 	"AP": [
 		"anantapur",
 		"chittoor",
@@ -151,21 +146,10 @@
 		"sukma",
 		"surajpur",
 		"surguja",
-		"uttar_bastar_kanker",
-		"gaurela_pendra_marwahi"
+		"uttar_bastar_kanker"
 	],
 	"DL": [
-		"central_delhi",
-		"east_delhi",
-		"new_delhi",
-		"north_delhi",
-		"north_east_delhi",
-		"north_west_delhi",
-		"shahdara",
-		"south_delhi",
-		"south_east_delhi",
-		"south_west_delhi",
-		"west_delhi"
+		"new_delhi"
 	],
 	"DN": [
 		"dadra_and_nagar_haveli",
@@ -271,7 +255,6 @@
 		"ramgarh",
 		"ranchi",
 		"sahibganj",
-		"saraikela-kharsawan",
 		"simdega",
 		"west_singhbhum"
 	],
@@ -562,8 +545,7 @@
 	"PY": [
 		"karaikal",
 		"mahe",
-		"puducherry",
-		"yanam"
+		"puducherry"
 	],
 	"RJ": [
 		"ajmer",
@@ -601,10 +583,7 @@
 		"udaipur"
 	],
 	"SK": [
-		"east_sikkim",
-		"north_sikkim",
-		"south_sikkim",
-		"west_sikkim"
+		"sikkim"
 	],
 	"TG": [
 		"adilabad",
@@ -643,7 +622,6 @@
 	],
 	"TN": [
 		"ariyalur",
-		"chengalpattu",
 		"chennai",
 		"coimbatore",
 		"cuddalore",
@@ -665,7 +643,6 @@
 		"ranipet",
 		"salem",
 		"sivaganga",
-		"tenkasi",
 		"thanjavur",
 		"theni",
 		"thiruvallur",
@@ -673,7 +650,6 @@
 		"thoothukkudi",
 		"tiruchirappalli",
 		"tirunelveli",
-		"tirupathur",
 		"tiruppur",
 		"tiruvannamalai",
 		"vellore",

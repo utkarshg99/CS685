@@ -66,11 +66,11 @@ for st in state_district_map.keys():
             totf += census[dist]["f"]
             vm += ovm[dist]
             vf += ovf[dist]
-    state_ratios[st]["mfv"] = state_ratios[st]["vm"]/state_ratios[st]["vf"]
-    state_ratios[st]["mfp"] = state_ratios[st]["totm"]/state_ratios[st]["totf"]
-    state_ratios[st]["popr"] = state_ratios[st]["mfv"]/state_ratios[st]["mfp"]
+    state_ratios[st]["mfv"] = state_ratios[st]["vm"]/state_ratios[st]["vf"] if state_ratios[st]["vf"] != 0 else 1e9
+    state_ratios[st]["mfp"] = state_ratios[st]["totm"]/state_ratios[st]["totf"] if state_ratios[st]["totf"] != 0 else 1e9
+    state_ratios[st]["popr"] = state_ratios[st]["mfv"]/state_ratios[st]["mfp"] if state_ratios[st]["mfp"] != 0 else 1e9
 
-with open("out/vaccination-population-ratio-district.csv", "w") as vcprd:
+with open("out/district-vaccination-population-ratio.csv", "w") as vcprd:
     lines = ["districtid,vaccinationratio,populationratio,ratioofratios\n"]
     lst = []
     for dkey in dist_ratios.keys():
@@ -81,7 +81,7 @@ with open("out/vaccination-population-ratio-district.csv", "w") as vcprd:
         lines.append(distnamekey[dkey]+","+str(dist_ratios[dkey]["mfv"])+","+str(dist_ratios[dkey]["mfp"])+","+str(dist_ratios[dkey]["popr"])+"\n")
     vcprd.writelines(lines)
 
-with open("out/vaccination-population-ratio-state.csv", "w") as vcprs:
+with open("out/state-vaccination-population-ratio.csv", "w") as vcprs:
     lines = ["stateid,vaccinationratio,populationratio,ratioofratios\n"]
     lst = []
     for skey in state_ratios.keys():
@@ -92,7 +92,7 @@ with open("out/vaccination-population-ratio-state.csv", "w") as vcprs:
         lines.append(skey+","+str(state_ratios[skey]["mfv"])+","+str(state_ratios[skey]["mfp"])+","+str(state_ratios[skey]["popr"])+"\n")
     vcprs.writelines(lines)
 
-with open("out/vaccination-population-ratio-overall.csv", "w") as vcpro:
+with open("out/overall-vaccination-population-ratio.csv", "w") as vcpro:
     lines = ["overallid,vaccinationratio,populationratio,ratioofratios\n", "1,"+str(vm/vf)+","+str(totm/totf)+","+str((vm/vf)/(totm/totf))+"\n"]
     vcpro.writelines(lines)
 

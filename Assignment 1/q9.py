@@ -45,5 +45,5 @@ for st in state_district_map.keys():
 with open("out/complete-vaccination.csv", "w") as cmpvac:
     lines = ["stateid,populationleft,rateofvaccination,date\n"]
     for st in st_stats.keys():
-        lines.append(st+","+str(st_stats[st]["popl"])+","+str(st_stats[st]["vacr"])+","+st_stats[st]["date"].strftime('%d-%m-%Y')+"\n")
+        lines.append(st+","+str(st_stats[st]["popl"])+","+str(int(st_stats[st]["vacr"]))+","+st_stats[st]["date"].strftime('%d-%m-%Y')+"\n")
     cmpvac.writelines(lines)

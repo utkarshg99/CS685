@@ -1,55 +1,4 @@
 districtid,monthid,dose1,dose2
-AN_Nicobars,1,0,0
-AN_Nicobars,2,0,0
-AN_Nicobars,3,0,0
-AN_Nicobars,4,0,0
-AN_Nicobars,5,0,0
-AN_Nicobars,6,0,0
-AN_Nicobars,7,0,0
-AN_Nicobars,8,0,0
-AN_Nicobars,9,0,0
-AN_Nicobars,10,0,0
-AN_Nicobars,11,0,0
-AN_Nicobars,12,387,304
-AN_Nicobars,13,4893,227
-AN_Nicobars,14,2713,1356
-AN_Nicobars,15,429,19
-AN_Nicobars,16,8724,4665
-AN_Nicobars,17,4575,1539
-AN_North and Middle Andaman,1,0,0
-AN_North and Middle Andaman,2,0,0
-AN_North and Middle Andaman,3,0,0
-AN_North and Middle Andaman,4,0,0
-AN_North and Middle Andaman,5,0,0
-AN_North and Middle Andaman,6,0,0
-AN_North and Middle Andaman,7,0,0
-AN_North and Middle Andaman,8,0,0
-AN_North and Middle Andaman,9,0,0
-AN_North and Middle Andaman,10,0,0
-AN_North and Middle Andaman,11,0,0
-AN_North and Middle Andaman,12,904,942
-AN_North and Middle Andaman,13,13204,545
-AN_North and Middle Andaman,14,14791,1725
-AN_North and Middle Andaman,15,3629,80
-AN_North and Middle Andaman,16,17273,20461
-AN_North and Middle Andaman,17,17129,5528
-AN_South Andaman,1,0,0
-AN_South Andaman,2,0,0
-AN_South Andaman,3,0,0
-AN_South Andaman,4,0,0
-AN_South Andaman,5,0,0
-AN_South Andaman,6,0,0
-AN_South Andaman,7,0,0
-AN_South Andaman,8,0,0
-AN_South Andaman,9,0,0
-AN_South Andaman,10,0,0
-AN_South Andaman,11,0,0
-AN_South Andaman,12,7118,1522
-AN_South Andaman,13,20108,2401
-AN_South Andaman,14,32532,5786
-AN_South Andaman,15,12884,465
-AN_South Andaman,16,34384,29158
-AN_South Andaman,17,33992,20564
 AP_Anantapur,1,0,0
 AP_Anantapur,2,0,0
 AP_Anantapur,3,0,0
@@ -2107,23 +2056,6 @@ CT_Gariaband,14,11586,6462
 CT_Gariaband,15,910,309
 CT_Gariaband,16,36148,11691
 CT_Gariaband,17,25269,12041
-CT_Gaurela Pendra Marwahi,1,0,0
-CT_Gaurela Pendra Marwahi,2,0,0
-CT_Gaurela Pendra Marwahi,3,0,0
-CT_Gaurela Pendra Marwahi,4,0,0
-CT_Gaurela Pendra Marwahi,5,0,0
-CT_Gaurela Pendra Marwahi,6,0,0
-CT_Gaurela Pendra Marwahi,7,0,0
-CT_Gaurela Pendra Marwahi,8,0,0
-CT_Gaurela Pendra Marwahi,9,0,0
-CT_Gaurela Pendra Marwahi,10,0,0
-CT_Gaurela Pendra Marwahi,11,0,0
-CT_Gaurela Pendra Marwahi,12,5039,1312
-CT_Gaurela Pendra Marwahi,13,42076,2505
-CT_Gaurela Pendra Marwahi,14,17436,4232
-CT_Gaurela Pendra Marwahi,15,2108,716
-CT_Gaurela Pendra Marwahi,16,23641,5247
-CT_Gaurela Pendra Marwahi,17,18153,8790
 CT_Janjgir Champa,1,0,0
 CT_Janjgir Champa,2,0,0
 CT_Janjgir Champa,3,0,0
@@ -2396,40 +2328,6 @@ CT_Uttar Bastar Kanker,14,27040,16072
 CT_Uttar Bastar Kanker,15,2045,5176
 CT_Uttar Bastar Kanker,16,56545,15799
 CT_Uttar Bastar Kanker,17,32690,14520
-DL_Central Delhi,1,0,0
-DL_Central Delhi,2,0,0
-DL_Central Delhi,3,0,0
-DL_Central Delhi,4,0,0
-DL_Central Delhi,5,0,0
-DL_Central Delhi,6,0,0
-DL_Central Delhi,7,0,0
-DL_Central Delhi,8,0,0
-DL_Central Delhi,9,0,0
-DL_Central Delhi,10,0,0
-DL_Central Delhi,11,0,0
-DL_Central Delhi,12,35309,14087
-DL_Central Delhi,13,141033,30618
-DL_Central Delhi,14,161941,60085
-DL_Central Delhi,15,146036,50252
-DL_Central Delhi,16,225767,67882
-DL_Central Delhi,17,87946,84647
-DL_East Delhi,1,0,0
-DL_East Delhi,2,0,0
-DL_East Delhi,3,0,0
-DL_East Delhi,4,0,0
-DL_East Delhi,5,0,0
-DL_East Delhi,6,0,0
-DL_East Delhi,7,0,0
-DL_East Delhi,8,0,0
-DL_East Delhi,9,0,0
-DL_East Delhi,10,0,0
-DL_East Delhi,11,0,0
-DL_East Delhi,12,21730,6618
-DL_East Delhi,13,98711,15613
-DL_East Delhi,14,94300,34860
-DL_East Delhi,15,93753,23291
-DL_East Delhi,16,207078,54121
-DL_East Delhi,17,113776,104543
 DL_New Delhi,1,0,0
 DL_New Delhi,2,0,0
 DL_New Delhi,3,0,0
@@ -2441,148 +2339,12 @@ DL_New Delhi,8,0,0
 DL_New Delhi,9,0,0
 DL_New Delhi,10,0,0
 DL_New Delhi,11,0,0
-DL_New Delhi,12,28504,10201
-DL_New Delhi,13,123641,33024
-DL_New Delhi,14,117334,63342
-DL_New Delhi,15,96124,56897
-DL_New Delhi,16,157248,64472
-DL_New Delhi,17,110934,92042
-DL_North Delhi,1,0,0
-DL_North Delhi,2,0,0
-DL_North Delhi,3,0,0
-DL_North Delhi,4,0,0
-DL_North Delhi,5,0,0
-DL_North Delhi,6,0,0
-DL_North Delhi,7,0,0
-DL_North Delhi,8,0,0
-DL_North Delhi,9,0,0
-DL_North Delhi,10,0,0
-DL_North Delhi,11,0,0
-DL_North Delhi,12,22279,5375
-DL_North Delhi,13,96926,18712
-DL_North Delhi,14,121257,39539
-DL_North Delhi,15,69781,35917
-DL_North Delhi,16,249597,50936
-DL_North Delhi,17,95297,76270
-DL_North East Delhi,1,0,0
-DL_North East Delhi,2,0,0
-DL_North East Delhi,3,0,0
-DL_North East Delhi,4,0,0
-DL_North East Delhi,5,0,0
-DL_North East Delhi,6,0,0
-DL_North East Delhi,7,0,0
-DL_North East Delhi,8,0,0
-DL_North East Delhi,9,0,0
-DL_North East Delhi,10,0,0
-DL_North East Delhi,11,0,0
-DL_North East Delhi,12,25985,8011
-DL_North East Delhi,13,72811,19616
-DL_North East Delhi,14,78797,35062
-DL_North East Delhi,15,85842,24106
-DL_North East Delhi,16,190814,33044
-DL_North East Delhi,17,57185,44858
-DL_North West Delhi,1,0,0
-DL_North West Delhi,2,0,0
-DL_North West Delhi,3,0,0
-DL_North West Delhi,4,0,0
-DL_North West Delhi,5,0,0
-DL_North West Delhi,6,0,0
-DL_North West Delhi,7,0,0
-DL_North West Delhi,8,0,0
-DL_North West Delhi,9,0,0
-DL_North West Delhi,10,0,0
-DL_North West Delhi,11,0,0
-DL_North West Delhi,12,39212,15370
-DL_North West Delhi,13,175716,25724
-DL_North West Delhi,14,172098,71662
-DL_North West Delhi,15,137141,55479
-DL_North West Delhi,16,237906,88659
-DL_North West Delhi,17,171734,131011
-DL_Shahdara,1,0,0
-DL_Shahdara,2,0,0
-DL_Shahdara,3,0,0
-DL_Shahdara,4,0,0
-DL_Shahdara,5,0,0
-DL_Shahdara,6,0,0
-DL_Shahdara,7,0,0
-DL_Shahdara,8,0,0
-DL_Shahdara,9,0,0
-DL_Shahdara,10,0,0
-DL_Shahdara,11,0,0
-DL_Shahdara,12,15084,8127
-DL_Shahdara,13,122480,23365
-DL_Shahdara,14,96142,35295
-DL_Shahdara,15,72435,18174
-DL_Shahdara,16,147979,45627
-DL_Shahdara,17,97373,89235
-DL_South Delhi,1,0,0
-DL_South Delhi,2,0,0
-DL_South Delhi,3,0,0
-DL_South Delhi,4,0,0
-DL_South Delhi,5,0,0
-DL_South Delhi,6,0,0
-DL_South Delhi,7,0,0
-DL_South Delhi,8,0,0
-DL_South Delhi,9,0,0
-DL_South Delhi,10,0,0
-DL_South Delhi,11,0,0
-DL_South Delhi,12,36738,12209
-DL_South Delhi,13,140075,38352
-DL_South Delhi,14,126193,62259
-DL_South Delhi,15,227689,51942
-DL_South Delhi,16,241560,68487
-DL_South Delhi,17,113652,110052
-DL_South East Delhi,1,0,0
-DL_South East Delhi,2,0,0
-DL_South East Delhi,3,0,0
-DL_South East Delhi,4,0,0
-DL_South East Delhi,5,0,0
-DL_South East Delhi,6,0,0
-DL_South East Delhi,7,0,0
-DL_South East Delhi,8,0,0
-DL_South East Delhi,9,0,0
-DL_South East Delhi,10,0,0
-DL_South East Delhi,11,0,0
-DL_South East Delhi,12,22919,11486
-DL_South East Delhi,13,134370,24775
-DL_South East Delhi,14,119799,54842
-DL_South East Delhi,15,169727,56670
-DL_South East Delhi,16,208168,62109
-DL_South East Delhi,17,116339,99032
-DL_South West Delhi,1,0,0
-DL_South West Delhi,2,0,0
-DL_South West Delhi,3,0,0
-DL_South West Delhi,4,0,0
-DL_South West Delhi,5,0,0
-DL_South West Delhi,6,0,0
-DL_South West Delhi,7,0,0
-DL_South West Delhi,8,0,0
-DL_South West Delhi,9,0,0
-DL_South West Delhi,10,0,0
-DL_South West Delhi,11,0,0
-DL_South West Delhi,12,34577,11845
-DL_South West Delhi,13,152142,24821
-DL_South West Delhi,14,169913,64122
-DL_South West Delhi,15,134296,37953
-DL_South West Delhi,16,242610,78018
-DL_South West Delhi,17,151855,149194
-DL_West Delhi,1,0,0
-DL_West Delhi,2,0,0
-DL_West Delhi,3,0,0
-DL_West Delhi,4,0,0
-DL_West Delhi,5,0,0
-DL_West Delhi,6,0,0
-DL_West Delhi,7,0,0
-DL_West Delhi,8,0,0
-DL_West Delhi,9,0,0
-DL_West Delhi,10,0,0
-DL_West Delhi,11,0,0
-DL_West Delhi,12,37784,15510
-DL_West Delhi,13,215072,30287
-DL_West Delhi,14,153110,82162
-DL_West Delhi,15,75589,44461
-DL_West Delhi,16,203166,73814
-DL_West Delhi,17,132447,132863
+DL_New Delhi,12,320119,118839
+DL_New Delhi,13,1472979,284907
+DL_New Delhi,14,1410375,603230
+DL_New Delhi,15,1308922,455142
+DL_New Delhi,16,2311893,687169
+DL_New Delhi,17,1248538,1113747
 DN_Dadra and Nagar Haveli,1,0,0
 DN_Dadra and Nagar Haveli,2,0,0
 DN_Dadra and Nagar Haveli,3,0,0
@@ -4300,23 +4062,6 @@ JH_Sahibganj,14,10585,6819
 JH_Sahibganj,15,53590,2478
 JH_Sahibganj,16,75663,11801
 JH_Sahibganj,17,79220,15840
-JH_Saraikela-Kharsawan,1,0,0
-JH_Saraikela-Kharsawan,2,0,0
-JH_Saraikela-Kharsawan,3,0,0
-JH_Saraikela-Kharsawan,4,0,0
-JH_Saraikela-Kharsawan,5,0,0
-JH_Saraikela-Kharsawan,6,0,0
-JH_Saraikela-Kharsawan,7,0,0
-JH_Saraikela-Kharsawan,8,0,0
-JH_Saraikela-Kharsawan,9,0,0
-JH_Saraikela-Kharsawan,10,0,0
-JH_Saraikela-Kharsawan,11,0,0
-JH_Saraikela-Kharsawan,12,5545,4682
-JH_Saraikela-Kharsawan,13,60451,4979
-JH_Saraikela-Kharsawan,14,23462,11526
-JH_Saraikela-Kharsawan,15,48309,5567
-JH_Saraikela-Kharsawan,16,59384,14663
-JH_Saraikela-Kharsawan,17,73330,26182
 JH_Simdega,1,0,0
 JH_Simdega,2,0,0
 JH_Simdega,3,0,0
@@ -8703,23 +8448,6 @@ PY_Puducherry,14,43359,0
 PY_Puducherry,15,75141,0
 PY_Puducherry,16,170745,41788
 PY_Puducherry,17,75784,23415
-PY_Yanam,1,0,0
-PY_Yanam,2,0,0
-PY_Yanam,3,0,0
-PY_Yanam,4,0,0
-PY_Yanam,5,0,0
-PY_Yanam,6,0,0
-PY_Yanam,7,0,0
-PY_Yanam,8,0,0
-PY_Yanam,9,0,0
-PY_Yanam,10,0,0
-PY_Yanam,11,0,0
-PY_Yanam,12,694,193
-PY_Yanam,13,1595,1283
-PY_Yanam,14,3343,234
-PY_Yanam,15,3929,36
-PY_Yanam,16,10422,1059
-PY_Yanam,17,6456,2323
 RJ_Ajmer,1,0,0
 RJ_Ajmer,2,0,0
 RJ_Ajmer,3,0,0
@@ -9298,74 +9026,23 @@ RJ_Udaipur,14,104545,57992
 RJ_Udaipur,15,246475,21315
 RJ_Udaipur,16,203796,86634
 RJ_Udaipur,17,259076,140472
-SK_East Sikkim,1,0,0
-SK_East Sikkim,2,0,0
-SK_East Sikkim,3,0,0
-SK_East Sikkim,4,0,0
-SK_East Sikkim,5,0,0
-SK_East Sikkim,6,0,0
-SK_East Sikkim,7,0,0
-SK_East Sikkim,8,0,0
-SK_East Sikkim,9,0,0
-SK_East Sikkim,10,0,0
-SK_East Sikkim,11,0,0
-SK_East Sikkim,12,11062,4183
-SK_East Sikkim,13,42151,4843
-SK_East Sikkim,14,23264,19718
-SK_East Sikkim,15,27334,172
-SK_East Sikkim,16,106067,30640
-SK_East Sikkim,17,38019,20618
-SK_North Sikkim,1,0,0
-SK_North Sikkim,2,0,0
-SK_North Sikkim,3,0,0
-SK_North Sikkim,4,0,0
-SK_North Sikkim,5,0,0
-SK_North Sikkim,6,0,0
-SK_North Sikkim,7,0,0
-SK_North Sikkim,8,0,0
-SK_North Sikkim,9,0,0
-SK_North Sikkim,10,0,0
-SK_North Sikkim,11,0,0
-SK_North Sikkim,12,2749,775
-SK_North Sikkim,13,5156,1207
-SK_North Sikkim,14,1911,2557
-SK_North Sikkim,15,4093,5
-SK_North Sikkim,16,15924,3679
-SK_North Sikkim,17,1077,1363
-SK_South Sikkim,1,0,0
-SK_South Sikkim,2,0,0
-SK_South Sikkim,3,0,0
-SK_South Sikkim,4,0,0
-SK_South Sikkim,5,0,0
-SK_South Sikkim,6,0,0
-SK_South Sikkim,7,0,0
-SK_South Sikkim,8,0,0
-SK_South Sikkim,9,0,0
-SK_South Sikkim,10,0,0
-SK_South Sikkim,11,0,0
-SK_South Sikkim,12,11235,1283
-SK_South Sikkim,13,21747,1421
-SK_South Sikkim,14,5388,11877
-SK_South Sikkim,15,17670,51
-SK_South Sikkim,16,52417,18383
-SK_South Sikkim,17,7016,3548
-SK_West Sikkim,1,0,0
-SK_West Sikkim,2,0,0
-SK_West Sikkim,3,0,0
-SK_West Sikkim,4,0,0
-SK_West Sikkim,5,0,0
-SK_West Sikkim,6,0,0
-SK_West Sikkim,7,0,0
-SK_West Sikkim,8,0,0
-SK_West Sikkim,9,0,0
-SK_West Sikkim,10,0,0
-SK_West Sikkim,11,0,0
-SK_West Sikkim,12,6028,1344
-SK_West Sikkim,13,16362,2189
-SK_West Sikkim,14,11026,8186
-SK_West Sikkim,15,11182,25
-SK_West Sikkim,16,50229,13049
-SK_West Sikkim,17,3680,6926
+SK_Sikkim,1,0,0
+SK_Sikkim,2,0,0
+SK_Sikkim,3,0,0
+SK_Sikkim,4,0,0
+SK_Sikkim,5,0,0
+SK_Sikkim,6,0,0
+SK_Sikkim,7,0,0
+SK_Sikkim,8,0,0
+SK_Sikkim,9,0,0
+SK_Sikkim,10,0,0
+SK_Sikkim,11,0,0
+SK_Sikkim,12,31074,7585
+SK_Sikkim,13,85416,9660
+SK_Sikkim,14,41587,42338
+SK_Sikkim,15,60281,253
+SK_Sikkim,16,224637,65751
+SK_Sikkim,17,49792,32455
 TG_Adilabad,1,0,0
 TG_Adilabad,2,0,0
 TG_Adilabad,3,0,0
@@ -9944,23 +9621,6 @@ TN_Ariyalur,14,18102,7188
 TN_Ariyalur,15,35220,2256
 TN_Ariyalur,16,63342,9060
 TN_Ariyalur,17,46965,11172
-TN_Chengalpattu,1,0,0
-TN_Chengalpattu,2,0,0
-TN_Chengalpattu,3,0,0
-TN_Chengalpattu,4,0,0
-TN_Chengalpattu,5,0,0
-TN_Chengalpattu,6,0,0
-TN_Chengalpattu,7,0,0
-TN_Chengalpattu,8,0,0
-TN_Chengalpattu,9,0,0
-TN_Chengalpattu,10,0,0
-TN_Chengalpattu,11,0,0
-TN_Chengalpattu,12,30872,3785
-TN_Chengalpattu,13,112136,13157
-TN_Chengalpattu,14,72151,61090
-TN_Chengalpattu,15,136141,9144
-TN_Chengalpattu,16,182312,44928
-TN_Chengalpattu,17,183240,62384
 TN_Chennai,1,0,0
 TN_Chennai,2,0,0
 TN_Chennai,3,0,0
@@ -10386,23 +10046,6 @@ TN_Sivaganga,14,21114,13912
 TN_Sivaganga,15,57548,4856
 TN_Sivaganga,16,115042,9920
 TN_Sivaganga,17,130560,22021
-TN_Tenkasi,1,0,0
-TN_Tenkasi,2,0,0
-TN_Tenkasi,3,0,0
-TN_Tenkasi,4,0,0
-TN_Tenkasi,5,0,0
-TN_Tenkasi,6,0,0
-TN_Tenkasi,7,0,0
-TN_Tenkasi,8,0,0
-TN_Tenkasi,9,0,0
-TN_Tenkasi,10,0,0
-TN_Tenkasi,11,0,0
-TN_Tenkasi,12,10646,748
-TN_Tenkasi,13,25055,4577
-TN_Tenkasi,14,15412,14208
-TN_Tenkasi,15,61585,2787
-TN_Tenkasi,16,99611,12834
-TN_Tenkasi,17,104953,19419
 TN_Thanjavur,1,0,0
 TN_Thanjavur,2,0,0
 TN_Thanjavur,3,0,0
@@ -10556,23 +10199,6 @@ TN_Tirunelveli,14,20597,18483
 TN_Tirunelveli,15,82104,5005
 TN_Tirunelveli,16,122254,18433
 TN_Tirunelveli,17,105511,22693
-TN_Tirupathur,1,0,0
-TN_Tirupathur,2,0,0
-TN_Tirupathur,3,0,0
-TN_Tirupathur,4,0,0
-TN_Tirupathur,5,0,0
-TN_Tirupathur,6,0,0
-TN_Tirupathur,7,0,0
-TN_Tirupathur,8,0,0
-TN_Tirupathur,9,0,0
-TN_Tirupathur,10,0,0
-TN_Tirupathur,11,0,0
-TN_Tirupathur,12,11550,1149
-TN_Tirupathur,13,28453,4001
-TN_Tirupathur,14,19908,13243
-TN_Tirupathur,15,63828,3867
-TN_Tirupathur,16,78855,16471
-TN_Tirupathur,17,73830,18458
 TN_Tiruppur,1,0,0
 TN_Tiruppur,2,0,0
 TN_Tiruppur,3,0,0

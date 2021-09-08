@@ -43,11 +43,6 @@ for k in distnamekey.keys():
     if convt_data[k] == {}:
         not_in_cowin.append(k)
 
-with open("meta/q3_log.txt", "w") as mq3:
-    mq3.write(str(set(lst))+"\n")
-    mq3.write(str(not_in_cowin)+"\n")
-    lst.clear()
-
 with open("meta/covid_cases.json", "w") as ccjs:
     json.dump(convt_data, ccjs, indent="\t")
 
@@ -155,7 +150,8 @@ with open("out/cases-week.csv", "w") as cwcsv:
     dsts = wkdt["1"].keys()
     for j in dsts:
         for k in range(1, nwks+1):
-            lines.append(distnamekey[j]+","+str(k)+","+str(wkdt[str(k)][j])+"\n")
+            if k%2 == 1:
+                lines.append(distnamekey[j]+","+str(int((k+1)/2))+","+str(wkdt[str(k)][j])+"\n")
     cwcsv.writelines(lines)
     
 with open("out/cases-month.csv", "w") as cmncsv:

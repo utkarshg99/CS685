@@ -583,6 +583,7 @@ UP_Gonda,UP_Balrampur1
 UP_Balrampur1,UP_Shrawasti
 UP_Balrampur1,UP_Siddharthnagar
 UP_Siddharthnagar,UP_Basti
+UP_Basti,UP_Sant Kabir Nagar
 UP_Basti,UP_Sultanpur
 UP_Sultanpur,UP_Azamgarh
 UP_Azamgarh,UP_Ghazipur
@@ -999,24 +1000,9 @@ PB_Ferozepur,PB_Tarn Taran
 PB_Ferozepur,RJ_Hanumangarh
 RJ_Hanumangarh,HR_Rohtak
 HR_Rohtak,HR_Jhajjar
-HR_Jhajjar,DL_North West Delhi
-DL_North West Delhi,DL_Central Delhi
-DL_Central Delhi,DL_East Delhi
-DL_East Delhi,DL_Shahdara
-DL_Shahdara,DL_North East Delhi
-DL_North East Delhi,DL_North Delhi
-DL_North Delhi,HR_Sonipat
-HR_Sonipat,HR_Panipat
-HR_Panipat,UP_Baghpat
-UP_Baghpat,UP_Ghaziabad
-UP_Ghaziabad,UP_Gautam Buddha Nagar
-UP_Gautam Buddha Nagar,DL_South East Delhi
-DL_South East Delhi,DL_New Delhi
-DL_New Delhi,DL_South Delhi
-DL_South Delhi,HR_Faridabad
+HR_Jhajjar,DL_New Delhi
+DL_New Delhi,HR_Faridabad
 HR_Faridabad,HR_Gurugram
-HR_Gurugram,DL_South West Delhi
-DL_South West Delhi,DL_West Delhi
 HR_Gurugram,HR_Nuh
 HR_Nuh,HR_Palwal
 HR_Palwal,UP_Aligarh
@@ -1142,7 +1128,12 @@ UP_Pilibhit,UP_Sitapur
 UP_Pilibhit,UT_Udham Singh Nagar
 UT_Udham Singh Nagar,UP_Bijnor
 UP_Bijnor,UP_Bulandshahr
-UP_Bulandshahr,UP_Hapur
+UP_Bulandshahr,UP_Gautam Buddha Nagar
+UP_Gautam Buddha Nagar,HR_Sonipat
+HR_Sonipat,HR_Panipat
+HR_Panipat,UP_Baghpat
+UP_Baghpat,UP_Ghaziabad
+UP_Ghaziabad,UP_Hapur
 UP_Hapur,UP_Meerut
 UP_Meerut,UP_Moradabad
 UP_Moradabad,UP_Rampur
@@ -1183,6 +1174,17 @@ UP_Muzaffarnagar,UT_Haridwar
 UP_Meerut,UP_Sambhal
 UP_Hapur,UP_Moradabad
 UP_Hapur,UP_Sambhal
+UP_Ghaziabad,UP_Meerut
+UP_Baghpat,UP_Meerut
+UP_Baghpat,UP_Muzaffarnagar
+UP_Baghpat,UP_Shamli
+HR_Panipat,UP_Shamli
+HR_Sonipat,UP_Baghpat
+HR_Sonipat,UP_Ghaziabad
+UP_Gautam Buddha Nagar,UP_Baghpat
+UP_Gautam Buddha Nagar,UP_Ghaziabad
+UP_Gautam Buddha Nagar,UP_Hapur
+UP_Bulandshahr,UP_Hapur
 UP_Bulandshahr,UP_Meerut
 UP_Bulandshahr,UP_Moradabad
 UP_Bulandshahr,UP_Sambhal
@@ -1208,10 +1210,12 @@ UP_Budaun,UP_Rampur
 UP_Budaun,UP_Sambhal
 UP_Budaun,UP_Shahjahanpur
 UP_Aligarh,UP_Bulandshahr
+UP_Aligarh,UP_Gautam Buddha Nagar
 UP_Aligarh,UP_Hathras
 UP_Aligarh,UP_Kasganj
 UP_Aligarh,UP_Mathura
 UP_Aligarh,UP_Sambhal
+HR_Palwal,UP_Gautam Buddha Nagar
 HR_Palwal,UP_Mathura
 HR_Nuh,HR_Rewari
 HR_Nuh,RJ_Alwar
@@ -1219,46 +1223,27 @@ HR_Nuh,RJ_Bharatpur
 HR_Nuh,UP_Mathura
 HR_Gurugram,HR_Palwal
 HR_Gurugram,HR_Rewari
+HR_Gurugram,HR_Sonipat
+HR_Gurugram,UP_Baghpat
+HR_Gurugram,UP_Gautam Buddha Nagar
+HR_Gurugram,UP_Ghaziabad
 HR_Faridabad,HR_Palwal
-DL_South Delhi,HR_Gurugram
-DL_New Delhi,DL_South West Delhi
-DL_New Delhi,DL_West Delhi
+HR_Faridabad,HR_Sonipat
+HR_Faridabad,UP_Baghpat
+HR_Faridabad,UP_Gautam Buddha Nagar
+HR_Faridabad,UP_Ghaziabad
 DL_New Delhi,HR_Gurugram
-DL_South East Delhi,DL_South Delhi
-DL_South East Delhi,HR_Faridabad
-UP_Gautam Buddha Nagar,HR_Faridabad
-UP_Gautam Buddha Nagar,HR_Palwal
-UP_Gautam Buddha Nagar,UP_Aligarh
-UP_Gautam Buddha Nagar,UP_Bulandshahr
-UP_Gautam Buddha Nagar,UP_Hapur
-UP_Ghaziabad,UP_Hapur
-UP_Ghaziabad,UP_Meerut
-UP_Baghpat,UP_Meerut
-UP_Baghpat,UP_Muzaffarnagar
-UP_Baghpat,UP_Shamli
-HR_Panipat,UP_Shamli
-HR_Sonipat,UP_Baghpat
-DL_North Delhi,UP_Baghpat
-DL_North Delhi,UP_Ghaziabad
-DL_North East Delhi,UP_Ghaziabad
-DL_Shahdara,UP_Ghaziabad
-DL_East Delhi,DL_South East Delhi
-DL_East Delhi,UP_Gautam Buddha Nagar
-DL_East Delhi,UP_Ghaziabad
-DL_Central Delhi,DL_New Delhi
-DL_Central Delhi,DL_North Delhi
-DL_Central Delhi,DL_North East Delhi
-DL_Central Delhi,DL_Shahdara
-DL_Central Delhi,DL_South East Delhi
-DL_Central Delhi,DL_West Delhi
-DL_North West Delhi,DL_North Delhi
-DL_North West Delhi,DL_West Delhi
-DL_North West Delhi,HR_Sonipat
-HR_Jhajjar,DL_South West Delhi
-HR_Jhajjar,DL_West Delhi
+DL_New Delhi,HR_Sonipat
+DL_New Delhi,UP_Baghpat
+DL_New Delhi,UP_Gautam Buddha Nagar
+DL_New Delhi,UP_Ghaziabad
+HR_Jhajjar,HR_Faridabad
 HR_Jhajjar,HR_Gurugram
 HR_Jhajjar,HR_Rewari
 HR_Jhajjar,HR_Sonipat
+HR_Jhajjar,UP_Baghpat
+HR_Jhajjar,UP_Gautam Buddha Nagar
+HR_Jhajjar,UP_Ghaziabad
 HR_Rohtak,HR_Sonipat
 HR_Rohtak,RJ_Churu
 HR_Rohtak,RJ_Jhunjhunu
@@ -1558,6 +1543,7 @@ UP_Azamgarh,UP_Mau
 UP_Sultanpur,UP_Jaunpur
 UP_Sultanpur,UP_Pratapgarh1
 UP_Siddharthnagar,UP_Maharajganj
+UP_Siddharthnagar,UP_Sant Kabir Nagar
 UP_Gonda,UP_Basti
 UP_Gonda,UP_Shrawasti
 UP_Gonda,UP_Siddharthnagar
@@ -1582,12 +1568,12 @@ UP_Ambedkar Nagar,UP_Azamgarh
 UP_Ambedkar Nagar,UP_Barabanki
 UP_Ambedkar Nagar,UP_Basti
 UP_Ambedkar Nagar,UP_Gonda
-UP_Ambedkar Nagar,UP_Siddharthnagar
+UP_Ambedkar Nagar,UP_Sant Kabir Nagar
 UP_Ambedkar Nagar,UP_Sultanpur
 UP_Gorakhpur,UP_Azamgarh
-UP_Gorakhpur,UP_Basti
 UP_Gorakhpur,UP_Maharajganj
 UP_Gorakhpur,UP_Mau
+UP_Gorakhpur,UP_Sant Kabir Nagar
 UP_Gorakhpur,UP_Siddharthnagar
 UP_Deoria,UP_Mau
 UP_Kushinagar,UP_Gorakhpur

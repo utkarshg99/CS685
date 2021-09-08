@@ -1801,23 +1801,6 @@ CT_Uttar Bastar Kanker,14,12148
 CT_Uttar Bastar Kanker,15,1915
 CT_Uttar Bastar Kanker,16,265
 CT_Uttar Bastar Kanker,17,314
-CT_Gaurela Pendra Marwahi,1,0
-CT_Gaurela Pendra Marwahi,2,0
-CT_Gaurela Pendra Marwahi,3,3
-CT_Gaurela Pendra Marwahi,4,4
-CT_Gaurela Pendra Marwahi,5,26
-CT_Gaurela Pendra Marwahi,6,158
-CT_Gaurela Pendra Marwahi,7,257
-CT_Gaurela Pendra Marwahi,8,220
-CT_Gaurela Pendra Marwahi,9,243
-CT_Gaurela Pendra Marwahi,10,239
-CT_Gaurela Pendra Marwahi,11,348
-CT_Gaurela Pendra Marwahi,12,28
-CT_Gaurela Pendra Marwahi,13,1023
-CT_Gaurela Pendra Marwahi,14,7367
-CT_Gaurela Pendra Marwahi,15,1969
-CT_Gaurela Pendra Marwahi,16,87
-CT_Gaurela Pendra Marwahi,17,34
 DL_New Delhi,1,0
 DL_New Delhi,2,8470
 DL_New Delhi,3,32712
@@ -3365,23 +3348,6 @@ JH_Sahibganj,14,1938
 JH_Sahibganj,15,423
 JH_Sahibganj,16,93
 JH_Sahibganj,17,38
-JH_Saraikela-Kharsawan,1,0
-JH_Saraikela-Kharsawan,2,0
-JH_Saraikela-Kharsawan,3,36
-JH_Saraikela-Kharsawan,4,71
-JH_Saraikela-Kharsawan,5,459
-JH_Saraikela-Kharsawan,6,1510
-JH_Saraikela-Kharsawan,7,1210
-JH_Saraikela-Kharsawan,8,244
-JH_Saraikela-Kharsawan,9,110
-JH_Saraikela-Kharsawan,10,43
-JH_Saraikela-Kharsawan,11,8
-JH_Saraikela-Kharsawan,12,21
-JH_Saraikela-Kharsawan,13,148
-JH_Saraikela-Kharsawan,14,2546
-JH_Saraikela-Kharsawan,15,731
-JH_Saraikela-Kharsawan,16,58
-JH_Saraikela-Kharsawan,17,9
 JH_Simdega,1,0
 JH_Simdega,2,2
 JH_Simdega,3,244
@@ -7547,23 +7513,6 @@ PY_Puducherry,14,27944
 PY_Puducherry,15,24872
 PY_Puducherry,16,5077
 PY_Puducherry,17,2071
-PY_Yanam,1,0
-PY_Yanam,2,0
-PY_Yanam,3,0
-PY_Yanam,4,35
-PY_Yanam,5,456
-PY_Yanam,6,815
-PY_Yanam,7,499
-PY_Yanam,8,241
-PY_Yanam,9,38
-PY_Yanam,10,29
-PY_Yanam,11,7
-PY_Yanam,12,8
-PY_Yanam,13,161
-PY_Yanam,14,2632
-PY_Yanam,15,1474
-PY_Yanam,16,159
-PY_Yanam,17,77
 RJ_Ajmer,1,0
 RJ_Ajmer,2,242
 RJ_Ajmer,3,182
@@ -8125,6 +8074,23 @@ RJ_Udaipur,14,30155
 RJ_Udaipur,15,6527
 RJ_Udaipur,16,140
 RJ_Udaipur,17,155
+SK_Sikkim,1,0
+SK_Sikkim,2,0
+SK_Sikkim,3,68
+SK_Sikkim,4,130
+SK_Sikkim,5,882
+SK_Sikkim,6,1039
+SK_Sikkim,7,1340
+SK_Sikkim,8,997
+SK_Sikkim,9,884
+SK_Sikkim,10,671
+SK_Sikkim,11,107
+SK_Sikkim,12,66
+SK_Sikkim,13,272
+SK_Sikkim,14,4399
+SK_Sikkim,15,7595
+SK_Sikkim,16,4342
+SK_Sikkim,17,5762
 TN_Ariyalur,1,0
 TN_Ariyalur,2,348
 TN_Ariyalur,3,44
@@ -8142,23 +8108,6 @@ TN_Ariyalur,14,2117
 TN_Ariyalur,15,6597
 TN_Ariyalur,16,1720
 TN_Ariyalur,17,665
-TN_Chengalpattu,1,0
-TN_Chengalpattu,2,430
-TN_Chengalpattu,3,2452
-TN_Chengalpattu,4,5671
-TN_Chengalpattu,5,11527
-TN_Chengalpattu,6,10663
-TN_Chengalpattu,7,9405
-TN_Chengalpattu,8,5589
-TN_Chengalpattu,9,3051
-TN_Chengalpattu,10,1969
-TN_Chengalpattu,11,1338
-TN_Chengalpattu,12,1490
-TN_Chengalpattu,13,9508
-TN_Chengalpattu,14,46208
-TN_Chengalpattu,15,42458
-TN_Chengalpattu,16,8011
-TN_Chengalpattu,17,3838
 TN_Chennai,1,0
 TN_Chennai,2,5637
 TN_Chennai,3,26259
@@ -8516,23 +8465,6 @@ TN_Sivaganga,14,3278
 TN_Sivaganga,15,5669
 TN_Sivaganga,16,1944
 TN_Sivaganga,17,712
-TN_Tenkasi,1,0
-TN_Tenkasi,2,54
-TN_Tenkasi,3,80
-TN_Tenkasi,4,690
-TN_Tenkasi,5,2901
-TN_Tenkasi,6,2619
-TN_Tenkasi,7,1325
-TN_Tenkasi,8,261
-TN_Tenkasi,9,241
-TN_Tenkasi,10,166
-TN_Tenkasi,11,154
-TN_Tenkasi,12,93
-TN_Tenkasi,13,689
-TN_Tenkasi,14,6262
-TN_Tenkasi,15,10115
-TN_Tenkasi,16,991
-TN_Tenkasi,17,303
 TN_Thanjavur,1,0
 TN_Thanjavur,2,70
 TN_Thanjavur,3,85
@@ -8652,23 +8584,6 @@ TN_Tirunelveli,14,17061
 TN_Tirunelveli,15,12159
 TN_Tirunelveli,16,822
 TN_Tirunelveli,17,713
-TN_Tirupathur,1,0
-TN_Tirupathur,2,28
-TN_Tirupathur,3,19
-TN_Tirupathur,4,414
-TN_Tirupathur,5,1471
-TN_Tirupathur,6,1851
-TN_Tirupathur,7,2120
-TN_Tirupathur,8,1114
-TN_Tirupathur,9,333
-TN_Tirupathur,10,176
-TN_Tirupathur,11,86
-TN_Tirupathur,12,50
-TN_Tirupathur,13,514
-TN_Tirupathur,14,5638
-TN_Tirupathur,15,12638
-TN_Tirupathur,16,1427
-TN_Tirupathur,17,563
 TN_Tiruppur,1,0
 TN_Tiruppur,2,114
 TN_Tiruppur,3,2

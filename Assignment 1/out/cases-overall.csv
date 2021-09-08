@@ -105,7 +105,6 @@ CT_Sukma,1,7975
 CT_Surajpur,1,29016
 CT_Surguja,1,33641
 CT_Uttar Bastar Kanker,1,23542
-CT_Gaurela Pendra Marwahi,1,12006
 DL_New Delhi,1,1437038
 DN_Dadra and Nagar Haveli,1,5905
 DN_Daman,1,3535
@@ -197,7 +196,6 @@ JH_Palamu,1,12289
 JH_Ramgarh,1,13901
 JH_Ranchi,1,85489
 JH_Sahibganj,1,4818
-JH_Saraikela-Kharsawan,1,7204
 JH_Simdega,1,7191
 JH_West Singhbhum,1,13004
 JK_Anantnag,1,16374
@@ -443,7 +441,6 @@ PB_Tarn Taran,1,7991
 PY_Karaikal,1,15191
 PY_Mahe,1,5047
 PY_Puducherry,1,95334
-PY_Yanam,1,6631
 RJ_Ajmer,1,37720
 RJ_Alwar,1,59659
 RJ_Banswara,1,10005
@@ -477,8 +474,8 @@ RJ_Sikar,1,30607
 RJ_Sirohi,1,13729
 RJ_Tonk,1,9495
 RJ_Udaipur,1,56372
+SK_Sikkim,1,28554
 TN_Ariyalur,1,16087
-TN_Chengalpattu,1,163608
 TN_Chennai,1,540971
 TN_Coimbatore,1,232575
 TN_Cuddalore,1,61434
@@ -500,7 +497,6 @@ TN_Ramanathapuram,1,20124
 TN_Ranipet,1,42229
 TN_Salem,1,94688
 TN_Sivaganga,1,19077
-TN_Tenkasi,1,26944
 TN_Thanjavur,1,69299
 TN_Theni,1,43070
 TN_Thiruvallur,1,114684
@@ -508,7 +504,6 @@ TN_Thiruvarur,1,38449
 TN_Thoothukkudi,1,55306
 TN_Tiruchirappalli,1,73428
 TN_Tirunelveli,1,48194
-TN_Tirupathur,1,28442
 TN_Tiruppur,1,89029
 TN_Tiruvannamalai,1,52724
 TN_Vellore,1,48447

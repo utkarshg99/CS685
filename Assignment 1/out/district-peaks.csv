@@ -105,7 +105,6 @@ CT_Sukma,56,127,7,15
 CT_Surajpur,62,120,7,14
 CT_Surguja,56,119,7,14
 CT_Uttar Bastar Kanker,59,116,7,14
-CT_Gaurela Pendra Marwahi,92,119,11,14
 DL_New Delhi,69,115,8,14
 DN_Dadra and Nagar Haveli,44,115,5,14
 DN_Daman,40,116,5,14
@@ -197,7 +196,6 @@ JH_Palamu,54,121,6,14
 JH_Ramgarh,50,116,6,14
 JH_Ranchi,49,116,7,14
 JH_Sahibganj,48,115,6,14
-JH_Saraikela-Kharsawan,50,118,6,14
 JH_Simdega,51,119,6,14
 JH_West Singhbhum,50,120,6,14
 JK_Anantnag,53,119,6,14
@@ -443,7 +441,6 @@ PB_Tarn Taran,54,109,7,14
 PY_Karaikal,55,123,7,15
 PY_Mahe,59,117,7,14
 PY_Puducherry,47,122,6,14
-PY_Yanam,48,119,6,14
 RJ_Ajmer,72,116,9,14
 RJ_Alwar,72,117,5,14
 RJ_Banswara,53,117,6,14
@@ -477,8 +474,8 @@ RJ_Sikar,64,117,8,14
 RJ_Sirohi,72,115,7,14
 RJ_Tonk,72,118,9,14
 RJ_Udaipur,73,118,7,14
+SK_Sikkim,55,125,7,15
 TN_Ariyalur,44,124,6,15
-TN_Chengalpattu,38,120,5,14
 TN_Chennai,31,121,4,14
 TN_Coimbatore,55,125,7,15
 TN_Cuddalore,50,123,6,15
@@ -500,7 +497,6 @@ TN_Ramanathapuram,31,124,5,15
 TN_Ranipet,39,124,5,15
 TN_Salem,48,127,7,15
 TN_Sivaganga,36,124,5,15
-TN_Tenkasi,42,123,5,15
 TN_Thanjavur,58,125,7,15
 TN_Theni,42,123,5,15
 TN_Thiruvallur,38,123,5,15
@@ -508,7 +504,6 @@ TN_Thiruvarur,51,124,7,15
 TN_Thoothukkudi,38,123,5,15
 TN_Tiruchirappalli,38,123,5,15
 TN_Tirunelveli,39,121,5,14
-TN_Tirupathur,53,123,7,15
 TN_Tiruppur,55,125,7,15
 TN_Tiruvannamalai,50,124,5,15
 TN_Vellore,39,120,5,14

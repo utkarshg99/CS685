@@ -39,7 +39,7 @@ for st in state_district_map:
     sd1_ratio[st] = num1/den
     sd2_ratio[st] = num2/den
 
-with open("out/vaccinated-dose-ratio-district.csv", "w") as vcdrd:
+with open("out/district-vaccinated-dose-ratio.csv", "w") as vcdrd:
     lines = ["districtid,vaccinateddose1ratio,vaccinateddose2ratio\n"]
     lst = []
     for k in d1_ratio.keys():
@@ -49,7 +49,7 @@ with open("out/vaccinated-dose-ratio-district.csv", "w") as vcdrd:
         lines.append(l[2]+","+str(l[0])+","+str(l[1])+"\n")
     vcdrd.writelines(lines)
 
-with open("out/vaccinated-dose-ratio-state.csv", "w") as vcdrs:
+with open("out/state-vaccinated-dose-ratio.csv", "w") as vcdrs:
     lines = ["stateid,vaccinateddose1ratio,vaccinateddose2ratio\n"]
     lst = []
     for k in sd1_ratio.keys():
@@ -59,6 +59,6 @@ with open("out/vaccinated-dose-ratio-state.csv", "w") as vcdrs:
         lines.append(l[2]+","+str(l[0])+","+str(l[1])+"\n")
     vcdrs.writelines(lines)
 
-with open("out/vaccinated-dose-ratio-overall.csv", "w") as vcdro:
+with open("out/overall-vaccinated-dose-ratio.csv", "w") as vcdro:
     lines = ["overallid,vaccinateddose1ratio,vaccinateddose2ratio\n", "1,"+str(onum1/oden)+","+str(onum2/oden)+"\n"]
     vcdro.writelines(lines)
