@@ -2,7 +2,7 @@ import csv
 import json
 from collections import deque, OrderedDict
 
-with open('neighbor-districts.json') as ndjson:
+with open('data/neighbor-districts.json') as ndjson:
     nds = json.load(ndjson)
 
 ndsmap_dist_keyed = {}
@@ -11,7 +11,7 @@ for key in nds.keys():
 
 dist_list = []
 dist_key_list = {}
-with open('district_wise.csv', newline='') as dswcsv:
+with open('data/district_wise.csv', newline='') as dswcsv:
     csvDict = csv.DictReader(dswcsv)
     for row in csvDict:
         if(int(row["SlNo"])!=0 and row["District"] != "Unknown"):

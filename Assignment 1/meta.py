@@ -1,6 +1,6 @@
 import csv, json
 
-with open('neighbor-districts.json') as ndjson:
+with open('data/neighbor-districts.json') as ndjson:
     nds = json.load(ndjson)
 
 dlist1 = [nd.split("/")[0] for nd in nds.keys()]
@@ -10,7 +10,7 @@ state_code = {}
 state_code_backmap = {}
 state_to_dist = {}
 
-with open('district_wise.csv', newline='') as dswcsv:
+with open('data/district_wise.csv', newline='') as dswcsv:
     csvDict = csv.DictReader(dswcsv)
     for row in csvDict:
         if int(row["SlNo"])!=0 and row["District"] != "Unknown":

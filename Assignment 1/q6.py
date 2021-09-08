@@ -26,7 +26,7 @@ ovf = vacc_overall["f"]
 for k in ov1d.keys():
     dkeys.append(k)
 
-with open("census.csv", newline='') as ccsv:
+with open("data/census.csv", newline='') as ccsv:
     rows = csv.DictReader(ccsv)
     for row in rows:
         if row["Level"] == "DISTRICT" and row["TRU"] == "Total":

@@ -31,7 +31,7 @@ with open("meta/week_month_map.json") as cccjs:
     wk_typ2 = wkmnmap["week_type2"]
     mnth = wkmnmap["month"]
 
-with open("cowin_vaccine_data_districtwise_modified.csv", newline='') as cvddm:
+with open("data/cowin_vaccine_data_districtwise_modified.csv", newline='') as cvddm:
     csvDict = csv.DictReader(cvddm)
     for row in csvDict:
         d, m, y = 15, 1, 2021

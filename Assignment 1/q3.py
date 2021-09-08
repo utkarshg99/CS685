@@ -18,7 +18,7 @@ for k in distnamekey.keys():
 for scd in state_codes.keys():
     state_unk_detailed[state_codes[scd]] = {}
 
-with open('districts.csv', newline='') as dswcsv:
+with open('data/districts.csv', newline='') as dswcsv:
     csvDict = csv.DictReader(dswcsv)
     for row in csvDict:
         if(row["District"] != "Unknown"):

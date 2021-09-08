@@ -1,4 +1,4 @@
-import csv, json
+import json
 
 with open('meta/dist_name_key.json') as dsnk:
     distnamekey = json.load(dsnk)
