@@ -41,8 +41,6 @@
 
 * [base/](base/) : Contains the initial unmodified data files.
 
-* [update/](data/) : Redundant copy of [`data/`](data/), used for debugging and comparisons.
-
 * [util/](util/) : Contains python script(s) that have snippets used to clean and refine the original data.
 
 ## Python Scripts:
@@ -79,13 +77,13 @@
 
 4. <a name="exp4"></a> Confirmed cases are used as a heuristic to determine how many cases are currently active in the week. Using Active cases (and eliminating deaths and recoveries) would not have given the accurate results anyways as recovery and death times differ significantly. However, confirmed cases reported in a particular time period clearly gives an indication of how the pandemic is spreading. Upon completing the analysis, the results obtained are extremely close to the actual peaks which reinforces the hypothesis that confirmed cases are good heuristic to measure the spread.
 
-5. <a name="exp5"></a> During analysis, following inconsistencies such as (but not limited to) were taken care of: dip in cumulative values, change in the name of headers.
+5. <a name="exp5"></a> During analysis, following inconsistencies such as (but not limited to) were taken care of: dip in cumulative values, change in the name of headers. In order to deal with dips in cumulative values, max of the values on the consecutive days is taken (as the dip is local and the values rise on subsequent days).
 
 6. <a name="exp6"></a> State data from census is not used as it would cause issues for Telangana, instead, CoWin data as used as base.
 
 7. <a name="exp7"></a> "NA" is reported for those districts/states where 0 doses of Covaxin have been administered.
 
-8. <a name="exp8"></a> Number of people with atleast 1 dose given to them are equal to the number of dose-1 administered (ratio: vaccinateddose1ratio). Number of people who have been given both the doses are equal to the number of dose-2 administered (ratio: vaccinateddose2ratio).
+8. <a name="exp8"></a> Number of people with atleast 1 dose given to them are equal to the number of dose-1 administered (ratio: vaccinateddose1ratio). Number of people who have been given both the doses are equal to the number of dose-2 administered (ratio: vaccinateddose2ratio). In some places, a ratio greater than 1 is observed. This can be justified by a significant population rise in the district over the past 10 years. 
 
 9. <a name="exp9"></a> Weekly rate has been reported in the output (Number of people vaccinated/day, using the last week's data).
 
@@ -143,8 +141,6 @@
 | Original Name  | Name Changed To |
 |-----------|-------|
 | Gurgaon | Gurugram |
-| Daman Diu | Daman, Diu and Dadra Nagar | 
-| Dadra Nagar | Daman, Diu and Dadra Nagar | 
 | Almora\n | Almora |
 | Sri Potti Setnam Nellore | S.P.S. Nellore |
 | Y.S.R. | Y.S.R. Kadapa |
