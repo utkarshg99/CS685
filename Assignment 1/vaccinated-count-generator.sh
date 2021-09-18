@@ -1,2 +1,2 @@
 python3 q5.py
-echo "Generated out/vaccinated-count-week.csv, out/vaccinated-count-month.csv and out/vaccinated-count-overall.csv"
+echo "Generated out/district-vaccinated-count-week.csv, out/district-vaccinated-count-month.csv, out/district-vaccinated-count-overall.csv, out/state-vaccinated-count-week.csv, out/state-vaccinated-count-month.csv and out/state-vaccinated-count-overall.csv"

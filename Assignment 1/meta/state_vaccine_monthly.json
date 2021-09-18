@@ -1,0 +1,5986 @@
+{
+	"1": {
+		"AP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AS": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"BR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LD": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"ML": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MZ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"NL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"OR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PY": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"RJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"SK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TG": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"WB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		}
+	},
+	"2": {
+		"AP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AS": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"BR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LD": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"ML": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MZ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"NL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"OR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PY": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"RJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"SK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TG": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"WB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		}
+	},
+	"3": {
+		"AP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AS": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"BR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LD": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"ML": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MZ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"NL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"OR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PY": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"RJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"SK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TG": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"WB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		}
+	},
+	"4": {
+		"AP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AS": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"BR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LD": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"ML": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MZ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"NL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"OR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PY": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"RJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"SK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TG": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"WB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		}
+	},
+	"5": {
+		"AP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AS": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"BR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LD": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"ML": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MZ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"NL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"OR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PY": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"RJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"SK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TG": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"WB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		}
+	},
+	"6": {
+		"AP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AS": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"BR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LD": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"ML": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MZ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"NL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"OR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PY": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"RJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"SK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TG": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"WB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		}
+	},
+	"7": {
+		"AP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AS": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"BR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LD": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"ML": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MZ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"NL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"OR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PY": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"RJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"SK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TG": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"WB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		}
+	},
+	"8": {
+		"AP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AS": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"BR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LD": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"ML": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MZ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"NL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"OR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PY": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"RJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"SK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TG": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"WB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		}
+	},
+	"9": {
+		"AP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AS": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"BR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LD": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"ML": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MZ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"NL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"OR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PY": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"RJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"SK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TG": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"WB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		}
+	},
+	"10": {
+		"AP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AS": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"BR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LD": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"ML": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MZ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"NL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"OR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PY": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"RJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"SK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TG": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"WB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		}
+	},
+	"11": {
+		"AP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"AS": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"BR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"CT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"DL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"GJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"HR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"JH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"KL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LA": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"LD": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MP": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MH": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"ML": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"MZ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"NL": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"OR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PY": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"PB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"RJ": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"SK": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TN": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TG": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"TR": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"UT": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		},
+		"WB": {
+			"indi": 0,
+			"m": 0,
+			"f": 0,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 0,
+			"1D": 0,
+			"2D": 0
+		}
+	},
+	"12": {
+		"AP": {
+			"indi": 964896,
+			"m": 291033,
+			"f": 244835,
+			"trans": 39,
+			"covaxin": 69301,
+			"covishield": 466606,
+			"1D": 535907,
+			"2D": 231135
+		},
+		"AR": {
+			"indi": 35358,
+			"m": 24809,
+			"f": 8962,
+			"trans": 0,
+			"covaxin": 145,
+			"covishield": 33627,
+			"1D": 33771,
+			"2D": 11563
+		},
+		"AS": {
+			"indi": 652460,
+			"m": 261942,
+			"f": 86818,
+			"trans": 29,
+			"covaxin": 71284,
+			"covishield": 277505,
+			"1D": 348789,
+			"2D": 81914
+		},
+		"BR": {
+			"indi": 1150160,
+			"m": 325514,
+			"f": 298567,
+			"trans": 29,
+			"covaxin": 27149,
+			"covishield": 596818,
+			"1D": 623967,
+			"2D": 293370
+		},
+		"CH": {
+			"indi": 62812,
+			"m": 20912,
+			"f": 10785,
+			"trans": 0,
+			"covaxin": 79,
+			"covishield": 31618,
+			"1D": 31697,
+			"2D": 5656
+		},
+		"CT": {
+			"indi": 815736,
+			"m": 244950,
+			"f": 181585,
+			"trans": 24,
+			"covaxin": 413,
+			"covishield": 426146,
+			"1D": 426559,
+			"2D": 175754
+		},
+		"HP": {
+			"indi": 144852,
+			"m": 53677,
+			"f": 37408,
+			"trans": 8,
+			"covaxin": 51,
+			"covishield": 91042,
+			"1D": 91093,
+			"2D": 62089
+		},
+		"DN": {
+			"indi": 20690,
+			"m": 5585,
+			"f": 4687,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 10272,
+			"1D": 10272,
+			"2D": 3171
+		},
+		"DL": {
+			"indi": 575198,
+			"m": 227227,
+			"f": 92796,
+			"trans": 96,
+			"covaxin": 85204,
+			"covishield": 234915,
+			"1D": 320119,
+			"2D": 118839
+		},
+		"GA": {
+			"indi": 82554,
+			"m": 23450,
+			"f": 19079,
+			"trans": 0,
+			"covaxin": 1,
+			"covishield": 42528,
+			"1D": 42529,
+			"2D": 11400
+		},
+		"GJ": {
+			"indi": 2518578,
+			"m": 683425,
+			"f": 623936,
+			"trans": 63,
+			"covaxin": 37269,
+			"covishield": 1270152,
+			"1D": 1307421,
+			"2D": 550227
+		},
+		"HR": {
+			"indi": 330104,
+			"m": 116925,
+			"f": 77102,
+			"trans": 11,
+			"covaxin": 46035,
+			"covishield": 147998,
+			"1D": 194033,
+			"2D": 102275
+		},
+		"UP": {
+			"indi": 2025980,
+			"m": 771124,
+			"f": 415369,
+			"trans": 125,
+			"covaxin": 103260,
+			"covishield": 1083358,
+			"1D": 1186617,
+			"2D": 626058
+		},
+		"JK": {
+			"indi": 377666,
+			"m": 189429,
+			"f": 55427,
+			"trans": 80,
+			"covaxin": 1227,
+			"covishield": 243709,
+			"1D": 244936,
+			"2D": 55828
+		},
+		"JH": {
+			"indi": 442542,
+			"m": 155054,
+			"f": 101089,
+			"trans": 14,
+			"covaxin": 36889,
+			"covishield": 219268,
+			"1D": 256157,
+			"2D": 138839
+		},
+		"KA": {
+			"indi": 990102,
+			"m": 336130,
+			"f": 334870,
+			"trans": 50,
+			"covaxin": 2304,
+			"covishield": 668740,
+			"1D": 671044,
+			"2D": 372519
+		},
+		"KL": {
+			"indi": 1769892,
+			"m": 338885,
+			"f": 366315,
+			"trans": 38,
+			"covaxin": 47207,
+			"covishield": 658031,
+			"1D": 705238,
+			"2D": 280363
+		},
+		"LA": {
+			"indi": 39596,
+			"m": 17079,
+			"f": 11394,
+			"trans": 3,
+			"covaxin": 24,
+			"covishield": 28452,
+			"1D": 28476,
+			"2D": 2835
+		},
+		"LD": {
+			"indi": 3086,
+			"m": 1110,
+			"f": 333,
+			"trans": 0,
+			"covaxin": 9,
+			"covishield": 1434,
+			"1D": 1443,
+			"2D": 888
+		},
+		"MP": {
+			"indi": 976042,
+			"m": 308147,
+			"f": 207870,
+			"trans": 47,
+			"covaxin": 37759,
+			"covishield": 478304,
+			"1D": 516063,
+			"2D": 334836
+		},
+		"MH": {
+			"indi": 2536034,
+			"m": 797875,
+			"f": 562018,
+			"trans": 127,
+			"covaxin": 46615,
+			"covishield": 1313405,
+			"1D": 1360020,
+			"2D": 412152
+		},
+		"MN": {
+			"indi": 32196,
+			"m": 38008,
+			"f": 10534,
+			"trans": 1,
+			"covaxin": 75,
+			"covishield": 48468,
+			"1D": 48543,
+			"2D": 9873
+		},
+		"ML": {
+			"indi": 61686,
+			"m": 28779,
+			"f": 15973,
+			"trans": 2,
+			"covaxin": 163,
+			"covishield": 44591,
+			"1D": 44754,
+			"2D": 10887
+		},
+		"MZ": {
+			"indi": 40512,
+			"m": 20684,
+			"f": 10523,
+			"trans": 1,
+			"covaxin": 7,
+			"covishield": 31201,
+			"1D": 31208,
+			"2D": 9177
+		},
+		"NL": {
+			"indi": 23490,
+			"m": 23086,
+			"f": 6751,
+			"trans": 0,
+			"covaxin": 378,
+			"covishield": 29459,
+			"1D": 29837,
+			"2D": 9121
+		},
+		"OR": {
+			"indi": 768036,
+			"m": 256390,
+			"f": 190772,
+			"trans": 48,
+			"covaxin": 36137,
+			"covishield": 411073,
+			"1D": 447210,
+			"2D": 270029
+		},
+		"PY": {
+			"indi": 36510,
+			"m": 9722,
+			"f": 7791,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 17513,
+			"1D": 17513,
+			"2D": 3357
+		},
+		"PB": {
+			"indi": 382556,
+			"m": 138581,
+			"f": 66207,
+			"trans": 7,
+			"covaxin": 15164,
+			"covishield": 189631,
+			"1D": 204795,
+			"2D": 64839
+		},
+		"RJ": {
+			"indi": 3501960,
+			"m": 943249,
+			"f": 787523,
+			"trans": 212,
+			"covaxin": 66999,
+			"covishield": 1663985,
+			"1D": 1730984,
+			"2D": 427516
+		},
+		"SK": {
+			"indi": 43188,
+			"m": 20091,
+			"f": 10978,
+			"trans": 5,
+			"covaxin": 207,
+			"covishield": 30867,
+			"1D": 31074,
+			"2D": 7585
+		},
+		"TN": {
+			"indi": 1898824,
+			"m": 444773,
+			"f": 443750,
+			"trans": 92,
+			"covaxin": 26489,
+			"covishield": 862126,
+			"1D": 888615,
+			"2D": 120563
+		},
+		"TG": {
+			"indi": 372490,
+			"m": 117858,
+			"f": 136780,
+			"trans": 29,
+			"covaxin": 27623,
+			"covishield": 227044,
+			"1D": 254667,
+			"2D": 205766
+		},
+		"TR": {
+			"indi": 113094,
+			"m": 47528,
+			"f": 23886,
+			"trans": 6,
+			"covaxin": 70,
+			"covishield": 71350,
+			"1D": 71420,
+			"2D": 47242
+		},
+		"UT": {
+			"indi": 268046,
+			"m": 90018,
+			"f": 56935,
+			"trans": 18,
+			"covaxin": 136,
+			"covishield": 146835,
+			"1D": 146971,
+			"2D": 85924
+		},
+		"WB": {
+			"indi": 3371598,
+			"m": 1077700,
+			"f": 556254,
+			"trans": 128,
+			"covaxin": 192486,
+			"covishield": 1441596,
+			"1D": 1634082,
+			"2D": 380735
+		}
+	},
+	"13": {
+		"AP": {
+			"indi": 5385830,
+			"m": 1566036,
+			"f": 1557711,
+			"trans": 370,
+			"covaxin": 821238,
+			"covishield": 2888110,
+			"1D": 3124117,
+			"2D": 347854
+		},
+		"AR": {
+			"indi": 96018,
+			"m": 39542,
+			"f": 34062,
+			"trans": 67,
+			"covaxin": 19,
+			"covishield": 106817,
+			"1D": 73671,
+			"2D": 21020
+		},
+		"AS": {
+			"indi": 1187182,
+			"m": 415932,
+			"f": 390093,
+			"trans": 89,
+			"covaxin": 147873,
+			"covishield": 935197,
+			"1D": 806069,
+			"2D": 193006
+		},
+		"BR": {
+			"indi": 6708380,
+			"m": 1810262,
+			"f": 1721152,
+			"trans": 382,
+			"covaxin": 210401,
+			"covishield": 3939853,
+			"1D": 3531752,
+			"2D": 323566
+		},
+		"CH": {
+			"indi": 86788,
+			"m": 39217,
+			"f": 31174,
+			"trans": 3,
+			"covaxin": 9,
+			"covishield": 92051,
+			"1D": 70394,
+			"2D": 15804
+		},
+		"CT": {
+			"indi": 6196154,
+			"m": 1532663,
+			"f": 1658800,
+			"trans": 339,
+			"covaxin": 38494,
+			"covishield": 3572333,
+			"1D": 3191800,
+			"2D": 242544
+		},
+		"HP": {
+			"indi": 1628138,
+			"m": 408995,
+			"f": 434413,
+			"trans": 124,
+			"covaxin": 3,
+			"covishield": 958531,
+			"1D": 843532,
+			"2D": 52430
+		},
+		"DN": {
+			"indi": 102524,
+			"m": 32615,
+			"f": 20909,
+			"trans": 3,
+			"covaxin": 0,
+			"covishield": 63528,
+			"1D": 53527,
+			"2D": 6759
+		},
+		"DL": {
+			"indi": 2492246,
+			"m": 804965,
+			"f": 667797,
+			"trans": 217,
+			"covaxin": 580336,
+			"covishield": 1298356,
+			"1D": 1472979,
+			"2D": 284907
+		},
+		"GA": {
+			"indi": 188808,
+			"m": 56588,
+			"f": 55041,
+			"trans": 8,
+			"covaxin": 0,
+			"covishield": 147321,
+			"1D": 111637,
+			"2D": 23973
+		},
+		"GJ": {
+			"indi": 14444962,
+			"m": 3905767,
+			"f": 3463259,
+			"trans": 863,
+			"covaxin": 820245,
+			"covishield": 7938966,
+			"1D": 7369892,
+			"2D": 841469
+		},
+		"HR": {
+			"indi": 4090950,
+			"m": 1082615,
+			"f": 1089589,
+			"trans": 309,
+			"covaxin": 240136,
+			"covishield": 2193311,
+			"1D": 2172518,
+			"2D": 157879
+		},
+		"UP": {
+			"indi": 12385940,
+			"m": 3657032,
+			"f": 2952982,
+			"trans": 1021,
+			"covaxin": 685828,
+			"covishield": 7355513,
+			"1D": 6611036,
+			"2D": 804226
+		},
+		"JK": {
+			"indi": 1496474,
+			"m": 495943,
+			"f": 386536,
+			"trans": 132,
+			"covaxin": 195,
+			"covishield": 1090916,
+			"1D": 882611,
+			"2D": 150249
+		},
+		"JH": {
+			"indi": 3325204,
+			"m": 867717,
+			"f": 886553,
+			"trans": 193,
+			"covaxin": 170993,
+			"covishield": 1889660,
+			"1D": 1754463,
+			"2D": 165178
+		},
+		"KA": {
+			"indi": 10586256,
+			"m": 2699624,
+			"f": 2968691,
+			"trans": 657,
+			"covaxin": 648672,
+			"covishield": 5744799,
+			"1D": 5668978,
+			"2D": 351959
+		},
+		"KL": {
+			"indi": 6564664,
+			"m": 1677355,
+			"f": 2006685,
+			"trans": 489,
+			"covaxin": 90070,
+			"covishield": 4151788,
+			"1D": 3684528,
+			"2D": 276905
+		},
+		"LA": {
+			"indi": 65080,
+			"m": 18398,
+			"f": 17107,
+			"trans": 1,
+			"covaxin": 2,
+			"covishield": 44645,
+			"1D": 35506,
+			"2D": 6186
+		},
+		"LD": {
+			"indi": 16964,
+			"m": 5131,
+			"f": 4318,
+			"trans": 3,
+			"covaxin": 0,
+			"covishield": 12266,
+			"1D": 9452,
+			"2D": 1917
+		},
+		"MP": {
+			"indi": 10016630,
+			"m": 2718131,
+			"f": 2418950,
+			"trans": 648,
+			"covaxin": 536334,
+			"covishield": 5286073,
+			"1D": 5137730,
+			"2D": 349818
+		},
+		"MH": {
+			"indi": 14430130,
+			"m": 4302398,
+			"f": 3722459,
+			"trans": 901,
+			"covaxin": 1051543,
+			"covishield": 8060285,
+			"1D": 8025758,
+			"2D": 673740
+		},
+		"MN": {
+			"indi": 15028,
+			"m": 20507,
+			"f": 6998,
+			"trans": 4,
+			"covaxin": 17,
+			"covishield": 73124,
+			"1D": 27012,
+			"2D": 36457
+		},
+		"ML": {
+			"indi": 61484,
+			"m": 27829,
+			"f": 30936,
+			"trans": 3,
+			"covaxin": 28,
+			"covishield": 100000,
+			"1D": 58768,
+			"2D": 30087
+		},
+		"MZ": {
+			"indi": 60334,
+			"m": 22698,
+			"f": 24391,
+			"trans": 2,
+			"covaxin": 6,
+			"covishield": 70746,
+			"1D": 47091,
+			"2D": 14394
+		},
+		"NL": {
+			"indi": 53674,
+			"m": 32589,
+			"f": 27570,
+			"trans": 5,
+			"covaxin": 35,
+			"covishield": 89496,
+			"1D": 60016,
+			"2D": 19933
+		},
+		"OR": {
+			"indi": 6097610,
+			"m": 1649146,
+			"f": 1534270,
+			"trans": 443,
+			"covaxin": 224806,
+			"covishield": 3495244,
+			"1D": 3183859,
+			"2D": 264802
+		},
+		"PY": {
+			"indi": 141208,
+			"m": 48270,
+			"f": 45567,
+			"trans": 13,
+			"covaxin": 135212,
+			"covishield": 210404,
+			"1D": 93402,
+			"2D": 60814
+		},
+		"PB": {
+			"indi": 2755238,
+			"m": 901901,
+			"f": 701769,
+			"trans": 17540,
+			"covaxin": 260619,
+			"covishield": 1706160,
+			"1D": 1603850,
+			"2D": 196110
+		},
+		"RJ": {
+			"indi": 12607960,
+			"m": 3156999,
+			"f": 3333416,
+			"trans": 877,
+			"covaxin": 252813,
+			"covishield": 7429403,
+			"1D": 6491292,
+			"2D": 763376
+		},
+		"SK": {
+			"indi": 155952,
+			"m": 44133,
+			"f": 41272,
+			"trans": 11,
+			"covaxin": 16,
+			"covishield": 102874,
+			"1D": 85416,
+			"2D": 9660
+		},
+		"TN": {
+			"indi": 3815788,
+			"m": 1277352,
+			"f": 1121793,
+			"trans": 262,
+			"covaxin": 527146,
+			"covishield": 2331981,
+			"1D": 2399406,
+			"2D": 338593
+		},
+		"TG": {
+			"indi": 2661224,
+			"m": 883327,
+			"f": 781018,
+			"trans": 277,
+			"covaxin": 204031,
+			"covishield": 1783716,
+			"1D": 1664622,
+			"2D": 115018
+		},
+		"TR": {
+			"indi": 1179988,
+			"m": 306406,
+			"f": 307557,
+			"trans": 86,
+			"covaxin": 32,
+			"covishield": 712276,
+			"1D": 614049,
+			"2D": 50626
+		},
+		"UT": {
+			"indi": 1853062,
+			"m": 473855,
+			"f": 496156,
+			"trans": 143,
+			"covaxin": 415,
+			"covishield": 1173730,
+			"1D": 970154,
+			"2D": 117498
+		},
+		"WB": {
+			"indi": 9515504,
+			"m": 2898514,
+			"f": 2776924,
+			"trans": 653,
+			"covaxin": 718710,
+			"covishield": 6053924,
+			"1D": 5676090,
+			"2D": 715275
+		}
+	},
+	"14": {
+		"AP": {
+			"indi": 3002222,
+			"m": 807545,
+			"f": 693300,
+			"trans": 277,
+			"covaxin": 329537,
+			"covishield": 2683004,
+			"1D": 1501111,
+			"2D": 1511119
+		},
+		"AR": {
+			"indi": 144106,
+			"m": 43670,
+			"f": 35648,
+			"trans": 12,
+			"covaxin": 0,
+			"covishield": 120938,
+			"1D": 79330,
+			"2D": 41608
+		},
+		"AS": {
+			"indi": 2584286,
+			"m": 689572,
+			"f": 611704,
+			"trans": 204,
+			"covaxin": 460590,
+			"covishield": 1291418,
+			"1D": 1301523,
+			"2D": 450517
+		},
+		"BR": {
+			"indi": 4859056,
+			"m": 1429309,
+			"f": 999728,
+			"trans": 450,
+			"covaxin": 323107,
+			"covishield": 3164271,
+			"1D": 2429528,
+			"2D": 1058089
+		},
+		"CH": {
+			"indi": 195538,
+			"m": 52122,
+			"f": 45637,
+			"trans": 10,
+			"covaxin": 0,
+			"covishield": 148319,
+			"1D": 97769,
+			"2D": 50550
+		},
+		"CT": {
+			"indi": 1582096,
+			"m": 411159,
+			"f": 379768,
+			"trans": 120,
+			"covaxin": 104340,
+			"covishield": 1246076,
+			"1D": 791048,
+			"2D": 559372
+		},
+		"HP": {
+			"indi": 1439474,
+			"m": 351298,
+			"f": 368299,
+			"trans": 140,
+			"covaxin": 0,
+			"covishield": 1029553,
+			"1D": 719737,
+			"2D": 309814
+		},
+		"DN": {
+			"indi": 41394,
+			"m": 13137,
+			"f": 7558,
+			"trans": 2,
+			"covaxin": 0,
+			"covishield": 35466,
+			"1D": 20697,
+			"2D": 14769
+		},
+		"DL": {
+			"indi": 2820750,
+			"m": 812768,
+			"f": 597340,
+			"trans": 267,
+			"covaxin": 718088,
+			"covishield": 1295517,
+			"1D": 1410375,
+			"2D": 603230
+		},
+		"GA": {
+			"indi": 331094,
+			"m": 81749,
+			"f": 83785,
+			"trans": 13,
+			"covaxin": 2422,
+			"covishield": 219974,
+			"1D": 165547,
+			"2D": 56849
+		},
+		"GJ": {
+			"indi": 6108932,
+			"m": 1706743,
+			"f": 1359365,
+			"trans": 503,
+			"covaxin": 635376,
+			"covishield": 5315783,
+			"1D": 3066610,
+			"2D": 2955900
+		},
+		"HR": {
+			"indi": 2774456,
+			"m": 778477,
+			"f": 608503,
+			"trans": 248,
+			"covaxin": 240003,
+			"covishield": 1788525,
+			"1D": 1387228,
+			"2D": 641485
+		},
+		"UP": {
+			"indi": 6008612,
+			"m": 1732704,
+			"f": 1270710,
+			"trans": 893,
+			"covaxin": 755648,
+			"covishield": 4015855,
+			"1D": 3004306,
+			"2D": 1767217
+		},
+		"JK": {
+			"indi": 2078572,
+			"m": 573417,
+			"f": 481993,
+			"trans": 186,
+			"covaxin": 30391,
+			"covishield": 1345614,
+			"1D": 1055593,
+			"2D": 320831
+		},
+		"JH": {
+			"indi": 1044020,
+			"m": 304456,
+			"f": 217481,
+			"trans": 73,
+			"covaxin": 168909,
+			"covishield": 680389,
+			"1D": 522010,
+			"2D": 327338
+		},
+		"KA": {
+			"indi": 6726598,
+			"m": 1732944,
+			"f": 1629802,
+			"trans": 553,
+			"covaxin": 572099,
+			"covishield": 4925786,
+			"1D": 3363299,
+			"2D": 2134461
+		},
+		"KL": {
+			"indi": 3120660,
+			"m": 744357,
+			"f": 815701,
+			"trans": 271,
+			"covaxin": 307681,
+			"covishield": 2664678,
+			"1D": 1560330,
+			"2D": 1412145
+		},
+		"LA": {
+			"indi": 37750,
+			"m": 10958,
+			"f": 7913,
+			"trans": 4,
+			"covaxin": 0,
+			"covishield": 46895,
+			"1D": 18875,
+			"2D": 28020
+		},
+		"LD": {
+			"indi": 17940,
+			"m": 4509,
+			"f": 4462,
+			"trans": 1,
+			"covaxin": 0,
+			"covishield": 12966,
+			"1D": 8970,
+			"2D": 3996
+		},
+		"MP": {
+			"indi": 2403038,
+			"m": 660138,
+			"f": 541189,
+			"trans": 192,
+			"covaxin": 313206,
+			"covishield": 1837076,
+			"1D": 1201519,
+			"2D": 948782
+		},
+		"MH": {
+			"indi": 11066440,
+			"m": 2992140,
+			"f": 2540176,
+			"trans": 905,
+			"covaxin": 1199097,
+			"covishield": 7379392,
+			"1D": 5533220,
+			"2D": 3045171
+		},
+		"MN": {
+			"indi": 318952,
+			"m": 104027,
+			"f": 99024,
+			"trans": 25,
+			"covaxin": 0,
+			"covishield": 227129,
+			"1D": 203571,
+			"2D": 23092
+		},
+		"ML": {
+			"indi": 401026,
+			"m": 104479,
+			"f": 100650,
+			"trans": 19,
+			"covaxin": 0,
+			"covishield": 237957,
+			"1D": 205148,
+			"2D": 32809
+		},
+		"MZ": {
+			"indi": 255316,
+			"m": 61090,
+			"f": 66670,
+			"trans": 8,
+			"covaxin": 0,
+			"covishield": 149715,
+			"1D": 127768,
+			"2D": 21947
+		},
+		"NL": {
+			"indi": 144770,
+			"m": 45853,
+			"f": 36714,
+			"trans": 6,
+			"covaxin": 0,
+			"covishield": 105306,
+			"1D": 82721,
+			"2D": 22510
+		},
+		"OR": {
+			"indi": 2474758,
+			"m": 676828,
+			"f": 560327,
+			"trans": 226,
+			"covaxin": 329754,
+			"covishield": 1768987,
+			"1D": 1237379,
+			"2D": 861386
+		},
+		"PY": {
+			"indi": 119754,
+			"m": 28329,
+			"f": 31092,
+			"trans": 8,
+			"covaxin": 0,
+			"covishield": 86856,
+			"1D": 59877,
+			"2D": 1319
+		},
+		"PB": {
+			"indi": 3147076,
+			"m": 877587,
+			"f": 695761,
+			"trans": 179,
+			"covaxin": 214131,
+			"covishield": 1865140,
+			"1D": 1573538,
+			"2D": 473026
+		},
+		"RJ": {
+			"indi": 5841490,
+			"m": 1577308,
+			"f": 1342934,
+			"trans": 504,
+			"covaxin": 342098,
+			"covishield": 4271905,
+			"1D": 2920745,
+			"2D": 1693289
+		},
+		"SK": {
+			"indi": 83174,
+			"m": 22847,
+			"f": 18734,
+			"trans": 6,
+			"covaxin": 0,
+			"covishield": 83925,
+			"1D": 41587,
+			"2D": 42338
+		},
+		"TN": {
+			"indi": 2793946,
+			"m": 784901,
+			"f": 638294,
+			"trans": 202,
+			"covaxin": 520031,
+			"covishield": 2268924,
+			"1D": 1423396,
+			"2D": 1365511
+		},
+		"TG": {
+			"indi": 4644582,
+			"m": 1131178,
+			"f": 1190521,
+			"trans": 594,
+			"covaxin": 442093,
+			"covishield": 2619142,
+			"1D": 2322291,
+			"2D": 740403
+		},
+		"TR": {
+			"indi": 466650,
+			"m": 117658,
+			"f": 115627,
+			"trans": 40,
+			"covaxin": 5865,
+			"covishield": 634947,
+			"1D": 233325,
+			"2D": 407488
+		},
+		"UT": {
+			"indi": 1417270,
+			"m": 363956,
+			"f": 344507,
+			"trans": 172,
+			"covaxin": 21112,
+			"covishield": 1159716,
+			"1D": 708635,
+			"2D": 472322
+		},
+		"WB": {
+			"indi": 3322844,
+			"m": 907877,
+			"f": 753407,
+			"trans": 223,
+			"covaxin": 482480,
+			"covishield": 3995437,
+			"1D": 1661422,
+			"2D": 2816788
+		}
+	},
+	"15": {
+		"AP": {
+			"indi": 8417614,
+			"m": 1865895,
+			"f": 2342089,
+			"trans": 812,
+			"covaxin": 927320,
+			"covishield": 3816188,
+			"1D": 4208807,
+			"2D": 539594
+		},
+		"AR": {
+			"indi": 202702,
+			"m": 53248,
+			"f": 48077,
+			"trans": 26,
+			"covaxin": 0,
+			"covishield": 102755,
+			"1D": 101351,
+			"2D": 1404
+		},
+		"AS": {
+			"indi": 2716288,
+			"m": 735104,
+			"f": 622744,
+			"trans": 295,
+			"covaxin": 260862,
+			"covishield": 1324146,
+			"1D": 1358144,
+			"2D": 226842
+		},
+		"BR": {
+			"indi": 6341402,
+			"m": 1914922,
+			"f": 1254753,
+			"trans": 1002,
+			"covaxin": 512354,
+			"covishield": 2905822,
+			"1D": 3170701,
+			"2D": 247486
+		},
+		"CH": {
+			"indi": 259420,
+			"m": 73318,
+			"f": 56356,
+			"trans": 36,
+			"covaxin": 0,
+			"covishield": 133476,
+			"1D": 129710,
+			"2D": 3766
+		},
+		"CT": {
+			"indi": 238186,
+			"m": 58901,
+			"f": 60172,
+			"trans": 20,
+			"covaxin": 68291,
+			"covishield": 150002,
+			"1D": 119093,
+			"2D": 99203
+		},
+		"HP": {
+			"indi": 817952,
+			"m": 241355,
+			"f": 167507,
+			"trans": 114,
+			"covaxin": 117,
+			"covishield": 419578,
+			"1D": 408976,
+			"2D": 11988
+		},
+		"DN": {
+			"indi": 314456,
+			"m": 106789,
+			"f": 50400,
+			"trans": 39,
+			"covaxin": 0,
+			"covishield": 158873,
+			"1D": 157228,
+			"2D": 1645
+		},
+		"DL": {
+			"indi": 2617844,
+			"m": 760823,
+			"f": 547751,
+			"trans": 348,
+			"covaxin": 469706,
+			"covishield": 1294048,
+			"1D": 1308922,
+			"2D": 455142
+		},
+		"GA": {
+			"indi": 453352,
+			"m": 118018,
+			"f": 108628,
+			"trans": 30,
+			"covaxin": 10409,
+			"covishield": 222257,
+			"1D": 226676,
+			"2D": 5992
+		},
+		"GJ": {
+			"indi": 12731566,
+			"m": 3676217,
+			"f": 2700897,
+			"trans": 1342,
+			"covaxin": 955128,
+			"covishield": 6314862,
+			"1D": 6376183,
+			"2D": 820699
+		},
+		"HR": {
+			"indi": 3731842,
+			"m": 1118083,
+			"f": 747319,
+			"trans": 520,
+			"covaxin": 466599,
+			"covishield": 1574582,
+			"1D": 1865921,
+			"2D": 175245
+		},
+		"UP": {
+			"indi": 16106262,
+			"m": 4726725,
+			"f": 3323212,
+			"trans": 3194,
+			"covaxin": 1196252,
+			"covishield": 7516038,
+			"1D": 8053131,
+			"2D": 659159
+		},
+		"JK": {
+			"indi": 1685402,
+			"m": 490831,
+			"f": 351679,
+			"trans": 188,
+			"covaxin": 43421,
+			"covishield": 857277,
+			"1D": 842701,
+			"2D": 58047
+		},
+		"JH": {
+			"indi": 3020148,
+			"m": 889758,
+			"f": 619868,
+			"trans": 448,
+			"covaxin": 343596,
+			"covishield": 1321319,
+			"1D": 1510074,
+			"2D": 154842
+		},
+		"KA": {
+			"indi": 14010136,
+			"m": 4010554,
+			"f": 2992983,
+			"trans": 1531,
+			"covaxin": 1066952,
+			"covishield": 6676287,
+			"1D": 7005068,
+			"2D": 740664
+		},
+		"KL": {
+			"indi": 5726900,
+			"m": 1549915,
+			"f": 1312834,
+			"trans": 702,
+			"covaxin": 572721,
+			"covishield": 2590018,
+			"1D": 2863450,
+			"2D": 298606
+		},
+		"LA": {
+			"indi": 138638,
+			"m": 35646,
+			"f": 33663,
+			"trans": 10,
+			"covaxin": 0,
+			"covishield": 69600,
+			"1D": 69319,
+			"2D": 281
+		},
+		"LD": {
+			"indi": 38286,
+			"m": 10005,
+			"f": 9137,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 19436,
+			"1D": 19143,
+			"2D": 293
+		},
+		"MP": {
+			"indi": 10086032,
+			"m": 3008584,
+			"f": 2032974,
+			"trans": 1458,
+			"covaxin": 995226,
+			"covishield": 4405353,
+			"1D": 5043016,
+			"2D": 357523
+		},
+		"MH": {
+			"indi": 10909044,
+			"m": 2927286,
+			"f": 2526318,
+			"trans": 917,
+			"covaxin": 1017493,
+			"covishield": 5540402,
+			"1D": 5454522,
+			"2D": 1104239
+		},
+		"MN": {
+			"indi": 340442,
+			"m": 90968,
+			"f": 80635,
+			"trans": 105,
+			"covaxin": 0,
+			"covishield": 173685,
+			"1D": 171710,
+			"2D": 1975
+		},
+		"ML": {
+			"indi": 241044,
+			"m": 64280,
+			"f": 56220,
+			"trans": 22,
+			"covaxin": 0,
+			"covishield": 121377,
+			"1D": 120522,
+			"2D": 855
+		},
+		"MZ": {
+			"indi": 116510,
+			"m": 30152,
+			"f": 28084,
+			"trans": 19,
+			"covaxin": 0,
+			"covishield": 59375,
+			"1D": 58255,
+			"2D": 1120
+		},
+		"NL": {
+			"indi": 229604,
+			"m": 61511,
+			"f": 53711,
+			"trans": 26,
+			"covaxin": 0,
+			"covishield": 115985,
+			"1D": 115248,
+			"2D": 737
+		},
+		"OR": {
+			"indi": 4354326,
+			"m": 1217334,
+			"f": 959287,
+			"trans": 543,
+			"covaxin": 390471,
+			"covishield": 2044402,
+			"1D": 2177163,
+			"2D": 257686
+		},
+		"PY": {
+			"indi": 190450,
+			"m": 52014,
+			"f": 43197,
+			"trans": 14,
+			"covaxin": 0,
+			"covishield": 92812,
+			"1D": 95225,
+			"2D": 60
+		},
+		"PB": {
+			"indi": 1899404,
+			"m": 524757,
+			"f": 424796,
+			"trans": 139,
+			"covaxin": 164562,
+			"covishield": 886032,
+			"1D": 949702,
+			"2D": 112621
+		},
+		"RJ": {
+			"indi": 8873016,
+			"m": 2511126,
+			"f": 1924390,
+			"trans": 993,
+			"covaxin": 1079365,
+			"covishield": 3711371,
+			"1D": 4436508,
+			"2D": 354228
+		},
+		"SK": {
+			"indi": 120562,
+			"m": 33043,
+			"f": 27202,
+			"trans": 36,
+			"covaxin": 0,
+			"covishield": 60534,
+			"1D": 60281,
+			"2D": 253
+		},
+		"TN": {
+			"indi": 7446432,
+			"m": 2213615,
+			"f": 1509029,
+			"trans": 572,
+			"covaxin": 816184,
+			"covishield": 3197641,
+			"1D": 3723216,
+			"2D": 290994
+		},
+		"TG": {
+			"indi": 4731696,
+			"m": 1360932,
+			"f": 1004433,
+			"trans": 481,
+			"covaxin": 677763,
+			"covishield": 1958815,
+			"1D": 2365848,
+			"2D": 285999
+		},
+		"TR": {
+			"indi": 368194,
+			"m": 98748,
+			"f": 85312,
+			"trans": 37,
+			"covaxin": 14620,
+			"covishield": 180784,
+			"1D": 184097,
+			"2D": 11308
+		},
+		"UT": {
+			"indi": 1467422,
+			"m": 398265,
+			"f": 335099,
+			"trans": 349,
+			"covaxin": 145078,
+			"covishield": 618278,
+			"1D": 733711,
+			"2D": 29633
+		},
+		"WB": {
+			"indi": 10980810,
+			"m": 3310316,
+			"f": 2178969,
+			"trans": 1038,
+			"covaxin": 850244,
+			"covishield": 5054281,
+			"1D": 5490405,
+			"2D": 415058
+		}
+	},
+	"16": {
+		"AP": {
+			"indi": 16713278,
+			"m": 3504423,
+			"f": 4850927,
+			"trans": 1289,
+			"covaxin": 728943,
+			"covishield": 4971608,
+			"1D": 4507661,
+			"2D": 1213042
+		},
+		"AR": {
+			"indi": 738376,
+			"m": 204008,
+			"f": 165088,
+			"trans": 92,
+			"covaxin": 0,
+			"covishield": 293211,
+			"1D": 252882,
+			"2D": 40541
+		},
+		"AS": {
+			"indi": 9075612,
+			"m": 2431276,
+			"f": 2105940,
+			"trans": 591,
+			"covaxin": 477636,
+			"covishield": 3105237,
+			"1D": 3105574,
+			"2D": 477937
+		},
+		"BR": {
+			"indi": 18187172,
+			"m": 4885890,
+			"f": 4206132,
+			"trans": 1481,
+			"covaxin": 893043,
+			"covishield": 6276694,
+			"1D": 6268222,
+			"2D": 902798
+		},
+		"CH": {
+			"indi": 620722,
+			"m": 174473,
+			"f": 135840,
+			"trans": 48,
+			"covaxin": 1943,
+			"covishield": 232436,
+			"1D": 184220,
+			"2D": 50248
+		},
+		"CT": {
+			"indi": 8333692,
+			"m": 2117919,
+			"f": 2048461,
+			"trans": 465,
+			"covaxin": 737212,
+			"covishield": 2350478,
+			"1D": 2419635,
+			"2D": 669616
+		},
+		"HP": {
+			"indi": 4484918,
+			"m": 1085567,
+			"f": 1156463,
+			"trans": 430,
+			"covaxin": 1653,
+			"covishield": 1802396,
+			"1D": 1314758,
+			"2D": 490982
+		},
+		"DN": {
+			"indi": 622260,
+			"m": 212218,
+			"f": 98834,
+			"trans": 78,
+			"covaxin": 12,
+			"covishield": 284703,
+			"1D": 247439,
+			"2D": 37276
+		},
+		"DL": {
+			"indi": 8926294,
+			"m": 2554070,
+			"f": 1908070,
+			"trans": 1007,
+			"covaxin": 323262,
+			"covishield": 2658320,
+			"1D": 2311893,
+			"2D": 687169
+		},
+		"GA": {
+			"indi": 1170620,
+			"m": 325003,
+			"f": 260251,
+			"trans": 56,
+			"covaxin": 10378,
+			"covishield": 476409,
+			"1D": 395037,
+			"2D": 91750
+		},
+		"GJ": {
+			"indi": 27645366,
+			"m": 7575613,
+			"f": 6250703,
+			"trans": 2066,
+			"covaxin": 920040,
+			"covishield": 7735966,
+			"1D": 6353347,
+			"2D": 2309002
+		},
+		"HR": {
+			"indi": 8779670,
+			"m": 2432663,
+			"f": 1956433,
+			"trans": 743,
+			"covaxin": 539145,
+			"covishield": 2756493,
+			"1D": 2527260,
+			"2D": 785815
+		},
+		"UP": {
+			"indi": 38718906,
+			"m": 11014742,
+			"f": 8338924,
+			"trans": 5795,
+			"covaxin": 1707744,
+			"covishield": 13789105,
+			"1D": 13156525,
+			"2D": 2346266
+		},
+		"JK": {
+			"indi": 4286994,
+			"m": 1281373,
+			"f": 861778,
+			"trans": 350,
+			"covaxin": 97577,
+			"covishield": 1460346,
+			"1D": 1267654,
+			"2D": 290166
+		},
+		"JH": {
+			"indi": 6968994,
+			"m": 1925495,
+			"f": 1558302,
+			"trans": 700,
+			"covaxin": 581255,
+			"covishield": 2113362,
+			"1D": 2141547,
+			"2D": 554631
+		},
+		"KA": {
+			"indi": 29420724,
+			"m": 7323888,
+			"f": 7383725,
+			"trans": 2753,
+			"covaxin": 2050026,
+			"covishield": 9032430,
+			"1D": 8687653,
+			"2D": 2423091
+		},
+		"KL": {
+			"indi": 14104616,
+			"m": 3375865,
+			"f": 3675266,
+			"trans": 1178,
+			"covaxin": 446651,
+			"covishield": 4326831,
+			"1D": 2633925,
+			"2D": 2150319
+		},
+		"LA": {
+			"indi": 182120,
+			"m": 55591,
+			"f": 35463,
+			"trans": 6,
+			"covaxin": 0,
+			"covishield": 53667,
+			"1D": 29343,
+			"2D": 24324
+		},
+		"LD": {
+			"indi": 39970,
+			"m": 11347,
+			"f": 8636,
+			"trans": 1,
+			"covaxin": 0,
+			"covishield": 12891,
+			"1D": 8101,
+			"2D": 4790
+		},
+		"MP": {
+			"indi": 24239046,
+			"m": 6613420,
+			"f": 5504161,
+			"trans": 1946,
+			"covaxin": 1082124,
+			"covishield": 9041395,
+			"1D": 8206172,
+			"2D": 1922389
+		},
+		"MH": {
+			"indi": 33794774,
+			"m": 9243905,
+			"f": 7650592,
+			"trans": 2890,
+			"covaxin": 1226296,
+			"covishield": 10402851,
+			"1D": 8530876,
+			"2D": 3131039
+		},
+		"MN": {
+			"indi": 949648,
+			"m": 266748,
+			"f": 207967,
+			"trans": 109,
+			"covaxin": 0,
+			"covishield": 403258,
+			"1D": 380325,
+			"2D": 22933
+		},
+		"ML": {
+			"indi": 822722,
+			"m": 221914,
+			"f": 189389,
+			"trans": 58,
+			"covaxin": 0,
+			"covishield": 336632,
+			"1D": 304421,
+			"2D": 32211
+		},
+		"MZ": {
+			"indi": 750228,
+			"m": 185995,
+			"f": 189024,
+			"trans": 95,
+			"covaxin": 0,
+			"covishield": 328399,
+			"1D": 273475,
+			"2D": 54924
+		},
+		"NL": {
+			"indi": 672570,
+			"m": 194957,
+			"f": 141281,
+			"trans": 47,
+			"covaxin": 0,
+			"covishield": 283526,
+			"1D": 231579,
+			"2D": 52282
+		},
+		"OR": {
+			"indi": 12818770,
+			"m": 3462522,
+			"f": 2945582,
+			"trans": 1279,
+			"covaxin": 880093,
+			"covishield": 3873882,
+			"1D": 3588258,
+			"2D": 1167221
+		},
+		"PY": {
+			"indi": 669244,
+			"m": 160245,
+			"f": 174285,
+			"trans": 92,
+			"covaxin": 0,
+			"covishield": 272854,
+			"1D": 215756,
+			"2D": 53268
+		},
+		"PB": {
+			"indi": 6746786,
+			"m": 1860824,
+			"f": 1512261,
+			"trans": 285,
+			"covaxin": 413543,
+			"covishield": 2102505,
+			"1D": 1916051,
+			"2D": 610684
+		},
+		"RJ": {
+			"indi": 21365814,
+			"m": 5709942,
+			"f": 4971216,
+			"trans": 1749,
+			"covaxin": 1102234,
+			"covishield": 6341633,
+			"1D": 5702680,
+			"2D": 1741818
+		},
+		"SK": {
+			"indi": 700448,
+			"m": 190079,
+			"f": 160011,
+			"trans": 134,
+			"covaxin": 0,
+			"covishield": 290388,
+			"1D": 224637,
+			"2D": 65751
+		},
+		"TN": {
+			"indi": 18800950,
+			"m": 4775370,
+			"f": 4623229,
+			"trans": 1877,
+			"covaxin": 996748,
+			"covishield": 6275251,
+			"1D": 6267887,
+			"2D": 1016364
+		},
+		"TG": {
+			"indi": 12046584,
+			"m": 3064647,
+			"f": 2957664,
+			"trans": 992,
+			"covaxin": 1140576,
+			"covishield": 3489653,
+			"1D": 3889567,
+			"2D": 784202
+		},
+		"TR": {
+			"indi": 3235976,
+			"m": 821832,
+			"f": 795942,
+			"trans": 215,
+			"covaxin": 23861,
+			"covishield": 1077128,
+			"1D": 944962,
+			"2D": 156028
+		},
+		"UT": {
+			"indi": 4706744,
+			"m": 1216515,
+			"f": 1136068,
+			"trans": 791,
+			"covaxin": 217759,
+			"covishield": 1429784,
+			"1D": 1297162,
+			"2D": 350423
+		},
+		"WB": {
+			"indi": 24348810,
+			"m": 6591616,
+			"f": 5581080,
+			"trans": 1708,
+			"covaxin": 1048042,
+			"covishield": 6779025,
+			"1D": 4859954,
+			"2D": 2985988
+		}
+	},
+	"17": {
+		"AP": {
+			"indi": 13922526,
+			"m": 3225166,
+			"f": 3734809,
+			"trans": 1289,
+			"covaxin": 1159253,
+			"covishield": 5775170,
+			"1D": 4325029,
+			"2D": 2636234
+		},
+		"AR": {
+			"indi": 290976,
+			"m": 81795,
+			"f": 63664,
+			"trans": 30,
+			"covaxin": 0,
+			"covishield": 145488,
+			"1D": 80926,
+			"2D": 64350
+		},
+		"AS": {
+			"indi": 10796922,
+			"m": 2752580,
+			"f": 2645100,
+			"trans": 779,
+			"covaxin": 304796,
+			"covishield": 5092394,
+			"1D": 4387793,
+			"2D": 1010668
+		},
+		"BR": {
+			"indi": 21448350,
+			"m": 5488614,
+			"f": 5233136,
+			"trans": 2386,
+			"covaxin": 1410106,
+			"covishield": 9311925,
+			"1D": 8690272,
+			"2D": 2033903
+		},
+		"CH": {
+			"indi": 662574,
+			"m": 192898,
+			"f": 138341,
+			"trans": 48,
+			"covaxin": 2496,
+			"covishield": 328791,
+			"1D": 213077,
+			"2D": 118210
+		},
+		"CT": {
+			"indi": 4661866,
+			"m": 1220796,
+			"f": 1109797,
+			"trans": 341,
+			"covaxin": 369825,
+			"covishield": 1956778,
+			"1D": 1517504,
+			"2D": 813429
+		},
+		"HP": {
+			"indi": 3959998,
+			"m": 1026925,
+			"f": 952601,
+			"trans": 472,
+			"covaxin": 1537,
+			"covishield": 1978453,
+			"1D": 1428381,
+			"2D": 551618
+		},
+		"DN": {
+			"indi": 263774,
+			"m": 87738,
+			"f": 44132,
+			"trans": 17,
+			"covaxin": 35,
+			"covishield": 131852,
+			"1D": 105157,
+			"2D": 26730
+		},
+		"DL": {
+			"indi": 4724570,
+			"m": 1340788,
+			"f": 1020847,
+			"trans": 650,
+			"covaxin": 516482,
+			"covishield": 1813896,
+			"1D": 1248538,
+			"2D": 1113747
+		},
+		"GA": {
+			"indi": 595496,
+			"m": 164814,
+			"f": 132912,
+			"trans": 22,
+			"covaxin": 4447,
+			"covishield": 293301,
+			"1D": 158112,
+			"2D": 139636
+		},
+		"GJ": {
+			"indi": 24147648,
+			"m": 6797717,
+			"f": 5273716,
+			"trans": 2382,
+			"covaxin": 1029546,
+			"covishield": 11021094,
+			"1D": 8447782,
+			"2D": 3626042
+		},
+		"HR": {
+			"indi": 6992774,
+			"m": 1940861,
+			"f": 1554804,
+			"trans": 717,
+			"covaxin": 408774,
+			"covishield": 3054604,
+			"1D": 2167457,
+			"2D": 1328216
+		},
+		"UP": {
+			"indi": 37415110,
+			"m": 10128896,
+			"f": 8569698,
+			"trans": 8953,
+			"covaxin": 2226013,
+			"covishield": 16466689,
+			"1D": 15681208,
+			"2D": 3026347
+		},
+		"JK": {
+			"indi": 3664056,
+			"m": 961373,
+			"f": 870348,
+			"trans": 304,
+			"covaxin": 88694,
+			"covishield": 1743100,
+			"1D": 1134439,
+			"2D": 697589
+		},
+		"JH": {
+			"indi": 5728538,
+			"m": 1560770,
+			"f": 1302759,
+			"trans": 740,
+			"covaxin": 441044,
+			"covishield": 2420326,
+			"1D": 2139962,
+			"2D": 724307
+		},
+		"KA": {
+			"indi": 18926326,
+			"m": 4692135,
+			"f": 4769434,
+			"trans": 1590,
+			"covaxin": 1456544,
+			"covishield": 7941346,
+			"1D": 6041764,
+			"2D": 3421399
+		},
+		"KL": {
+			"indi": 15466486,
+			"m": 3685242,
+			"f": 4045921,
+			"trans": 2078,
+			"covaxin": 899114,
+			"covishield": 6810042,
+			"1D": 5493813,
+			"2D": 2239430
+		},
+		"LA": {
+			"indi": 32586,
+			"m": 9593,
+			"f": 6697,
+			"trans": 3,
+			"covaxin": 0,
+			"covishield": 16293,
+			"1D": 5185,
+			"2D": 11108
+		},
+		"LD": {
+			"indi": 17970,
+			"m": 4622,
+			"f": 4363,
+			"trans": 0,
+			"covaxin": 0,
+			"covishield": 8985,
+			"1D": 2994,
+			"2D": 5991
+		},
+		"MP": {
+			"indi": 26383896,
+			"m": 6825785,
+			"f": 6362935,
+			"trans": 3224,
+			"covaxin": 1256918,
+			"covishield": 11926057,
+			"1D": 11011671,
+			"2D": 2180277
+		},
+		"MH": {
+			"indi": 22545996,
+			"m": 6116847,
+			"f": 5153887,
+			"trans": 2264,
+			"covaxin": 1930262,
+			"covishield": 9267405,
+			"1D": 6825817,
+			"2D": 4447181
+		},
+		"MN": {
+			"indi": 986584,
+			"m": 247826,
+			"f": 245370,
+			"trans": 98,
+			"covaxin": 0,
+			"covishield": 493292,
+			"1D": 321441,
+			"2D": 171851
+		},
+		"ML": {
+			"indi": 745400,
+			"m": 195479,
+			"f": 177171,
+			"trans": 50,
+			"covaxin": 0,
+			"covishield": 372700,
+			"1D": 222281,
+			"2D": 150419
+		},
+		"MZ": {
+			"indi": 305666,
+			"m": 76264,
+			"f": 76552,
+			"trans": 17,
+			"covaxin": 0,
+			"covishield": 152833,
+			"1D": 57212,
+			"2D": 95621
+		},
+		"NL": {
+			"indi": 348074,
+			"m": 96486,
+			"f": 77518,
+			"trans": 33,
+			"covaxin": 0,
+			"covishield": 171228,
+			"1D": 110803,
+			"2D": 63234
+		},
+		"OR": {
+			"indi": 11337818,
+			"m": 2847227,
+			"f": 2820332,
+			"trans": 1349,
+			"covaxin": 674299,
+			"covishield": 4991098,
+			"1D": 4015112,
+			"2D": 1653797
+		},
+		"PY": {
+			"indi": 272090,
+			"m": 59775,
+			"f": 76256,
+			"trans": 14,
+			"covaxin": 0,
+			"covishield": 125988,
+			"1D": 102823,
+			"2D": 33222
+		},
+		"PB": {
+			"indi": 6254772,
+			"m": 1716406,
+			"f": 1410482,
+			"trans": 460,
+			"covaxin": 479352,
+			"covishield": 2609113,
+			"1D": 2066095,
+			"2D": 1061291
+		},
+		"RJ": {
+			"indi": 19955648,
+			"m": 5059698,
+			"f": 4915898,
+			"trans": 2226,
+			"covaxin": 1631394,
+			"covishield": 8333976,
+			"1D": 6144210,
+			"2D": 3833614
+		},
+		"SK": {
+			"indi": 164494,
+			"m": 46745,
+			"f": 35477,
+			"trans": 27,
+			"covaxin": 0,
+			"covishield": 82247,
+			"1D": 49792,
+			"2D": 32455
+		},
+		"TN": {
+			"indi": 15904018,
+			"m": 3637720,
+			"f": 4312554,
+			"trans": 1732,
+			"covaxin": 1187718,
+			"covishield": 6733964,
+			"1D": 6326064,
+			"2D": 1625945
+		},
+		"TG": {
+			"indi": 6769764,
+			"m": 1705765,
+			"f": 1678478,
+			"trans": 630,
+			"covaxin": 738592,
+			"covishield": 2604288,
+			"1D": 1366493,
+			"2D": 2018389
+		},
+		"TR": {
+			"indi": 956158,
+			"m": 244062,
+			"f": 233916,
+			"trans": 100,
+			"covaxin": 21874,
+			"covishield": 456205,
+			"1D": 324319,
+			"2D": 153760
+		},
+		"UT": {
+			"indi": 4387784,
+			"m": 1093666,
+			"f": 1099049,
+			"trans": 1173,
+			"covaxin": 141115,
+			"covishield": 2052777,
+			"1D": 1527648,
+			"2D": 666244
+		},
+		"WB": {
+			"indi": 19937778,
+			"m": 4647889,
+			"f": 5318906,
+			"trans": 2091,
+			"covaxin": 1325286,
+			"covishield": 8605097,
+			"1D": 7323877,
+			"2D": 2645012
+		}
+	}
+}
