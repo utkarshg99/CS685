@@ -41,8 +41,8 @@ with open("data/census.csv", newline='') as ccsv:
 
 for dist in districts_common:
     dist_ratios[dist] = {
-        "mfv": ovm[dist]/ovf[dist],
-        "mfp": census[dist]["m"]/census[dist]["f"] 
+        "mfv": ovf[dist]/ovm[dist],
+        "mfp": census[dist]["f"]/census[dist]["m"] 
     }
     dist_ratios[dist]["popr"] = dist_ratios[dist]["mfv"]/dist_ratios[dist]["mfp"]
 
@@ -66,8 +66,8 @@ for st in state_district_map.keys():
             totf += census[dist]["f"]
             vm += ovm[dist]
             vf += ovf[dist]
-    state_ratios[st]["mfv"] = state_ratios[st]["vm"]/state_ratios[st]["vf"] if state_ratios[st]["vf"] != 0 else 1e9
-    state_ratios[st]["mfp"] = state_ratios[st]["totm"]/state_ratios[st]["totf"] if state_ratios[st]["totf"] != 0 else 1e9
+    state_ratios[st]["mfv"] = state_ratios[st]["vf"]/state_ratios[st]["vm"] if state_ratios[st]["vf"] != 0 else 1e9
+    state_ratios[st]["mfp"] = state_ratios[st]["totf"]/state_ratios[st]["totm"] if state_ratios[st]["totf"] != 0 else 1e9
     state_ratios[st]["popr"] = state_ratios[st]["mfv"]/state_ratios[st]["mfp"] if state_ratios[st]["mfp"] != 0 else 1e9
 
 with open("out/district-vaccination-population-ratio.csv", "w") as vcprd:

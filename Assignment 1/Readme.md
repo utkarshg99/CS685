@@ -79,7 +79,7 @@
 
 5. <a name="exp5"></a> During analysis, following inconsistencies such as (but not limited to) were taken care of: dip in cumulative values, change in the name of headers. In order to deal with dips in cumulative values, max of the values on the consecutive days is taken (as the dip is local and the values rise on subsequent days).
 
-6. <a name="exp6"></a> State data from census is not used as it would cause issues for Telangana, instead, CoWin data as used as base.
+6. <a name="exp6"></a> State data from census is not used as it would cause issues for Telangana, instead, CoWin data as used as base. This ensures that districts present in Telangana are automatically counted in Telangana when using census data. This helps in improving results of all questions related to census data.
 
 7. <a name="exp7"></a> "NA" is reported for those districts/states where 0 doses of Covaxin have been administered.
 
