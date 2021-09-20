@@ -138,7 +138,7 @@ for i in range(0, len(mnth)-1):
             ov1d[k] = ov1d.get(k, 0) + mndt[str(i+1)][k]["1D"]
             ov2d[k] = ov2d.get(k, 0) + mndt[str(i+1)][k]["2D"]
             ovm[k] = ovm.get(k, 0) + mndt[str(i+1)][k]["m"]
-            ovf[k] = ovm.get(k, 0) + mndt[str(i+1)][k]["f"]
+            ovf[k] = ovf.get(k, 0) + mndt[str(i+1)][k]["f"]
             smndt[str(i+1)][distnamekey[k][:2]]["indi"] += mndt[str(i+1)][k]["indi"]
             smndt[str(i+1)][distnamekey[k][:2]]["m"] += mndt[str(i+1)][k]["m"]
             smndt[str(i+1)][distnamekey[k][:2]]["f"] += mndt[str(i+1)][k]["f"]

@@ -121,6 +121,7 @@
 
 * "overallid" wherever used, is always reported as 1.
 
+* All values for "overall" time period have been aggregated by adding up the difference of cumulative numbers at the end of each month.
 
 ## Appendix
 
