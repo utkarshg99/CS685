@@ -42,7 +42,7 @@ AP_Anantapur,40,0,0
 AP_Anantapur,41,0,0
 AP_Anantapur,42,0,0
 AP_Anantapur,43,0,0
-AP_Anantapur,44,0,0
+AP_Anantapur,44,287,0
 AP_Anantapur,45,3802,0
 AP_Anantapur,46,3115,0
 AP_Anantapur,47,5029,0
@@ -116,7 +116,7 @@ AP_Chittoor,40,0,0
 AP_Chittoor,41,0,0
 AP_Chittoor,42,0,0
 AP_Chittoor,43,0,0
-AP_Chittoor,44,0,0
+AP_Chittoor,44,424,0
 AP_Chittoor,45,5540,0
 AP_Chittoor,46,5056,0
 AP_Chittoor,47,11874,0
@@ -190,7 +190,7 @@ AP_East Godavari,40,0,0
 AP_East Godavari,41,0,0
 AP_East Godavari,42,0,0
 AP_East Godavari,43,0,0
-AP_East Godavari,44,0,0
+AP_East Godavari,44,1012,0
 AP_East Godavari,45,11148,0
 AP_East Godavari,46,9677,0
 AP_East Godavari,47,13061,0
@@ -264,7 +264,7 @@ AP_Guntur,40,0,0
 AP_Guntur,41,0,0
 AP_Guntur,42,0,0
 AP_Guntur,43,0,0
-AP_Guntur,44,0,0
+AP_Guntur,44,303,0
 AP_Guntur,45,3174,0
 AP_Guntur,46,5396,0
 AP_Guntur,47,6811,0
@@ -338,7 +338,7 @@ AP_Krishna,40,0,0
 AP_Krishna,41,0,0
 AP_Krishna,42,0,0
 AP_Krishna,43,0,0
-AP_Krishna,44,0,0
+AP_Krishna,44,144,0
 AP_Krishna,45,4393,0
 AP_Krishna,46,5503,0
 AP_Krishna,47,7259,0
@@ -412,7 +412,7 @@ AP_Kurnool,40,0,0
 AP_Kurnool,41,0,0
 AP_Kurnool,42,0,0
 AP_Kurnool,43,0,0
-AP_Kurnool,44,0,0
+AP_Kurnool,44,214,0
 AP_Kurnool,45,3572,0
 AP_Kurnool,46,3057,0
 AP_Kurnool,47,9757,0
@@ -486,7 +486,7 @@ AP_Prakasam,40,0,0
 AP_Prakasam,41,0,0
 AP_Prakasam,42,0,0
 AP_Prakasam,43,0,0
-AP_Prakasam,44,0,0
+AP_Prakasam,44,202,0
 AP_Prakasam,45,6383,0
 AP_Prakasam,46,2615,0
 AP_Prakasam,47,4817,0
@@ -560,7 +560,7 @@ AP_S.P.S. Nellore,40,0,0
 AP_S.P.S. Nellore,41,0,0
 AP_S.P.S. Nellore,42,0,0
 AP_S.P.S. Nellore,43,0,0
-AP_S.P.S. Nellore,44,0,0
+AP_S.P.S. Nellore,44,277,0
 AP_S.P.S. Nellore,45,5659,0
 AP_S.P.S. Nellore,46,6518,0
 AP_S.P.S. Nellore,47,14431,0
@@ -634,7 +634,7 @@ AP_Srikakulam,40,0,0
 AP_Srikakulam,41,0,0
 AP_Srikakulam,42,0,0
 AP_Srikakulam,43,0,0
-AP_Srikakulam,44,0,0
+AP_Srikakulam,44,165,0
 AP_Srikakulam,45,3703,0
 AP_Srikakulam,46,4355,0
 AP_Srikakulam,47,14156,0
@@ -708,7 +708,7 @@ AP_Visakhapatnam,40,0,0
 AP_Visakhapatnam,41,0,0
 AP_Visakhapatnam,42,0,0
 AP_Visakhapatnam,43,0,0
-AP_Visakhapatnam,44,0,0
+AP_Visakhapatnam,44,527,0
 AP_Visakhapatnam,45,6006,0
 AP_Visakhapatnam,46,8039,0
 AP_Visakhapatnam,47,7407,0
@@ -782,7 +782,7 @@ AP_Vizianagaram,40,0,0
 AP_Vizianagaram,41,0,0
 AP_Vizianagaram,42,0,0
 AP_Vizianagaram,43,0,0
-AP_Vizianagaram,44,0,0
+AP_Vizianagaram,44,259,0
 AP_Vizianagaram,45,3415,0
 AP_Vizianagaram,46,2757,0
 AP_Vizianagaram,47,5930,0
@@ -856,7 +856,7 @@ AP_West Godavari,40,0,0
 AP_West Godavari,41,0,0
 AP_West Godavari,42,0,0
 AP_West Godavari,43,0,0
-AP_West Godavari,44,0,0
+AP_West Godavari,44,207,0
 AP_West Godavari,45,5329,0
 AP_West Godavari,46,4225,0
 AP_West Godavari,47,7166,0
@@ -930,7 +930,7 @@ AP_Y.S.R. Kadapa,40,0,0
 AP_Y.S.R. Kadapa,41,0,0
 AP_Y.S.R. Kadapa,42,0,0
 AP_Y.S.R. Kadapa,43,0,0
-AP_Y.S.R. Kadapa,44,0,0
+AP_Y.S.R. Kadapa,44,195,0
 AP_Y.S.R. Kadapa,45,4040,0
 AP_Y.S.R. Kadapa,46,2878,0
 AP_Y.S.R. Kadapa,47,4669,0
@@ -1152,7 +1152,7 @@ AR_East Kameng,40,0,0
 AR_East Kameng,41,0,0
 AR_East Kameng,42,0,0
 AR_East Kameng,43,0,0
-AR_East Kameng,44,0,0
+AR_East Kameng,44,5,0
 AR_East Kameng,45,99,0
 AR_East Kameng,46,0,0
 AR_East Kameng,47,106,0
@@ -1226,7 +1226,7 @@ AR_East Siang,40,0,0
 AR_East Siang,41,0,0
 AR_East Siang,42,0,0
 AR_East Siang,43,0,0
-AR_East Siang,44,0,0
+AR_East Siang,44,6,0
 AR_East Siang,45,74,0
 AR_East Siang,46,263,0
 AR_East Siang,47,289,0
@@ -1670,7 +1670,7 @@ AR_Longding,40,0,0
 AR_Longding,41,0,0
 AR_Longding,42,0,0
 AR_Longding,43,0,0
-AR_Longding,44,0,0
+AR_Longding,44,4,0
 AR_Longding,45,61,0
 AR_Longding,46,17,0
 AR_Longding,47,81,0
@@ -1892,7 +1892,7 @@ AR_Lower Subansiri,40,0,0
 AR_Lower Subansiri,41,0,0
 AR_Lower Subansiri,42,0,0
 AR_Lower Subansiri,43,0,0
-AR_Lower Subansiri,44,0,0
+AR_Lower Subansiri,44,7,0
 AR_Lower Subansiri,45,22,0
 AR_Lower Subansiri,46,87,0
 AR_Lower Subansiri,47,170,0
@@ -1966,7 +1966,7 @@ AR_Namsai,40,0,0
 AR_Namsai,41,0,0
 AR_Namsai,42,0,0
 AR_Namsai,43,0,0
-AR_Namsai,44,0,0
+AR_Namsai,44,20,0
 AR_Namsai,45,141,0
 AR_Namsai,46,267,0
 AR_Namsai,47,199,0
@@ -2410,7 +2410,7 @@ AR_Tawang,40,0,0
 AR_Tawang,41,0,0
 AR_Tawang,42,0,0
 AR_Tawang,43,0,0
-AR_Tawang,44,0,0
+AR_Tawang,44,15,0
 AR_Tawang,45,168,0
 AR_Tawang,46,335,0
 AR_Tawang,47,78,0
@@ -2632,7 +2632,7 @@ AR_Upper Siang,40,0,0
 AR_Upper Siang,41,0,0
 AR_Upper Siang,42,0,0
 AR_Upper Siang,43,0,0
-AR_Upper Siang,44,0,0
+AR_Upper Siang,44,6,0
 AR_Upper Siang,45,1,0
 AR_Upper Siang,46,122,0
 AR_Upper Siang,47,210,0
@@ -2854,7 +2854,7 @@ AR_West Siang,40,0,0
 AR_West Siang,41,0,0
 AR_West Siang,42,0,0
 AR_West Siang,43,0,0
-AR_West Siang,44,0,0
+AR_West Siang,44,2,0
 AR_West Siang,45,83,0
 AR_West Siang,46,553,0
 AR_West Siang,47,129,0
@@ -2928,7 +2928,7 @@ AS_Baksa,40,0,0
 AS_Baksa,41,0,0
 AS_Baksa,42,0,0
 AS_Baksa,43,0,0
-AS_Baksa,44,0,0
+AS_Baksa,44,11,0
 AS_Baksa,45,94,0
 AS_Baksa,46,537,0
 AS_Baksa,47,849,0
@@ -3002,7 +3002,7 @@ AS_Barpeta,40,0,0
 AS_Barpeta,41,0,0
 AS_Barpeta,42,0,0
 AS_Barpeta,43,0,0
-AS_Barpeta,44,0,0
+AS_Barpeta,44,15,0
 AS_Barpeta,45,155,0
 AS_Barpeta,46,1048,0
 AS_Barpeta,47,1833,0
@@ -3076,7 +3076,7 @@ AS_Biswanath,40,0,0
 AS_Biswanath,41,0,0
 AS_Biswanath,42,0,0
 AS_Biswanath,43,0,0
-AS_Biswanath,44,0,0
+AS_Biswanath,44,11,0
 AS_Biswanath,45,134,0
 AS_Biswanath,46,654,0
 AS_Biswanath,47,928,0
@@ -3150,7 +3150,7 @@ AS_Bongaigaon,40,0,0
 AS_Bongaigaon,41,0,0
 AS_Bongaigaon,42,0,0
 AS_Bongaigaon,43,0,0
-AS_Bongaigaon,44,0,0
+AS_Bongaigaon,44,12,0
 AS_Bongaigaon,45,70,0
 AS_Bongaigaon,46,644,0
 AS_Bongaigaon,47,833,0
@@ -3224,7 +3224,7 @@ AS_Cachar,40,0,0
 AS_Cachar,41,0,0
 AS_Cachar,42,0,0
 AS_Cachar,43,0,0
-AS_Cachar,44,0,0
+AS_Cachar,44,16,0
 AS_Cachar,45,108,0
 AS_Cachar,46,768,0
 AS_Cachar,47,2092,0
@@ -3298,7 +3298,7 @@ AS_Charaideo,40,0,0
 AS_Charaideo,41,0,0
 AS_Charaideo,42,0,0
 AS_Charaideo,43,0,0
-AS_Charaideo,44,0,0
+AS_Charaideo,44,4,0
 AS_Charaideo,45,30,0
 AS_Charaideo,46,703,0
 AS_Charaideo,47,424,0
@@ -3372,7 +3372,7 @@ AS_Chirang,40,0,0
 AS_Chirang,41,0,0
 AS_Chirang,42,0,0
 AS_Chirang,43,0,0
-AS_Chirang,44,0,0
+AS_Chirang,44,9,0
 AS_Chirang,45,43,0
 AS_Chirang,46,433,0
 AS_Chirang,47,431,0
@@ -3446,7 +3446,7 @@ AS_Darrang,40,0,0
 AS_Darrang,41,0,0
 AS_Darrang,42,0,0
 AS_Darrang,43,0,0
-AS_Darrang,44,0,0
+AS_Darrang,44,3,0
 AS_Darrang,45,28,0
 AS_Darrang,46,719,0
 AS_Darrang,47,1660,0
@@ -3520,7 +3520,7 @@ AS_Dhemaji,40,0,0
 AS_Dhemaji,41,0,0
 AS_Dhemaji,42,0,0
 AS_Dhemaji,43,0,0
-AS_Dhemaji,44,0,0
+AS_Dhemaji,44,4,0
 AS_Dhemaji,45,67,0
 AS_Dhemaji,46,1023,0
 AS_Dhemaji,47,1468,0
@@ -3594,7 +3594,7 @@ AS_Dhubri,40,0,0
 AS_Dhubri,41,0,0
 AS_Dhubri,42,0,0
 AS_Dhubri,43,0,0
-AS_Dhubri,44,0,0
+AS_Dhubri,44,4,0
 AS_Dhubri,45,53,0
 AS_Dhubri,46,1070,0
 AS_Dhubri,47,1183,0
@@ -3668,7 +3668,7 @@ AS_Dibrugarh,40,0,0
 AS_Dibrugarh,41,0,0
 AS_Dibrugarh,42,0,0
 AS_Dibrugarh,43,0,0
-AS_Dibrugarh,44,0,0
+AS_Dibrugarh,44,35,0
 AS_Dibrugarh,45,184,0
 AS_Dibrugarh,46,1867,0
 AS_Dibrugarh,47,4123,0
@@ -3742,7 +3742,7 @@ AS_Dima Hasao,40,0,0
 AS_Dima Hasao,41,0,0
 AS_Dima Hasao,42,0,0
 AS_Dima Hasao,43,0,0
-AS_Dima Hasao,44,0,0
+AS_Dima Hasao,44,4,0
 AS_Dima Hasao,45,37,0
 AS_Dima Hasao,46,236,0
 AS_Dima Hasao,47,441,0
@@ -3816,7 +3816,7 @@ AS_Goalpara,40,0,0
 AS_Goalpara,41,0,0
 AS_Goalpara,42,0,0
 AS_Goalpara,43,0,0
-AS_Goalpara,44,0,0
+AS_Goalpara,44,12,0
 AS_Goalpara,45,104,0
 AS_Goalpara,46,1280,0
 AS_Goalpara,47,2161,0
@@ -3890,7 +3890,7 @@ AS_Golaghat,40,0,0
 AS_Golaghat,41,0,0
 AS_Golaghat,42,0,0
 AS_Golaghat,43,0,0
-AS_Golaghat,44,0,0
+AS_Golaghat,44,20,0
 AS_Golaghat,45,116,0
 AS_Golaghat,46,893,0
 AS_Golaghat,47,1530,0
@@ -3964,7 +3964,7 @@ AS_Hailakandi,40,0,0
 AS_Hailakandi,41,0,0
 AS_Hailakandi,42,0,0
 AS_Hailakandi,43,0,0
-AS_Hailakandi,44,0,0
+AS_Hailakandi,44,3,0
 AS_Hailakandi,45,58,0
 AS_Hailakandi,46,292,0
 AS_Hailakandi,47,938,0
@@ -4038,7 +4038,7 @@ AS_Hojai,40,0,0
 AS_Hojai,41,0,0
 AS_Hojai,42,0,0
 AS_Hojai,43,0,0
-AS_Hojai,44,0,0
+AS_Hojai,44,25,0
 AS_Hojai,45,138,0
 AS_Hojai,46,439,0
 AS_Hojai,47,597,0
@@ -4112,7 +4112,7 @@ AS_Jorhat,40,0,0
 AS_Jorhat,41,0,0
 AS_Jorhat,42,0,0
 AS_Jorhat,43,0,0
-AS_Jorhat,44,0,0
+AS_Jorhat,44,7,0
 AS_Jorhat,45,67,0
 AS_Jorhat,46,882,0
 AS_Jorhat,47,1593,0
@@ -4186,7 +4186,7 @@ AS_Kamrup,40,0,0
 AS_Kamrup,41,0,0
 AS_Kamrup,42,0,0
 AS_Kamrup,43,0,0
-AS_Kamrup,44,0,0
+AS_Kamrup,44,7,0
 AS_Kamrup,45,184,0
 AS_Kamrup,46,1494,0
 AS_Kamrup,47,2559,0
@@ -4260,7 +4260,7 @@ AS_Kamrup Metropolitan,40,0,0
 AS_Kamrup Metropolitan,41,0,0
 AS_Kamrup Metropolitan,42,0,0
 AS_Kamrup Metropolitan,43,0,0
-AS_Kamrup Metropolitan,44,0,0
+AS_Kamrup Metropolitan,44,38,0
 AS_Kamrup Metropolitan,45,362,0
 AS_Kamrup Metropolitan,46,2456,0
 AS_Kamrup Metropolitan,47,4689,0
@@ -4334,7 +4334,7 @@ AS_Karbi Anglong,40,0,0
 AS_Karbi Anglong,41,0,0
 AS_Karbi Anglong,42,0,0
 AS_Karbi Anglong,43,0,0
-AS_Karbi Anglong,44,0,0
+AS_Karbi Anglong,44,28,0
 AS_Karbi Anglong,45,231,0
 AS_Karbi Anglong,46,328,0
 AS_Karbi Anglong,47,886,0
@@ -4408,7 +4408,7 @@ AS_Karimganj,40,0,0
 AS_Karimganj,41,0,0
 AS_Karimganj,42,0,0
 AS_Karimganj,43,0,0
-AS_Karimganj,44,0,0
+AS_Karimganj,44,7,0
 AS_Karimganj,45,55,0
 AS_Karimganj,46,419,0
 AS_Karimganj,47,756,0
@@ -4482,7 +4482,7 @@ AS_Kokrajhar,40,0,0
 AS_Kokrajhar,41,0,0
 AS_Kokrajhar,42,0,0
 AS_Kokrajhar,43,0,0
-AS_Kokrajhar,44,0,0
+AS_Kokrajhar,44,4,0
 AS_Kokrajhar,45,65,0
 AS_Kokrajhar,46,694,0
 AS_Kokrajhar,47,1311,0
@@ -4556,7 +4556,7 @@ AS_Lakhimpur,40,0,0
 AS_Lakhimpur,41,0,0
 AS_Lakhimpur,42,0,0
 AS_Lakhimpur,43,0,0
-AS_Lakhimpur,44,0,0
+AS_Lakhimpur,44,18,0
 AS_Lakhimpur,45,545,0
 AS_Lakhimpur,46,988,0
 AS_Lakhimpur,47,1391,0
@@ -4630,7 +4630,7 @@ AS_Majuli,40,0,0
 AS_Majuli,41,0,0
 AS_Majuli,42,0,0
 AS_Majuli,43,0,0
-AS_Majuli,44,0,0
+AS_Majuli,44,11,0
 AS_Majuli,45,44,0
 AS_Majuli,46,314,0
 AS_Majuli,47,343,0
@@ -4704,7 +4704,7 @@ AS_Morigaon,40,0,0
 AS_Morigaon,41,0,0
 AS_Morigaon,42,0,0
 AS_Morigaon,43,0,0
-AS_Morigaon,44,0,0
+AS_Morigaon,44,15,0
 AS_Morigaon,45,117,0
 AS_Morigaon,46,583,0
 AS_Morigaon,47,1734,0
@@ -4778,7 +4778,7 @@ AS_Nagaon,40,0,0
 AS_Nagaon,41,0,0
 AS_Nagaon,42,0,0
 AS_Nagaon,43,0,0
-AS_Nagaon,44,0,0
+AS_Nagaon,44,7,0
 AS_Nagaon,45,191,0
 AS_Nagaon,46,795,0
 AS_Nagaon,47,2384,0
@@ -4852,7 +4852,7 @@ AS_Nalbari,40,0,0
 AS_Nalbari,41,0,0
 AS_Nalbari,42,0,0
 AS_Nalbari,43,0,0
-AS_Nalbari,44,0,0
+AS_Nalbari,44,12,0
 AS_Nalbari,45,39,0
 AS_Nalbari,46,1183,0
 AS_Nalbari,47,1039,0
@@ -4926,7 +4926,7 @@ AS_Sivasagar,40,0,0
 AS_Sivasagar,41,0,0
 AS_Sivasagar,42,0,0
 AS_Sivasagar,43,0,0
-AS_Sivasagar,44,0,0
+AS_Sivasagar,44,10,0
 AS_Sivasagar,45,109,0
 AS_Sivasagar,46,918,0
 AS_Sivasagar,47,1608,0
@@ -5000,7 +5000,7 @@ AS_Sonitpur,40,0,0
 AS_Sonitpur,41,0,0
 AS_Sonitpur,42,0,0
 AS_Sonitpur,43,0,0
-AS_Sonitpur,44,0,0
+AS_Sonitpur,44,21,0
 AS_Sonitpur,45,56,0
 AS_Sonitpur,46,1000,0
 AS_Sonitpur,47,2578,0
@@ -5074,7 +5074,7 @@ AS_South Salmara Mankachar,40,0,0
 AS_South Salmara Mankachar,41,0,0
 AS_South Salmara Mankachar,42,0,0
 AS_South Salmara Mankachar,43,0,0
-AS_South Salmara Mankachar,44,0,0
+AS_South Salmara Mankachar,44,6,0
 AS_South Salmara Mankachar,45,27,0
 AS_South Salmara Mankachar,46,148,0
 AS_South Salmara Mankachar,47,78,0
@@ -5148,7 +5148,7 @@ AS_Tinsukia,40,0,0
 AS_Tinsukia,41,0,0
 AS_Tinsukia,42,0,0
 AS_Tinsukia,43,0,0
-AS_Tinsukia,44,0,0
+AS_Tinsukia,44,11,0
 AS_Tinsukia,45,72,0
 AS_Tinsukia,46,808,0
 AS_Tinsukia,47,2260,0
@@ -5222,7 +5222,7 @@ AS_Udalguri,40,0,0
 AS_Udalguri,41,0,0
 AS_Udalguri,42,0,0
 AS_Udalguri,43,0,0
-AS_Udalguri,44,0,0
+AS_Udalguri,44,7,0
 AS_Udalguri,45,47,0
 AS_Udalguri,46,706,0
 AS_Udalguri,47,940,0
@@ -5296,7 +5296,7 @@ AS_West Karbi Anglong,40,0,0
 AS_West Karbi Anglong,41,0,0
 AS_West Karbi Anglong,42,0,0
 AS_West Karbi Anglong,43,0,0
-AS_West Karbi Anglong,44,0,0
+AS_West Karbi Anglong,44,4,0
 AS_West Karbi Anglong,45,30,0
 AS_West Karbi Anglong,46,190,0
 AS_West Karbi Anglong,47,285,0
@@ -5444,7 +5444,7 @@ BR_Arwal,40,0,0
 BR_Arwal,41,0,0
 BR_Arwal,42,0,0
 BR_Arwal,43,0,0
-BR_Arwal,44,0,0
+BR_Arwal,44,36,0
 BR_Arwal,45,230,0
 BR_Arwal,46,996,0
 BR_Arwal,47,1245,0
@@ -5518,7 +5518,7 @@ BR_Aurangabad1,40,0,0
 BR_Aurangabad1,41,0,0
 BR_Aurangabad1,42,0,0
 BR_Aurangabad1,43,0,0
-BR_Aurangabad1,44,0,0
+BR_Aurangabad1,44,88,0
 BR_Aurangabad1,45,414,0
 BR_Aurangabad1,46,686,0
 BR_Aurangabad1,47,6447,0
@@ -5592,7 +5592,7 @@ BR_Banka,40,0,0
 BR_Banka,41,0,0
 BR_Banka,42,0,0
 BR_Banka,43,0,0
-BR_Banka,44,0,0
+BR_Banka,44,7,0
 BR_Banka,45,679,0
 BR_Banka,46,1444,0
 BR_Banka,47,3577,0
@@ -5666,7 +5666,7 @@ BR_Begusarai,40,0,0
 BR_Begusarai,41,0,0
 BR_Begusarai,42,0,0
 BR_Begusarai,43,0,0
-BR_Begusarai,44,0,0
+BR_Begusarai,44,91,0
 BR_Begusarai,45,513,0
 BR_Begusarai,46,2440,0
 BR_Begusarai,47,5218,0
@@ -5740,7 +5740,7 @@ BR_Bhagalpur,40,0,0
 BR_Bhagalpur,41,0,0
 BR_Bhagalpur,42,0,0
 BR_Bhagalpur,43,0,0
-BR_Bhagalpur,44,0,0
+BR_Bhagalpur,44,69,0
 BR_Bhagalpur,45,495,0
 BR_Bhagalpur,46,2514,0
 BR_Bhagalpur,47,6266,0
@@ -5814,7 +5814,7 @@ BR_Bhojpur,40,0,0
 BR_Bhojpur,41,0,0
 BR_Bhojpur,42,0,0
 BR_Bhojpur,43,0,0
-BR_Bhojpur,44,0,0
+BR_Bhojpur,44,2,0
 BR_Bhojpur,45,1424,0
 BR_Bhojpur,46,1341,0
 BR_Bhojpur,47,5438,0
@@ -5888,7 +5888,7 @@ BR_Buxar,40,0,0
 BR_Buxar,41,0,0
 BR_Buxar,42,0,0
 BR_Buxar,43,0,0
-BR_Buxar,44,0,0
+BR_Buxar,44,102,0
 BR_Buxar,45,1287,0
 BR_Buxar,46,1116,0
 BR_Buxar,47,2527,0
@@ -5962,7 +5962,7 @@ BR_Darbhanga,40,0,0
 BR_Darbhanga,41,0,0
 BR_Darbhanga,42,0,0
 BR_Darbhanga,43,0,0
-BR_Darbhanga,44,0,0
+BR_Darbhanga,44,157,0
 BR_Darbhanga,45,777,0
 BR_Darbhanga,46,4013,0
 BR_Darbhanga,47,7067,0
@@ -6036,7 +6036,7 @@ BR_East Champaran,40,0,0
 BR_East Champaran,41,0,0
 BR_East Champaran,42,0,0
 BR_East Champaran,43,0,0
-BR_East Champaran,44,0,0
+BR_East Champaran,44,145,0
 BR_East Champaran,45,1985,0
 BR_East Champaran,46,2243,0
 BR_East Champaran,47,8453,0
@@ -6110,7 +6110,7 @@ BR_Gaya,40,0,0
 BR_Gaya,41,0,0
 BR_Gaya,42,0,0
 BR_Gaya,43,0,0
-BR_Gaya,44,0,0
+BR_Gaya,44,168,0
 BR_Gaya,45,972,0
 BR_Gaya,46,3184,0
 BR_Gaya,47,10664,0
@@ -6184,7 +6184,7 @@ BR_Gopalganj,40,0,0
 BR_Gopalganj,41,0,0
 BR_Gopalganj,42,0,0
 BR_Gopalganj,43,0,0
-BR_Gopalganj,44,0,0
+BR_Gopalganj,44,65,0
 BR_Gopalganj,45,615,0
 BR_Gopalganj,46,804,0
 BR_Gopalganj,47,6528,0
@@ -6258,7 +6258,7 @@ BR_Jamui,40,0,0
 BR_Jamui,41,0,0
 BR_Jamui,42,0,0
 BR_Jamui,43,0,0
-BR_Jamui,44,0,0
+BR_Jamui,44,5,0
 BR_Jamui,45,496,0
 BR_Jamui,46,1371,0
 BR_Jamui,47,3103,0
@@ -6332,7 +6332,7 @@ BR_Jehanabad,40,0,0
 BR_Jehanabad,41,0,0
 BR_Jehanabad,42,0,0
 BR_Jehanabad,43,0,0
-BR_Jehanabad,44,0,0
+BR_Jehanabad,44,16,0
 BR_Jehanabad,45,564,0
 BR_Jehanabad,46,1273,0
 BR_Jehanabad,47,2503,0
@@ -6406,7 +6406,7 @@ BR_Kaimur,40,0,0
 BR_Kaimur,41,0,0
 BR_Kaimur,42,0,0
 BR_Kaimur,43,0,0
-BR_Kaimur,44,0,0
+BR_Kaimur,44,36,0
 BR_Kaimur,45,1581,0
 BR_Kaimur,46,585,0
 BR_Kaimur,47,2971,0
@@ -6480,7 +6480,7 @@ BR_Katihar,40,0,0
 BR_Katihar,41,0,0
 BR_Katihar,42,0,0
 BR_Katihar,43,0,0
-BR_Katihar,44,0,0
+BR_Katihar,44,117,0
 BR_Katihar,45,1196,0
 BR_Katihar,46,1430,0
 BR_Katihar,47,7598,0
@@ -6554,7 +6554,7 @@ BR_Khagaria,40,0,0
 BR_Khagaria,41,0,0
 BR_Khagaria,42,0,0
 BR_Khagaria,43,0,0
-BR_Khagaria,44,0,0
+BR_Khagaria,44,33,0
 BR_Khagaria,45,660,0
 BR_Khagaria,46,1282,0
 BR_Khagaria,47,3484,0
@@ -6628,7 +6628,7 @@ BR_Kishanganj,40,0,0
 BR_Kishanganj,41,0,0
 BR_Kishanganj,42,0,0
 BR_Kishanganj,43,0,0
-BR_Kishanganj,44,0,0
+BR_Kishanganj,44,115,0
 BR_Kishanganj,45,865,0
 BR_Kishanganj,46,718,0
 BR_Kishanganj,47,3994,0
@@ -6702,7 +6702,7 @@ BR_Lakhisarai,40,0,0
 BR_Lakhisarai,41,0,0
 BR_Lakhisarai,42,0,0
 BR_Lakhisarai,43,0,0
-BR_Lakhisarai,44,0,0
+BR_Lakhisarai,44,107,0
 BR_Lakhisarai,45,481,0
 BR_Lakhisarai,46,893,0
 BR_Lakhisarai,47,1588,0
@@ -6776,7 +6776,7 @@ BR_Madhepura,40,0,0
 BR_Madhepura,41,0,0
 BR_Madhepura,42,0,0
 BR_Madhepura,43,0,0
-BR_Madhepura,44,0,0
+BR_Madhepura,44,139,0
 BR_Madhepura,45,436,0
 BR_Madhepura,46,1734,0
 BR_Madhepura,47,4760,0
@@ -6850,7 +6850,7 @@ BR_Madhubani,40,0,0
 BR_Madhubani,41,0,0
 BR_Madhubani,42,0,0
 BR_Madhubani,43,0,0
-BR_Madhubani,44,0,0
+BR_Madhubani,44,45,0
 BR_Madhubani,45,590,0
 BR_Madhubani,46,2750,0
 BR_Madhubani,47,8305,0
@@ -6924,7 +6924,7 @@ BR_Munger,40,0,0
 BR_Munger,41,0,0
 BR_Munger,42,0,0
 BR_Munger,43,0,0
-BR_Munger,44,0,0
+BR_Munger,44,45,0
 BR_Munger,45,523,0
 BR_Munger,46,1931,0
 BR_Munger,47,3388,0
@@ -6998,7 +6998,7 @@ BR_Muzaffarpur,40,0,0
 BR_Muzaffarpur,41,0,0
 BR_Muzaffarpur,42,0,0
 BR_Muzaffarpur,43,0,0
-BR_Muzaffarpur,44,0,0
+BR_Muzaffarpur,44,144,0
 BR_Muzaffarpur,45,1901,0
 BR_Muzaffarpur,46,1614,0
 BR_Muzaffarpur,47,9673,0
@@ -7072,7 +7072,7 @@ BR_Nalanda,40,0,0
 BR_Nalanda,41,0,0
 BR_Nalanda,42,0,0
 BR_Nalanda,43,0,0
-BR_Nalanda,44,0,0
+BR_Nalanda,44,129,0
 BR_Nalanda,45,1750,0
 BR_Nalanda,46,1802,0
 BR_Nalanda,47,6984,0
@@ -7146,7 +7146,7 @@ BR_Nawada,40,0,0
 BR_Nawada,41,0,0
 BR_Nawada,42,0,0
 BR_Nawada,43,0,0
-BR_Nawada,44,0,0
+BR_Nawada,44,118,0
 BR_Nawada,45,565,0
 BR_Nawada,46,1105,0
 BR_Nawada,47,4966,0
@@ -7220,7 +7220,7 @@ BR_Patna,40,0,0
 BR_Patna,41,0,0
 BR_Patna,42,0,0
 BR_Patna,43,0,0
-BR_Patna,44,0,0
+BR_Patna,44,67,0
 BR_Patna,45,2230,0
 BR_Patna,46,5246,0
 BR_Patna,47,20845,0
@@ -7294,7 +7294,7 @@ BR_Purnia,40,0,0
 BR_Purnia,41,0,0
 BR_Purnia,42,0,0
 BR_Purnia,43,0,0
-BR_Purnia,44,0,0
+BR_Purnia,44,82,0
 BR_Purnia,45,1530,0
 BR_Purnia,46,1473,0
 BR_Purnia,47,6646,0
@@ -7368,7 +7368,7 @@ BR_Rohtas,40,0,0
 BR_Rohtas,41,0,0
 BR_Rohtas,42,0,0
 BR_Rohtas,43,0,0
-BR_Rohtas,44,0,0
+BR_Rohtas,44,173,0
 BR_Rohtas,45,971,0
 BR_Rohtas,46,2244,0
 BR_Rohtas,47,5586,0
@@ -7442,7 +7442,7 @@ BR_Saharsa,40,0,0
 BR_Saharsa,41,0,0
 BR_Saharsa,42,0,0
 BR_Saharsa,43,0,0
-BR_Saharsa,44,0,0
+BR_Saharsa,44,43,0
 BR_Saharsa,45,387,0
 BR_Saharsa,46,1944,0
 BR_Saharsa,47,3903,0
@@ -7516,7 +7516,7 @@ BR_Samastipur,40,0,0
 BR_Samastipur,41,0,0
 BR_Samastipur,42,0,0
 BR_Samastipur,43,0,0
-BR_Samastipur,44,0,0
+BR_Samastipur,44,76,0
 BR_Samastipur,45,721,0
 BR_Samastipur,46,3925,0
 BR_Samastipur,47,9926,0
@@ -7590,7 +7590,7 @@ BR_Saran,40,0,0
 BR_Saran,41,0,0
 BR_Saran,42,0,0
 BR_Saran,43,0,0
-BR_Saran,44,0,0
+BR_Saran,44,84,0
 BR_Saran,45,1746,0
 BR_Saran,46,4762,0
 BR_Saran,47,8820,0
@@ -7664,7 +7664,7 @@ BR_Sheikhpura,40,0,0
 BR_Sheikhpura,41,0,0
 BR_Sheikhpura,42,0,0
 BR_Sheikhpura,43,0,0
-BR_Sheikhpura,44,0,0
+BR_Sheikhpura,44,34,0
 BR_Sheikhpura,45,131,0
 BR_Sheikhpura,46,928,0
 BR_Sheikhpura,47,1420,0
@@ -7738,7 +7738,7 @@ BR_Sheohar,40,0,0
 BR_Sheohar,41,0,0
 BR_Sheohar,42,0,0
 BR_Sheohar,43,0,0
-BR_Sheohar,44,0,0
+BR_Sheohar,44,10,0
 BR_Sheohar,45,266,0
 BR_Sheohar,46,387,0
 BR_Sheohar,47,1402,0
@@ -7886,7 +7886,7 @@ BR_Siwan,40,0,0
 BR_Siwan,41,0,0
 BR_Siwan,42,0,0
 BR_Siwan,43,0,0
-BR_Siwan,44,0,0
+BR_Siwan,44,63,0
 BR_Siwan,45,1833,0
 BR_Siwan,46,1377,0
 BR_Siwan,47,6883,0
@@ -7960,7 +7960,7 @@ BR_Supaul,40,0,0
 BR_Supaul,41,0,0
 BR_Supaul,42,0,0
 BR_Supaul,43,0,0
-BR_Supaul,44,0,0
+BR_Supaul,44,123,0
 BR_Supaul,45,806,0
 BR_Supaul,46,972,0
 BR_Supaul,47,5228,0
@@ -8034,7 +8034,7 @@ BR_Vaishali,40,0,0
 BR_Vaishali,41,0,0
 BR_Vaishali,42,0,0
 BR_Vaishali,43,0,0
-BR_Vaishali,44,0,0
+BR_Vaishali,44,136,0
 BR_Vaishali,45,1314,0
 BR_Vaishali,46,1550,0
 BR_Vaishali,47,7514,0
@@ -8108,7 +8108,7 @@ BR_West Champaran,40,0,0
 BR_West Champaran,41,0,0
 BR_West Champaran,42,0,0
 BR_West Champaran,43,0,0
-BR_West Champaran,44,0,0
+BR_West Champaran,44,97,0
 BR_West Champaran,45,1316,0
 BR_West Champaran,46,679,0
 BR_West Champaran,47,8342,0
@@ -8182,7 +8182,7 @@ CH_Chandigarh,40,0,0
 CH_Chandigarh,41,0,0
 CH_Chandigarh,42,0,0
 CH_Chandigarh,43,0,0
-CH_Chandigarh,44,0,0
+CH_Chandigarh,44,120,0
 CH_Chandigarh,45,670,0
 CH_Chandigarh,46,1416,0
 CH_Chandigarh,47,1652,0
@@ -8256,7 +8256,7 @@ CT_Balod,40,0,0
 CT_Balod,41,0,0
 CT_Balod,42,0,0
 CT_Balod,43,0,0
-CT_Balod,44,0,0
+CT_Balod,44,11,0
 CT_Balod,45,375,0
 CT_Balod,46,2021,0
 CT_Balod,47,3079,0
@@ -8330,7 +8330,7 @@ CT_Baloda Bazar,40,0,0
 CT_Baloda Bazar,41,0,0
 CT_Baloda Bazar,42,0,0
 CT_Baloda Bazar,43,0,0
-CT_Baloda Bazar,44,0,0
+CT_Baloda Bazar,44,28,0
 CT_Baloda Bazar,45,387,0
 CT_Baloda Bazar,46,2062,0
 CT_Baloda Bazar,47,3645,0
@@ -8404,7 +8404,7 @@ CT_Balrampur2,40,0,0
 CT_Balrampur2,41,0,0
 CT_Balrampur2,42,0,0
 CT_Balrampur2,43,0,0
-CT_Balrampur2,44,0,0
+CT_Balrampur2,44,81,0
 CT_Balrampur2,45,323,0
 CT_Balrampur2,46,710,0
 CT_Balrampur2,47,2320,0
@@ -8478,7 +8478,7 @@ CT_Bametara,40,0,0
 CT_Bametara,41,0,0
 CT_Bametara,42,0,0
 CT_Bametara,43,0,0
-CT_Bametara,44,0,0
+CT_Bametara,44,11,0
 CT_Bametara,45,408,0
 CT_Bametara,46,1681,0
 CT_Bametara,47,1885,0
@@ -8552,7 +8552,7 @@ CT_Bastar,40,0,0
 CT_Bastar,41,0,0
 CT_Bastar,42,0,0
 CT_Bastar,43,0,0
-CT_Bastar,44,0,0
+CT_Bastar,44,53,0
 CT_Bastar,45,363,0
 CT_Bastar,46,1776,0
 CT_Bastar,47,3523,0
@@ -8626,7 +8626,7 @@ CT_Bijapur,40,0,0
 CT_Bijapur,41,0,0
 CT_Bijapur,42,0,0
 CT_Bijapur,43,0,0
-CT_Bijapur,44,0,0
+CT_Bijapur,44,29,0
 CT_Bijapur,45,262,0
 CT_Bijapur,46,466,0
 CT_Bijapur,47,425,0
@@ -8700,7 +8700,7 @@ CT_Bilaspur1,40,0,0
 CT_Bilaspur1,41,0,0
 CT_Bilaspur1,42,0,0
 CT_Bilaspur1,43,0,0
-CT_Bilaspur1,44,0,0
+CT_Bilaspur1,44,28,0
 CT_Bilaspur1,45,518,0
 CT_Bilaspur1,46,2233,0
 CT_Bilaspur1,47,8651,0
@@ -8774,7 +8774,7 @@ CT_Dakshin Bastar Dantewada,40,0,0
 CT_Dakshin Bastar Dantewada,41,0,0
 CT_Dakshin Bastar Dantewada,42,0,0
 CT_Dakshin Bastar Dantewada,43,0,0
-CT_Dakshin Bastar Dantewada,44,0,0
+CT_Dakshin Bastar Dantewada,44,27,0
 CT_Dakshin Bastar Dantewada,45,220,0
 CT_Dakshin Bastar Dantewada,46,615,0
 CT_Dakshin Bastar Dantewada,47,1103,0
@@ -8848,7 +8848,7 @@ CT_Dhamtari,40,0,0
 CT_Dhamtari,41,0,0
 CT_Dhamtari,42,0,0
 CT_Dhamtari,43,0,0
-CT_Dhamtari,44,0,0
+CT_Dhamtari,44,35,0
 CT_Dhamtari,45,360,0
 CT_Dhamtari,46,2109,0
 CT_Dhamtari,47,1454,0
@@ -8922,7 +8922,7 @@ CT_Durg,40,0,0
 CT_Durg,41,0,0
 CT_Durg,42,0,0
 CT_Durg,43,0,0
-CT_Durg,44,0,0
+CT_Durg,44,34,0
 CT_Durg,45,896,0
 CT_Durg,46,4438,0
 CT_Durg,47,5347,0
@@ -8996,7 +8996,7 @@ CT_Gariaband,40,0,0
 CT_Gariaband,41,0,0
 CT_Gariaband,42,0,0
 CT_Gariaband,43,0,0
-CT_Gariaband,44,0,0
+CT_Gariaband,44,17,0
 CT_Gariaband,45,328,0
 CT_Gariaband,46,1251,0
 CT_Gariaband,47,1741,0
@@ -9070,7 +9070,7 @@ CT_Janjgir Champa,40,0,0
 CT_Janjgir Champa,41,0,0
 CT_Janjgir Champa,42,0,0
 CT_Janjgir Champa,43,0,0
-CT_Janjgir Champa,44,0,0
+CT_Janjgir Champa,44,12,0
 CT_Janjgir Champa,45,284,0
 CT_Janjgir Champa,46,1459,0
 CT_Janjgir Champa,47,5186,0
@@ -9144,7 +9144,7 @@ CT_Jashpur,40,0,0
 CT_Jashpur,41,0,0
 CT_Jashpur,42,0,0
 CT_Jashpur,43,0,0
-CT_Jashpur,44,0,0
+CT_Jashpur,44,54,0
 CT_Jashpur,45,280,0
 CT_Jashpur,46,1619,0
 CT_Jashpur,47,3432,0
@@ -9218,7 +9218,7 @@ CT_Kabeerdham,40,0,0
 CT_Kabeerdham,41,0,0
 CT_Kabeerdham,42,0,0
 CT_Kabeerdham,43,0,0
-CT_Kabeerdham,44,0,0
+CT_Kabeerdham,44,37,0
 CT_Kabeerdham,45,366,0
 CT_Kabeerdham,46,1362,0
 CT_Kabeerdham,47,2923,0
@@ -9292,7 +9292,7 @@ CT_Kondagaon,40,0,0
 CT_Kondagaon,41,0,0
 CT_Kondagaon,42,0,0
 CT_Kondagaon,43,0,0
-CT_Kondagaon,44,0,0
+CT_Kondagaon,44,45,0
 CT_Kondagaon,45,571,0
 CT_Kondagaon,46,856,0
 CT_Kondagaon,47,1567,0
@@ -9366,7 +9366,7 @@ CT_Korba,40,0,0
 CT_Korba,41,0,0
 CT_Korba,42,0,0
 CT_Korba,43,0,0
-CT_Korba,44,0,0
+CT_Korba,44,11,0
 CT_Korba,45,238,0
 CT_Korba,46,1165,0
 CT_Korba,47,5747,0
@@ -9440,7 +9440,7 @@ CT_Koriya,40,0,0
 CT_Koriya,41,0,0
 CT_Koriya,42,0,0
 CT_Koriya,43,0,0
-CT_Koriya,44,0,0
+CT_Koriya,44,50,0
 CT_Koriya,45,344,0
 CT_Koriya,46,1103,0
 CT_Koriya,47,1717,0
@@ -9514,7 +9514,7 @@ CT_Mahasamund,40,0,0
 CT_Mahasamund,41,0,0
 CT_Mahasamund,42,0,0
 CT_Mahasamund,43,0,0
-CT_Mahasamund,44,0,0
+CT_Mahasamund,44,19,0
 CT_Mahasamund,45,275,0
 CT_Mahasamund,46,1823,0
 CT_Mahasamund,47,4011,0
@@ -9588,7 +9588,7 @@ CT_Mungeli,40,0,0
 CT_Mungeli,41,0,0
 CT_Mungeli,42,0,0
 CT_Mungeli,43,0,0
-CT_Mungeli,44,0,0
+CT_Mungeli,44,37,0
 CT_Mungeli,45,156,0
 CT_Mungeli,46,791,0
 CT_Mungeli,47,1347,0
@@ -9662,7 +9662,7 @@ CT_Narayanpur,40,0,0
 CT_Narayanpur,41,0,0
 CT_Narayanpur,42,0,0
 CT_Narayanpur,43,0,0
-CT_Narayanpur,44,0,0
+CT_Narayanpur,44,20,0
 CT_Narayanpur,45,108,0
 CT_Narayanpur,46,280,0
 CT_Narayanpur,47,477,0
@@ -9736,7 +9736,7 @@ CT_Raigarh,40,0,0
 CT_Raigarh,41,0,0
 CT_Raigarh,42,0,0
 CT_Raigarh,43,0,0
-CT_Raigarh,44,0,0
+CT_Raigarh,44,28,0
 CT_Raigarh,45,506,0
 CT_Raigarh,46,4028,0
 CT_Raigarh,47,6658,0
@@ -9810,7 +9810,7 @@ CT_Raipur,40,0,0
 CT_Raipur,41,0,0
 CT_Raipur,42,0,0
 CT_Raipur,43,0,0
-CT_Raipur,44,0,0
+CT_Raipur,44,100,0
 CT_Raipur,45,1142,0
 CT_Raipur,46,4951,0
 CT_Raipur,47,9636,0
@@ -9884,7 +9884,7 @@ CT_Rajnandgaon,40,0,0
 CT_Rajnandgaon,41,0,0
 CT_Rajnandgaon,42,0,0
 CT_Rajnandgaon,43,0,0
-CT_Rajnandgaon,44,0,0
+CT_Rajnandgaon,44,73,0
 CT_Rajnandgaon,45,568,0
 CT_Rajnandgaon,46,2001,0
 CT_Rajnandgaon,47,8249,0
@@ -9958,7 +9958,7 @@ CT_Sukma,40,0,0
 CT_Sukma,41,0,0
 CT_Sukma,42,0,0
 CT_Sukma,43,0,0
-CT_Sukma,44,0,0
+CT_Sukma,44,37,0
 CT_Sukma,45,417,0
 CT_Sukma,46,437,0
 CT_Sukma,47,421,0
@@ -10032,7 +10032,7 @@ CT_Surajpur,40,0,0
 CT_Surajpur,41,0,0
 CT_Surajpur,42,0,0
 CT_Surajpur,43,0,0
-CT_Surajpur,44,0,0
+CT_Surajpur,44,23,0
 CT_Surajpur,45,279,0
 CT_Surajpur,46,858,0
 CT_Surajpur,47,3844,0
@@ -10106,7 +10106,7 @@ CT_Surguja,40,0,0
 CT_Surguja,41,0,0
 CT_Surguja,42,0,0
 CT_Surguja,43,0,0
-CT_Surguja,44,0,0
+CT_Surguja,44,65,0
 CT_Surguja,45,647,0
 CT_Surguja,46,1170,0
 CT_Surguja,47,3606,0
@@ -10180,7 +10180,7 @@ CT_Uttar Bastar Kanker,40,0,0
 CT_Uttar Bastar Kanker,41,0,0
 CT_Uttar Bastar Kanker,42,0,0
 CT_Uttar Bastar Kanker,43,0,0
-CT_Uttar Bastar Kanker,44,0,0
+CT_Uttar Bastar Kanker,44,36,0
 CT_Uttar Bastar Kanker,45,241,0
 CT_Uttar Bastar Kanker,46,1464,0
 CT_Uttar Bastar Kanker,47,3423,0
@@ -10254,7 +10254,7 @@ DL_New Delhi,40,0,0
 DL_New Delhi,41,0,0
 DL_New Delhi,42,0,0
 DL_New Delhi,43,0,0
-DL_New Delhi,44,0,0
+DL_New Delhi,44,892,0
 DL_New Delhi,45,11420,0
 DL_New Delhi,46,32446,0
 DL_New Delhi,47,52734,0
@@ -10328,7 +10328,7 @@ DN_Dadra and Nagar Haveli,40,0,0
 DN_Dadra and Nagar Haveli,41,0,0
 DN_Dadra and Nagar Haveli,42,0,0
 DN_Dadra and Nagar Haveli,43,0,0
-DN_Dadra and Nagar Haveli,44,0,0
+DN_Dadra and Nagar Haveli,44,11,0
 DN_Dadra and Nagar Haveli,45,170,0
 DN_Dadra and Nagar Haveli,46,382,0
 DN_Dadra and Nagar Haveli,47,809,0
@@ -10402,7 +10402,7 @@ DN_Daman,40,0,0
 DN_Daman,41,0,0
 DN_Daman,42,0,0
 DN_Daman,43,0,0
-DN_Daman,44,0,0
+DN_Daman,44,12,0
 DN_Daman,45,87,0
 DN_Daman,46,190,0
 DN_Daman,47,230,0
@@ -10550,7 +10550,7 @@ GA_North Goa,40,0,0
 GA_North Goa,41,0,0
 GA_North Goa,42,0,0
 GA_North Goa,43,0,0
-GA_North Goa,44,0,0
+GA_North Goa,44,32,0
 GA_North Goa,45,302,0
 GA_North Goa,46,1650,0
 GA_North Goa,47,2036,0
@@ -10624,7 +10624,7 @@ GA_South Goa,40,0,0
 GA_South Goa,41,0,0
 GA_South Goa,42,0,0
 GA_South Goa,43,0,0
-GA_South Goa,44,0,0
+GA_South Goa,44,18,0
 GA_South Goa,45,619,0
 GA_South Goa,46,843,0
 GA_South Goa,47,1960,0
@@ -10698,7 +10698,7 @@ GJ_Ahmedabad,40,0,0
 GJ_Ahmedabad,41,0,0
 GJ_Ahmedabad,42,0,0
 GJ_Ahmedabad,43,0,0
-GJ_Ahmedabad,44,0,0
+GJ_Ahmedabad,44,31,0
 GJ_Ahmedabad,45,5021,0
 GJ_Ahmedabad,46,19299,0
 GJ_Ahmedabad,47,18514,0
@@ -10772,7 +10772,7 @@ GJ_Ahmedabad,40,0,0
 GJ_Ahmedabad,41,0,0
 GJ_Ahmedabad,42,0,0
 GJ_Ahmedabad,43,0,0
-GJ_Ahmedabad,44,0,0
+GJ_Ahmedabad,44,31,0
 GJ_Ahmedabad,45,5021,0
 GJ_Ahmedabad,46,19299,0
 GJ_Ahmedabad,47,18514,0
@@ -10846,7 +10846,7 @@ GJ_Amreli,40,0,0
 GJ_Amreli,41,0,0
 GJ_Amreli,42,0,0
 GJ_Amreli,43,0,0
-GJ_Amreli,44,0,0
+GJ_Amreli,44,5,0
 GJ_Amreli,45,788,0
 GJ_Amreli,46,2723,0
 GJ_Amreli,47,5925,0
@@ -10920,7 +10920,7 @@ GJ_Anand,40,0,0
 GJ_Anand,41,0,0
 GJ_Anand,42,0,0
 GJ_Anand,43,0,0
-GJ_Anand,44,0,0
+GJ_Anand,44,58,0
 GJ_Anand,45,1359,0
 GJ_Anand,46,7037,0
 GJ_Anand,47,5936,0
@@ -10994,7 +10994,7 @@ GJ_Aravalli,40,0,0
 GJ_Aravalli,41,0,0
 GJ_Aravalli,42,0,0
 GJ_Aravalli,43,0,0
-GJ_Aravalli,44,0,0
+GJ_Aravalli,44,6,0
 GJ_Aravalli,45,905,0
 GJ_Aravalli,46,3837,0
 GJ_Aravalli,47,5875,0
@@ -11068,7 +11068,7 @@ GJ_Banaskantha,40,0,0
 GJ_Banaskantha,41,0,0
 GJ_Banaskantha,42,0,0
 GJ_Banaskantha,43,0,0
-GJ_Banaskantha,44,0,0
+GJ_Banaskantha,44,8,0
 GJ_Banaskantha,45,434,0
 GJ_Banaskantha,46,5679,0
 GJ_Banaskantha,47,6897,0
@@ -11142,7 +11142,7 @@ GJ_Bharuch,40,0,0
 GJ_Bharuch,41,0,0
 GJ_Bharuch,42,0,0
 GJ_Bharuch,43,0,0
-GJ_Bharuch,44,0,0
+GJ_Bharuch,44,72,0
 GJ_Bharuch,45,627,0
 GJ_Bharuch,46,3513,0
 GJ_Bharuch,47,7306,0
@@ -11216,7 +11216,7 @@ GJ_Bhavnagar,40,0,0
 GJ_Bhavnagar,41,0,0
 GJ_Bhavnagar,42,0,0
 GJ_Bhavnagar,43,0,0
-GJ_Bhavnagar,44,0,0
+GJ_Bhavnagar,44,51,0
 GJ_Bhavnagar,45,542,0
 GJ_Bhavnagar,46,2394,0
 GJ_Bhavnagar,47,5133,0
@@ -11290,7 +11290,7 @@ GJ_Bhavnagar,40,0,0
 GJ_Bhavnagar,41,0,0
 GJ_Bhavnagar,42,0,0
 GJ_Bhavnagar,43,0,0
-GJ_Bhavnagar,44,0,0
+GJ_Bhavnagar,44,51,0
 GJ_Bhavnagar,45,542,0
 GJ_Bhavnagar,46,2394,0
 GJ_Bhavnagar,47,5133,0
@@ -11364,7 +11364,7 @@ GJ_Botad,40,0,0
 GJ_Botad,41,0,0
 GJ_Botad,42,0,0
 GJ_Botad,43,0,0
-GJ_Botad,44,0,0
+GJ_Botad,44,4,0
 GJ_Botad,45,443,0
 GJ_Botad,46,1233,0
 GJ_Botad,47,2085,0
@@ -11512,7 +11512,7 @@ GJ_Dahod,40,0,0
 GJ_Dahod,41,0,0
 GJ_Dahod,42,0,0
 GJ_Dahod,43,0,0
-GJ_Dahod,44,0,0
+GJ_Dahod,44,66,0
 GJ_Dahod,45,1962,0
 GJ_Dahod,46,8071,0
 GJ_Dahod,47,8635,0
@@ -11586,7 +11586,7 @@ GJ_Dang,40,0,0
 GJ_Dang,41,0,0
 GJ_Dang,42,0,0
 GJ_Dang,43,0,0
-GJ_Dang,44,0,0
+GJ_Dang,44,32,0
 GJ_Dang,45,388,0
 GJ_Dang,46,840,0
 GJ_Dang,47,785,0
@@ -11660,7 +11660,7 @@ GJ_Devbhumi Dwarka,40,0,0
 GJ_Devbhumi Dwarka,41,0,0
 GJ_Devbhumi Dwarka,42,0,0
 GJ_Devbhumi Dwarka,43,0,0
-GJ_Devbhumi Dwarka,44,0,0
+GJ_Devbhumi Dwarka,44,7,0
 GJ_Devbhumi Dwarka,45,201,0
 GJ_Devbhumi Dwarka,46,1943,0
 GJ_Devbhumi Dwarka,47,2668,0
@@ -11734,7 +11734,7 @@ GJ_Gandhinagar,40,0,0
 GJ_Gandhinagar,41,0,0
 GJ_Gandhinagar,42,0,0
 GJ_Gandhinagar,43,0,0
-GJ_Gandhinagar,44,0,0
+GJ_Gandhinagar,44,29,0
 GJ_Gandhinagar,45,233,0
 GJ_Gandhinagar,46,651,0
 GJ_Gandhinagar,47,1085,0
@@ -11808,7 +11808,7 @@ GJ_Gandhinagar,40,0,0
 GJ_Gandhinagar,41,0,0
 GJ_Gandhinagar,42,0,0
 GJ_Gandhinagar,43,0,0
-GJ_Gandhinagar,44,0,0
+GJ_Gandhinagar,44,29,0
 GJ_Gandhinagar,45,233,0
 GJ_Gandhinagar,46,651,0
 GJ_Gandhinagar,47,1085,0
@@ -11882,7 +11882,7 @@ GJ_Gir Somnath,40,0,0
 GJ_Gir Somnath,41,0,0
 GJ_Gir Somnath,42,0,0
 GJ_Gir Somnath,43,0,0
-GJ_Gir Somnath,44,0,0
+GJ_Gir Somnath,44,58,0
 GJ_Gir Somnath,45,588,0
 GJ_Gir Somnath,46,1080,0
 GJ_Gir Somnath,47,4085,0
@@ -11956,7 +11956,7 @@ GJ_Jamnagar,40,0,0
 GJ_Jamnagar,41,0,0
 GJ_Jamnagar,42,0,0
 GJ_Jamnagar,43,0,0
-GJ_Jamnagar,44,0,0
+GJ_Jamnagar,44,40,0
 GJ_Jamnagar,45,955,0
 GJ_Jamnagar,46,1328,0
 GJ_Jamnagar,47,2813,0
@@ -12030,7 +12030,7 @@ GJ_Jamnagar,40,0,0
 GJ_Jamnagar,41,0,0
 GJ_Jamnagar,42,0,0
 GJ_Jamnagar,43,0,0
-GJ_Jamnagar,44,0,0
+GJ_Jamnagar,44,40,0
 GJ_Jamnagar,45,955,0
 GJ_Jamnagar,46,1328,0
 GJ_Jamnagar,47,2813,0
@@ -12252,7 +12252,7 @@ GJ_Kheda,40,0,0
 GJ_Kheda,41,0,0
 GJ_Kheda,42,0,0
 GJ_Kheda,43,0,0
-GJ_Kheda,44,0,0
+GJ_Kheda,44,4,0
 GJ_Kheda,45,1329,0
 GJ_Kheda,46,6253,0
 GJ_Kheda,47,7713,0
@@ -12326,7 +12326,7 @@ GJ_Kutch,40,0,0
 GJ_Kutch,41,0,0
 GJ_Kutch,42,0,0
 GJ_Kutch,43,0,0
-GJ_Kutch,44,0,0
+GJ_Kutch,44,62,0
 GJ_Kutch,45,3032,0
 GJ_Kutch,46,5094,0
 GJ_Kutch,47,12799,0
@@ -12400,7 +12400,7 @@ GJ_Mahisagar,40,0,0
 GJ_Mahisagar,41,0,0
 GJ_Mahisagar,42,0,0
 GJ_Mahisagar,43,0,0
-GJ_Mahisagar,44,0,0
+GJ_Mahisagar,44,3,0
 GJ_Mahisagar,45,300,0
 GJ_Mahisagar,46,3083,0
 GJ_Mahisagar,47,4447,0
@@ -12474,7 +12474,7 @@ GJ_Mehsana,40,0,0
 GJ_Mehsana,41,0,0
 GJ_Mehsana,42,0,0
 GJ_Mehsana,43,0,0
-GJ_Mehsana,44,0,0
+GJ_Mehsana,44,4,0
 GJ_Mehsana,45,1205,0
 GJ_Mehsana,46,5095,0
 GJ_Mehsana,47,8925,0
@@ -12548,7 +12548,7 @@ GJ_Morbi,40,0,0
 GJ_Morbi,41,0,0
 GJ_Morbi,42,0,0
 GJ_Morbi,43,0,0
-GJ_Morbi,44,0,0
+GJ_Morbi,44,25,0
 GJ_Morbi,45,332,0
 GJ_Morbi,46,1247,0
 GJ_Morbi,47,2599,0
@@ -12622,7 +12622,7 @@ GJ_Narmada,40,0,0
 GJ_Narmada,41,0,0
 GJ_Narmada,42,0,0
 GJ_Narmada,43,0,0
-GJ_Narmada,44,0,0
+GJ_Narmada,44,1,0
 GJ_Narmada,45,71,0
 GJ_Narmada,46,1144,0
 GJ_Narmada,47,3942,0
@@ -12696,7 +12696,7 @@ GJ_Navsari,40,0,0
 GJ_Navsari,41,0,0
 GJ_Navsari,42,0,0
 GJ_Navsari,43,0,0
-GJ_Navsari,44,0,0
+GJ_Navsari,44,14,0
 GJ_Navsari,45,644,0
 GJ_Navsari,46,4516,0
 GJ_Navsari,47,6969,0
@@ -12770,7 +12770,7 @@ GJ_Panchmahal,40,0,0
 GJ_Panchmahal,41,0,0
 GJ_Panchmahal,42,0,0
 GJ_Panchmahal,43,0,0
-GJ_Panchmahal,44,0,0
+GJ_Panchmahal,44,26,0
 GJ_Panchmahal,45,1393,0
 GJ_Panchmahal,46,4967,0
 GJ_Panchmahal,47,4773,0
@@ -12844,7 +12844,7 @@ GJ_Patan,40,0,0
 GJ_Patan,41,0,0
 GJ_Patan,42,0,0
 GJ_Patan,43,0,0
-GJ_Patan,44,0,0
+GJ_Patan,44,10,0
 GJ_Patan,45,445,0
 GJ_Patan,46,3599,0
 GJ_Patan,47,5664,0
@@ -12918,7 +12918,7 @@ GJ_Porbandar,40,0,0
 GJ_Porbandar,41,0,0
 GJ_Porbandar,42,0,0
 GJ_Porbandar,43,0,0
-GJ_Porbandar,44,0,0
+GJ_Porbandar,44,14,0
 GJ_Porbandar,45,635,0
 GJ_Porbandar,46,1716,0
 GJ_Porbandar,47,3260,0
@@ -12992,7 +12992,7 @@ GJ_Rajkot,40,0,0
 GJ_Rajkot,41,0,0
 GJ_Rajkot,42,0,0
 GJ_Rajkot,43,0,0
-GJ_Rajkot,44,0,0
+GJ_Rajkot,44,21,0
 GJ_Rajkot,45,1483,0
 GJ_Rajkot,46,5458,0
 GJ_Rajkot,47,4596,0
@@ -13066,7 +13066,7 @@ GJ_Rajkot,40,0,0
 GJ_Rajkot,41,0,0
 GJ_Rajkot,42,0,0
 GJ_Rajkot,43,0,0
-GJ_Rajkot,44,0,0
+GJ_Rajkot,44,21,0
 GJ_Rajkot,45,1483,0
 GJ_Rajkot,46,5458,0
 GJ_Rajkot,47,4596,0
@@ -13140,7 +13140,7 @@ GJ_Sabarkantha,40,0,0
 GJ_Sabarkantha,41,0,0
 GJ_Sabarkantha,42,0,0
 GJ_Sabarkantha,43,0,0
-GJ_Sabarkantha,44,0,0
+GJ_Sabarkantha,44,10,0
 GJ_Sabarkantha,45,1403,0
 GJ_Sabarkantha,46,4593,0
 GJ_Sabarkantha,47,8770,0
@@ -13214,7 +13214,7 @@ GJ_Surat,40,0,0
 GJ_Surat,41,0,0
 GJ_Surat,42,0,0
 GJ_Surat,43,0,0
-GJ_Surat,44,0,0
+GJ_Surat,44,277,0
 GJ_Surat,45,4259,0
 GJ_Surat,46,14030,0
 GJ_Surat,47,17246,0
@@ -13288,7 +13288,7 @@ GJ_Surat,40,0,0
 GJ_Surat,41,0,0
 GJ_Surat,42,0,0
 GJ_Surat,43,0,0
-GJ_Surat,44,0,0
+GJ_Surat,44,277,0
 GJ_Surat,45,4259,0
 GJ_Surat,46,14030,0
 GJ_Surat,47,17246,0
@@ -13362,7 +13362,7 @@ GJ_Surendranagar,40,0,0
 GJ_Surendranagar,41,0,0
 GJ_Surendranagar,42,0,0
 GJ_Surendranagar,43,0,0
-GJ_Surendranagar,44,0,0
+GJ_Surendranagar,44,2,0
 GJ_Surendranagar,45,1053,0
 GJ_Surendranagar,46,3073,0
 GJ_Surendranagar,47,3811,0
@@ -13436,7 +13436,7 @@ GJ_Tapi,40,0,0
 GJ_Tapi,41,0,0
 GJ_Tapi,42,0,0
 GJ_Tapi,43,0,0
-GJ_Tapi,44,0,0
+GJ_Tapi,44,4,0
 GJ_Tapi,45,330,0
 GJ_Tapi,46,3142,0
 GJ_Tapi,47,3454,0
@@ -13510,7 +13510,7 @@ GJ_Vadodara,40,0,0
 GJ_Vadodara,41,0,0
 GJ_Vadodara,42,0,0
 GJ_Vadodara,43,0,0
-GJ_Vadodara,44,0,0
+GJ_Vadodara,44,68,0
 GJ_Vadodara,45,2202,0
 GJ_Vadodara,46,7648,0
 GJ_Vadodara,47,5250,0
@@ -13584,7 +13584,7 @@ GJ_Vadodara,40,0,0
 GJ_Vadodara,41,0,0
 GJ_Vadodara,42,0,0
 GJ_Vadodara,43,0,0
-GJ_Vadodara,44,0,0
+GJ_Vadodara,44,68,0
 GJ_Vadodara,45,2202,0
 GJ_Vadodara,46,7648,0
 GJ_Vadodara,47,5250,0
@@ -13658,7 +13658,7 @@ GJ_Valsad,40,0,0
 GJ_Valsad,41,0,0
 GJ_Valsad,42,0,0
 GJ_Valsad,43,0,0
-GJ_Valsad,44,0,0
+GJ_Valsad,44,76,0
 GJ_Valsad,45,1996,0
 GJ_Valsad,46,3455,0
 GJ_Valsad,47,5444,0
@@ -13732,7 +13732,7 @@ HP_Bilaspur2,40,0,0
 HP_Bilaspur2,41,0,0
 HP_Bilaspur2,42,0,0
 HP_Bilaspur2,43,0,0
-HP_Bilaspur2,44,0,0
+HP_Bilaspur2,44,13,0
 HP_Bilaspur2,45,177,0
 HP_Bilaspur2,46,749,0
 HP_Bilaspur2,47,1451,0
@@ -13806,7 +13806,7 @@ HP_Chamba,40,0,0
 HP_Chamba,41,0,0
 HP_Chamba,42,0,0
 HP_Chamba,43,0,0
-HP_Chamba,44,0,0
+HP_Chamba,44,12,0
 HP_Chamba,45,385,0
 HP_Chamba,46,1373,0
 HP_Chamba,47,1973,0
@@ -13880,7 +13880,7 @@ HP_Hamirpur1,40,0,0
 HP_Hamirpur1,41,0,0
 HP_Hamirpur1,42,0,0
 HP_Hamirpur1,43,0,0
-HP_Hamirpur1,44,0,0
+HP_Hamirpur1,44,13,0
 HP_Hamirpur1,45,163,0
 HP_Hamirpur1,46,1175,0
 HP_Hamirpur1,47,2097,0
@@ -13954,7 +13954,7 @@ HP_Kangra,40,0,0
 HP_Kangra,41,0,0
 HP_Kangra,42,0,0
 HP_Kangra,43,0,0
-HP_Kangra,44,0,0
+HP_Kangra,44,22,0
 HP_Kangra,45,1078,0
 HP_Kangra,46,2668,0
 HP_Kangra,47,5562,0
@@ -14028,7 +14028,7 @@ HP_Kinnaur,40,0,0
 HP_Kinnaur,41,0,0
 HP_Kinnaur,42,0,0
 HP_Kinnaur,43,0,0
-HP_Kinnaur,44,0,0
+HP_Kinnaur,44,21,0
 HP_Kinnaur,45,97,0
 HP_Kinnaur,46,432,0
 HP_Kinnaur,47,252,0
@@ -14102,7 +14102,7 @@ HP_Kullu,40,0,0
 HP_Kullu,41,0,0
 HP_Kullu,42,0,0
 HP_Kullu,43,0,0
-HP_Kullu,44,0,0
+HP_Kullu,44,20,0
 HP_Kullu,45,264,0
 HP_Kullu,46,898,0
 HP_Kullu,47,1715,0
@@ -14176,7 +14176,7 @@ HP_Lahaul and Spiti,40,0,0
 HP_Lahaul and Spiti,41,0,0
 HP_Lahaul and Spiti,42,0,0
 HP_Lahaul and Spiti,43,0,0
-HP_Lahaul and Spiti,44,0,0
+HP_Lahaul and Spiti,44,5,0
 HP_Lahaul and Spiti,45,0,0
 HP_Lahaul and Spiti,46,54,0
 HP_Lahaul and Spiti,47,77,0
@@ -14250,7 +14250,7 @@ HP_Mandi,40,0,0
 HP_Mandi,41,0,0
 HP_Mandi,42,0,0
 HP_Mandi,43,0,0
-HP_Mandi,44,0,0
+HP_Mandi,44,16,0
 HP_Mandi,45,894,0
 HP_Mandi,46,4003,0
 HP_Mandi,47,3966,0
@@ -14324,7 +14324,7 @@ HP_Shimla,40,0,0
 HP_Shimla,41,0,0
 HP_Shimla,42,0,0
 HP_Shimla,43,0,0
-HP_Shimla,44,0,0
+HP_Shimla,44,53,0
 HP_Shimla,45,592,0
 HP_Shimla,46,2023,0
 HP_Shimla,47,4193,0
@@ -14398,7 +14398,7 @@ HP_Sirmaur,40,0,0
 HP_Sirmaur,41,0,0
 HP_Sirmaur,42,0,0
 HP_Sirmaur,43,0,0
-HP_Sirmaur,44,0,0
+HP_Sirmaur,44,9,0
 HP_Sirmaur,45,544,0
 HP_Sirmaur,46,1550,0
 HP_Sirmaur,47,1536,0
@@ -14472,7 +14472,7 @@ HP_Solan,40,0,0
 HP_Solan,41,0,0
 HP_Solan,42,0,0
 HP_Solan,43,0,0
-HP_Solan,44,0,0
+HP_Solan,44,2,0
 HP_Solan,45,303,0
 HP_Solan,46,1095,0
 HP_Solan,47,2365,0
@@ -14546,7 +14546,7 @@ HP_Una,40,0,0
 HP_Una,41,0,0
 HP_Una,42,0,0
 HP_Una,43,0,0
-HP_Una,44,0,0
+HP_Una,44,16,0
 HP_Una,45,697,0
 HP_Una,46,1371,0
 HP_Una,47,1361,0
@@ -14620,7 +14620,7 @@ HR_Ambala,40,0,0
 HR_Ambala,41,0,0
 HR_Ambala,42,0,0
 HR_Ambala,43,0,0
-HR_Ambala,44,0,0
+HR_Ambala,44,46,0
 HR_Ambala,45,1101,0
 HR_Ambala,46,3325,0
 HR_Ambala,47,1155,0
@@ -14694,7 +14694,7 @@ HR_Bhiwani,40,0,0
 HR_Bhiwani,41,0,0
 HR_Bhiwani,42,0,0
 HR_Bhiwani,43,0,0
-HR_Bhiwani,44,0,0
+HR_Bhiwani,44,120,0
 HR_Bhiwani,45,3249,0
 HR_Bhiwani,46,995,0
 HR_Bhiwani,47,191,0
@@ -14768,7 +14768,7 @@ HR_Charkhi Dadri,40,0,0
 HR_Charkhi Dadri,41,0,0
 HR_Charkhi Dadri,42,0,0
 HR_Charkhi Dadri,43,0,0
-HR_Charkhi Dadri,44,0,0
+HR_Charkhi Dadri,44,34,0
 HR_Charkhi Dadri,45,918,0
 HR_Charkhi Dadri,46,1270,0
 HR_Charkhi Dadri,47,113,0
@@ -14842,7 +14842,7 @@ HR_Faridabad,40,0,0
 HR_Faridabad,41,0,0
 HR_Faridabad,42,0,0
 HR_Faridabad,43,0,0
-HR_Faridabad,44,0,0
+HR_Faridabad,44,97,0
 HR_Faridabad,45,2786,0
 HR_Faridabad,46,4532,0
 HR_Faridabad,47,1585,0
@@ -14916,7 +14916,7 @@ HR_Fatehabad,40,0,0
 HR_Fatehabad,41,0,0
 HR_Fatehabad,42,0,0
 HR_Fatehabad,43,0,0
-HR_Fatehabad,44,0,0
+HR_Fatehabad,44,73,0
 HR_Fatehabad,45,1428,0
 HR_Fatehabad,46,1295,0
 HR_Fatehabad,47,184,0
@@ -14990,7 +14990,7 @@ HR_Gurugram,40,0,0
 HR_Gurugram,41,0,0
 HR_Gurugram,42,0,0
 HR_Gurugram,43,0,0
-HR_Gurugram,44,0,0
+HR_Gurugram,44,288,0
 HR_Gurugram,45,8629,0
 HR_Gurugram,46,10651,0
 HR_Gurugram,47,3145,0
@@ -15064,7 +15064,7 @@ HR_Hisar,40,0,0
 HR_Hisar,41,0,0
 HR_Hisar,42,0,0
 HR_Hisar,43,0,0
-HR_Hisar,44,0,0
+HR_Hisar,44,36,0
 HR_Hisar,45,1858,0
 HR_Hisar,46,4053,0
 HR_Hisar,47,501,0
@@ -15138,7 +15138,7 @@ HR_Jhajjar,40,0,0
 HR_Jhajjar,41,0,0
 HR_Jhajjar,42,0,0
 HR_Jhajjar,43,0,0
-HR_Jhajjar,44,0,0
+HR_Jhajjar,44,5,0
 HR_Jhajjar,45,676,0
 HR_Jhajjar,46,1531,0
 HR_Jhajjar,47,314,0
@@ -15212,7 +15212,7 @@ HR_Jind,40,0,0
 HR_Jind,41,0,0
 HR_Jind,42,0,0
 HR_Jind,43,0,0
-HR_Jind,44,0,0
+HR_Jind,44,131,0
 HR_Jind,45,1328,0
 HR_Jind,46,1934,0
 HR_Jind,47,122,0
@@ -15286,7 +15286,7 @@ HR_Kaithal,40,0,0
 HR_Kaithal,41,0,0
 HR_Kaithal,42,0,0
 HR_Kaithal,43,0,0
-HR_Kaithal,44,0,0
+HR_Kaithal,44,37,0
 HR_Kaithal,45,1325,0
 HR_Kaithal,46,1674,0
 HR_Kaithal,47,477,0
@@ -15360,7 +15360,7 @@ HR_Karnal,40,0,0
 HR_Karnal,41,0,0
 HR_Karnal,42,0,0
 HR_Karnal,43,0,0
-HR_Karnal,44,0,0
+HR_Karnal,44,191,0
 HR_Karnal,45,2679,0
 HR_Karnal,46,2848,0
 HR_Karnal,47,662,0
@@ -15434,7 +15434,7 @@ HR_Kurukshetra,40,0,0
 HR_Kurukshetra,41,0,0
 HR_Kurukshetra,42,0,0
 HR_Kurukshetra,43,0,0
-HR_Kurukshetra,44,0,0
+HR_Kurukshetra,44,126,0
 HR_Kurukshetra,45,1441,0
 HR_Kurukshetra,46,1095,0
 HR_Kurukshetra,47,232,0
@@ -15508,7 +15508,7 @@ HR_Mahendragarh,40,0,0
 HR_Mahendragarh,41,0,0
 HR_Mahendragarh,42,0,0
 HR_Mahendragarh,43,0,0
-HR_Mahendragarh,44,0,0
+HR_Mahendragarh,44,30,0
 HR_Mahendragarh,45,1374,0
 HR_Mahendragarh,46,1525,0
 HR_Mahendragarh,47,236,0
@@ -15582,7 +15582,7 @@ HR_Nuh,40,0,0
 HR_Nuh,41,0,0
 HR_Nuh,42,0,0
 HR_Nuh,43,0,0
-HR_Nuh,44,0,0
+HR_Nuh,44,77,0
 HR_Nuh,45,1238,0
 HR_Nuh,46,866,0
 HR_Nuh,47,393,0
@@ -15656,7 +15656,7 @@ HR_Palwal,40,0,0
 HR_Palwal,41,0,0
 HR_Palwal,42,0,0
 HR_Palwal,43,0,0
-HR_Palwal,44,0,0
+HR_Palwal,44,88,0
 HR_Palwal,45,1471,0
 HR_Palwal,46,1244,0
 HR_Palwal,47,540,0
@@ -15730,7 +15730,7 @@ HR_Panchkula,40,0,0
 HR_Panchkula,41,0,0
 HR_Panchkula,42,0,0
 HR_Panchkula,43,0,0
-HR_Panchkula,44,0,0
+HR_Panchkula,44,60,0
 HR_Panchkula,45,708,0
 HR_Panchkula,46,2077,0
 HR_Panchkula,47,558,0
@@ -15804,7 +15804,7 @@ HR_Panipat,40,0,0
 HR_Panipat,41,0,0
 HR_Panipat,42,0,0
 HR_Panipat,43,0,0
-HR_Panipat,44,0,0
+HR_Panipat,44,63,0
 HR_Panipat,45,1069,0
 HR_Panipat,46,1638,0
 HR_Panipat,47,548,0
@@ -15878,7 +15878,7 @@ HR_Rewari,40,0,0
 HR_Rewari,41,0,0
 HR_Rewari,42,0,0
 HR_Rewari,43,0,0
-HR_Rewari,44,0,0
+HR_Rewari,44,39,0
 HR_Rewari,45,1520,0
 HR_Rewari,46,1450,0
 HR_Rewari,47,46,0
@@ -15952,7 +15952,7 @@ HR_Rohtak,40,0,0
 HR_Rohtak,41,0,0
 HR_Rohtak,42,0,0
 HR_Rohtak,43,0,0
-HR_Rohtak,44,0,0
+HR_Rohtak,44,13,0
 HR_Rohtak,45,869,0
 HR_Rohtak,46,1997,0
 HR_Rohtak,47,1110,0
@@ -16026,7 +16026,7 @@ HR_Sirsa,40,0,0
 HR_Sirsa,41,0,0
 HR_Sirsa,42,0,0
 HR_Sirsa,43,0,0
-HR_Sirsa,44,0,0
+HR_Sirsa,44,78,0
 HR_Sirsa,45,1519,0
 HR_Sirsa,46,1365,0
 HR_Sirsa,47,211,0
@@ -16100,7 +16100,7 @@ HR_Sonipat,40,0,0
 HR_Sonipat,41,0,0
 HR_Sonipat,42,0,0
 HR_Sonipat,43,0,0
-HR_Sonipat,44,0,0
+HR_Sonipat,44,86,0
 HR_Sonipat,45,2251,0
 HR_Sonipat,46,2040,0
 HR_Sonipat,47,887,0
@@ -16174,7 +16174,7 @@ HR_Yamunanagar,40,0,0
 HR_Yamunanagar,41,0,0
 HR_Yamunanagar,42,0,0
 HR_Yamunanagar,43,0,0
-HR_Yamunanagar,44,0,0
+HR_Yamunanagar,44,146,0
 HR_Yamunanagar,45,2049,0
 HR_Yamunanagar,46,2388,0
 HR_Yamunanagar,47,611,0
@@ -16248,7 +16248,7 @@ JH_Bokaro,40,0,0
 JH_Bokaro,41,0,0
 JH_Bokaro,42,0,0
 JH_Bokaro,43,0,0
-JH_Bokaro,44,0,0
+JH_Bokaro,44,42,0
 JH_Bokaro,45,237,0
 JH_Bokaro,46,1759,0
 JH_Bokaro,47,4566,0
@@ -16322,7 +16322,7 @@ JH_Chatra,40,0,0
 JH_Chatra,41,0,0
 JH_Chatra,42,0,0
 JH_Chatra,43,0,0
-JH_Chatra,44,0,0
+JH_Chatra,44,7,0
 JH_Chatra,45,116,0
 JH_Chatra,46,927,0
 JH_Chatra,47,1617,0
@@ -16396,7 +16396,7 @@ JH_Deoghar,40,0,0
 JH_Deoghar,41,0,0
 JH_Deoghar,42,0,0
 JH_Deoghar,43,0,0
-JH_Deoghar,44,0,0
+JH_Deoghar,44,12,0
 JH_Deoghar,45,229,0
 JH_Deoghar,46,1190,0
 JH_Deoghar,47,2509,0
@@ -16470,7 +16470,7 @@ JH_Dhanbad,40,0,0
 JH_Dhanbad,41,0,0
 JH_Dhanbad,42,0,0
 JH_Dhanbad,43,0,0
-JH_Dhanbad,44,0,0
+JH_Dhanbad,44,1,0
 JH_Dhanbad,45,33,0
 JH_Dhanbad,46,622,0
 JH_Dhanbad,47,4304,0
@@ -16544,7 +16544,7 @@ JH_Dumka,40,0,0
 JH_Dumka,41,0,0
 JH_Dumka,42,0,0
 JH_Dumka,43,0,0
-JH_Dumka,44,0,0
+JH_Dumka,44,7,0
 JH_Dumka,45,197,0
 JH_Dumka,46,1298,0
 JH_Dumka,47,1883,0
@@ -16618,7 +16618,7 @@ JH_East Singhbhum,40,0,0
 JH_East Singhbhum,41,0,0
 JH_East Singhbhum,42,0,0
 JH_East Singhbhum,43,0,0
-JH_East Singhbhum,44,0,0
+JH_East Singhbhum,44,7,0
 JH_East Singhbhum,45,71,0
 JH_East Singhbhum,46,1310,0
 JH_East Singhbhum,47,4472,0
@@ -16692,7 +16692,7 @@ JH_Garhwa,40,0,0
 JH_Garhwa,41,0,0
 JH_Garhwa,42,0,0
 JH_Garhwa,43,0,0
-JH_Garhwa,44,0,0
+JH_Garhwa,44,39,0
 JH_Garhwa,45,196,0
 JH_Garhwa,46,1251,0
 JH_Garhwa,47,1124,0
@@ -16766,7 +16766,7 @@ JH_Giridih,40,0,0
 JH_Giridih,41,0,0
 JH_Giridih,42,0,0
 JH_Giridih,43,0,0
-JH_Giridih,44,0,0
+JH_Giridih,44,13,0
 JH_Giridih,45,137,0
 JH_Giridih,46,2257,0
 JH_Giridih,47,4205,0
@@ -16840,7 +16840,7 @@ JH_Godda,40,0,0
 JH_Godda,41,0,0
 JH_Godda,42,0,0
 JH_Godda,43,0,0
-JH_Godda,44,0,0
+JH_Godda,44,6,0
 JH_Godda,45,130,0
 JH_Godda,46,1228,0
 JH_Godda,47,1894,0
@@ -16914,7 +16914,7 @@ JH_Gumla,40,0,0
 JH_Gumla,41,0,0
 JH_Gumla,42,0,0
 JH_Gumla,43,0,0
-JH_Gumla,44,0,0
+JH_Gumla,44,10,0
 JH_Gumla,45,179,0
 JH_Gumla,46,1241,0
 JH_Gumla,47,2419,0
@@ -16988,7 +16988,7 @@ JH_Hazaribagh,40,0,0
 JH_Hazaribagh,41,0,0
 JH_Hazaribagh,42,0,0
 JH_Hazaribagh,43,0,0
-JH_Hazaribagh,44,0,0
+JH_Hazaribagh,44,10,0
 JH_Hazaribagh,45,92,0
 JH_Hazaribagh,46,902,0
 JH_Hazaribagh,47,2192,0
@@ -17062,7 +17062,7 @@ JH_Jamtara,40,0,0
 JH_Jamtara,41,0,0
 JH_Jamtara,42,0,0
 JH_Jamtara,43,0,0
-JH_Jamtara,44,0,0
+JH_Jamtara,44,24,0
 JH_Jamtara,45,147,0
 JH_Jamtara,46,669,0
 JH_Jamtara,47,766,0
@@ -17136,7 +17136,7 @@ JH_Khunti,40,0,0
 JH_Khunti,41,0,0
 JH_Khunti,42,0,0
 JH_Khunti,43,0,0
-JH_Khunti,44,0,0
+JH_Khunti,44,12,0
 JH_Khunti,45,143,0
 JH_Khunti,46,922,0
 JH_Khunti,47,880,0
@@ -17210,7 +17210,7 @@ JH_Koderma,40,0,0
 JH_Koderma,41,0,0
 JH_Koderma,42,0,0
 JH_Koderma,43,0,0
-JH_Koderma,44,0,0
+JH_Koderma,44,11,0
 JH_Koderma,45,62,0
 JH_Koderma,46,808,0
 JH_Koderma,47,964,0
@@ -17284,7 +17284,7 @@ JH_Latehar,40,0,0
 JH_Latehar,41,0,0
 JH_Latehar,42,0,0
 JH_Latehar,43,0,0
-JH_Latehar,44,0,0
+JH_Latehar,44,3,0
 JH_Latehar,45,60,0
 JH_Latehar,46,501,0
 JH_Latehar,47,860,0
@@ -17358,7 +17358,7 @@ JH_Lohardaga,40,0,0
 JH_Lohardaga,41,0,0
 JH_Lohardaga,42,0,0
 JH_Lohardaga,43,0,0
-JH_Lohardaga,44,0,0
+JH_Lohardaga,44,23,0
 JH_Lohardaga,45,116,0
 JH_Lohardaga,46,331,0
 JH_Lohardaga,47,960,0
@@ -17432,7 +17432,7 @@ JH_Pakur,40,0,0
 JH_Pakur,41,0,0
 JH_Pakur,42,0,0
 JH_Pakur,43,0,0
-JH_Pakur,44,0,0
+JH_Pakur,44,16,0
 JH_Pakur,45,123,0
 JH_Pakur,46,428,0
 JH_Pakur,47,1038,0
@@ -17506,7 +17506,7 @@ JH_Palamu,40,0,0
 JH_Palamu,41,0,0
 JH_Palamu,42,0,0
 JH_Palamu,43,0,0
-JH_Palamu,44,0,0
+JH_Palamu,44,2,0
 JH_Palamu,45,161,0
 JH_Palamu,46,2383,0
 JH_Palamu,47,3380,0
@@ -17580,7 +17580,7 @@ JH_Ramgarh,40,0,0
 JH_Ramgarh,41,0,0
 JH_Ramgarh,42,0,0
 JH_Ramgarh,43,0,0
-JH_Ramgarh,44,0,0
+JH_Ramgarh,44,5,0
 JH_Ramgarh,45,79,0
 JH_Ramgarh,46,976,0
 JH_Ramgarh,47,1252,0
@@ -17654,7 +17654,7 @@ JH_Ranchi,40,0,0
 JH_Ranchi,41,0,0
 JH_Ranchi,42,0,0
 JH_Ranchi,43,0,0
-JH_Ranchi,44,0,0
+JH_Ranchi,44,9,0
 JH_Ranchi,45,470,0
 JH_Ranchi,46,2904,0
 JH_Ranchi,47,6885,0
@@ -17728,7 +17728,7 @@ JH_Sahibganj,40,0,0
 JH_Sahibganj,41,0,0
 JH_Sahibganj,42,0,0
 JH_Sahibganj,43,0,0
-JH_Sahibganj,44,0,0
+JH_Sahibganj,44,7,0
 JH_Sahibganj,45,155,0
 JH_Sahibganj,46,686,0
 JH_Sahibganj,47,989,0
@@ -17802,7 +17802,7 @@ JH_Simdega,40,0,0
 JH_Simdega,41,0,0
 JH_Simdega,42,0,0
 JH_Simdega,43,0,0
-JH_Simdega,44,0,0
+JH_Simdega,44,20,0
 JH_Simdega,45,189,0
 JH_Simdega,46,659,0
 JH_Simdega,47,1305,0
@@ -17876,7 +17876,7 @@ JH_West Singhbhum,40,0,0
 JH_West Singhbhum,41,0,0
 JH_West Singhbhum,42,0,0
 JH_West Singhbhum,43,0,0
-JH_West Singhbhum,44,0,0
+JH_West Singhbhum,44,40,0
 JH_West Singhbhum,45,298,0
 JH_West Singhbhum,46,694,0
 JH_West Singhbhum,47,2950,0
@@ -17950,7 +17950,7 @@ JK_Anantnag,40,0,0
 JK_Anantnag,41,0,0
 JK_Anantnag,42,0,0
 JK_Anantnag,43,0,0
-JK_Anantnag,44,0,0
+JK_Anantnag,44,22,0
 JK_Anantnag,45,339,0
 JK_Anantnag,46,647,0
 JK_Anantnag,47,1050,0
@@ -18024,7 +18024,7 @@ JK_Bandipora,40,0,0
 JK_Bandipora,41,0,0
 JK_Bandipora,42,0,0
 JK_Bandipora,43,0,0
-JK_Bandipora,44,0,0
+JK_Bandipora,44,30,0
 JK_Bandipora,45,112,0
 JK_Bandipora,46,414,0
 JK_Bandipora,47,699,0
@@ -18098,7 +18098,7 @@ JK_Baramulla,40,0,0
 JK_Baramulla,41,0,0
 JK_Baramulla,42,0,0
 JK_Baramulla,43,0,0
-JK_Baramulla,44,0,0
+JK_Baramulla,44,29,0
 JK_Baramulla,45,172,0
 JK_Baramulla,46,1039,0
 JK_Baramulla,47,1354,0
@@ -18172,7 +18172,7 @@ JK_Budgam,40,0,0
 JK_Budgam,41,0,0
 JK_Budgam,42,0,0
 JK_Budgam,43,0,0
-JK_Budgam,44,0,0
+JK_Budgam,44,48,0
 JK_Budgam,45,586,0
 JK_Budgam,46,912,0
 JK_Budgam,47,1561,0
@@ -18246,7 +18246,7 @@ JK_Doda,40,0,0
 JK_Doda,41,0,0
 JK_Doda,42,0,0
 JK_Doda,43,0,0
-JK_Doda,44,0,0
+JK_Doda,44,20,0
 JK_Doda,45,273,0
 JK_Doda,46,548,0
 JK_Doda,47,733,0
@@ -18320,7 +18320,7 @@ JK_Ganderbal,40,0,0
 JK_Ganderbal,41,0,0
 JK_Ganderbal,42,0,0
 JK_Ganderbal,43,0,0
-JK_Ganderbal,44,0,0
+JK_Ganderbal,44,15,0
 JK_Ganderbal,45,162,0
 JK_Ganderbal,46,308,0
 JK_Ganderbal,47,429,0
@@ -18394,7 +18394,7 @@ JK_Jammu,40,0,0
 JK_Jammu,41,0,0
 JK_Jammu,42,0,0
 JK_Jammu,43,0,0
-JK_Jammu,44,0,0
+JK_Jammu,44,71,0
 JK_Jammu,45,922,0
 JK_Jammu,46,3892,0
 JK_Jammu,47,3110,0
@@ -18468,7 +18468,7 @@ JK_Kathua,40,0,0
 JK_Kathua,41,0,0
 JK_Kathua,42,0,0
 JK_Kathua,43,0,0
-JK_Kathua,44,0,0
+JK_Kathua,44,7,0
 JK_Kathua,45,236,0
 JK_Kathua,46,1008,0
 JK_Kathua,47,1412,0
@@ -18542,7 +18542,7 @@ JK_Kishtwar,40,0,0
 JK_Kishtwar,41,0,0
 JK_Kishtwar,42,0,0
 JK_Kishtwar,43,0,0
-JK_Kishtwar,44,0,0
+JK_Kishtwar,44,3,0
 JK_Kishtwar,45,47,0
 JK_Kishtwar,46,226,0
 JK_Kishtwar,47,444,0
@@ -18616,7 +18616,7 @@ JK_Kulgam,40,0,0
 JK_Kulgam,41,0,0
 JK_Kulgam,42,0,0
 JK_Kulgam,43,0,0
-JK_Kulgam,44,0,0
+JK_Kulgam,44,15,0
 JK_Kulgam,45,342,0
 JK_Kulgam,46,521,0
 JK_Kulgam,47,473,0
@@ -18690,7 +18690,7 @@ JK_Kupwara,40,0,0
 JK_Kupwara,41,0,0
 JK_Kupwara,42,0,0
 JK_Kupwara,43,0,0
-JK_Kupwara,44,0,0
+JK_Kupwara,44,11,0
 JK_Kupwara,45,177,0
 JK_Kupwara,46,566,0
 JK_Kupwara,47,1207,0
@@ -18764,7 +18764,7 @@ JK_Pulwama,40,0,0
 JK_Pulwama,41,0,0
 JK_Pulwama,42,0,0
 JK_Pulwama,43,0,0
-JK_Pulwama,44,0,0
+JK_Pulwama,44,8,0
 JK_Pulwama,45,412,0
 JK_Pulwama,46,427,0
 JK_Pulwama,47,498,0
@@ -18838,7 +18838,7 @@ JK_Punch,40,0,0
 JK_Punch,41,0,0
 JK_Punch,42,0,0
 JK_Punch,43,0,0
-JK_Punch,44,0,0
+JK_Punch,44,10,0
 JK_Punch,45,140,0
 JK_Punch,46,633,0
 JK_Punch,47,933,0
@@ -18912,7 +18912,7 @@ JK_Rajouri,40,0,0
 JK_Rajouri,41,0,0
 JK_Rajouri,42,0,0
 JK_Rajouri,43,0,0
-JK_Rajouri,44,0,0
+JK_Rajouri,44,13,0
 JK_Rajouri,45,273,0
 JK_Rajouri,46,811,0
 JK_Rajouri,47,1279,0
@@ -18986,7 +18986,7 @@ JK_Ramban,40,0,0
 JK_Ramban,41,0,0
 JK_Ramban,42,0,0
 JK_Ramban,43,0,0
-JK_Ramban,44,0,0
+JK_Ramban,44,20,0
 JK_Ramban,45,109,0
 JK_Ramban,46,383,0
 JK_Ramban,47,355,0
@@ -19060,7 +19060,7 @@ JK_Reasi,40,0,0
 JK_Reasi,41,0,0
 JK_Reasi,42,0,0
 JK_Reasi,43,0,0
-JK_Reasi,44,0,0
+JK_Reasi,44,35,0
 JK_Reasi,45,139,0
 JK_Reasi,46,516,0
 JK_Reasi,47,699,0
@@ -19134,7 +19134,7 @@ JK_Samba,40,0,0
 JK_Samba,41,0,0
 JK_Samba,42,0,0
 JK_Samba,43,0,0
-JK_Samba,44,0,0
+JK_Samba,44,6,0
 JK_Samba,45,237,0
 JK_Samba,46,643,0
 JK_Samba,47,773,0
@@ -19208,7 +19208,7 @@ JK_Shopiyan,40,0,0
 JK_Shopiyan,41,0,0
 JK_Shopiyan,42,0,0
 JK_Shopiyan,43,0,0
-JK_Shopiyan,44,0,0
+JK_Shopiyan,44,70,0
 JK_Shopiyan,45,30,0
 JK_Shopiyan,46,211,0
 JK_Shopiyan,47,630,0
@@ -19356,7 +19356,7 @@ JK_Udhampur,40,0,0
 JK_Udhampur,41,0,0
 JK_Udhampur,42,0,0
 JK_Udhampur,43,0,0
-JK_Udhampur,44,0,0
+JK_Udhampur,44,14,0
 JK_Udhampur,45,290,0
 JK_Udhampur,46,1432,0
 JK_Udhampur,47,843,0
@@ -19430,7 +19430,7 @@ KA_Bagalkote,40,0,0
 KA_Bagalkote,41,0,0
 KA_Bagalkote,42,0,0
 KA_Bagalkote,43,0,0
-KA_Bagalkote,44,0,0
+KA_Bagalkote,44,104,0
 KA_Bagalkote,45,1831,0
 KA_Bagalkote,46,2308,0
 KA_Bagalkote,47,1701,0
@@ -19504,7 +19504,7 @@ KA_Ballari,40,0,0
 KA_Ballari,41,0,0
 KA_Ballari,42,0,0
 KA_Ballari,43,0,0
-KA_Ballari,44,0,0
+KA_Ballari,44,197,0
 KA_Ballari,45,2203,0
 KA_Ballari,46,4615,0
 KA_Ballari,47,1729,0
@@ -19578,7 +19578,7 @@ KA_Belagavi,40,0,0
 KA_Belagavi,41,0,0
 KA_Belagavi,42,0,0
 KA_Belagavi,43,0,0
-KA_Belagavi,44,0,0
+KA_Belagavi,44,271,0
 KA_Belagavi,45,5165,0
 KA_Belagavi,46,9597,0
 KA_Belagavi,47,5916,0
@@ -19652,7 +19652,7 @@ KA_Bengaluru Rural,40,0,0
 KA_Bengaluru Rural,41,0,0
 KA_Bengaluru Rural,42,0,0
 KA_Bengaluru Rural,43,0,0
-KA_Bengaluru Rural,44,0,0
+KA_Bengaluru Rural,44,66,0
 KA_Bengaluru Rural,45,1817,0
 KA_Bengaluru Rural,46,2163,0
 KA_Bengaluru Rural,47,1078,0
@@ -19726,7 +19726,7 @@ KA_Bengaluru Urban,40,0,0
 KA_Bengaluru Urban,41,0,0
 KA_Bengaluru Urban,42,0,0
 KA_Bengaluru Urban,43,0,0
-KA_Bengaluru Urban,44,0,0
+KA_Bengaluru Urban,44,245,0
 KA_Bengaluru Urban,45,27882,0
 KA_Bengaluru Urban,46,32077,0
 KA_Bengaluru Urban,47,8322,0
@@ -19800,7 +19800,7 @@ KA_Bengaluru Urban,40,0,0
 KA_Bengaluru Urban,41,0,0
 KA_Bengaluru Urban,42,0,0
 KA_Bengaluru Urban,43,0,0
-KA_Bengaluru Urban,44,0,0
+KA_Bengaluru Urban,44,245,0
 KA_Bengaluru Urban,45,27882,0
 KA_Bengaluru Urban,46,32077,0
 KA_Bengaluru Urban,47,8322,0
@@ -19874,7 +19874,7 @@ KA_Bidar,40,0,0
 KA_Bidar,41,0,0
 KA_Bidar,42,0,0
 KA_Bidar,43,0,0
-KA_Bidar,44,0,0
+KA_Bidar,44,156,0
 KA_Bidar,45,1037,0
 KA_Bidar,46,2948,0
 KA_Bidar,47,866,0
@@ -19948,7 +19948,7 @@ KA_Chamarajanagara,40,0,0
 KA_Chamarajanagara,41,0,0
 KA_Chamarajanagara,42,0,0
 KA_Chamarajanagara,43,0,0
-KA_Chamarajanagara,44,0,0
+KA_Chamarajanagara,44,57,0
 KA_Chamarajanagara,45,555,0
 KA_Chamarajanagara,46,1527,0
 KA_Chamarajanagara,47,1428,0
@@ -20022,7 +20022,7 @@ KA_Chikkaballapura,40,0,0
 KA_Chikkaballapura,41,0,0
 KA_Chikkaballapura,42,0,0
 KA_Chikkaballapura,43,0,0
-KA_Chikkaballapura,44,0,0
+KA_Chikkaballapura,44,268,0
 KA_Chikkaballapura,45,1552,0
 KA_Chikkaballapura,46,4332,0
 KA_Chikkaballapura,47,623,0
@@ -20096,7 +20096,7 @@ KA_Chikkamagaluru,40,0,0
 KA_Chikkamagaluru,41,0,0
 KA_Chikkamagaluru,42,0,0
 KA_Chikkamagaluru,43,0,0
-KA_Chikkamagaluru,44,0,0
+KA_Chikkamagaluru,44,126,0
 KA_Chikkamagaluru,45,1323,0
 KA_Chikkamagaluru,46,1728,0
 KA_Chikkamagaluru,47,2319,0
@@ -20170,7 +20170,7 @@ KA_Chitradurga,40,0,0
 KA_Chitradurga,41,0,0
 KA_Chitradurga,42,0,0
 KA_Chitradurga,43,0,0
-KA_Chitradurga,44,0,0
+KA_Chitradurga,44,67,0
 KA_Chitradurga,45,2710,0
 KA_Chitradurga,46,2855,0
 KA_Chitradurga,47,1069,0
@@ -20244,7 +20244,7 @@ KA_Dakshina Kannada,40,0,0
 KA_Dakshina Kannada,41,0,0
 KA_Dakshina Kannada,42,0,0
 KA_Dakshina Kannada,43,0,0
-KA_Dakshina Kannada,44,0,0
+KA_Dakshina Kannada,44,41,0
 KA_Dakshina Kannada,45,3358,0
 KA_Dakshina Kannada,46,9498,0
 KA_Dakshina Kannada,47,7673,0
@@ -20318,7 +20318,7 @@ KA_Davanagere,40,0,0
 KA_Davanagere,41,0,0
 KA_Davanagere,42,0,0
 KA_Davanagere,43,0,0
-KA_Davanagere,44,0,0
+KA_Davanagere,44,146,0
 KA_Davanagere,45,2044,0
 KA_Davanagere,46,4422,0
 KA_Davanagere,47,1334,0
@@ -20392,7 +20392,7 @@ KA_Dharwad,40,0,0
 KA_Dharwad,41,0,0
 KA_Dharwad,42,0,0
 KA_Dharwad,43,0,0
-KA_Dharwad,44,0,0
+KA_Dharwad,44,79,0
 KA_Dharwad,45,1473,0
 KA_Dharwad,46,5381,0
 KA_Dharwad,47,2567,0
@@ -20466,7 +20466,7 @@ KA_Gadag,40,0,0
 KA_Gadag,41,0,0
 KA_Gadag,42,0,0
 KA_Gadag,43,0,0
-KA_Gadag,44,0,0
+KA_Gadag,44,55,0
 KA_Gadag,45,285,0
 KA_Gadag,46,1257,0
 KA_Gadag,47,1255,0
@@ -20540,7 +20540,7 @@ KA_Hassan,40,0,0
 KA_Hassan,41,0,0
 KA_Hassan,42,0,0
 KA_Hassan,43,0,0
-KA_Hassan,44,0,0
+KA_Hassan,44,211,0
 KA_Hassan,45,842,0
 KA_Hassan,46,4530,0
 KA_Hassan,47,4177,0
@@ -20614,7 +20614,7 @@ KA_Haveri,40,0,0
 KA_Haveri,41,0,0
 KA_Haveri,42,0,0
 KA_Haveri,43,0,0
-KA_Haveri,44,0,0
+KA_Haveri,44,135,0
 KA_Haveri,45,986,0
 KA_Haveri,46,1770,0
 KA_Haveri,47,1145,0
@@ -20688,7 +20688,7 @@ KA_Kalaburagi,40,0,0
 KA_Kalaburagi,41,0,0
 KA_Kalaburagi,42,0,0
 KA_Kalaburagi,43,0,0
-KA_Kalaburagi,44,0,0
+KA_Kalaburagi,44,122,0
 KA_Kalaburagi,45,1214,0
 KA_Kalaburagi,46,4268,0
 KA_Kalaburagi,47,3391,0
@@ -20762,7 +20762,7 @@ KA_Kodagu,40,0,0
 KA_Kodagu,41,0,0
 KA_Kodagu,42,0,0
 KA_Kodagu,43,0,0
-KA_Kodagu,44,0,0
+KA_Kodagu,44,79,0
 KA_Kodagu,45,737,0
 KA_Kodagu,46,1848,0
 KA_Kodagu,47,206,0
@@ -20836,7 +20836,7 @@ KA_Kolar,40,0,0
 KA_Kolar,41,0,0
 KA_Kolar,42,0,0
 KA_Kolar,43,0,0
-KA_Kolar,44,0,0
+KA_Kolar,44,76,0
 KA_Kolar,45,2186,0
 KA_Kolar,46,3781,0
 KA_Kolar,47,1140,0
@@ -20910,7 +20910,7 @@ KA_Koppal,40,0,0
 KA_Koppal,41,0,0
 KA_Koppal,42,0,0
 KA_Koppal,43,0,0
-KA_Koppal,44,0,0
+KA_Koppal,44,57,0
 KA_Koppal,45,925,0
 KA_Koppal,46,1981,0
 KA_Koppal,47,1667,0
@@ -20984,7 +20984,7 @@ KA_Mandya,40,0,0
 KA_Mandya,41,0,0
 KA_Mandya,42,0,0
 KA_Mandya,43,0,0
-KA_Mandya,44,0,0
+KA_Mandya,44,95,0
 KA_Mandya,45,1099,0
 KA_Mandya,46,4905,0
 KA_Mandya,47,1477,0
@@ -21058,7 +21058,7 @@ KA_Mysuru,40,0,0
 KA_Mysuru,41,0,0
 KA_Mysuru,42,0,0
 KA_Mysuru,43,0,0
-KA_Mysuru,44,0,0
+KA_Mysuru,44,107,0
 KA_Mysuru,45,3313,0
 KA_Mysuru,46,11297,0
 KA_Mysuru,47,4218,0
@@ -21132,7 +21132,7 @@ KA_Raichur,40,0,0
 KA_Raichur,41,0,0
 KA_Raichur,42,0,0
 KA_Raichur,43,0,0
-KA_Raichur,44,0,0
+KA_Raichur,44,84,0
 KA_Raichur,45,1125,0
 KA_Raichur,46,4141,0
 KA_Raichur,47,2224,0
@@ -21206,7 +21206,7 @@ KA_Ramanagara,40,0,0
 KA_Ramanagara,41,0,0
 KA_Ramanagara,42,0,0
 KA_Ramanagara,43,0,0
-KA_Ramanagara,44,0,0
+KA_Ramanagara,44,51,0
 KA_Ramanagara,45,2706,0
 KA_Ramanagara,46,2523,0
 KA_Ramanagara,47,326,0
@@ -21280,7 +21280,7 @@ KA_Shivamogga,40,0,0
 KA_Shivamogga,41,0,0
 KA_Shivamogga,42,0,0
 KA_Shivamogga,43,0,0
-KA_Shivamogga,44,0,0
+KA_Shivamogga,44,147,0
 KA_Shivamogga,45,1733,0
 KA_Shivamogga,46,5506,0
 KA_Shivamogga,47,3556,0
@@ -21354,7 +21354,7 @@ KA_Tumakuru,40,0,0
 KA_Tumakuru,41,0,0
 KA_Tumakuru,42,0,0
 KA_Tumakuru,43,0,0
-KA_Tumakuru,44,0,0
+KA_Tumakuru,44,215,0
 KA_Tumakuru,45,2271,0
 KA_Tumakuru,46,4899,0
 KA_Tumakuru,47,431,0
@@ -21428,7 +21428,7 @@ KA_Udupi,40,0,0
 KA_Udupi,41,0,0
 KA_Udupi,42,0,0
 KA_Udupi,43,0,0
-KA_Udupi,44,0,0
+KA_Udupi,44,74,0
 KA_Udupi,45,2765,0
 KA_Udupi,46,7868,0
 KA_Udupi,47,4003,0
@@ -21502,7 +21502,7 @@ KA_Uttara Kannada,40,0,0
 KA_Uttara Kannada,41,0,0
 KA_Uttara Kannada,42,0,0
 KA_Uttara Kannada,43,0,0
-KA_Uttara Kannada,44,0,0
+KA_Uttara Kannada,44,166,0
 KA_Uttara Kannada,45,1071,0
 KA_Uttara Kannada,46,6628,0
 KA_Uttara Kannada,47,1295,0
@@ -21576,7 +21576,7 @@ KA_Vijayapura,40,0,0
 KA_Vijayapura,41,0,0
 KA_Vijayapura,42,0,0
 KA_Vijayapura,43,0,0
-KA_Vijayapura,44,0,0
+KA_Vijayapura,44,77,0
 KA_Vijayapura,45,1102,0
 KA_Vijayapura,46,2065,0
 KA_Vijayapura,47,2301,0
@@ -21650,7 +21650,7 @@ KA_Yadgir,40,0,0
 KA_Yadgir,41,0,0
 KA_Yadgir,42,0,0
 KA_Yadgir,43,0,0
-KA_Yadgir,44,0,0
+KA_Yadgir,44,93,0
 KA_Yadgir,45,673,0
 KA_Yadgir,46,1779,0
 KA_Yadgir,47,868,0
@@ -21724,7 +21724,7 @@ KL_Alappuzha,40,0,0
 KL_Alappuzha,41,0,0
 KL_Alappuzha,42,0,0
 KL_Alappuzha,43,0,0
-KL_Alappuzha,44,0,0
+KL_Alappuzha,44,170,0
 KL_Alappuzha,45,1476,0
 KL_Alappuzha,46,6900,0
 KL_Alappuzha,47,5544,0
@@ -21798,7 +21798,7 @@ KL_Ernakulam,40,0,0
 KL_Ernakulam,41,0,0
 KL_Ernakulam,42,0,0
 KL_Ernakulam,43,0,0
-KL_Ernakulam,44,0,0
+KL_Ernakulam,44,497,0
 KL_Ernakulam,45,3728,0
 KL_Ernakulam,46,12596,0
 KL_Ernakulam,47,30467,0
@@ -21872,7 +21872,7 @@ KL_Idukki,40,0,0
 KL_Idukki,41,0,0
 KL_Idukki,42,0,0
 KL_Idukki,43,0,0
-KL_Idukki,44,0,0
+KL_Idukki,44,34,0
 KL_Idukki,45,403,0
 KL_Idukki,46,3348,0
 KL_Idukki,47,1135,0
@@ -21946,7 +21946,7 @@ KL_Kannur,40,0,0
 KL_Kannur,41,0,0
 KL_Kannur,42,0,0
 KL_Kannur,43,0,0
-KL_Kannur,44,0,0
+KL_Kannur,44,76,0
 KL_Kannur,45,1389,0
 KL_Kannur,46,9483,0
 KL_Kannur,47,11464,0
@@ -22020,7 +22020,7 @@ KL_Kasaragod,40,0,0
 KL_Kasaragod,41,0,0
 KL_Kasaragod,42,0,0
 KL_Kasaragod,43,0,0
-KL_Kasaragod,44,0,0
+KL_Kasaragod,44,62,0
 KL_Kasaragod,45,1741,0
 KL_Kasaragod,46,2405,0
 KL_Kasaragod,47,318,0
@@ -22094,7 +22094,7 @@ KL_Kollam,40,0,0
 KL_Kollam,41,0,0
 KL_Kollam,42,0,0
 KL_Kollam,43,0,0
-KL_Kollam,44,0,0
+KL_Kollam,44,107,0
 KL_Kollam,45,1481,0
 KL_Kollam,46,6088,0
 KL_Kollam,47,7656,0
@@ -22168,7 +22168,7 @@ KL_Kottayam,40,0,0
 KL_Kottayam,41,0,0
 KL_Kottayam,42,0,0
 KL_Kottayam,43,0,0
-KL_Kottayam,44,0,0
+KL_Kottayam,44,84,0
 KL_Kottayam,45,469,0
 KL_Kottayam,46,8748,0
 KL_Kottayam,47,10261,0
@@ -22242,7 +22242,7 @@ KL_Kozhikode,40,0,0
 KL_Kozhikode,41,0,0
 KL_Kozhikode,42,0,0
 KL_Kozhikode,43,0,0
-KL_Kozhikode,44,0,0
+KL_Kozhikode,44,372,0
 KL_Kozhikode,45,1795,0
 KL_Kozhikode,46,8963,0
 KL_Kozhikode,47,14214,0
@@ -22316,7 +22316,7 @@ KL_Malappuram,40,0,0
 KL_Malappuram,41,0,0
 KL_Malappuram,42,0,0
 KL_Malappuram,43,0,0
-KL_Malappuram,44,0,0
+KL_Malappuram,44,26,0
 KL_Malappuram,45,644,0
 KL_Malappuram,46,6655,0
 KL_Malappuram,47,9615,0
@@ -22390,7 +22390,7 @@ KL_Palakkad,40,0,0
 KL_Palakkad,41,0,0
 KL_Palakkad,42,0,0
 KL_Palakkad,43,0,0
-KL_Palakkad,44,0,0
+KL_Palakkad,44,87,0
 KL_Palakkad,45,2350,0
 KL_Palakkad,46,8425,0
 KL_Palakkad,47,8510,0
@@ -22464,7 +22464,7 @@ KL_Pathanamthitta,40,0,0
 KL_Pathanamthitta,41,0,0
 KL_Pathanamthitta,42,0,0
 KL_Pathanamthitta,43,0,0
-KL_Pathanamthitta,44,0,0
+KL_Pathanamthitta,44,38,0
 KL_Pathanamthitta,45,1472,0
 KL_Pathanamthitta,46,8646,0
 KL_Pathanamthitta,47,4169,0
@@ -22538,7 +22538,7 @@ KL_Thiruvananthapuram,40,0,0
 KL_Thiruvananthapuram,41,0,0
 KL_Thiruvananthapuram,42,0,0
 KL_Thiruvananthapuram,43,0,0
-KL_Thiruvananthapuram,44,0,0
+KL_Thiruvananthapuram,44,59,0
 KL_Thiruvananthapuram,45,1724,0
 KL_Thiruvananthapuram,46,13240,0
 KL_Thiruvananthapuram,47,17184,0
@@ -22612,7 +22612,7 @@ KL_Thrissur,40,0,0
 KL_Thrissur,41,0,0
 KL_Thrissur,42,0,0
 KL_Thrissur,43,0,0
-KL_Thrissur,44,0,0
+KL_Thrissur,44,49,0
 KL_Thrissur,45,1325,0
 KL_Thrissur,46,12937,0
 KL_Thrissur,47,13786,0
@@ -22686,7 +22686,7 @@ KL_Wayanad,40,0,0
 KL_Wayanad,41,0,0
 KL_Wayanad,42,0,0
 KL_Wayanad,43,0,0
-KL_Wayanad,44,0,0
+KL_Wayanad,44,20,0
 KL_Wayanad,45,266,0
 KL_Wayanad,46,3847,0
 KL_Wayanad,47,3183,0
@@ -22834,7 +22834,7 @@ LA_Leh,40,0,0
 LA_Leh,41,0,0
 LA_Leh,42,0,0
 LA_Leh,43,0,0
-LA_Leh,44,0,0
+LA_Leh,44,9,0
 LA_Leh,45,219,0
 LA_Leh,46,297,0
 LA_Leh,47,562,0
@@ -22908,7 +22908,7 @@ LD_Lakshadweep,40,0,0
 LD_Lakshadweep,41,0,0
 LD_Lakshadweep,42,0,0
 LD_Lakshadweep,43,0,0
-LD_Lakshadweep,44,0,0
+LD_Lakshadweep,44,16,0
 LD_Lakshadweep,45,718,0
 LD_Lakshadweep,46,73,0
 LD_Lakshadweep,47,26,0
@@ -22982,7 +22982,7 @@ MH_Ahmednagar,40,0,0
 MH_Ahmednagar,41,0,0
 MH_Ahmednagar,42,0,0
 MH_Ahmednagar,43,0,0
-MH_Ahmednagar,44,0,0
+MH_Ahmednagar,44,302,0
 MH_Ahmednagar,45,2619,0
 MH_Ahmednagar,46,5858,0
 MH_Ahmednagar,47,8280,0
@@ -23056,7 +23056,7 @@ MH_Akola,40,0,0
 MH_Akola,41,0,0
 MH_Akola,42,0,0
 MH_Akola,43,0,0
-MH_Akola,44,0,0
+MH_Akola,44,13,0
 MH_Akola,45,730,0
 MH_Akola,46,1588,0
 MH_Akola,47,2423,0
@@ -23130,7 +23130,7 @@ MH_Amravati,40,0,0
 MH_Amravati,41,0,0
 MH_Amravati,42,0,0
 MH_Amravati,43,0,0
-MH_Amravati,44,0,0
+MH_Amravati,44,41,0
 MH_Amravati,45,1841,0
 MH_Amravati,46,3504,0
 MH_Amravati,47,4524,0
@@ -23204,7 +23204,7 @@ MH_Aurangabad2,40,0,0
 MH_Aurangabad2,41,0,0
 MH_Aurangabad2,42,0,0
 MH_Aurangabad2,43,0,0
-MH_Aurangabad2,44,0,0
+MH_Aurangabad2,44,436,0
 MH_Aurangabad2,45,1779,0
 MH_Aurangabad2,46,4743,0
 MH_Aurangabad2,47,5031,0
@@ -23278,7 +23278,7 @@ MH_Beed,40,0,0
 MH_Beed,41,0,0
 MH_Beed,42,0,0
 MH_Beed,43,0,0
-MH_Beed,44,0,0
+MH_Beed,44,174,0
 MH_Beed,45,1181,0
 MH_Beed,46,2771,0
 MH_Beed,47,1763,0
@@ -23352,7 +23352,7 @@ MH_Bhandara,40,0,0
 MH_Bhandara,41,0,0
 MH_Bhandara,42,0,0
 MH_Bhandara,43,0,0
-MH_Bhandara,44,0,0
+MH_Bhandara,44,23,0
 MH_Bhandara,45,602,0
 MH_Bhandara,46,2143,0
 MH_Bhandara,47,3284,0
@@ -23426,7 +23426,7 @@ MH_Buldhana,40,0,0
 MH_Buldhana,41,0,0
 MH_Buldhana,42,0,0
 MH_Buldhana,43,0,0
-MH_Buldhana,44,0,0
+MH_Buldhana,44,166,0
 MH_Buldhana,45,1140,0
 MH_Buldhana,46,2501,0
 MH_Buldhana,47,3219,0
@@ -23500,7 +23500,7 @@ MH_Chandrapur,40,0,0
 MH_Chandrapur,41,0,0
 MH_Chandrapur,42,0,0
 MH_Chandrapur,43,0,0
-MH_Chandrapur,44,0,0
+MH_Chandrapur,44,118,0
 MH_Chandrapur,45,1385,0
 MH_Chandrapur,46,3018,0
 MH_Chandrapur,47,5748,0
@@ -23574,7 +23574,7 @@ MH_Dhule,40,0,0
 MH_Dhule,41,0,0
 MH_Dhule,42,0,0
 MH_Dhule,43,0,0
-MH_Dhule,44,0,0
+MH_Dhule,44,104,0
 MH_Dhule,45,1181,0
 MH_Dhule,46,3008,0
 MH_Dhule,47,2509,0
@@ -23648,7 +23648,7 @@ MH_Gadchiroli,40,0,0
 MH_Gadchiroli,41,0,0
 MH_Gadchiroli,42,0,0
 MH_Gadchiroli,43,0,0
-MH_Gadchiroli,44,0,0
+MH_Gadchiroli,44,21,0
 MH_Gadchiroli,45,1040,0
 MH_Gadchiroli,46,2417,0
 MH_Gadchiroli,47,2445,0
@@ -23722,7 +23722,7 @@ MH_Gondia,40,0,0
 MH_Gondia,41,0,0
 MH_Gondia,42,0,0
 MH_Gondia,43,0,0
-MH_Gondia,44,0,0
+MH_Gondia,44,64,0
 MH_Gondia,45,880,0
 MH_Gondia,46,2018,0
 MH_Gondia,47,2507,0
@@ -23796,7 +23796,7 @@ MH_Hingoli,40,0,0
 MH_Hingoli,41,0,0
 MH_Hingoli,42,0,0
 MH_Hingoli,43,0,0
-MH_Hingoli,44,0,0
+MH_Hingoli,44,38,0
 MH_Hingoli,45,680,0
 MH_Hingoli,46,1324,0
 MH_Hingoli,47,1437,0
@@ -23870,7 +23870,7 @@ MH_Jalgaon,40,0,0
 MH_Jalgaon,41,0,0
 MH_Jalgaon,42,0,0
 MH_Jalgaon,43,0,0
-MH_Jalgaon,44,0,0
+MH_Jalgaon,44,145,0
 MH_Jalgaon,45,1463,0
 MH_Jalgaon,46,3176,0
 MH_Jalgaon,47,4699,0
@@ -23944,7 +23944,7 @@ MH_Jalna,40,0,0
 MH_Jalna,41,0,0
 MH_Jalna,42,0,0
 MH_Jalna,43,0,0
-MH_Jalna,44,0,0
+MH_Jalna,44,48,0
 MH_Jalna,45,1239,0
 MH_Jalna,46,3230,0
 MH_Jalna,47,2458,0
@@ -24018,7 +24018,7 @@ MH_Kolhapur,40,0,0
 MH_Kolhapur,41,0,0
 MH_Kolhapur,42,0,0
 MH_Kolhapur,43,0,0
-MH_Kolhapur,44,0,0
+MH_Kolhapur,44,236,0
 MH_Kolhapur,45,2519,0
 MH_Kolhapur,46,5104,0
 MH_Kolhapur,47,6425,0
@@ -24092,7 +24092,7 @@ MH_Latur,40,0,0
 MH_Latur,41,0,0
 MH_Latur,42,0,0
 MH_Latur,43,0,0
-MH_Latur,44,0,0
+MH_Latur,44,55,0
 MH_Latur,45,1363,0
 MH_Latur,46,3810,0
 MH_Latur,47,2810,0
@@ -24166,7 +24166,7 @@ MH_Mumbai,40,0,0
 MH_Mumbai,41,0,0
 MH_Mumbai,42,0,0
 MH_Mumbai,43,0,0
-MH_Mumbai,44,0,0
+MH_Mumbai,44,1355,0
 MH_Mumbai,45,8799,0
 MH_Mumbai,46,26694,0
 MH_Mumbai,47,35733,0
@@ -24240,7 +24240,7 @@ MH_Nagpur,40,0,0
 MH_Nagpur,41,0,0
 MH_Nagpur,42,0,0
 MH_Nagpur,43,0,0
-MH_Nagpur,44,0,0
+MH_Nagpur,44,190,0
 MH_Nagpur,45,2791,0
 MH_Nagpur,46,7753,0
 MH_Nagpur,47,9312,0
@@ -24314,7 +24314,7 @@ MH_Nanded,40,0,0
 MH_Nanded,41,0,0
 MH_Nanded,42,0,0
 MH_Nanded,43,0,0
-MH_Nanded,44,0,0
+MH_Nanded,44,117,0
 MH_Nanded,45,650,0
 MH_Nanded,46,1952,0
 MH_Nanded,47,2817,0
@@ -24388,7 +24388,7 @@ MH_Nandurbar,40,0,0
 MH_Nandurbar,41,0,0
 MH_Nandurbar,42,0,0
 MH_Nandurbar,43,0,0
-MH_Nandurbar,44,0,0
+MH_Nandurbar,44,53,0
 MH_Nandurbar,45,704,0
 MH_Nandurbar,46,2025,0
 MH_Nandurbar,47,3024,0
@@ -24462,7 +24462,7 @@ MH_Nashik,40,0,0
 MH_Nashik,41,0,0
 MH_Nashik,42,0,0
 MH_Nashik,43,0,0
-MH_Nashik,44,0,0
+MH_Nashik,44,194,0
 MH_Nashik,45,2893,0
 MH_Nashik,46,7395,0
 MH_Nashik,47,8872,0
@@ -24536,7 +24536,7 @@ MH_Osmanabad,40,0,0
 MH_Osmanabad,41,0,0
 MH_Osmanabad,42,0,0
 MH_Osmanabad,43,0,0
-MH_Osmanabad,44,0,0
+MH_Osmanabad,44,34,0
 MH_Osmanabad,45,688,0
 MH_Osmanabad,46,2250,0
 MH_Osmanabad,47,1993,0
@@ -24610,7 +24610,7 @@ MH_Palghar,40,0,0
 MH_Palghar,41,0,0
 MH_Palghar,42,0,0
 MH_Palghar,43,0,0
-MH_Palghar,44,0,0
+MH_Palghar,44,36,0
 MH_Palghar,45,793,0
 MH_Palghar,46,4180,0
 MH_Palghar,47,5541,0
@@ -24684,7 +24684,7 @@ MH_Parbhani,40,0,0
 MH_Parbhani,41,0,0
 MH_Parbhani,42,0,0
 MH_Parbhani,43,0,0
-MH_Parbhani,44,0,0
+MH_Parbhani,44,74,0
 MH_Parbhani,45,978,0
 MH_Parbhani,46,1139,0
 MH_Parbhani,47,1389,0
@@ -24758,7 +24758,7 @@ MH_Pune,40,0,0
 MH_Pune,41,0,0
 MH_Pune,42,0,0
 MH_Pune,43,0,0
-MH_Pune,44,0,0
+MH_Pune,44,781,0
 MH_Pune,45,5094,0
 MH_Pune,46,13999,0
 MH_Pune,47,20172,0
@@ -24832,7 +24832,7 @@ MH_Raigad,40,0,0
 MH_Raigad,41,0,0
 MH_Raigad,42,0,0
 MH_Raigad,43,0,0
-MH_Raigad,44,0,0
+MH_Raigad,44,8,0
 MH_Raigad,45,544,0
 MH_Raigad,46,2095,0
 MH_Raigad,47,3421,0
@@ -24906,7 +24906,7 @@ MH_Ratnagiri,40,0,0
 MH_Ratnagiri,41,0,0
 MH_Ratnagiri,42,0,0
 MH_Ratnagiri,43,0,0
-MH_Ratnagiri,44,0,0
+MH_Ratnagiri,44,26,0
 MH_Ratnagiri,45,729,0
 MH_Ratnagiri,46,2506,0
 MH_Ratnagiri,47,2604,0
@@ -24980,7 +24980,7 @@ MH_Sangli,40,0,0
 MH_Sangli,41,0,0
 MH_Sangli,42,0,0
 MH_Sangli,43,0,0
-MH_Sangli,44,0,0
+MH_Sangli,44,39,0
 MH_Sangli,45,1629,0
 MH_Sangli,46,4188,0
 MH_Sangli,47,6318,0
@@ -25054,7 +25054,7 @@ MH_Satara,40,0,0
 MH_Satara,41,0,0
 MH_Satara,42,0,0
 MH_Satara,43,0,0
-MH_Satara,44,0,0
+MH_Satara,44,168,0
 MH_Satara,45,2152,0
 MH_Satara,46,6337,0
 MH_Satara,47,7331,0
@@ -25128,7 +25128,7 @@ MH_Sindhudurg,40,0,0
 MH_Sindhudurg,41,0,0
 MH_Sindhudurg,42,0,0
 MH_Sindhudurg,43,0,0
-MH_Sindhudurg,44,0,0
+MH_Sindhudurg,44,58,0
 MH_Sindhudurg,45,526,0
 MH_Sindhudurg,46,1607,0
 MH_Sindhudurg,47,1407,0
@@ -25202,7 +25202,7 @@ MH_Solapur,40,0,0
 MH_Solapur,41,0,0
 MH_Solapur,42,0,0
 MH_Solapur,43,0,0
-MH_Solapur,44,0,0
+MH_Solapur,44,313,0
 MH_Solapur,45,3356,0
 MH_Solapur,46,4983,0
 MH_Solapur,47,6022,0
@@ -25276,7 +25276,7 @@ MH_Thane,40,0,0
 MH_Thane,41,0,0
 MH_Thane,42,0,0
 MH_Thane,43,0,0
-MH_Thane,44,0,0
+MH_Thane,44,38,0
 MH_Thane,45,6246,0
 MH_Thane,46,17246,0
 MH_Thane,47,16713,0
@@ -25350,7 +25350,7 @@ MH_Wardha,40,0,0
 MH_Wardha,41,0,0
 MH_Wardha,42,0,0
 MH_Wardha,43,0,0
-MH_Wardha,44,0,0
+MH_Wardha,44,100,0
 MH_Wardha,45,1809,0
 MH_Wardha,46,4466,0
 MH_Wardha,47,4372,0
@@ -25424,7 +25424,7 @@ MH_Washim,40,0,0
 MH_Washim,41,0,0
 MH_Washim,42,0,0
 MH_Washim,43,0,0
-MH_Washim,44,0,0
+MH_Washim,44,72,0
 MH_Washim,45,589,0
 MH_Washim,46,1473,0
 MH_Washim,47,1632,0
@@ -25498,7 +25498,7 @@ MH_Yavatmal,40,0,0
 MH_Yavatmal,41,0,0
 MH_Yavatmal,42,0,0
 MH_Yavatmal,43,0,0
-MH_Yavatmal,44,0,0
+MH_Yavatmal,44,86,0
 MH_Yavatmal,45,957,0
 MH_Yavatmal,46,1897,0
 MH_Yavatmal,47,4301,0
@@ -25572,7 +25572,7 @@ ML_East Garo Hills,40,0,0
 ML_East Garo Hills,41,0,0
 ML_East Garo Hills,42,0,0
 ML_East Garo Hills,43,0,0
-ML_East Garo Hills,44,0,0
+ML_East Garo Hills,44,49,0
 ML_East Garo Hills,45,24,0
 ML_East Garo Hills,46,183,0
 ML_East Garo Hills,47,352,0
@@ -25646,7 +25646,7 @@ ML_East Jaintia Hills,40,0,0
 ML_East Jaintia Hills,41,0,0
 ML_East Jaintia Hills,42,0,0
 ML_East Jaintia Hills,43,0,0
-ML_East Jaintia Hills,44,0,0
+ML_East Jaintia Hills,44,4,0
 ML_East Jaintia Hills,45,28,0
 ML_East Jaintia Hills,46,133,0
 ML_East Jaintia Hills,47,105,0
@@ -25720,7 +25720,7 @@ ML_East Khasi Hills,40,0,0
 ML_East Khasi Hills,41,0,0
 ML_East Khasi Hills,42,0,0
 ML_East Khasi Hills,43,0,0
-ML_East Khasi Hills,44,0,0
+ML_East Khasi Hills,44,12,0
 ML_East Khasi Hills,45,48,0
 ML_East Khasi Hills,46,799,0
 ML_East Khasi Hills,47,586,0
@@ -25794,7 +25794,7 @@ ML_North Garo Hills,40,0,0
 ML_North Garo Hills,41,0,0
 ML_North Garo Hills,42,0,0
 ML_North Garo Hills,43,0,0
-ML_North Garo Hills,44,0,0
+ML_North Garo Hills,44,9,0
 ML_North Garo Hills,45,39,0
 ML_North Garo Hills,46,78,0
 ML_North Garo Hills,47,116,0
@@ -25868,7 +25868,7 @@ ML_Ribhoi,40,0,0
 ML_Ribhoi,41,0,0
 ML_Ribhoi,42,0,0
 ML_Ribhoi,43,0,0
-ML_Ribhoi,44,0,0
+ML_Ribhoi,44,5,0
 ML_Ribhoi,45,33,0
 ML_Ribhoi,46,65,0
 ML_Ribhoi,47,78,0
@@ -26016,7 +26016,7 @@ ML_South West Garo Hills,40,0,0
 ML_South West Garo Hills,41,0,0
 ML_South West Garo Hills,42,0,0
 ML_South West Garo Hills,43,0,0
-ML_South West Garo Hills,44,0,0
+ML_South West Garo Hills,44,5,0
 ML_South West Garo Hills,45,93,0
 ML_South West Garo Hills,46,330,0
 ML_South West Garo Hills,47,367,0
@@ -26164,7 +26164,7 @@ ML_West Garo Hills,40,0,0
 ML_West Garo Hills,41,0,0
 ML_West Garo Hills,42,0,0
 ML_West Garo Hills,43,0,0
-ML_West Garo Hills,44,0,0
+ML_West Garo Hills,44,4,0
 ML_West Garo Hills,45,135,0
 ML_West Garo Hills,46,425,0
 ML_West Garo Hills,47,237,0
@@ -26238,7 +26238,7 @@ ML_West Jaintia Hills,40,0,0
 ML_West Jaintia Hills,41,0,0
 ML_West Jaintia Hills,42,0,0
 ML_West Jaintia Hills,43,0,0
-ML_West Jaintia Hills,44,0,0
+ML_West Jaintia Hills,44,1,0
 ML_West Jaintia Hills,45,100,0
 ML_West Jaintia Hills,46,143,0
 ML_West Jaintia Hills,47,233,0
@@ -26312,7 +26312,7 @@ ML_West Khasi Hills,40,0,0
 ML_West Khasi Hills,41,0,0
 ML_West Khasi Hills,42,0,0
 ML_West Khasi Hills,43,0,0
-ML_West Khasi Hills,44,0,0
+ML_West Khasi Hills,44,13,0
 ML_West Khasi Hills,45,11,0
 ML_West Khasi Hills,46,83,0
 ML_West Khasi Hills,47,296,0
@@ -26386,7 +26386,7 @@ MN_Bishnupur,40,0,0
 MN_Bishnupur,41,0,0
 MN_Bishnupur,42,0,0
 MN_Bishnupur,43,0,0
-MN_Bishnupur,44,0,0
+MN_Bishnupur,44,6,0
 MN_Bishnupur,45,31,0
 MN_Bishnupur,46,63,0
 MN_Bishnupur,47,175,0
@@ -26460,7 +26460,7 @@ MN_Chandel,40,0,0
 MN_Chandel,41,0,0
 MN_Chandel,42,0,0
 MN_Chandel,43,0,0
-MN_Chandel,44,0,0
+MN_Chandel,44,16,0
 MN_Chandel,45,55,0
 MN_Chandel,46,11,0
 MN_Chandel,47,243,0
@@ -26534,7 +26534,7 @@ MN_Churachandpur,40,0,0
 MN_Churachandpur,41,0,0
 MN_Churachandpur,42,0,0
 MN_Churachandpur,43,0,0
-MN_Churachandpur,44,0,0
+MN_Churachandpur,44,7,0
 MN_Churachandpur,45,24,0
 MN_Churachandpur,46,3,0
 MN_Churachandpur,47,369,0
@@ -26608,7 +26608,7 @@ MN_Imphal East,40,0,0
 MN_Imphal East,41,0,0
 MN_Imphal East,42,0,0
 MN_Imphal East,43,0,0
-MN_Imphal East,44,0,0
+MN_Imphal East,44,50,0
 MN_Imphal East,45,185,0
 MN_Imphal East,46,215,0
 MN_Imphal East,47,856,0
@@ -26682,7 +26682,7 @@ MN_Imphal West,40,0,0
 MN_Imphal West,41,0,0
 MN_Imphal West,42,0,0
 MN_Imphal West,43,0,0
-MN_Imphal West,44,0,0
+MN_Imphal West,44,20,0
 MN_Imphal West,45,402,0
 MN_Imphal West,46,1307,0
 MN_Imphal West,47,1446,0
@@ -27200,7 +27200,7 @@ MN_Senapati,40,0,0
 MN_Senapati,41,0,0
 MN_Senapati,42,0,0
 MN_Senapati,43,0,0
-MN_Senapati,44,0,0
+MN_Senapati,44,5,0
 MN_Senapati,45,31,0
 MN_Senapati,46,22,0
 MN_Senapati,47,40,0
@@ -27274,7 +27274,7 @@ MN_Tamenglong,40,0,0
 MN_Tamenglong,41,0,0
 MN_Tamenglong,42,0,0
 MN_Tamenglong,43,0,0
-MN_Tamenglong,44,0,0
+MN_Tamenglong,44,44,0
 MN_Tamenglong,45,25,0
 MN_Tamenglong,46,79,0
 MN_Tamenglong,47,59,0
@@ -27422,7 +27422,7 @@ MN_Thoubal,40,0,0
 MN_Thoubal,41,0,0
 MN_Thoubal,42,0,0
 MN_Thoubal,43,0,0
-MN_Thoubal,44,0,0
+MN_Thoubal,44,9,0
 MN_Thoubal,45,84,0
 MN_Thoubal,46,116,0
 MN_Thoubal,47,427,0
@@ -27496,7 +27496,7 @@ MN_Ukhrul,40,0,0
 MN_Ukhrul,41,0,0
 MN_Ukhrul,42,0,0
 MN_Ukhrul,43,0,0
-MN_Ukhrul,44,0,0
+MN_Ukhrul,44,24,0
 MN_Ukhrul,45,79,0
 MN_Ukhrul,46,20,0
 MN_Ukhrul,47,54,0
@@ -27570,7 +27570,7 @@ MP_Agar Malwa,40,0,0
 MP_Agar Malwa,41,0,0
 MP_Agar Malwa,42,0,0
 MP_Agar Malwa,43,0,0
-MP_Agar Malwa,44,0,0
+MP_Agar Malwa,44,199,0
 MP_Agar Malwa,45,447,0
 MP_Agar Malwa,46,1325,0
 MP_Agar Malwa,47,43,0
@@ -27644,7 +27644,7 @@ MP_Alirajpur,40,0,0
 MP_Alirajpur,41,0,0
 MP_Alirajpur,42,0,0
 MP_Alirajpur,43,0,0
-MP_Alirajpur,44,0,0
+MP_Alirajpur,44,196,0
 MP_Alirajpur,45,493,0
 MP_Alirajpur,46,3356,0
 MP_Alirajpur,47,589,0
@@ -27718,7 +27718,7 @@ MP_Anuppur,40,0,0
 MP_Anuppur,41,0,0
 MP_Anuppur,42,0,0
 MP_Anuppur,43,0,0
-MP_Anuppur,44,0,0
+MP_Anuppur,44,50,0
 MP_Anuppur,45,142,0
 MP_Anuppur,46,1746,0
 MP_Anuppur,47,448,0
@@ -27792,7 +27792,7 @@ MP_Ashoknagar,40,0,0
 MP_Ashoknagar,41,0,0
 MP_Ashoknagar,42,0,0
 MP_Ashoknagar,43,0,0
-MP_Ashoknagar,44,0,0
+MP_Ashoknagar,44,175,0
 MP_Ashoknagar,45,459,0
 MP_Ashoknagar,46,2286,0
 MP_Ashoknagar,47,215,0
@@ -27866,7 +27866,7 @@ MP_Balaghat,40,0,0
 MP_Balaghat,41,0,0
 MP_Balaghat,42,0,0
 MP_Balaghat,43,0,0
-MP_Balaghat,44,0,0
+MP_Balaghat,44,130,0
 MP_Balaghat,45,483,0
 MP_Balaghat,46,5246,0
 MP_Balaghat,47,633,0
@@ -27940,7 +27940,7 @@ MP_Barwani,40,0,0
 MP_Barwani,41,0,0
 MP_Barwani,42,0,0
 MP_Barwani,43,0,0
-MP_Barwani,44,0,0
+MP_Barwani,44,67,0
 MP_Barwani,45,176,0
 MP_Barwani,46,4840,0
 MP_Barwani,47,592,0
@@ -28014,7 +28014,7 @@ MP_Betul,40,0,0
 MP_Betul,41,0,0
 MP_Betul,42,0,0
 MP_Betul,43,0,0
-MP_Betul,44,0,0
+MP_Betul,44,140,0
 MP_Betul,45,418,0
 MP_Betul,46,5602,0
 MP_Betul,47,820,0
@@ -28088,7 +28088,7 @@ MP_Bhind,40,0,0
 MP_Bhind,41,0,0
 MP_Bhind,42,0,0
 MP_Bhind,43,0,0
-MP_Bhind,44,0,0
+MP_Bhind,44,66,0
 MP_Bhind,45,152,0
 MP_Bhind,46,4209,0
 MP_Bhind,47,1475,0
@@ -28162,7 +28162,7 @@ MP_Bhopal,40,0,0
 MP_Bhopal,41,0,0
 MP_Bhopal,42,0,0
 MP_Bhopal,43,0,0
-MP_Bhopal,44,0,0
+MP_Bhopal,44,683,0
 MP_Bhopal,45,2430,0
 MP_Bhopal,46,13893,0
 MP_Bhopal,47,6822,0
@@ -28236,7 +28236,7 @@ MP_Burhanpur,40,0,0
 MP_Burhanpur,41,0,0
 MP_Burhanpur,42,0,0
 MP_Burhanpur,43,0,0
-MP_Burhanpur,44,0,0
+MP_Burhanpur,44,51,0
 MP_Burhanpur,45,219,0
 MP_Burhanpur,46,2307,0
 MP_Burhanpur,47,332,0
@@ -28310,7 +28310,7 @@ MP_Chhatarpur,40,0,0
 MP_Chhatarpur,41,0,0
 MP_Chhatarpur,42,0,0
 MP_Chhatarpur,43,0,0
-MP_Chhatarpur,44,0,0
+MP_Chhatarpur,44,70,0
 MP_Chhatarpur,45,269,0
 MP_Chhatarpur,46,6046,0
 MP_Chhatarpur,47,989,0
@@ -28384,7 +28384,7 @@ MP_Chhindwara,40,0,0
 MP_Chhindwara,41,0,0
 MP_Chhindwara,42,0,0
 MP_Chhindwara,43,0,0
-MP_Chhindwara,44,0,0
+MP_Chhindwara,44,171,0
 MP_Chhindwara,45,501,0
 MP_Chhindwara,46,7752,0
 MP_Chhindwara,47,898,0
@@ -28458,7 +28458,7 @@ MP_Damoh,40,0,0
 MP_Damoh,41,0,0
 MP_Damoh,42,0,0
 MP_Damoh,43,0,0
-MP_Damoh,44,0,0
+MP_Damoh,44,147,0
 MP_Damoh,45,396,0
 MP_Damoh,46,3679,0
 MP_Damoh,47,554,0
@@ -28532,7 +28532,7 @@ MP_Datia,40,0,0
 MP_Datia,41,0,0
 MP_Datia,42,0,0
 MP_Datia,43,0,0
-MP_Datia,44,0,0
+MP_Datia,44,177,0
 MP_Datia,45,347,0
 MP_Datia,46,2045,0
 MP_Datia,47,237,0
@@ -28606,7 +28606,7 @@ MP_Dewas,40,0,0
 MP_Dewas,41,0,0
 MP_Dewas,42,0,0
 MP_Dewas,43,0,0
-MP_Dewas,44,0,0
+MP_Dewas,44,153,0
 MP_Dewas,45,450,0
 MP_Dewas,46,5101,0
 MP_Dewas,47,419,0
@@ -28680,7 +28680,7 @@ MP_Dhar,40,0,0
 MP_Dhar,41,0,0
 MP_Dhar,42,0,0
 MP_Dhar,43,0,0
-MP_Dhar,44,0,0
+MP_Dhar,44,253,0
 MP_Dhar,45,787,0
 MP_Dhar,46,8154,0
 MP_Dhar,47,1380,0
@@ -28754,7 +28754,7 @@ MP_Dindori,40,0,0
 MP_Dindori,41,0,0
 MP_Dindori,42,0,0
 MP_Dindori,43,0,0
-MP_Dindori,44,0,0
+MP_Dindori,44,92,0
 MP_Dindori,45,231,0
 MP_Dindori,46,4905,0
 MP_Dindori,47,558,0
@@ -28828,7 +28828,7 @@ MP_Guna,40,0,0
 MP_Guna,41,0,0
 MP_Guna,42,0,0
 MP_Guna,43,0,0
-MP_Guna,44,0,0
+MP_Guna,44,71,0
 MP_Guna,45,247,0
 MP_Guna,46,3069,0
 MP_Guna,47,271,0
@@ -28902,7 +28902,7 @@ MP_Gwalior,40,0,0
 MP_Gwalior,41,0,0
 MP_Gwalior,42,0,0
 MP_Gwalior,43,0,0
-MP_Gwalior,44,0,0
+MP_Gwalior,44,223,0
 MP_Gwalior,45,584,0
 MP_Gwalior,46,5939,0
 MP_Gwalior,47,1397,0
@@ -28976,7 +28976,7 @@ MP_Harda,40,0,0
 MP_Harda,41,0,0
 MP_Harda,42,0,0
 MP_Harda,43,0,0
-MP_Harda,44,0,0
+MP_Harda,44,66,0
 MP_Harda,45,156,0
 MP_Harda,46,1450,0
 MP_Harda,47,219,0
@@ -29050,7 +29050,7 @@ MP_Hoshangabad,40,0,0
 MP_Hoshangabad,41,0,0
 MP_Hoshangabad,42,0,0
 MP_Hoshangabad,43,0,0
-MP_Hoshangabad,44,0,0
+MP_Hoshangabad,44,386,0
 MP_Hoshangabad,45,1257,0
 MP_Hoshangabad,46,3548,0
 MP_Hoshangabad,47,741,0
@@ -29124,7 +29124,7 @@ MP_Indore,40,0,0
 MP_Indore,41,0,0
 MP_Indore,42,0,0
 MP_Indore,43,0,0
-MP_Indore,44,0,0
+MP_Indore,44,375,0
 MP_Indore,45,1457,0
 MP_Indore,46,18543,0
 MP_Indore,47,5925,0
@@ -29198,7 +29198,7 @@ MP_Jabalpur,40,0,0
 MP_Jabalpur,41,0,0
 MP_Jabalpur,42,0,0
 MP_Jabalpur,43,0,0
-MP_Jabalpur,44,0,0
+MP_Jabalpur,44,461,0
 MP_Jabalpur,45,1437,0
 MP_Jabalpur,46,12012,0
 MP_Jabalpur,47,1674,0
@@ -29272,7 +29272,7 @@ MP_Jhabua,40,0,0
 MP_Jhabua,41,0,0
 MP_Jhabua,42,0,0
 MP_Jhabua,43,0,0
-MP_Jhabua,44,0,0
+MP_Jhabua,44,302,0
 MP_Jhabua,45,641,0
 MP_Jhabua,46,4509,0
 MP_Jhabua,47,1054,0
@@ -29346,7 +29346,7 @@ MP_Katni,40,0,0
 MP_Katni,41,0,0
 MP_Katni,42,0,0
 MP_Katni,43,0,0
-MP_Katni,44,0,0
+MP_Katni,44,426,0
 MP_Katni,45,1315,0
 MP_Katni,46,3595,0
 MP_Katni,47,422,0
@@ -29420,7 +29420,7 @@ MP_Khandwa,40,0,0
 MP_Khandwa,41,0,0
 MP_Khandwa,42,0,0
 MP_Khandwa,43,0,0
-MP_Khandwa,44,0,0
+MP_Khandwa,44,168,0
 MP_Khandwa,45,609,0
 MP_Khandwa,46,3807,0
 MP_Khandwa,47,309,0
@@ -29494,7 +29494,7 @@ MP_Khargone,40,0,0
 MP_Khargone,41,0,0
 MP_Khargone,42,0,0
 MP_Khargone,43,0,0
-MP_Khargone,44,0,0
+MP_Khargone,44,81,0
 MP_Khargone,45,235,0
 MP_Khargone,46,5920,0
 MP_Khargone,47,1318,0
@@ -29568,7 +29568,7 @@ MP_Mandla,40,0,0
 MP_Mandla,41,0,0
 MP_Mandla,42,0,0
 MP_Mandla,43,0,0
-MP_Mandla,44,0,0
+MP_Mandla,44,109,0
 MP_Mandla,45,345,0
 MP_Mandla,46,4720,0
 MP_Mandla,47,696,0
@@ -29642,7 +29642,7 @@ MP_Mandsaur,40,0,0
 MP_Mandsaur,41,0,0
 MP_Mandsaur,42,0,0
 MP_Mandsaur,43,0,0
-MP_Mandsaur,44,0,0
+MP_Mandsaur,44,138,0
 MP_Mandsaur,45,209,0
 MP_Mandsaur,46,3635,0
 MP_Mandsaur,47,742,0
@@ -29716,7 +29716,7 @@ MP_Morena,40,0,0
 MP_Morena,41,0,0
 MP_Morena,42,0,0
 MP_Morena,43,0,0
-MP_Morena,44,0,0
+MP_Morena,44,424,0
 MP_Morena,45,1582,0
 MP_Morena,46,3533,0
 MP_Morena,47,1438,0
@@ -29790,7 +29790,7 @@ MP_Narsinghpur,40,0,0
 MP_Narsinghpur,41,0,0
 MP_Narsinghpur,42,0,0
 MP_Narsinghpur,43,0,0
-MP_Narsinghpur,44,0,0
+MP_Narsinghpur,44,63,0
 MP_Narsinghpur,45,165,0
 MP_Narsinghpur,46,4179,0
 MP_Narsinghpur,47,692,0
@@ -29864,7 +29864,7 @@ MP_Neemuch,40,0,0
 MP_Neemuch,41,0,0
 MP_Neemuch,42,0,0
 MP_Neemuch,43,0,0
-MP_Neemuch,44,0,0
+MP_Neemuch,44,74,0
 MP_Neemuch,45,142,0
 MP_Neemuch,46,2657,0
 MP_Neemuch,47,463,0
@@ -29938,7 +29938,7 @@ MP_Panna,40,0,0
 MP_Panna,41,0,0
 MP_Panna,42,0,0
 MP_Panna,43,0,0
-MP_Panna,44,0,0
+MP_Panna,44,129,0
 MP_Panna,45,370,0
 MP_Panna,46,3086,0
 MP_Panna,47,470,0
@@ -30012,7 +30012,7 @@ MP_Raisen,40,0,0
 MP_Raisen,41,0,0
 MP_Raisen,42,0,0
 MP_Raisen,43,0,0
-MP_Raisen,44,0,0
+MP_Raisen,44,103,0
 MP_Raisen,45,389,0
 MP_Raisen,46,2578,0
 MP_Raisen,47,356,0
@@ -30086,7 +30086,7 @@ MP_Rajgarh,40,0,0
 MP_Rajgarh,41,0,0
 MP_Rajgarh,42,0,0
 MP_Rajgarh,43,0,0
-MP_Rajgarh,44,0,0
+MP_Rajgarh,44,74,0
 MP_Rajgarh,45,180,0
 MP_Rajgarh,46,5431,0
 MP_Rajgarh,47,658,0
@@ -30160,7 +30160,7 @@ MP_Ratlam,40,0,0
 MP_Ratlam,41,0,0
 MP_Ratlam,42,0,0
 MP_Ratlam,43,0,0
-MP_Ratlam,44,0,0
+MP_Ratlam,44,104,0
 MP_Ratlam,45,279,0
 MP_Ratlam,46,5342,0
 MP_Ratlam,47,543,0
@@ -30234,7 +30234,7 @@ MP_Rewa,40,0,0
 MP_Rewa,41,0,0
 MP_Rewa,42,0,0
 MP_Rewa,43,0,0
-MP_Rewa,44,0,0
+MP_Rewa,44,388,0
 MP_Rewa,45,1329,0
 MP_Rewa,46,4778,0
 MP_Rewa,47,2247,0
@@ -30308,7 +30308,7 @@ MP_Sagar,40,0,0
 MP_Sagar,41,0,0
 MP_Sagar,42,0,0
 MP_Sagar,43,0,0
-MP_Sagar,44,0,0
+MP_Sagar,44,216,0
 MP_Sagar,45,797,0
 MP_Sagar,46,6341,0
 MP_Sagar,47,512,0
@@ -30382,7 +30382,7 @@ MP_Satna,40,0,0
 MP_Satna,41,0,0
 MP_Satna,42,0,0
 MP_Satna,43,0,0
-MP_Satna,44,0,0
+MP_Satna,44,283,0
 MP_Satna,45,760,0
 MP_Satna,46,6358,0
 MP_Satna,47,1115,0
@@ -30456,7 +30456,7 @@ MP_Sehore,40,0,0
 MP_Sehore,41,0,0
 MP_Sehore,42,0,0
 MP_Sehore,43,0,0
-MP_Sehore,44,0,0
+MP_Sehore,44,289,0
 MP_Sehore,45,902,0
 MP_Sehore,46,4107,0
 MP_Sehore,47,191,0
@@ -30530,7 +30530,7 @@ MP_Seoni,40,0,0
 MP_Seoni,41,0,0
 MP_Seoni,42,0,0
 MP_Seoni,43,0,0
-MP_Seoni,44,0,0
+MP_Seoni,44,48,0
 MP_Seoni,45,228,0
 MP_Seoni,46,5116,0
 MP_Seoni,47,1014,0
@@ -30604,7 +30604,7 @@ MP_Shahdol,40,0,0
 MP_Shahdol,41,0,0
 MP_Shahdol,42,0,0
 MP_Shahdol,43,0,0
-MP_Shahdol,44,0,0
+MP_Shahdol,44,107,0
 MP_Shahdol,45,258,0
 MP_Shahdol,46,3920,0
 MP_Shahdol,47,817,0
@@ -30678,7 +30678,7 @@ MP_Shajapur,40,0,0
 MP_Shajapur,41,0,0
 MP_Shajapur,42,0,0
 MP_Shajapur,43,0,0
-MP_Shajapur,44,0,0
+MP_Shajapur,44,242,0
 MP_Shajapur,45,664,0
 MP_Shajapur,46,2956,0
 MP_Shajapur,47,135,0
@@ -30752,7 +30752,7 @@ MP_Sheopur,40,0,0
 MP_Sheopur,41,0,0
 MP_Sheopur,42,0,0
 MP_Sheopur,43,0,0
-MP_Sheopur,44,0,0
+MP_Sheopur,44,139,0
 MP_Sheopur,45,372,0
 MP_Sheopur,46,1834,0
 MP_Sheopur,47,398,0
@@ -30826,7 +30826,7 @@ MP_Shivpuri,40,0,0
 MP_Shivpuri,41,0,0
 MP_Shivpuri,42,0,0
 MP_Shivpuri,43,0,0
-MP_Shivpuri,44,0,0
+MP_Shivpuri,44,189,0
 MP_Shivpuri,45,713,0
 MP_Shivpuri,46,5146,0
 MP_Shivpuri,47,591,0
@@ -30900,7 +30900,7 @@ MP_Sidhi,40,0,0
 MP_Sidhi,41,0,0
 MP_Sidhi,42,0,0
 MP_Sidhi,43,0,0
-MP_Sidhi,44,0,0
+MP_Sidhi,44,98,0
 MP_Sidhi,45,384,0
 MP_Sidhi,46,4085,0
 MP_Sidhi,47,727,0
@@ -30974,7 +30974,7 @@ MP_Singrauli,40,0,0
 MP_Singrauli,41,0,0
 MP_Singrauli,42,0,0
 MP_Singrauli,43,0,0
-MP_Singrauli,44,0,0
+MP_Singrauli,44,176,0
 MP_Singrauli,45,453,0
 MP_Singrauli,46,2851,0
 MP_Singrauli,47,448,0
@@ -31048,7 +31048,7 @@ MP_Tikamgarh,40,0,0
 MP_Tikamgarh,41,0,0
 MP_Tikamgarh,42,0,0
 MP_Tikamgarh,43,0,0
-MP_Tikamgarh,44,0,0
+MP_Tikamgarh,44,80,0
 MP_Tikamgarh,45,190,0
 MP_Tikamgarh,46,3738,0
 MP_Tikamgarh,47,777,0
@@ -31122,7 +31122,7 @@ MP_Ujjain,40,0,0
 MP_Ujjain,41,0,0
 MP_Ujjain,42,0,0
 MP_Ujjain,43,0,0
-MP_Ujjain,44,0,0
+MP_Ujjain,44,340,0
 MP_Ujjain,45,1013,0
 MP_Ujjain,46,8066,0
 MP_Ujjain,47,1284,0
@@ -31196,7 +31196,7 @@ MP_Umaria,40,0,0
 MP_Umaria,41,0,0
 MP_Umaria,42,0,0
 MP_Umaria,43,0,0
-MP_Umaria,44,0,0
+MP_Umaria,44,50,0
 MP_Umaria,45,125,0
 MP_Umaria,46,1793,0
 MP_Umaria,47,194,0
@@ -31270,7 +31270,7 @@ MP_Vidisha,40,0,0
 MP_Vidisha,41,0,0
 MP_Vidisha,42,0,0
 MP_Vidisha,43,0,0
-MP_Vidisha,44,0,0
+MP_Vidisha,44,193,0
 MP_Vidisha,45,806,0
 MP_Vidisha,46,5220,0
 MP_Vidisha,47,1208,0
@@ -31344,7 +31344,7 @@ MZ_Aizawl,40,0,0
 MZ_Aizawl,41,0,0
 MZ_Aizawl,42,0,0
 MZ_Aizawl,43,0,0
-MZ_Aizawl,44,0,0
+MZ_Aizawl,44,93,0
 MZ_Aizawl,45,84,0
 MZ_Aizawl,46,1783,0
 MZ_Aizawl,47,2,0
@@ -31418,7 +31418,7 @@ MZ_Aizawl,40,0,0
 MZ_Aizawl,41,0,0
 MZ_Aizawl,42,0,0
 MZ_Aizawl,43,0,0
-MZ_Aizawl,44,0,0
+MZ_Aizawl,44,93,0
 MZ_Aizawl,45,84,0
 MZ_Aizawl,46,1783,0
 MZ_Aizawl,47,2,0
@@ -31714,7 +31714,7 @@ MZ_Lunglei,40,0,0
 MZ_Lunglei,41,0,0
 MZ_Lunglei,42,0,0
 MZ_Lunglei,43,0,0
-MZ_Lunglei,44,0,0
+MZ_Lunglei,44,1,0
 MZ_Lunglei,45,57,0
 MZ_Lunglei,46,954,0
 MZ_Lunglei,47,165,0
@@ -32010,7 +32010,7 @@ NL_Dimapur,40,0,0
 NL_Dimapur,41,0,0
 NL_Dimapur,42,0,0
 NL_Dimapur,43,0,0
-NL_Dimapur,44,0,0
+NL_Dimapur,44,1,0
 NL_Dimapur,45,234,0
 NL_Dimapur,46,413,0
 NL_Dimapur,47,67,0
@@ -32158,7 +32158,7 @@ NL_Kohima,40,0,0
 NL_Kohima,41,0,0
 NL_Kohima,42,0,0
 NL_Kohima,43,0,0
-NL_Kohima,44,0,0
+NL_Kohima,44,2,0
 NL_Kohima,45,528,0
 NL_Kohima,46,318,0
 NL_Kohima,47,101,0
@@ -32306,7 +32306,7 @@ NL_Mokokchung,40,0,0
 NL_Mokokchung,41,0,0
 NL_Mokokchung,42,0,0
 NL_Mokokchung,43,0,0
-NL_Mokokchung,44,0,0
+NL_Mokokchung,44,2,0
 NL_Mokokchung,45,92,0
 NL_Mokokchung,46,306,0
 NL_Mokokchung,47,213,0
@@ -32380,7 +32380,7 @@ NL_Mon,40,0,0
 NL_Mon,41,0,0
 NL_Mon,42,0,0
 NL_Mon,43,0,0
-NL_Mon,44,0,0
+NL_Mon,44,12,0
 NL_Mon,45,192,0
 NL_Mon,46,124,0
 NL_Mon,47,56,0
@@ -32454,7 +32454,7 @@ NL_Peren,40,0,0
 NL_Peren,41,0,0
 NL_Peren,42,0,0
 NL_Peren,43,0,0
-NL_Peren,44,0,0
+NL_Peren,44,11,0
 NL_Peren,45,95,0
 NL_Peren,46,107,0
 NL_Peren,47,53,0
@@ -32528,7 +32528,7 @@ NL_Phek,40,0,0
 NL_Phek,41,0,0
 NL_Phek,42,0,0
 NL_Phek,43,0,0
-NL_Phek,44,0,0
+NL_Phek,44,7,0
 NL_Phek,45,122,0
 NL_Phek,46,103,0
 NL_Phek,47,30,0
@@ -32602,7 +32602,7 @@ NL_Tuensang,40,0,0
 NL_Tuensang,41,0,0
 NL_Tuensang,42,0,0
 NL_Tuensang,43,0,0
-NL_Tuensang,44,0,0
+NL_Tuensang,44,1,0
 NL_Tuensang,45,22,0
 NL_Tuensang,46,156,0
 NL_Tuensang,47,0,0
@@ -32676,7 +32676,7 @@ NL_Wokha,40,0,0
 NL_Wokha,41,0,0
 NL_Wokha,42,0,0
 NL_Wokha,43,0,0
-NL_Wokha,44,0,0
+NL_Wokha,44,7,0
 NL_Wokha,45,26,0
 NL_Wokha,46,102,0
 NL_Wokha,47,37,0
@@ -32750,7 +32750,7 @@ NL_Zunheboto,40,0,0
 NL_Zunheboto,41,0,0
 NL_Zunheboto,42,0,0
 NL_Zunheboto,43,0,0
-NL_Zunheboto,44,0,0
+NL_Zunheboto,44,51,0
 NL_Zunheboto,45,129,0
 NL_Zunheboto,46,194,0
 NL_Zunheboto,47,2,0
@@ -32824,7 +32824,7 @@ OR_Angul,40,0,0
 OR_Angul,41,0,0
 OR_Angul,42,0,0
 OR_Angul,43,0,0
-OR_Angul,44,0,0
+OR_Angul,44,28,0
 OR_Angul,45,2468,0
 OR_Angul,46,2627,0
 OR_Angul,47,949,0
@@ -32898,7 +32898,7 @@ OR_Balangir,40,0,0
 OR_Balangir,41,0,0
 OR_Balangir,42,0,0
 OR_Balangir,43,0,0
-OR_Balangir,44,0,0
+OR_Balangir,44,108,0
 OR_Balangir,45,2712,0
 OR_Balangir,46,2315,0
 OR_Balangir,47,2341,0
@@ -32972,7 +32972,7 @@ OR_Balasore,40,0,0
 OR_Balasore,41,0,0
 OR_Balasore,42,0,0
 OR_Balasore,43,0,0
-OR_Balasore,44,0,0
+OR_Balasore,44,66,0
 OR_Balasore,45,4487,0
 OR_Balasore,46,2211,0
 OR_Balasore,47,2445,0
@@ -33046,7 +33046,7 @@ OR_Bargarh,40,0,0
 OR_Bargarh,41,0,0
 OR_Bargarh,42,0,0
 OR_Bargarh,43,0,0
-OR_Bargarh,44,0,0
+OR_Bargarh,44,15,0
 OR_Bargarh,45,2164,0
 OR_Bargarh,46,2900,0
 OR_Bargarh,47,2492,0
@@ -33120,7 +33120,7 @@ OR_Bhadrak,40,0,0
 OR_Bhadrak,41,0,0
 OR_Bhadrak,42,0,0
 OR_Bhadrak,43,0,0
-OR_Bhadrak,44,0,0
+OR_Bhadrak,44,109,0
 OR_Bhadrak,45,3629,0
 OR_Bhadrak,46,933,0
 OR_Bhadrak,47,806,0
@@ -33194,7 +33194,7 @@ OR_Boudh,40,0,0
 OR_Boudh,41,0,0
 OR_Boudh,42,0,0
 OR_Boudh,43,0,0
-OR_Boudh,44,0,0
+OR_Boudh,44,190,0
 OR_Boudh,45,765,0
 OR_Boudh,46,632,0
 OR_Boudh,47,641,0
@@ -33268,7 +33268,7 @@ OR_Cuttack,40,0,0
 OR_Cuttack,41,0,0
 OR_Cuttack,42,0,0
 OR_Cuttack,43,0,0
-OR_Cuttack,44,0,0
+OR_Cuttack,44,87,0
 OR_Cuttack,45,6489,0
 OR_Cuttack,46,5832,0
 OR_Cuttack,47,3978,0
@@ -33342,7 +33342,7 @@ OR_Deogarh,40,0,0
 OR_Deogarh,41,0,0
 OR_Deogarh,42,0,0
 OR_Deogarh,43,0,0
-OR_Deogarh,44,0,0
+OR_Deogarh,44,45,0
 OR_Deogarh,45,497,0
 OR_Deogarh,46,287,0
 OR_Deogarh,47,553,0
@@ -33416,7 +33416,7 @@ OR_Dhenkanal,40,0,0
 OR_Dhenkanal,41,0,0
 OR_Dhenkanal,42,0,0
 OR_Dhenkanal,43,0,0
-OR_Dhenkanal,44,0,0
+OR_Dhenkanal,44,12,0
 OR_Dhenkanal,45,3160,0
 OR_Dhenkanal,46,1282,0
 OR_Dhenkanal,47,1435,0
@@ -33490,7 +33490,7 @@ OR_Gajapati,40,0,0
 OR_Gajapati,41,0,0
 OR_Gajapati,42,0,0
 OR_Gajapati,43,0,0
-OR_Gajapati,44,0,0
+OR_Gajapati,44,73,0
 OR_Gajapati,45,1566,0
 OR_Gajapati,46,2135,0
 OR_Gajapati,47,892,0
@@ -33564,7 +33564,7 @@ OR_Ganjam,40,0,0
 OR_Ganjam,41,0,0
 OR_Ganjam,42,0,0
 OR_Ganjam,43,0,0
-OR_Ganjam,44,0,0
+OR_Ganjam,44,56,0
 OR_Ganjam,45,7608,0
 OR_Ganjam,46,6708,0
 OR_Ganjam,47,5376,0
@@ -33638,7 +33638,7 @@ OR_Jagatsinghpur,40,0,0
 OR_Jagatsinghpur,41,0,0
 OR_Jagatsinghpur,42,0,0
 OR_Jagatsinghpur,43,0,0
-OR_Jagatsinghpur,44,0,0
+OR_Jagatsinghpur,44,41,0
 OR_Jagatsinghpur,45,979,0
 OR_Jagatsinghpur,46,1848,0
 OR_Jagatsinghpur,47,1909,0
@@ -33712,7 +33712,7 @@ OR_Jajpur,40,0,0
 OR_Jajpur,41,0,0
 OR_Jajpur,42,0,0
 OR_Jajpur,43,0,0
-OR_Jajpur,44,0,0
+OR_Jajpur,44,119,0
 OR_Jajpur,45,920,0
 OR_Jajpur,46,799,0
 OR_Jajpur,47,641,0
@@ -33786,7 +33786,7 @@ OR_Jharsuguda,40,0,0
 OR_Jharsuguda,41,0,0
 OR_Jharsuguda,42,0,0
 OR_Jharsuguda,43,0,0
-OR_Jharsuguda,44,0,0
+OR_Jharsuguda,44,68,0
 OR_Jharsuguda,45,941,0
 OR_Jharsuguda,46,1341,0
 OR_Jharsuguda,47,1346,0
@@ -33860,7 +33860,7 @@ OR_Kalahandi,40,0,0
 OR_Kalahandi,41,0,0
 OR_Kalahandi,42,0,0
 OR_Kalahandi,43,0,0
-OR_Kalahandi,44,0,0
+OR_Kalahandi,44,334,0
 OR_Kalahandi,45,2504,0
 OR_Kalahandi,46,2616,0
 OR_Kalahandi,47,1622,0
@@ -33934,7 +33934,7 @@ OR_Kandhamal,40,0,0
 OR_Kandhamal,41,0,0
 OR_Kandhamal,42,0,0
 OR_Kandhamal,43,0,0
-OR_Kandhamal,44,0,0
+OR_Kandhamal,44,276,0
 OR_Kandhamal,45,2267,0
 OR_Kandhamal,46,1075,0
 OR_Kandhamal,47,1639,0
@@ -34008,7 +34008,7 @@ OR_Kendrapara,40,0,0
 OR_Kendrapara,41,0,0
 OR_Kendrapara,42,0,0
 OR_Kendrapara,43,0,0
-OR_Kendrapara,44,0,0
+OR_Kendrapara,44,36,0
 OR_Kendrapara,45,1712,0
 OR_Kendrapara,46,2530,0
 OR_Kendrapara,47,1708,0
@@ -34082,7 +34082,7 @@ OR_Kendujhar,40,0,0
 OR_Kendujhar,41,0,0
 OR_Kendujhar,42,0,0
 OR_Kendujhar,43,0,0
-OR_Kendujhar,44,0,0
+OR_Kendujhar,44,30,0
 OR_Kendujhar,45,2985,0
 OR_Kendujhar,46,1103,0
 OR_Kendujhar,47,4514,0
@@ -34156,7 +34156,7 @@ OR_Khordha,40,0,0
 OR_Khordha,41,0,0
 OR_Khordha,42,0,0
 OR_Khordha,43,0,0
-OR_Khordha,44,0,0
+OR_Khordha,44,23,0
 OR_Khordha,45,4145,0
 OR_Khordha,46,7596,0
 OR_Khordha,47,6031,0
@@ -34230,7 +34230,7 @@ OR_Koraput,40,0,0
 OR_Koraput,41,0,0
 OR_Koraput,42,0,0
 OR_Koraput,43,0,0
-OR_Koraput,44,0,0
+OR_Koraput,44,68,0
 OR_Koraput,45,3602,0
 OR_Koraput,46,3450,0
 OR_Koraput,47,2129,0
@@ -34304,7 +34304,7 @@ OR_Malkangiri,40,0,0
 OR_Malkangiri,41,0,0
 OR_Malkangiri,42,0,0
 OR_Malkangiri,43,0,0
-OR_Malkangiri,44,0,0
+OR_Malkangiri,44,66,0
 OR_Malkangiri,45,1427,0
 OR_Malkangiri,46,1001,0
 OR_Malkangiri,47,1842,0
@@ -34378,7 +34378,7 @@ OR_Mayurbhanj,40,0,0
 OR_Mayurbhanj,41,0,0
 OR_Mayurbhanj,42,0,0
 OR_Mayurbhanj,43,0,0
-OR_Mayurbhanj,44,0,0
+OR_Mayurbhanj,44,589,0
 OR_Mayurbhanj,45,6366,0
 OR_Mayurbhanj,46,4033,0
 OR_Mayurbhanj,47,3679,0
@@ -34452,7 +34452,7 @@ OR_Nabarangapur,40,0,0
 OR_Nabarangapur,41,0,0
 OR_Nabarangapur,42,0,0
 OR_Nabarangapur,43,0,0
-OR_Nabarangapur,44,0,0
+OR_Nabarangapur,44,34,0
 OR_Nabarangapur,45,3432,0
 OR_Nabarangapur,46,1807,0
 OR_Nabarangapur,47,768,0
@@ -34526,7 +34526,7 @@ OR_Nayagarh,40,0,0
 OR_Nayagarh,41,0,0
 OR_Nayagarh,42,0,0
 OR_Nayagarh,43,0,0
-OR_Nayagarh,44,0,0
+OR_Nayagarh,44,72,0
 OR_Nayagarh,45,1064,0
 OR_Nayagarh,46,1287,0
 OR_Nayagarh,47,2341,0
@@ -34600,7 +34600,7 @@ OR_Nuapada,40,0,0
 OR_Nuapada,41,0,0
 OR_Nuapada,42,0,0
 OR_Nuapada,43,0,0
-OR_Nuapada,44,0,0
+OR_Nuapada,44,45,0
 OR_Nuapada,45,1874,0
 OR_Nuapada,46,1096,0
 OR_Nuapada,47,861,0
@@ -34674,7 +34674,7 @@ OR_Puri,40,0,0
 OR_Puri,41,0,0
 OR_Puri,42,0,0
 OR_Puri,43,0,0
-OR_Puri,44,0,0
+OR_Puri,44,277,0
 OR_Puri,45,3004,0
 OR_Puri,46,1518,0
 OR_Puri,47,818,0
@@ -34748,7 +34748,7 @@ OR_Rayagada,40,0,0
 OR_Rayagada,41,0,0
 OR_Rayagada,42,0,0
 OR_Rayagada,43,0,0
-OR_Rayagada,44,0,0
+OR_Rayagada,44,202,0
 OR_Rayagada,45,2833,0
 OR_Rayagada,46,1601,0
 OR_Rayagada,47,1381,0
@@ -34822,7 +34822,7 @@ OR_Sambalpur,40,0,0
 OR_Sambalpur,41,0,0
 OR_Sambalpur,42,0,0
 OR_Sambalpur,43,0,0
-OR_Sambalpur,44,0,0
+OR_Sambalpur,44,48,0
 OR_Sambalpur,45,3371,0
 OR_Sambalpur,46,1894,0
 OR_Sambalpur,47,2731,0
@@ -34896,7 +34896,7 @@ OR_Subarnapur,40,0,0
 OR_Subarnapur,41,0,0
 OR_Subarnapur,42,0,0
 OR_Subarnapur,43,0,0
-OR_Subarnapur,44,0,0
+OR_Subarnapur,44,48,0
 OR_Subarnapur,45,1128,0
 OR_Subarnapur,46,1142,0
 OR_Subarnapur,47,1082,0
@@ -34970,7 +34970,7 @@ OR_Sundargarh,40,0,0
 OR_Sundargarh,41,0,0
 OR_Sundargarh,42,0,0
 OR_Sundargarh,43,0,0
-OR_Sundargarh,44,0,0
+OR_Sundargarh,44,255,0
 OR_Sundargarh,45,5573,0
 OR_Sundargarh,46,3638,0
 OR_Sundargarh,47,3122,0
@@ -35044,7 +35044,7 @@ PB_Amritsar,40,0,0
 PB_Amritsar,41,0,0
 PB_Amritsar,42,0,0
 PB_Amritsar,43,0,0
-PB_Amritsar,44,0,0
+PB_Amritsar,44,12,0
 PB_Amritsar,45,1338,0
 PB_Amritsar,46,4048,0
 PB_Amritsar,47,3016,0
@@ -35118,7 +35118,7 @@ PB_Barnala,40,0,0
 PB_Barnala,41,0,0
 PB_Barnala,42,0,0
 PB_Barnala,43,0,0
-PB_Barnala,44,0,0
+PB_Barnala,44,4,0
 PB_Barnala,45,167,0
 PB_Barnala,46,197,0
 PB_Barnala,47,238,0
@@ -35192,7 +35192,7 @@ PB_Bathinda,40,0,0
 PB_Bathinda,41,0,0
 PB_Bathinda,42,0,0
 PB_Bathinda,43,0,0
-PB_Bathinda,44,0,0
+PB_Bathinda,44,7,0
 PB_Bathinda,45,877,0
 PB_Bathinda,46,681,0
 PB_Bathinda,47,734,0
@@ -35266,7 +35266,7 @@ PB_Faridkot,40,0,0
 PB_Faridkot,41,0,0
 PB_Faridkot,42,0,0
 PB_Faridkot,43,0,0
-PB_Faridkot,44,0,0
+PB_Faridkot,44,20,0
 PB_Faridkot,45,378,0
 PB_Faridkot,46,510,0
 PB_Faridkot,47,920,0
@@ -35340,7 +35340,7 @@ PB_Fatehgarh Sahib,40,0,0
 PB_Fatehgarh Sahib,41,0,0
 PB_Fatehgarh Sahib,42,0,0
 PB_Fatehgarh Sahib,43,0,0
-PB_Fatehgarh Sahib,44,0,0
+PB_Fatehgarh Sahib,44,16,0
 PB_Fatehgarh Sahib,45,141,0
 PB_Fatehgarh Sahib,46,214,0
 PB_Fatehgarh Sahib,47,206,0
@@ -35414,7 +35414,7 @@ PB_Fazilka,40,0,0
 PB_Fazilka,41,0,0
 PB_Fazilka,42,0,0
 PB_Fazilka,43,0,0
-PB_Fazilka,44,0,0
+PB_Fazilka,44,2,0
 PB_Fazilka,45,192,0
 PB_Fazilka,46,167,0
 PB_Fazilka,47,199,0
@@ -35488,7 +35488,7 @@ PB_Ferozepur,40,0,0
 PB_Ferozepur,41,0,0
 PB_Ferozepur,42,0,0
 PB_Ferozepur,43,0,0
-PB_Ferozepur,44,0,0
+PB_Ferozepur,44,2,0
 PB_Ferozepur,45,190,0
 PB_Ferozepur,46,307,0
 PB_Ferozepur,47,345,0
@@ -35562,7 +35562,7 @@ PB_Gurdaspur,40,0,0
 PB_Gurdaspur,41,0,0
 PB_Gurdaspur,42,0,0
 PB_Gurdaspur,43,0,0
-PB_Gurdaspur,44,0,0
+PB_Gurdaspur,44,19,0
 PB_Gurdaspur,45,385,0
 PB_Gurdaspur,46,894,0
 PB_Gurdaspur,47,945,0
@@ -35636,7 +35636,7 @@ PB_Hoshiarpur,40,0,0
 PB_Hoshiarpur,41,0,0
 PB_Hoshiarpur,42,0,0
 PB_Hoshiarpur,43,0,0
-PB_Hoshiarpur,44,0,0
+PB_Hoshiarpur,44,12,0
 PB_Hoshiarpur,45,602,0
 PB_Hoshiarpur,46,1853,0
 PB_Hoshiarpur,47,696,0
@@ -35710,7 +35710,7 @@ PB_Jalandhar,40,0,0
 PB_Jalandhar,41,0,0
 PB_Jalandhar,42,0,0
 PB_Jalandhar,43,0,0
-PB_Jalandhar,44,0,0
+PB_Jalandhar,44,34,0
 PB_Jalandhar,45,2314,0
 PB_Jalandhar,46,3550,0
 PB_Jalandhar,47,1967,0
@@ -35784,7 +35784,7 @@ PB_Kapurthala,40,0,0
 PB_Kapurthala,41,0,0
 PB_Kapurthala,42,0,0
 PB_Kapurthala,43,0,0
-PB_Kapurthala,44,0,0
+PB_Kapurthala,44,15,0
 PB_Kapurthala,45,253,0
 PB_Kapurthala,46,419,0
 PB_Kapurthala,47,432,0
@@ -35858,7 +35858,7 @@ PB_Ludhiana,40,0,0
 PB_Ludhiana,41,0,0
 PB_Ludhiana,42,0,0
 PB_Ludhiana,43,0,0
-PB_Ludhiana,44,0,0
+PB_Ludhiana,44,66,0
 PB_Ludhiana,45,3729,0
 PB_Ludhiana,46,9168,0
 PB_Ludhiana,47,3568,0
@@ -35932,7 +35932,7 @@ PB_Mansa,40,0,0
 PB_Mansa,41,0,0
 PB_Mansa,42,0,0
 PB_Mansa,43,0,0
-PB_Mansa,44,0,0
+PB_Mansa,44,30,0
 PB_Mansa,45,122,0
 PB_Mansa,46,201,0
 PB_Mansa,47,277,0
@@ -36006,7 +36006,7 @@ PB_Moga,40,0,0
 PB_Moga,41,0,0
 PB_Moga,42,0,0
 PB_Moga,43,0,0
-PB_Moga,44,0,0
+PB_Moga,44,4,0
 PB_Moga,45,115,0
 PB_Moga,46,227,0
 PB_Moga,47,244,0
@@ -36080,7 +36080,7 @@ PB_Pathankot,40,0,0
 PB_Pathankot,41,0,0
 PB_Pathankot,42,0,0
 PB_Pathankot,43,0,0
-PB_Pathankot,44,0,0
+PB_Pathankot,44,1,0
 PB_Pathankot,45,454,0
 PB_Pathankot,46,547,0
 PB_Pathankot,47,351,0
@@ -36154,7 +36154,7 @@ PB_Patiala,40,0,0
 PB_Patiala,41,0,0
 PB_Patiala,42,0,0
 PB_Patiala,43,0,0
-PB_Patiala,44,0,0
+PB_Patiala,44,27,0
 PB_Patiala,45,1536,0
 PB_Patiala,46,1783,0
 PB_Patiala,47,1294,0
@@ -36228,7 +36228,7 @@ PB_Rupnagar,40,0,0
 PB_Rupnagar,41,0,0
 PB_Rupnagar,42,0,0
 PB_Rupnagar,43,0,0
-PB_Rupnagar,44,0,0
+PB_Rupnagar,44,18,0
 PB_Rupnagar,45,393,0
 PB_Rupnagar,46,549,0
 PB_Rupnagar,47,472,0
@@ -36302,7 +36302,7 @@ PB_S.A.S. Nagar,40,0,0
 PB_S.A.S. Nagar,41,0,0
 PB_S.A.S. Nagar,42,0,0
 PB_S.A.S. Nagar,43,0,0
-PB_S.A.S. Nagar,44,0,0
+PB_S.A.S. Nagar,44,8,0
 PB_S.A.S. Nagar,45,1463,0
 PB_S.A.S. Nagar,46,947,0
 PB_S.A.S. Nagar,47,962,0
@@ -36376,7 +36376,7 @@ PB_Sangrur,40,0,0
 PB_Sangrur,41,0,0
 PB_Sangrur,42,0,0
 PB_Sangrur,43,0,0
-PB_Sangrur,44,0,0
+PB_Sangrur,44,7,0
 PB_Sangrur,45,501,0
 PB_Sangrur,46,683,0
 PB_Sangrur,47,444,0
@@ -36450,7 +36450,7 @@ PB_Shahid Bhagat Singh Nagar,40,0,0
 PB_Shahid Bhagat Singh Nagar,41,0,0
 PB_Shahid Bhagat Singh Nagar,42,0,0
 PB_Shahid Bhagat Singh Nagar,43,0,0
-PB_Shahid Bhagat Singh Nagar,44,0,0
+PB_Shahid Bhagat Singh Nagar,44,4,0
 PB_Shahid Bhagat Singh Nagar,45,429,0
 PB_Shahid Bhagat Singh Nagar,46,808,0
 PB_Shahid Bhagat Singh Nagar,47,410,0
@@ -36524,7 +36524,7 @@ PB_Sri Muktsar Sahib,40,0,0
 PB_Sri Muktsar Sahib,41,0,0
 PB_Sri Muktsar Sahib,42,0,0
 PB_Sri Muktsar Sahib,43,0,0
-PB_Sri Muktsar Sahib,44,0,0
+PB_Sri Muktsar Sahib,44,15,0
 PB_Sri Muktsar Sahib,45,239,0
 PB_Sri Muktsar Sahib,46,326,0
 PB_Sri Muktsar Sahib,47,237,0
@@ -36598,7 +36598,7 @@ PB_Tarn Taran,40,0,0
 PB_Tarn Taran,41,0,0
 PB_Tarn Taran,42,0,0
 PB_Tarn Taran,43,0,0
-PB_Tarn Taran,44,0,0
+PB_Tarn Taran,44,16,0
 PB_Tarn Taran,45,362,0
 PB_Tarn Taran,46,1050,0
 PB_Tarn Taran,47,794,0
@@ -36672,7 +36672,7 @@ PY_Karaikal,40,0,0
 PY_Karaikal,41,0,0
 PY_Karaikal,42,0,0
 PY_Karaikal,43,0,0
-PY_Karaikal,44,0,0
+PY_Karaikal,44,3,0
 PY_Karaikal,45,32,0
 PY_Karaikal,46,81,0
 PY_Karaikal,47,92,0
@@ -36746,7 +36746,7 @@ PY_Mahe,40,0,0
 PY_Mahe,41,0,0
 PY_Mahe,42,0,0
 PY_Mahe,43,0,0
-PY_Mahe,44,0,0
+PY_Mahe,44,11,0
 PY_Mahe,45,77,0
 PY_Mahe,46,185,0
 PY_Mahe,47,27,0
@@ -36820,7 +36820,7 @@ PY_Puducherry,40,0,0
 PY_Puducherry,41,0,0
 PY_Puducherry,42,0,0
 PY_Puducherry,43,0,0
-PY_Puducherry,44,0,0
+PY_Puducherry,44,77,0
 PY_Puducherry,45,588,0
 PY_Puducherry,46,937,0
 PY_Puducherry,47,776,0
@@ -36894,7 +36894,7 @@ RJ_Ajmer,40,0,0
 RJ_Ajmer,41,0,0
 RJ_Ajmer,42,0,0
 RJ_Ajmer,43,0,0
-RJ_Ajmer,44,0,0
+RJ_Ajmer,44,99,0
 RJ_Ajmer,45,2260,0
 RJ_Ajmer,46,11525,0
 RJ_Ajmer,47,5698,0
@@ -36968,7 +36968,7 @@ RJ_Alwar,40,0,0
 RJ_Alwar,41,0,0
 RJ_Alwar,42,0,0
 RJ_Alwar,43,0,0
-RJ_Alwar,44,0,0
+RJ_Alwar,44,170,0
 RJ_Alwar,45,2332,0
 RJ_Alwar,46,17737,0
 RJ_Alwar,47,5646,0
@@ -37042,7 +37042,7 @@ RJ_Banswara,40,0,0
 RJ_Banswara,41,0,0
 RJ_Banswara,42,0,0
 RJ_Banswara,43,0,0
-RJ_Banswara,44,0,0
+RJ_Banswara,44,44,0
 RJ_Banswara,45,1182,0
 RJ_Banswara,46,8662,0
 RJ_Banswara,47,2489,0
@@ -37116,7 +37116,7 @@ RJ_Baran,40,0,0
 RJ_Baran,41,0,0
 RJ_Baran,42,0,0
 RJ_Baran,43,0,0
-RJ_Baran,44,0,0
+RJ_Baran,44,26,0
 RJ_Baran,45,651,0
 RJ_Baran,46,6034,0
 RJ_Baran,47,2522,0
@@ -37190,7 +37190,7 @@ RJ_Barmer,40,0,0
 RJ_Barmer,41,0,0
 RJ_Barmer,42,0,0
 RJ_Barmer,43,0,0
-RJ_Barmer,44,0,0
+RJ_Barmer,44,15,0
 RJ_Barmer,45,784,0
 RJ_Barmer,46,6361,0
 RJ_Barmer,47,2010,0
@@ -37264,7 +37264,7 @@ RJ_Bharatpur,40,0,0
 RJ_Bharatpur,41,0,0
 RJ_Bharatpur,42,0,0
 RJ_Bharatpur,43,0,0
-RJ_Bharatpur,44,0,0
+RJ_Bharatpur,44,41,0
 RJ_Bharatpur,45,859,0
 RJ_Bharatpur,46,5907,0
 RJ_Bharatpur,47,3834,0
@@ -37338,7 +37338,7 @@ RJ_Bhilwara,40,0,0
 RJ_Bhilwara,41,0,0
 RJ_Bhilwara,42,0,0
 RJ_Bhilwara,43,0,0
-RJ_Bhilwara,44,0,0
+RJ_Bhilwara,44,97,0
 RJ_Bhilwara,45,2003,0
 RJ_Bhilwara,46,10803,0
 RJ_Bhilwara,47,3751,0
@@ -37412,7 +37412,7 @@ RJ_Bikaner,40,0,0
 RJ_Bikaner,41,0,0
 RJ_Bikaner,42,0,0
 RJ_Bikaner,43,0,0
-RJ_Bikaner,44,0,0
+RJ_Bikaner,44,87,0
 RJ_Bikaner,45,1382,0
 RJ_Bikaner,46,6974,0
 RJ_Bikaner,47,5014,0
@@ -37486,7 +37486,7 @@ RJ_Bundi,40,0,0
 RJ_Bundi,41,0,0
 RJ_Bundi,42,0,0
 RJ_Bundi,43,0,0
-RJ_Bundi,44,0,0
+RJ_Bundi,44,8,0
 RJ_Bundi,45,763,0
 RJ_Bundi,46,5240,0
 RJ_Bundi,47,2310,0
@@ -37560,7 +37560,7 @@ RJ_Chittorgarh,40,0,0
 RJ_Chittorgarh,41,0,0
 RJ_Chittorgarh,42,0,0
 RJ_Chittorgarh,43,0,0
-RJ_Chittorgarh,44,0,0
+RJ_Chittorgarh,44,243,0
 RJ_Chittorgarh,45,1194,0
 RJ_Chittorgarh,46,8404,0
 RJ_Chittorgarh,47,2720,0
@@ -37634,7 +37634,7 @@ RJ_Churu,40,0,0
 RJ_Churu,41,0,0
 RJ_Churu,42,0,0
 RJ_Churu,43,0,0
-RJ_Churu,44,0,0
+RJ_Churu,44,37,0
 RJ_Churu,45,1024,0
 RJ_Churu,46,5614,0
 RJ_Churu,47,2045,0
@@ -37708,7 +37708,7 @@ RJ_Dausa,40,0,0
 RJ_Dausa,41,0,0
 RJ_Dausa,42,0,0
 RJ_Dausa,43,0,0
-RJ_Dausa,44,0,0
+RJ_Dausa,44,23,0
 RJ_Dausa,45,667,0
 RJ_Dausa,46,3913,0
 RJ_Dausa,47,2475,0
@@ -37782,7 +37782,7 @@ RJ_Dholpur,40,0,0
 RJ_Dholpur,41,0,0
 RJ_Dholpur,42,0,0
 RJ_Dholpur,43,0,0
-RJ_Dholpur,44,0,0
+RJ_Dholpur,44,44,0
 RJ_Dholpur,45,993,0
 RJ_Dholpur,46,3237,0
 RJ_Dholpur,47,2411,0
@@ -37856,7 +37856,7 @@ RJ_Dungarpur,40,0,0
 RJ_Dungarpur,41,0,0
 RJ_Dungarpur,42,0,0
 RJ_Dungarpur,43,0,0
-RJ_Dungarpur,44,0,0
+RJ_Dungarpur,44,51,0
 RJ_Dungarpur,45,812,0
 RJ_Dungarpur,46,6003,0
 RJ_Dungarpur,47,2141,0
@@ -37930,7 +37930,7 @@ RJ_Ganganagar,40,0,0
 RJ_Ganganagar,41,0,0
 RJ_Ganganagar,42,0,0
 RJ_Ganganagar,43,0,0
-RJ_Ganganagar,44,0,0
+RJ_Ganganagar,44,80,0
 RJ_Ganganagar,45,1179,0
 RJ_Ganganagar,46,6624,0
 RJ_Ganganagar,47,1761,0
@@ -38004,7 +38004,7 @@ RJ_Hanumangarh,40,0,0
 RJ_Hanumangarh,41,0,0
 RJ_Hanumangarh,42,0,0
 RJ_Hanumangarh,43,0,0
-RJ_Hanumangarh,44,0,0
+RJ_Hanumangarh,44,70,0
 RJ_Hanumangarh,45,557,0
 RJ_Hanumangarh,46,3027,0
 RJ_Hanumangarh,47,2321,0
@@ -38078,7 +38078,7 @@ RJ_Jaipur,40,0,0
 RJ_Jaipur,41,0,0
 RJ_Jaipur,42,0,0
 RJ_Jaipur,43,0,0
-RJ_Jaipur,44,0,0
+RJ_Jaipur,44,229,0
 RJ_Jaipur,45,1768,0
 RJ_Jaipur,46,9366,0
 RJ_Jaipur,47,4558,0
@@ -38152,7 +38152,7 @@ RJ_Jaipur,40,0,0
 RJ_Jaipur,41,0,0
 RJ_Jaipur,42,0,0
 RJ_Jaipur,43,0,0
-RJ_Jaipur,44,0,0
+RJ_Jaipur,44,229,0
 RJ_Jaipur,45,1768,0
 RJ_Jaipur,46,9366,0
 RJ_Jaipur,47,4558,0
@@ -38226,7 +38226,7 @@ RJ_Jaisalmer,40,0,0
 RJ_Jaisalmer,41,0,0
 RJ_Jaisalmer,42,0,0
 RJ_Jaisalmer,43,0,0
-RJ_Jaisalmer,44,0,0
+RJ_Jaisalmer,44,76,0
 RJ_Jaisalmer,45,433,0
 RJ_Jaisalmer,46,2434,0
 RJ_Jaisalmer,47,1546,0
@@ -38300,7 +38300,7 @@ RJ_Jalore,40,0,0
 RJ_Jalore,41,0,0
 RJ_Jalore,42,0,0
 RJ_Jalore,43,0,0
-RJ_Jalore,44,0,0
+RJ_Jalore,44,106,0
 RJ_Jalore,45,954,0
 RJ_Jalore,46,5331,0
 RJ_Jalore,47,2726,0
@@ -38374,7 +38374,7 @@ RJ_Jhalawar,40,0,0
 RJ_Jhalawar,41,0,0
 RJ_Jhalawar,42,0,0
 RJ_Jhalawar,43,0,0
-RJ_Jhalawar,44,0,0
+RJ_Jhalawar,44,27,0
 RJ_Jhalawar,45,950,0
 RJ_Jhalawar,46,6615,0
 RJ_Jhalawar,47,4629,0
@@ -38448,7 +38448,7 @@ RJ_Jhunjhunu,40,0,0
 RJ_Jhunjhunu,41,0,0
 RJ_Jhunjhunu,42,0,0
 RJ_Jhunjhunu,43,0,0
-RJ_Jhunjhunu,44,0,0
+RJ_Jhunjhunu,44,87,0
 RJ_Jhunjhunu,45,1075,0
 RJ_Jhunjhunu,46,6980,0
 RJ_Jhunjhunu,47,4474,0
@@ -38522,7 +38522,7 @@ RJ_Jodhpur,40,0,0
 RJ_Jodhpur,41,0,0
 RJ_Jodhpur,42,0,0
 RJ_Jodhpur,43,0,0
-RJ_Jodhpur,44,0,0
+RJ_Jodhpur,44,114,0
 RJ_Jodhpur,45,3036,0
 RJ_Jodhpur,46,14731,0
 RJ_Jodhpur,47,10232,0
@@ -38596,7 +38596,7 @@ RJ_Karauli,40,0,0
 RJ_Karauli,41,0,0
 RJ_Karauli,42,0,0
 RJ_Karauli,43,0,0
-RJ_Karauli,44,0,0
+RJ_Karauli,44,151,0
 RJ_Karauli,45,1219,0
 RJ_Karauli,46,4727,0
 RJ_Karauli,47,2021,0
@@ -38670,7 +38670,7 @@ RJ_Kota,40,0,0
 RJ_Kota,41,0,0
 RJ_Kota,42,0,0
 RJ_Kota,43,0,0
-RJ_Kota,44,0,0
+RJ_Kota,44,106,0
 RJ_Kota,45,1832,0
 RJ_Kota,46,9720,0
 RJ_Kota,47,6078,0
@@ -38744,7 +38744,7 @@ RJ_Nagaur,40,0,0
 RJ_Nagaur,41,0,0
 RJ_Nagaur,42,0,0
 RJ_Nagaur,43,0,0
-RJ_Nagaur,44,0,0
+RJ_Nagaur,44,111,0
 RJ_Nagaur,45,1573,0
 RJ_Nagaur,46,13767,0
 RJ_Nagaur,47,4588,0
@@ -38818,7 +38818,7 @@ RJ_Pali,40,0,0
 RJ_Pali,41,0,0
 RJ_Pali,42,0,0
 RJ_Pali,43,0,0
-RJ_Pali,44,0,0
+RJ_Pali,44,190,0
 RJ_Pali,45,1583,0
 RJ_Pali,46,7264,0
 RJ_Pali,47,3832,0
@@ -38892,7 +38892,7 @@ RJ_Pratapgarh2,40,0,0
 RJ_Pratapgarh2,41,0,0
 RJ_Pratapgarh2,42,0,0
 RJ_Pratapgarh2,43,0,0
-RJ_Pratapgarh2,44,0,0
+RJ_Pratapgarh2,44,25,0
 RJ_Pratapgarh2,45,669,0
 RJ_Pratapgarh2,46,3570,0
 RJ_Pratapgarh2,47,957,0
@@ -38966,7 +38966,7 @@ RJ_Rajsamand,40,0,0
 RJ_Rajsamand,41,0,0
 RJ_Rajsamand,42,0,0
 RJ_Rajsamand,43,0,0
-RJ_Rajsamand,44,0,0
+RJ_Rajsamand,44,5,0
 RJ_Rajsamand,45,1391,0
 RJ_Rajsamand,46,5442,0
 RJ_Rajsamand,47,2169,0
@@ -39040,7 +39040,7 @@ RJ_Sawai Madhopur,40,0,0
 RJ_Sawai Madhopur,41,0,0
 RJ_Sawai Madhopur,42,0,0
 RJ_Sawai Madhopur,43,0,0
-RJ_Sawai Madhopur,44,0,0
+RJ_Sawai Madhopur,44,57,0
 RJ_Sawai Madhopur,45,1300,0
 RJ_Sawai Madhopur,46,4181,0
 RJ_Sawai Madhopur,47,1697,0
@@ -39114,7 +39114,7 @@ RJ_Sikar,40,0,0
 RJ_Sikar,41,0,0
 RJ_Sikar,42,0,0
 RJ_Sikar,43,0,0
-RJ_Sikar,44,0,0
+RJ_Sikar,44,17,0
 RJ_Sikar,45,1572,0
 RJ_Sikar,46,7122,0
 RJ_Sikar,47,4087,0
@@ -39188,7 +39188,7 @@ RJ_Sirohi,40,0,0
 RJ_Sirohi,41,0,0
 RJ_Sirohi,42,0,0
 RJ_Sirohi,43,0,0
-RJ_Sirohi,44,0,0
+RJ_Sirohi,44,28,0
 RJ_Sirohi,45,922,0
 RJ_Sirohi,46,2324,0
 RJ_Sirohi,47,2161,0
@@ -39262,7 +39262,7 @@ RJ_Tonk,40,0,0
 RJ_Tonk,41,0,0
 RJ_Tonk,42,0,0
 RJ_Tonk,43,0,0
-RJ_Tonk,44,0,0
+RJ_Tonk,44,23,0
 RJ_Tonk,45,730,0
 RJ_Tonk,46,5026,0
 RJ_Tonk,47,3528,0
@@ -39336,7 +39336,7 @@ RJ_Udaipur,40,0,0
 RJ_Udaipur,41,0,0
 RJ_Udaipur,42,0,0
 RJ_Udaipur,43,0,0
-RJ_Udaipur,44,0,0
+RJ_Udaipur,44,511,0
 RJ_Udaipur,45,1857,0
 RJ_Udaipur,46,22633,0
 RJ_Udaipur,47,4587,0
@@ -39410,7 +39410,7 @@ SK_Sikkim,40,0,0
 SK_Sikkim,41,0,0
 SK_Sikkim,42,0,0
 SK_Sikkim,43,0,0
-SK_Sikkim,44,0,0
+SK_Sikkim,44,7,0
 SK_Sikkim,45,292,0
 SK_Sikkim,46,1408,0
 SK_Sikkim,47,3382,0
@@ -39484,7 +39484,7 @@ TG_Adilabad,40,0,0
 TG_Adilabad,41,0,0
 TG_Adilabad,42,0,0
 TG_Adilabad,43,0,0
-TG_Adilabad,44,0,0
+TG_Adilabad,44,8,0
 TG_Adilabad,45,1270,0
 TG_Adilabad,46,468,0
 TG_Adilabad,47,337,0
@@ -39558,7 +39558,7 @@ TG_Bhadradri Kothagudem,40,0,0
 TG_Bhadradri Kothagudem,41,0,0
 TG_Bhadradri Kothagudem,42,0,0
 TG_Bhadradri Kothagudem,43,0,0
-TG_Bhadradri Kothagudem,44,0,0
+TG_Bhadradri Kothagudem,44,113,0
 TG_Bhadradri Kothagudem,45,971,0
 TG_Bhadradri Kothagudem,46,2593,0
 TG_Bhadradri Kothagudem,47,1469,0
@@ -39632,7 +39632,7 @@ TG_Hyderabad,40,0,0
 TG_Hyderabad,41,0,0
 TG_Hyderabad,42,0,0
 TG_Hyderabad,43,0,0
-TG_Hyderabad,44,0,0
+TG_Hyderabad,44,119,0
 TG_Hyderabad,45,4454,0
 TG_Hyderabad,46,20970,0
 TG_Hyderabad,47,14352,0
@@ -39706,7 +39706,7 @@ TG_Jagtial,40,0,0
 TG_Jagtial,41,0,0
 TG_Jagtial,42,0,0
 TG_Jagtial,43,0,0
-TG_Jagtial,44,0,0
+TG_Jagtial,44,1,0
 TG_Jagtial,45,408,0
 TG_Jagtial,46,1278,0
 TG_Jagtial,47,1230,0
@@ -39780,7 +39780,7 @@ TG_Jangaon,40,0,0
 TG_Jangaon,41,0,0
 TG_Jangaon,42,0,0
 TG_Jangaon,43,0,0
-TG_Jangaon,44,0,0
+TG_Jangaon,44,7,0
 TG_Jangaon,45,241,0
 TG_Jangaon,46,494,0
 TG_Jangaon,47,112,0
@@ -39928,7 +39928,7 @@ TG_Jogulamba Gadwal,40,0,0
 TG_Jogulamba Gadwal,41,0,0
 TG_Jogulamba Gadwal,42,0,0
 TG_Jogulamba Gadwal,43,0,0
-TG_Jogulamba Gadwal,44,0,0
+TG_Jogulamba Gadwal,44,21,0
 TG_Jogulamba Gadwal,45,641,0
 TG_Jogulamba Gadwal,46,203,0
 TG_Jogulamba Gadwal,47,151,0
@@ -40002,7 +40002,7 @@ TG_Kamareddy,40,0,0
 TG_Kamareddy,41,0,0
 TG_Kamareddy,42,0,0
 TG_Kamareddy,43,0,0
-TG_Kamareddy,44,0,0
+TG_Kamareddy,44,6,0
 TG_Kamareddy,45,319,0
 TG_Kamareddy,46,928,0
 TG_Kamareddy,47,673,0
@@ -40076,7 +40076,7 @@ TG_Karimnagar,40,0,0
 TG_Karimnagar,41,0,0
 TG_Karimnagar,42,0,0
 TG_Karimnagar,43,0,0
-TG_Karimnagar,44,0,0
+TG_Karimnagar,44,2,0
 TG_Karimnagar,45,468,0
 TG_Karimnagar,46,2601,0
 TG_Karimnagar,47,2195,0
@@ -40150,7 +40150,7 @@ TG_Khammam,40,0,0
 TG_Khammam,41,0,0
 TG_Khammam,42,0,0
 TG_Khammam,43,0,0
-TG_Khammam,44,0,0
+TG_Khammam,44,5,0
 TG_Khammam,45,1098,0
 TG_Khammam,46,3231,0
 TG_Khammam,47,1517,0
@@ -40298,7 +40298,7 @@ TG_Mahabubabad,40,0,0
 TG_Mahabubabad,41,0,0
 TG_Mahabubabad,42,0,0
 TG_Mahabubabad,43,0,0
-TG_Mahabubabad,44,0,0
+TG_Mahabubabad,44,3,0
 TG_Mahabubabad,45,109,0
 TG_Mahabubabad,46,766,0
 TG_Mahabubabad,47,272,0
@@ -40372,7 +40372,7 @@ TG_Mahabubnagar,40,0,0
 TG_Mahabubnagar,41,0,0
 TG_Mahabubnagar,42,0,0
 TG_Mahabubnagar,43,0,0
-TG_Mahabubnagar,44,0,0
+TG_Mahabubnagar,44,4,0
 TG_Mahabubnagar,45,794,0
 TG_Mahabubnagar,46,1959,0
 TG_Mahabubnagar,47,933,0
@@ -40446,7 +40446,7 @@ TG_Mancherial,40,0,0
 TG_Mancherial,41,0,0
 TG_Mancherial,42,0,0
 TG_Mancherial,43,0,0
-TG_Mancherial,44,0,0
+TG_Mancherial,44,3,0
 TG_Mancherial,45,735,0
 TG_Mancherial,46,1082,0
 TG_Mancherial,47,579,0
@@ -40520,7 +40520,7 @@ TG_Medak,40,0,0
 TG_Medak,41,0,0
 TG_Medak,42,0,0
 TG_Medak,43,0,0
-TG_Medak,44,0,0
+TG_Medak,44,6,0
 TG_Medak,45,364,0
 TG_Medak,46,507,0
 TG_Medak,47,280,0
@@ -40594,7 +40594,7 @@ TG_Medchal Malkajgiri,40,0,0
 TG_Medchal Malkajgiri,41,0,0
 TG_Medchal Malkajgiri,42,0,0
 TG_Medchal Malkajgiri,43,0,0
-TG_Medchal Malkajgiri,44,0,0
+TG_Medchal Malkajgiri,44,22,0
 TG_Medchal Malkajgiri,45,642,0
 TG_Medchal Malkajgiri,46,5246,0
 TG_Medchal Malkajgiri,47,1459,0
@@ -40668,7 +40668,7 @@ TG_Mulugu,40,0,0
 TG_Mulugu,41,0,0
 TG_Mulugu,42,0,0
 TG_Mulugu,43,0,0
-TG_Mulugu,44,0,0
+TG_Mulugu,44,2,0
 TG_Mulugu,45,451,0
 TG_Mulugu,46,132,0
 TG_Mulugu,47,276,0
@@ -40742,7 +40742,7 @@ TG_Nagarkurnool,40,0,0
 TG_Nagarkurnool,41,0,0
 TG_Nagarkurnool,42,0,0
 TG_Nagarkurnool,43,0,0
-TG_Nagarkurnool,44,0,0
+TG_Nagarkurnool,44,1,0
 TG_Nagarkurnool,45,830,0
 TG_Nagarkurnool,46,730,0
 TG_Nagarkurnool,47,124,0
@@ -40816,7 +40816,7 @@ TG_Nalgonda,40,0,0
 TG_Nalgonda,41,0,0
 TG_Nalgonda,42,0,0
 TG_Nalgonda,43,0,0
-TG_Nalgonda,44,0,0
+TG_Nalgonda,44,35,0
 TG_Nalgonda,45,1076,0
 TG_Nalgonda,46,1570,0
 TG_Nalgonda,47,1301,0
@@ -40890,7 +40890,7 @@ TG_Narayanpet,40,0,0
 TG_Narayanpet,41,0,0
 TG_Narayanpet,42,0,0
 TG_Narayanpet,43,0,0
-TG_Narayanpet,44,0,0
+TG_Narayanpet,44,8,0
 TG_Narayanpet,45,521,0
 TG_Narayanpet,46,440,0
 TG_Narayanpet,47,99,0
@@ -40964,7 +40964,7 @@ TG_Nirmal,40,0,0
 TG_Nirmal,41,0,0
 TG_Nirmal,42,0,0
 TG_Nirmal,43,0,0
-TG_Nirmal,44,0,0
+TG_Nirmal,44,11,0
 TG_Nirmal,45,933,0
 TG_Nirmal,46,828,0
 TG_Nirmal,47,628,0
@@ -41038,7 +41038,7 @@ TG_Nizamabad,40,0,0
 TG_Nizamabad,41,0,0
 TG_Nizamabad,42,0,0
 TG_Nizamabad,43,0,0
-TG_Nizamabad,44,0,0
+TG_Nizamabad,44,26,0
 TG_Nizamabad,45,2030,0
 TG_Nizamabad,46,3790,0
 TG_Nizamabad,47,154,0
@@ -41112,7 +41112,7 @@ TG_Peddapalli,40,0,0
 TG_Peddapalli,41,0,0
 TG_Peddapalli,42,0,0
 TG_Peddapalli,43,0,0
-TG_Peddapalli,44,0,0
+TG_Peddapalli,44,9,0
 TG_Peddapalli,45,289,0
 TG_Peddapalli,46,490,0
 TG_Peddapalli,47,318,0
@@ -41186,7 +41186,7 @@ TG_Rajanna Sircilla,40,0,0
 TG_Rajanna Sircilla,41,0,0
 TG_Rajanna Sircilla,42,0,0
 TG_Rajanna Sircilla,43,0,0
-TG_Rajanna Sircilla,44,0,0
+TG_Rajanna Sircilla,44,2,0
 TG_Rajanna Sircilla,45,317,0
 TG_Rajanna Sircilla,46,513,0
 TG_Rajanna Sircilla,47,91,0
@@ -41260,7 +41260,7 @@ TG_Ranga Reddy,40,0,0
 TG_Ranga Reddy,41,0,0
 TG_Ranga Reddy,42,0,0
 TG_Ranga Reddy,43,0,0
-TG_Ranga Reddy,44,0,0
+TG_Ranga Reddy,44,7,0
 TG_Ranga Reddy,45,616,0
 TG_Ranga Reddy,46,7633,0
 TG_Ranga Reddy,47,6870,0
@@ -41334,7 +41334,7 @@ TG_Sangareddy,40,0,0
 TG_Sangareddy,41,0,0
 TG_Sangareddy,42,0,0
 TG_Sangareddy,43,0,0
-TG_Sangareddy,44,0,0
+TG_Sangareddy,44,11,0
 TG_Sangareddy,45,592,0
 TG_Sangareddy,46,1857,0
 TG_Sangareddy,47,794,0
@@ -41408,7 +41408,7 @@ TG_Siddipet,40,0,0
 TG_Siddipet,41,0,0
 TG_Siddipet,42,0,0
 TG_Siddipet,43,0,0
-TG_Siddipet,44,0,0
+TG_Siddipet,44,4,0
 TG_Siddipet,45,872,0
 TG_Siddipet,46,1591,0
 TG_Siddipet,47,590,0
@@ -41482,7 +41482,7 @@ TG_Suryapet,40,0,0
 TG_Suryapet,41,0,0
 TG_Suryapet,42,0,0
 TG_Suryapet,43,0,0
-TG_Suryapet,44,0,0
+TG_Suryapet,44,11,0
 TG_Suryapet,45,966,0
 TG_Suryapet,46,883,0
 TG_Suryapet,47,344,0
@@ -41630,7 +41630,7 @@ TG_Wanaparthy,40,0,0
 TG_Wanaparthy,41,0,0
 TG_Wanaparthy,42,0,0
 TG_Wanaparthy,43,0,0
-TG_Wanaparthy,44,0,0
+TG_Wanaparthy,44,6,0
 TG_Wanaparthy,45,277,0
 TG_Wanaparthy,46,622,0
 TG_Wanaparthy,47,96,0
@@ -41778,7 +41778,7 @@ TG_Warangal Urban,40,0,0
 TG_Warangal Urban,41,0,0
 TG_Warangal Urban,42,0,0
 TG_Warangal Urban,43,0,0
-TG_Warangal Urban,44,0,0
+TG_Warangal Urban,44,3,0
 TG_Warangal Urban,45,1337,0
 TG_Warangal Urban,46,2454,0
 TG_Warangal Urban,47,2192,0
@@ -41852,7 +41852,7 @@ TG_Yadadri Bhuvanagiri,40,0,0
 TG_Yadadri Bhuvanagiri,41,0,0
 TG_Yadadri Bhuvanagiri,42,0,0
 TG_Yadadri Bhuvanagiri,43,0,0
-TG_Yadadri Bhuvanagiri,44,0,0
+TG_Yadadri Bhuvanagiri,44,9,0
 TG_Yadadri Bhuvanagiri,45,626,0
 TG_Yadadri Bhuvanagiri,46,559,0
 TG_Yadadri Bhuvanagiri,47,569,0
@@ -41926,7 +41926,7 @@ TN_Ariyalur,40,0,0
 TN_Ariyalur,41,0,0
 TN_Ariyalur,42,0,0
 TN_Ariyalur,43,0,0
-TN_Ariyalur,44,0,0
+TN_Ariyalur,44,9,0
 TN_Ariyalur,45,619,0
 TN_Ariyalur,46,461,0
 TN_Ariyalur,47,491,0
@@ -42000,7 +42000,7 @@ TN_Chennai,40,0,0
 TN_Chennai,41,0,0
 TN_Chennai,42,0,0
 TN_Chennai,43,0,0
-TN_Chennai,44,0,0
+TN_Chennai,44,126,0
 TN_Chennai,45,2539,0
 TN_Chennai,46,8212,0
 TN_Chennai,47,8091,0
@@ -42074,7 +42074,7 @@ TN_Coimbatore,40,0,0
 TN_Coimbatore,41,0,0
 TN_Coimbatore,42,0,0
 TN_Coimbatore,43,0,0
-TN_Coimbatore,44,0,0
+TN_Coimbatore,44,102,0
 TN_Coimbatore,45,1905,0
 TN_Coimbatore,46,1897,0
 TN_Coimbatore,47,1055,0
@@ -42148,7 +42148,7 @@ TN_Cuddalore,40,0,0
 TN_Cuddalore,41,0,0
 TN_Cuddalore,42,0,0
 TN_Cuddalore,43,0,0
-TN_Cuddalore,44,0,0
+TN_Cuddalore,44,38,0
 TN_Cuddalore,45,694,0
 TN_Cuddalore,46,741,0
 TN_Cuddalore,47,692,0
@@ -42222,7 +42222,7 @@ TN_Dharmapuri,40,0,0
 TN_Dharmapuri,41,0,0
 TN_Dharmapuri,42,0,0
 TN_Dharmapuri,43,0,0
-TN_Dharmapuri,44,0,0
+TN_Dharmapuri,44,26,0
 TN_Dharmapuri,45,806,0
 TN_Dharmapuri,46,863,0
 TN_Dharmapuri,47,1341,0
@@ -42296,7 +42296,7 @@ TN_Dindigul,40,0,0
 TN_Dindigul,41,0,0
 TN_Dindigul,42,0,0
 TN_Dindigul,43,0,0
-TN_Dindigul,44,0,0
+TN_Dindigul,44,9,0
 TN_Dindigul,45,338,0
 TN_Dindigul,46,630,0
 TN_Dindigul,47,684,0
@@ -42370,7 +42370,7 @@ TN_Dindigul,40,0,0
 TN_Dindigul,41,0,0
 TN_Dindigul,42,0,0
 TN_Dindigul,43,0,0
-TN_Dindigul,44,0,0
+TN_Dindigul,44,9,0
 TN_Dindigul,45,338,0
 TN_Dindigul,46,630,0
 TN_Dindigul,47,684,0
@@ -42444,7 +42444,7 @@ TN_Erode,40,0,0
 TN_Erode,41,0,0
 TN_Erode,42,0,0
 TN_Erode,43,0,0
-TN_Erode,44,0,0
+TN_Erode,44,36,0
 TN_Erode,45,1000,0
 TN_Erode,46,1146,0
 TN_Erode,47,1139,0
@@ -42518,7 +42518,7 @@ TN_Kallakurichi,40,0,0
 TN_Kallakurichi,41,0,0
 TN_Kallakurichi,42,0,0
 TN_Kallakurichi,43,0,0
-TN_Kallakurichi,44,0,0
+TN_Kallakurichi,44,6,0
 TN_Kallakurichi,45,133,0
 TN_Kallakurichi,46,314,0
 TN_Kallakurichi,47,1135,0
@@ -42592,7 +42592,7 @@ TN_Kancheepuram,40,0,0
 TN_Kancheepuram,41,0,0
 TN_Kancheepuram,42,0,0
 TN_Kancheepuram,43,0,0
-TN_Kancheepuram,44,0,0
+TN_Kancheepuram,44,21,0
 TN_Kancheepuram,45,526,0
 TN_Kancheepuram,46,1314,0
 TN_Kancheepuram,47,801,0
@@ -42666,7 +42666,7 @@ TN_Kanyakumari,40,0,0
 TN_Kanyakumari,41,0,0
 TN_Kanyakumari,42,0,0
 TN_Kanyakumari,43,0,0
-TN_Kanyakumari,44,0,0
+TN_Kanyakumari,44,18,0
 TN_Kanyakumari,45,579,0
 TN_Kanyakumari,46,904,0
 TN_Kanyakumari,47,888,0
@@ -42740,7 +42740,7 @@ TN_Karur,40,0,0
 TN_Karur,41,0,0
 TN_Karur,42,0,0
 TN_Karur,43,0,0
-TN_Karur,44,0,0
+TN_Karur,44,39,0
 TN_Karur,45,633,0
 TN_Karur,46,651,0
 TN_Karur,47,1085,0
@@ -42814,7 +42814,7 @@ TN_Krishnagiri,40,0,0
 TN_Krishnagiri,41,0,0
 TN_Krishnagiri,42,0,0
 TN_Krishnagiri,43,0,0
-TN_Krishnagiri,44,0,0
+TN_Krishnagiri,44,12,0
 TN_Krishnagiri,45,588,0
 TN_Krishnagiri,46,1012,0
 TN_Krishnagiri,47,2710,0
@@ -42888,7 +42888,7 @@ TN_Madurai,40,0,0
 TN_Madurai,41,0,0
 TN_Madurai,42,0,0
 TN_Madurai,43,0,0
-TN_Madurai,44,0,0
+TN_Madurai,44,42,0
 TN_Madurai,45,1520,0
 TN_Madurai,46,2697,0
 TN_Madurai,47,1957,0
@@ -42962,7 +42962,7 @@ TN_Nagapattinam,40,0,0
 TN_Nagapattinam,41,0,0
 TN_Nagapattinam,42,0,0
 TN_Nagapattinam,43,0,0
-TN_Nagapattinam,44,0,0
+TN_Nagapattinam,44,2,0
 TN_Nagapattinam,45,187,0
 TN_Nagapattinam,46,237,0
 TN_Nagapattinam,47,577,0
@@ -43036,7 +43036,7 @@ TN_Namakkal,40,0,0
 TN_Namakkal,41,0,0
 TN_Namakkal,42,0,0
 TN_Namakkal,43,0,0
-TN_Namakkal,44,0,0
+TN_Namakkal,44,27,0
 TN_Namakkal,45,1465,0
 TN_Namakkal,46,838,0
 TN_Namakkal,47,911,0
@@ -43110,7 +43110,7 @@ TN_Nilgiris,40,0,0
 TN_Nilgiris,41,0,0
 TN_Nilgiris,42,0,0
 TN_Nilgiris,43,0,0
-TN_Nilgiris,44,0,0
+TN_Nilgiris,44,4,0
 TN_Nilgiris,45,890,0
 TN_Nilgiris,46,1680,0
 TN_Nilgiris,47,879,0
@@ -43184,7 +43184,7 @@ TN_Perambalur,40,0,0
 TN_Perambalur,41,0,0
 TN_Perambalur,42,0,0
 TN_Perambalur,43,0,0
-TN_Perambalur,44,0,0
+TN_Perambalur,44,2,0
 TN_Perambalur,45,273,0
 TN_Perambalur,46,317,0
 TN_Perambalur,47,982,0
@@ -43258,7 +43258,7 @@ TN_Pudukkottai,40,0,0
 TN_Pudukkottai,41,0,0
 TN_Pudukkottai,42,0,0
 TN_Pudukkottai,43,0,0
-TN_Pudukkottai,44,0,0
+TN_Pudukkottai,44,1,0
 TN_Pudukkottai,45,271,0
 TN_Pudukkottai,46,313,0
 TN_Pudukkottai,47,364,0
@@ -43332,7 +43332,7 @@ TN_Pudukkottai,40,0,0
 TN_Pudukkottai,41,0,0
 TN_Pudukkottai,42,0,0
 TN_Pudukkottai,43,0,0
-TN_Pudukkottai,44,0,0
+TN_Pudukkottai,44,1,0
 TN_Pudukkottai,45,271,0
 TN_Pudukkottai,46,313,0
 TN_Pudukkottai,47,364,0
@@ -43406,7 +43406,7 @@ TN_Ramanathapuram,40,0,0
 TN_Ramanathapuram,41,0,0
 TN_Ramanathapuram,42,0,0
 TN_Ramanathapuram,43,0,0
-TN_Ramanathapuram,44,0,0
+TN_Ramanathapuram,44,1,0
 TN_Ramanathapuram,45,206,0
 TN_Ramanathapuram,46,231,0
 TN_Ramanathapuram,47,574,0
@@ -43480,7 +43480,7 @@ TN_Ramanathapuram,40,0,0
 TN_Ramanathapuram,41,0,0
 TN_Ramanathapuram,42,0,0
 TN_Ramanathapuram,43,0,0
-TN_Ramanathapuram,44,0,0
+TN_Ramanathapuram,44,1,0
 TN_Ramanathapuram,45,206,0
 TN_Ramanathapuram,46,231,0
 TN_Ramanathapuram,47,574,0
@@ -43554,7 +43554,7 @@ TN_Ranipet,40,0,0
 TN_Ranipet,41,0,0
 TN_Ranipet,42,0,0
 TN_Ranipet,43,0,0
-TN_Ranipet,44,0,0
+TN_Ranipet,44,7,0
 TN_Ranipet,45,184,0
 TN_Ranipet,46,207,0
 TN_Ranipet,47,188,0
@@ -43628,7 +43628,7 @@ TN_Salem,40,0,0
 TN_Salem,41,0,0
 TN_Salem,42,0,0
 TN_Salem,43,0,0
-TN_Salem,44,0,0
+TN_Salem,44,3,0
 TN_Salem,45,2460,0
 TN_Salem,46,4107,0
 TN_Salem,47,2380,0
@@ -43702,7 +43702,7 @@ TN_Salem,40,0,0
 TN_Salem,41,0,0
 TN_Salem,42,0,0
 TN_Salem,43,0,0
-TN_Salem,44,0,0
+TN_Salem,44,3,0
 TN_Salem,45,2460,0
 TN_Salem,46,4107,0
 TN_Salem,47,2380,0
@@ -43850,7 +43850,7 @@ TN_Thanjavur,40,0,0
 TN_Thanjavur,41,0,0
 TN_Thanjavur,42,0,0
 TN_Thanjavur,43,0,0
-TN_Thanjavur,44,0,0
+TN_Thanjavur,44,162,0
 TN_Thanjavur,45,717,0
 TN_Thanjavur,46,953,0
 TN_Thanjavur,47,1591,0
@@ -43924,7 +43924,7 @@ TN_Theni,40,0,0
 TN_Theni,41,0,0
 TN_Theni,42,0,0
 TN_Theni,43,0,0
-TN_Theni,44,0,0
+TN_Theni,44,23,0
 TN_Theni,45,505,0
 TN_Theni,46,585,0
 TN_Theni,47,755,0
@@ -43998,7 +43998,7 @@ TN_Thiruvallur,40,0,0
 TN_Thiruvallur,41,0,0
 TN_Thiruvallur,42,0,0
 TN_Thiruvallur,43,0,0
-TN_Thiruvallur,44,0,0
+TN_Thiruvallur,44,13,0
 TN_Thiruvallur,45,347,0
 TN_Thiruvallur,46,407,0
 TN_Thiruvallur,47,1115,0
@@ -44072,7 +44072,7 @@ TN_Thiruvallur,40,0,0
 TN_Thiruvallur,41,0,0
 TN_Thiruvallur,42,0,0
 TN_Thiruvallur,43,0,0
-TN_Thiruvallur,44,0,0
+TN_Thiruvallur,44,13,0
 TN_Thiruvallur,45,347,0
 TN_Thiruvallur,46,407,0
 TN_Thiruvallur,47,1115,0
@@ -44146,7 +44146,7 @@ TN_Thiruvarur,40,0,0
 TN_Thiruvarur,41,0,0
 TN_Thiruvarur,42,0,0
 TN_Thiruvarur,43,0,0
-TN_Thiruvarur,44,0,0
+TN_Thiruvarur,44,77,0
 TN_Thiruvarur,45,189,0
 TN_Thiruvarur,46,279,0
 TN_Thiruvarur,47,240,0
@@ -44220,7 +44220,7 @@ TN_Thoothukkudi,40,0,0
 TN_Thoothukkudi,41,0,0
 TN_Thoothukkudi,42,0,0
 TN_Thoothukkudi,43,0,0
-TN_Thoothukkudi,44,0,0
+TN_Thoothukkudi,44,10,0
 TN_Thoothukkudi,45,178,0
 TN_Thoothukkudi,46,377,0
 TN_Thoothukkudi,47,613,0
@@ -44294,7 +44294,7 @@ TN_Thoothukkudi,40,0,0
 TN_Thoothukkudi,41,0,0
 TN_Thoothukkudi,42,0,0
 TN_Thoothukkudi,43,0,0
-TN_Thoothukkudi,44,0,0
+TN_Thoothukkudi,44,10,0
 TN_Thoothukkudi,45,178,0
 TN_Thoothukkudi,46,377,0
 TN_Thoothukkudi,47,613,0
@@ -44368,7 +44368,7 @@ TN_Tiruchirappalli,40,0,0
 TN_Tiruchirappalli,41,0,0
 TN_Tiruchirappalli,42,0,0
 TN_Tiruchirappalli,43,0,0
-TN_Tiruchirappalli,44,0,0
+TN_Tiruchirappalli,44,22,0
 TN_Tiruchirappalli,45,870,0
 TN_Tiruchirappalli,46,605,0
 TN_Tiruchirappalli,47,1618,0
@@ -44442,7 +44442,7 @@ TN_Tirunelveli,40,0,0
 TN_Tirunelveli,41,0,0
 TN_Tirunelveli,42,0,0
 TN_Tirunelveli,43,0,0
-TN_Tirunelveli,44,0,0
+TN_Tirunelveli,44,15,0
 TN_Tirunelveli,45,737,0
 TN_Tirunelveli,46,750,0
 TN_Tirunelveli,47,624,0
@@ -44516,7 +44516,7 @@ TN_Tiruppur,40,0,0
 TN_Tiruppur,41,0,0
 TN_Tiruppur,42,0,0
 TN_Tiruppur,43,0,0
-TN_Tiruppur,44,0,0
+TN_Tiruppur,44,55,0
 TN_Tiruppur,45,1127,0
 TN_Tiruppur,46,1801,0
 TN_Tiruppur,47,1212,0
@@ -44590,7 +44590,7 @@ TN_Tiruvannamalai,40,0,0
 TN_Tiruvannamalai,41,0,0
 TN_Tiruvannamalai,42,0,0
 TN_Tiruvannamalai,43,0,0
-TN_Tiruvannamalai,44,0,0
+TN_Tiruvannamalai,44,5,0
 TN_Tiruvannamalai,45,349,0
 TN_Tiruvannamalai,46,635,0
 TN_Tiruvannamalai,47,911,0
@@ -44664,7 +44664,7 @@ TN_Tiruvannamalai,40,0,0
 TN_Tiruvannamalai,41,0,0
 TN_Tiruvannamalai,42,0,0
 TN_Tiruvannamalai,43,0,0
-TN_Tiruvannamalai,44,0,0
+TN_Tiruvannamalai,44,5,0
 TN_Tiruvannamalai,45,349,0
 TN_Tiruvannamalai,46,635,0
 TN_Tiruvannamalai,47,911,0
@@ -44738,7 +44738,7 @@ TN_Vellore,40,0,0
 TN_Vellore,41,0,0
 TN_Vellore,42,0,0
 TN_Vellore,43,0,0
-TN_Vellore,44,0,0
+TN_Vellore,44,17,0
 TN_Vellore,45,345,0
 TN_Vellore,46,1353,0
 TN_Vellore,47,2598,0
@@ -44812,7 +44812,7 @@ TN_Viluppuram,40,0,0
 TN_Viluppuram,41,0,0
 TN_Viluppuram,42,0,0
 TN_Viluppuram,43,0,0
-TN_Viluppuram,44,0,0
+TN_Viluppuram,44,13,0
 TN_Viluppuram,45,492,0
 TN_Viluppuram,46,632,0
 TN_Viluppuram,47,1358,0
@@ -44886,7 +44886,7 @@ TN_Virudhunagar,40,0,0
 TN_Virudhunagar,41,0,0
 TN_Virudhunagar,42,0,0
 TN_Virudhunagar,43,0,0
-TN_Virudhunagar,44,0,0
+TN_Virudhunagar,44,25,0
 TN_Virudhunagar,45,413,0
 TN_Virudhunagar,46,555,0
 TN_Virudhunagar,47,339,0
@@ -44960,7 +44960,7 @@ TN_Virudhunagar,40,0,0
 TN_Virudhunagar,41,0,0
 TN_Virudhunagar,42,0,0
 TN_Virudhunagar,43,0,0
-TN_Virudhunagar,44,0,0
+TN_Virudhunagar,44,25,0
 TN_Virudhunagar,45,413,0
 TN_Virudhunagar,46,555,0
 TN_Virudhunagar,47,339,0
@@ -45034,7 +45034,7 @@ TR_Dhalai,40,0,0
 TR_Dhalai,41,0,0
 TR_Dhalai,42,0,0
 TR_Dhalai,43,0,0
-TR_Dhalai,44,0,0
+TR_Dhalai,44,35,0
 TR_Dhalai,45,952,0
 TR_Dhalai,46,1442,0
 TR_Dhalai,47,948,0
@@ -45108,7 +45108,7 @@ TR_Gomati,40,0,0
 TR_Gomati,41,0,0
 TR_Gomati,42,0,0
 TR_Gomati,43,0,0
-TR_Gomati,44,0,0
+TR_Gomati,44,20,0
 TR_Gomati,45,353,0
 TR_Gomati,46,2566,0
 TR_Gomati,47,1037,0
@@ -45182,7 +45182,7 @@ TR_Khowai,40,0,0
 TR_Khowai,41,0,0
 TR_Khowai,42,0,0
 TR_Khowai,43,0,0
-TR_Khowai,44,0,0
+TR_Khowai,44,5,0
 TR_Khowai,45,331,0
 TR_Khowai,46,1139,0
 TR_Khowai,47,958,0
@@ -45256,7 +45256,7 @@ TR_North Tripura,40,0,0
 TR_North Tripura,41,0,0
 TR_North Tripura,42,0,0
 TR_North Tripura,43,0,0
-TR_North Tripura,44,0,0
+TR_North Tripura,44,9,0
 TR_North Tripura,45,364,0
 TR_North Tripura,46,1717,0
 TR_North Tripura,47,885,0
@@ -45330,7 +45330,7 @@ TR_Sipahijala,40,0,0
 TR_Sipahijala,41,0,0
 TR_Sipahijala,42,0,0
 TR_Sipahijala,43,0,0
-TR_Sipahijala,44,0,0
+TR_Sipahijala,44,7,0
 TR_Sipahijala,45,368,0
 TR_Sipahijala,46,2387,0
 TR_Sipahijala,47,1182,0
@@ -45404,7 +45404,7 @@ TR_South Tripura,40,0,0
 TR_South Tripura,41,0,0
 TR_South Tripura,42,0,0
 TR_South Tripura,43,0,0
-TR_South Tripura,44,0,0
+TR_South Tripura,44,3,0
 TR_South Tripura,45,259,0
 TR_South Tripura,46,2181,0
 TR_South Tripura,47,1005,0
@@ -45478,7 +45478,7 @@ TR_Unokoti,40,0,0
 TR_Unokoti,41,0,0
 TR_Unokoti,42,0,0
 TR_Unokoti,43,0,0
-TR_Unokoti,44,0,0
+TR_Unokoti,44,12,0
 TR_Unokoti,45,144,0
 TR_Unokoti,46,820,0
 TR_Unokoti,47,705,0
@@ -45552,7 +45552,7 @@ TR_West Tripura,40,0,0
 TR_West Tripura,41,0,0
 TR_West Tripura,42,0,0
 TR_West Tripura,43,0,0
-TR_West Tripura,44,0,0
+TR_West Tripura,44,16,0
 TR_West Tripura,45,471,0
 TR_West Tripura,46,5741,0
 TR_West Tripura,47,4173,0
@@ -45626,7 +45626,7 @@ UP_Agra,40,0,0
 UP_Agra,41,0,0
 UP_Agra,42,0,0
 UP_Agra,43,0,0
-UP_Agra,44,0,0
+UP_Agra,44,28,0
 UP_Agra,45,466,0
 UP_Agra,46,7523,0
 UP_Agra,47,4142,0
@@ -45700,7 +45700,7 @@ UP_Aligarh,40,0,0
 UP_Aligarh,41,0,0
 UP_Aligarh,42,0,0
 UP_Aligarh,43,0,0
-UP_Aligarh,44,0,0
+UP_Aligarh,44,30,0
 UP_Aligarh,45,418,0
 UP_Aligarh,46,5996,0
 UP_Aligarh,47,2800,0
@@ -45774,7 +45774,7 @@ UP_Ambedkar Nagar,40,0,0
 UP_Ambedkar Nagar,41,0,0
 UP_Ambedkar Nagar,42,0,0
 UP_Ambedkar Nagar,43,0,0
-UP_Ambedkar Nagar,44,0,0
+UP_Ambedkar Nagar,44,19,0
 UP_Ambedkar Nagar,45,255,0
 UP_Ambedkar Nagar,46,5201,0
 UP_Ambedkar Nagar,47,2399,0
@@ -45848,7 +45848,7 @@ UP_Amethi,40,0,0
 UP_Amethi,41,0,0
 UP_Amethi,42,0,0
 UP_Amethi,43,0,0
-UP_Amethi,44,0,0
+UP_Amethi,44,26,0
 UP_Amethi,45,71,0
 UP_Amethi,46,3687,0
 UP_Amethi,47,3127,0
@@ -45922,7 +45922,7 @@ UP_Amroha,40,0,0
 UP_Amroha,41,0,0
 UP_Amroha,42,0,0
 UP_Amroha,43,0,0
-UP_Amroha,44,0,0
+UP_Amroha,44,113,0
 UP_Amroha,45,242,0
 UP_Amroha,46,2796,0
 UP_Amroha,47,2115,0
@@ -45996,7 +45996,7 @@ UP_Auraiya,40,0,0
 UP_Auraiya,41,0,0
 UP_Auraiya,42,0,0
 UP_Auraiya,43,0,0
-UP_Auraiya,44,0,0
+UP_Auraiya,44,13,0
 UP_Auraiya,45,47,0
 UP_Auraiya,46,2588,0
 UP_Auraiya,47,1247,0
@@ -46070,7 +46070,7 @@ UP_Ayodhya,40,0,0
 UP_Ayodhya,41,0,0
 UP_Ayodhya,42,0,0
 UP_Ayodhya,43,0,0
-UP_Ayodhya,44,0,0
+UP_Ayodhya,44,65,0
 UP_Ayodhya,45,378,0
 UP_Ayodhya,46,6443,0
 UP_Ayodhya,47,3223,0
@@ -46144,7 +46144,7 @@ UP_Azamgarh,40,0,0
 UP_Azamgarh,41,0,0
 UP_Azamgarh,42,0,0
 UP_Azamgarh,43,0,0
-UP_Azamgarh,44,0,0
+UP_Azamgarh,44,25,0
 UP_Azamgarh,45,620,0
 UP_Azamgarh,46,6858,0
 UP_Azamgarh,47,4078,0
@@ -46218,7 +46218,7 @@ UP_Baghpat,40,0,0
 UP_Baghpat,41,0,0
 UP_Baghpat,42,0,0
 UP_Baghpat,43,0,0
-UP_Baghpat,44,0,0
+UP_Baghpat,44,16,0
 UP_Baghpat,45,356,0
 UP_Baghpat,46,2632,0
 UP_Baghpat,47,990,0
@@ -46292,7 +46292,7 @@ UP_Bahraich,40,0,0
 UP_Bahraich,41,0,0
 UP_Bahraich,42,0,0
 UP_Bahraich,43,0,0
-UP_Bahraich,44,0,0
+UP_Bahraich,44,9,0
 UP_Bahraich,45,591,0
 UP_Bahraich,46,6244,0
 UP_Bahraich,47,2175,0
@@ -46366,7 +46366,7 @@ UP_Ballia,40,0,0
 UP_Ballia,41,0,0
 UP_Ballia,42,0,0
 UP_Ballia,43,0,0
-UP_Ballia,44,0,0
+UP_Ballia,44,16,0
 UP_Ballia,45,743,0
 UP_Ballia,46,3438,0
 UP_Ballia,47,2119,0
@@ -46440,7 +46440,7 @@ UP_Balrampur1,40,0,0
 UP_Balrampur1,41,0,0
 UP_Balrampur1,42,0,0
 UP_Balrampur1,43,0,0
-UP_Balrampur1,44,0,0
+UP_Balrampur1,44,4,0
 UP_Balrampur1,45,312,0
 UP_Balrampur1,46,4549,0
 UP_Balrampur1,47,2540,0
@@ -46514,7 +46514,7 @@ UP_Banda,40,0,0
 UP_Banda,41,0,0
 UP_Banda,42,0,0
 UP_Banda,43,0,0
-UP_Banda,44,0,0
+UP_Banda,44,23,0
 UP_Banda,45,271,0
 UP_Banda,46,2742,0
 UP_Banda,47,1489,0
@@ -46588,7 +46588,7 @@ UP_Barabanki,40,0,0
 UP_Barabanki,41,0,0
 UP_Barabanki,42,0,0
 UP_Barabanki,43,0,0
-UP_Barabanki,44,0,0
+UP_Barabanki,44,18,0
 UP_Barabanki,45,297,0
 UP_Barabanki,46,8836,0
 UP_Barabanki,47,4342,0
@@ -46662,7 +46662,7 @@ UP_Bareilly,40,0,0
 UP_Bareilly,41,0,0
 UP_Bareilly,42,0,0
 UP_Bareilly,43,0,0
-UP_Bareilly,44,0,0
+UP_Bareilly,44,47,0
 UP_Bareilly,45,640,0
 UP_Bareilly,46,12559,0
 UP_Bareilly,47,5777,0
@@ -46736,7 +46736,7 @@ UP_Basti,40,0,0
 UP_Basti,41,0,0
 UP_Basti,42,0,0
 UP_Basti,43,0,0
-UP_Basti,44,0,0
+UP_Basti,44,24,0
 UP_Basti,45,596,0
 UP_Basti,46,5627,0
 UP_Basti,47,2558,0
@@ -46810,7 +46810,7 @@ UP_Bhadohi,40,0,0
 UP_Bhadohi,41,0,0
 UP_Bhadohi,42,0,0
 UP_Bhadohi,43,0,0
-UP_Bhadohi,44,0,0
+UP_Bhadohi,44,19,0
 UP_Bhadohi,45,223,0
 UP_Bhadohi,46,2259,0
 UP_Bhadohi,47,1357,0
@@ -46884,7 +46884,7 @@ UP_Bijnor,40,0,0
 UP_Bijnor,41,0,0
 UP_Bijnor,42,0,0
 UP_Bijnor,43,0,0
-UP_Bijnor,44,0,0
+UP_Bijnor,44,29,0
 UP_Bijnor,45,145,0
 UP_Bijnor,46,5634,0
 UP_Bijnor,47,4402,0
@@ -46958,7 +46958,7 @@ UP_Budaun,40,0,0
 UP_Budaun,41,0,0
 UP_Budaun,42,0,0
 UP_Budaun,43,0,0
-UP_Budaun,44,0,0
+UP_Budaun,44,32,0
 UP_Budaun,45,87,0
 UP_Budaun,46,5169,0
 UP_Budaun,47,1634,0
@@ -47032,7 +47032,7 @@ UP_Bulandshahr,40,0,0
 UP_Bulandshahr,41,0,0
 UP_Bulandshahr,42,0,0
 UP_Bulandshahr,43,0,0
-UP_Bulandshahr,44,0,0
+UP_Bulandshahr,44,33,0
 UP_Bulandshahr,45,736,0
 UP_Bulandshahr,46,7146,0
 UP_Bulandshahr,47,4085,0
@@ -47106,7 +47106,7 @@ UP_Chandauli,40,0,0
 UP_Chandauli,41,0,0
 UP_Chandauli,42,0,0
 UP_Chandauli,43,0,0
-UP_Chandauli,44,0,0
+UP_Chandauli,44,61,0
 UP_Chandauli,45,188,0
 UP_Chandauli,46,2610,0
 UP_Chandauli,47,1671,0
@@ -47180,7 +47180,7 @@ UP_Chitrakoot,40,0,0
 UP_Chitrakoot,41,0,0
 UP_Chitrakoot,42,0,0
 UP_Chitrakoot,43,0,0
-UP_Chitrakoot,44,0,0
+UP_Chitrakoot,44,3,0
 UP_Chitrakoot,45,59,0
 UP_Chitrakoot,46,1405,0
 UP_Chitrakoot,47,984,0
@@ -47254,7 +47254,7 @@ UP_Deoria,40,0,0
 UP_Deoria,41,0,0
 UP_Deoria,42,0,0
 UP_Deoria,43,0,0
-UP_Deoria,44,0,0
+UP_Deoria,44,17,0
 UP_Deoria,45,425,0
 UP_Deoria,46,6285,0
 UP_Deoria,47,2684,0
@@ -47328,7 +47328,7 @@ UP_Etah,40,0,0
 UP_Etah,41,0,0
 UP_Etah,42,0,0
 UP_Etah,43,0,0
-UP_Etah,44,0,0
+UP_Etah,44,14,0
 UP_Etah,45,97,0
 UP_Etah,46,3427,0
 UP_Etah,47,946,0
@@ -47402,7 +47402,7 @@ UP_Etawah,40,0,0
 UP_Etawah,41,0,0
 UP_Etawah,42,0,0
 UP_Etawah,43,0,0
-UP_Etawah,44,0,0
+UP_Etawah,44,5,0
 UP_Etawah,45,133,0
 UP_Etawah,46,4108,0
 UP_Etawah,47,2830,0
@@ -47476,7 +47476,7 @@ UP_Farrukhabad,40,0,0
 UP_Farrukhabad,41,0,0
 UP_Farrukhabad,42,0,0
 UP_Farrukhabad,43,0,0
-UP_Farrukhabad,44,0,0
+UP_Farrukhabad,44,21,0
 UP_Farrukhabad,45,149,0
 UP_Farrukhabad,46,2229,0
 UP_Farrukhabad,47,1395,0
@@ -47550,7 +47550,7 @@ UP_Fatehpur,40,0,0
 UP_Fatehpur,41,0,0
 UP_Fatehpur,42,0,0
 UP_Fatehpur,43,0,0
-UP_Fatehpur,44,0,0
+UP_Fatehpur,44,4,0
 UP_Fatehpur,45,578,0
 UP_Fatehpur,46,6085,0
 UP_Fatehpur,47,1586,0
@@ -47624,7 +47624,7 @@ UP_Firozabad,40,0,0
 UP_Firozabad,41,0,0
 UP_Firozabad,42,0,0
 UP_Firozabad,43,0,0
-UP_Firozabad,44,0,0
+UP_Firozabad,44,21,0
 UP_Firozabad,45,575,0
 UP_Firozabad,46,2243,0
 UP_Firozabad,47,2799,0
@@ -47698,7 +47698,7 @@ UP_Gautam Buddha Nagar,40,0,0
 UP_Gautam Buddha Nagar,41,0,0
 UP_Gautam Buddha Nagar,42,0,0
 UP_Gautam Buddha Nagar,43,0,0
-UP_Gautam Buddha Nagar,44,0,0
+UP_Gautam Buddha Nagar,44,75,0
 UP_Gautam Buddha Nagar,45,1172,0
 UP_Gautam Buddha Nagar,46,7466,0
 UP_Gautam Buddha Nagar,47,5532,0
@@ -47772,7 +47772,7 @@ UP_Ghaziabad,40,0,0
 UP_Ghaziabad,41,0,0
 UP_Ghaziabad,42,0,0
 UP_Ghaziabad,43,0,0
-UP_Ghaziabad,44,0,0
+UP_Ghaziabad,44,117,0
 UP_Ghaziabad,45,978,0
 UP_Ghaziabad,46,10301,0
 UP_Ghaziabad,47,6533,0
@@ -47846,7 +47846,7 @@ UP_Ghazipur,40,0,0
 UP_Ghazipur,41,0,0
 UP_Ghazipur,42,0,0
 UP_Ghazipur,43,0,0
-UP_Ghazipur,44,0,0
+UP_Ghazipur,44,14,0
 UP_Ghazipur,45,339,0
 UP_Ghazipur,46,5767,0
 UP_Ghazipur,47,2451,0
@@ -47920,7 +47920,7 @@ UP_Gonda,40,0,0
 UP_Gonda,41,0,0
 UP_Gonda,42,0,0
 UP_Gonda,43,0,0
-UP_Gonda,44,0,0
+UP_Gonda,44,36,0
 UP_Gonda,45,364,0
 UP_Gonda,46,7976,0
 UP_Gonda,47,2185,0
@@ -47994,7 +47994,7 @@ UP_Gorakhpur,40,0,0
 UP_Gorakhpur,41,0,0
 UP_Gorakhpur,42,0,0
 UP_Gorakhpur,43,0,0
-UP_Gorakhpur,44,0,0
+UP_Gorakhpur,44,84,0
 UP_Gorakhpur,45,1674,0
 UP_Gorakhpur,46,10426,0
 UP_Gorakhpur,47,4385,0
@@ -48068,7 +48068,7 @@ UP_Hamirpur2,40,0,0
 UP_Hamirpur2,41,0,0
 UP_Hamirpur2,42,0,0
 UP_Hamirpur2,43,0,0
-UP_Hamirpur2,44,0,0
+UP_Hamirpur2,44,18,0
 UP_Hamirpur2,45,50,0
 UP_Hamirpur2,46,2550,0
 UP_Hamirpur2,47,1530,0
@@ -48142,7 +48142,7 @@ UP_Hapur,40,0,0
 UP_Hapur,41,0,0
 UP_Hapur,42,0,0
 UP_Hapur,43,0,0
-UP_Hapur,44,0,0
+UP_Hapur,44,39,0
 UP_Hapur,45,121,0
 UP_Hapur,46,2993,0
 UP_Hapur,47,1682,0
@@ -48216,7 +48216,7 @@ UP_Hardoi,40,0,0
 UP_Hardoi,41,0,0
 UP_Hardoi,42,0,0
 UP_Hardoi,43,0,0
-UP_Hardoi,44,0,0
+UP_Hardoi,44,32,0
 UP_Hardoi,45,661,0
 UP_Hardoi,46,7763,0
 UP_Hardoi,47,3273,0
@@ -48290,7 +48290,7 @@ UP_Hathras,40,0,0
 UP_Hathras,41,0,0
 UP_Hathras,42,0,0
 UP_Hathras,43,0,0
-UP_Hathras,44,0,0
+UP_Hathras,44,22,0
 UP_Hathras,45,309,0
 UP_Hathras,46,3542,0
 UP_Hathras,47,1106,0
@@ -48364,7 +48364,7 @@ UP_Jalaun,40,0,0
 UP_Jalaun,41,0,0
 UP_Jalaun,42,0,0
 UP_Jalaun,43,0,0
-UP_Jalaun,44,0,0
+UP_Jalaun,44,26,0
 UP_Jalaun,45,255,0
 UP_Jalaun,46,3158,0
 UP_Jalaun,47,912,0
@@ -48438,7 +48438,7 @@ UP_Jaunpur,40,0,0
 UP_Jaunpur,41,0,0
 UP_Jaunpur,42,0,0
 UP_Jaunpur,43,0,0
-UP_Jaunpur,44,0,0
+UP_Jaunpur,44,41,0
 UP_Jaunpur,45,257,0
 UP_Jaunpur,46,7515,0
 UP_Jaunpur,47,3253,0
@@ -48512,7 +48512,7 @@ UP_Jhansi,40,0,0
 UP_Jhansi,41,0,0
 UP_Jhansi,42,0,0
 UP_Jhansi,43,0,0
-UP_Jhansi,44,0,0
+UP_Jhansi,44,22,0
 UP_Jhansi,45,165,0
 UP_Jhansi,46,5830,0
 UP_Jhansi,47,1768,0
@@ -48586,7 +48586,7 @@ UP_Kannauj,40,0,0
 UP_Kannauj,41,0,0
 UP_Kannauj,42,0,0
 UP_Kannauj,43,0,0
-UP_Kannauj,44,0,0
+UP_Kannauj,44,20,0
 UP_Kannauj,45,206,0
 UP_Kannauj,46,2940,0
 UP_Kannauj,47,1814,0
@@ -48660,7 +48660,7 @@ UP_Kanpur Dehat,40,0,0
 UP_Kanpur Dehat,41,0,0
 UP_Kanpur Dehat,42,0,0
 UP_Kanpur Dehat,43,0,0
-UP_Kanpur Dehat,44,0,0
+UP_Kanpur Dehat,44,21,0
 UP_Kanpur Dehat,45,135,0
 UP_Kanpur Dehat,46,3347,0
 UP_Kanpur Dehat,47,1424,0
@@ -48734,7 +48734,7 @@ UP_Kanpur Nagar,40,0,0
 UP_Kanpur Nagar,41,0,0
 UP_Kanpur Nagar,42,0,0
 UP_Kanpur Nagar,43,0,0
-UP_Kanpur Nagar,44,0,0
+UP_Kanpur Nagar,44,24,0
 UP_Kanpur Nagar,45,521,0
 UP_Kanpur Nagar,46,8335,0
 UP_Kanpur Nagar,47,4064,0
@@ -48808,7 +48808,7 @@ UP_Kasganj,40,0,0
 UP_Kasganj,41,0,0
 UP_Kasganj,42,0,0
 UP_Kasganj,43,0,0
-UP_Kasganj,44,0,0
+UP_Kasganj,44,4,0
 UP_Kasganj,45,200,0
 UP_Kasganj,46,3326,0
 UP_Kasganj,47,1012,0
@@ -48882,7 +48882,7 @@ UP_Kaushambi,40,0,0
 UP_Kaushambi,41,0,0
 UP_Kaushambi,42,0,0
 UP_Kaushambi,43,0,0
-UP_Kaushambi,44,0,0
+UP_Kaushambi,44,10,0
 UP_Kaushambi,45,42,0
 UP_Kaushambi,46,2492,0
 UP_Kaushambi,47,1551,0
@@ -48956,7 +48956,7 @@ UP_Kushinagar,40,0,0
 UP_Kushinagar,41,0,0
 UP_Kushinagar,42,0,0
 UP_Kushinagar,43,0,0
-UP_Kushinagar,44,0,0
+UP_Kushinagar,44,13,0
 UP_Kushinagar,45,373,0
 UP_Kushinagar,46,5705,0
 UP_Kushinagar,47,3097,0
@@ -49030,7 +49030,7 @@ UP_Lakhimpur Kheri,40,0,0
 UP_Lakhimpur Kheri,41,0,0
 UP_Lakhimpur Kheri,42,0,0
 UP_Lakhimpur Kheri,43,0,0
-UP_Lakhimpur Kheri,44,0,0
+UP_Lakhimpur Kheri,44,27,0
 UP_Lakhimpur Kheri,45,399,0
 UP_Lakhimpur Kheri,46,6260,0
 UP_Lakhimpur Kheri,47,2820,0
@@ -49104,7 +49104,7 @@ UP_Lalitpur,40,0,0
 UP_Lalitpur,41,0,0
 UP_Lalitpur,42,0,0
 UP_Lalitpur,43,0,0
-UP_Lalitpur,44,0,0
+UP_Lalitpur,44,21,0
 UP_Lalitpur,45,172,0
 UP_Lalitpur,46,1859,0
 UP_Lalitpur,47,979,0
@@ -49178,7 +49178,7 @@ UP_Lucknow,40,0,0
 UP_Lucknow,41,0,0
 UP_Lucknow,42,0,0
 UP_Lucknow,43,0,0
-UP_Lucknow,44,0,0
+UP_Lucknow,44,105,0
 UP_Lucknow,45,941,0
 UP_Lucknow,46,17232,0
 UP_Lucknow,47,14268,0
@@ -49252,7 +49252,7 @@ UP_Maharajganj,40,0,0
 UP_Maharajganj,41,0,0
 UP_Maharajganj,42,0,0
 UP_Maharajganj,43,0,0
-UP_Maharajganj,44,0,0
+UP_Maharajganj,44,14,0
 UP_Maharajganj,45,294,0
 UP_Maharajganj,46,5524,0
 UP_Maharajganj,47,2652,0
@@ -49326,7 +49326,7 @@ UP_Mahoba,40,0,0
 UP_Mahoba,41,0,0
 UP_Mahoba,42,0,0
 UP_Mahoba,43,0,0
-UP_Mahoba,44,0,0
+UP_Mahoba,44,11,0
 UP_Mahoba,45,61,0
 UP_Mahoba,46,1458,0
 UP_Mahoba,47,867,0
@@ -49400,7 +49400,7 @@ UP_Mainpuri,40,0,0
 UP_Mainpuri,41,0,0
 UP_Mainpuri,42,0,0
 UP_Mainpuri,43,0,0
-UP_Mainpuri,44,0,0
+UP_Mainpuri,44,26,0
 UP_Mainpuri,45,234,0
 UP_Mainpuri,46,4339,0
 UP_Mainpuri,47,2093,0
@@ -49474,7 +49474,7 @@ UP_Mathura,40,0,0
 UP_Mathura,41,0,0
 UP_Mathura,42,0,0
 UP_Mathura,43,0,0
-UP_Mathura,44,0,0
+UP_Mathura,44,3,0
 UP_Mathura,45,551,0
 UP_Mathura,46,5861,0
 UP_Mathura,47,2535,0
@@ -49548,7 +49548,7 @@ UP_Mau,40,0,0
 UP_Mau,41,0,0
 UP_Mau,42,0,0
 UP_Mau,43,0,0
-UP_Mau,44,0,0
+UP_Mau,44,20,0
 UP_Mau,45,67,0
 UP_Mau,46,4124,0
 UP_Mau,47,2372,0
@@ -49622,7 +49622,7 @@ UP_Meerut,40,0,0
 UP_Meerut,41,0,0
 UP_Meerut,42,0,0
 UP_Meerut,43,0,0
-UP_Meerut,44,0,0
+UP_Meerut,44,42,0
 UP_Meerut,45,931,0
 UP_Meerut,46,9247,0
 UP_Meerut,47,4218,0
@@ -49696,7 +49696,7 @@ UP_Mirzapur,40,0,0
 UP_Mirzapur,41,0,0
 UP_Mirzapur,42,0,0
 UP_Mirzapur,43,0,0
-UP_Mirzapur,44,0,0
+UP_Mirzapur,44,15,0
 UP_Mirzapur,45,98,0
 UP_Mirzapur,46,5263,0
 UP_Mirzapur,47,2650,0
@@ -49770,7 +49770,7 @@ UP_Moradabad,40,0,0
 UP_Moradabad,41,0,0
 UP_Moradabad,42,0,0
 UP_Moradabad,43,0,0
-UP_Moradabad,44,0,0
+UP_Moradabad,44,43,0
 UP_Moradabad,45,307,0
 UP_Moradabad,46,7970,0
 UP_Moradabad,47,5854,0
@@ -49844,7 +49844,7 @@ UP_Muzaffarnagar,40,0,0
 UP_Muzaffarnagar,41,0,0
 UP_Muzaffarnagar,42,0,0
 UP_Muzaffarnagar,43,0,0
-UP_Muzaffarnagar,44,0,0
+UP_Muzaffarnagar,44,61,0
 UP_Muzaffarnagar,45,473,0
 UP_Muzaffarnagar,46,4078,0
 UP_Muzaffarnagar,47,1390,0
@@ -49918,7 +49918,7 @@ UP_Pilibhit,40,0,0
 UP_Pilibhit,41,0,0
 UP_Pilibhit,42,0,0
 UP_Pilibhit,43,0,0
-UP_Pilibhit,44,0,0
+UP_Pilibhit,44,5,0
 UP_Pilibhit,45,91,0
 UP_Pilibhit,46,4365,0
 UP_Pilibhit,47,1945,0
@@ -49992,7 +49992,7 @@ UP_Pratapgarh1,40,0,0
 UP_Pratapgarh1,41,0,0
 UP_Pratapgarh1,42,0,0
 UP_Pratapgarh1,43,0,0
-UP_Pratapgarh1,44,0,0
+UP_Pratapgarh1,44,21,0
 UP_Pratapgarh1,45,604,0
 UP_Pratapgarh1,46,4852,0
 UP_Pratapgarh1,47,2513,0
@@ -50066,7 +50066,7 @@ UP_Prayagraj,40,0,0
 UP_Prayagraj,41,0,0
 UP_Prayagraj,42,0,0
 UP_Prayagraj,43,0,0
-UP_Prayagraj,44,0,0
+UP_Prayagraj,44,41,0
 UP_Prayagraj,45,1587,0
 UP_Prayagraj,46,8814,0
 UP_Prayagraj,47,8812,0
@@ -50140,7 +50140,7 @@ UP_Rae Bareli,40,0,0
 UP_Rae Bareli,41,0,0
 UP_Rae Bareli,42,0,0
 UP_Rae Bareli,43,0,0
-UP_Rae Bareli,44,0,0
+UP_Rae Bareli,44,14,0
 UP_Rae Bareli,45,236,0
 UP_Rae Bareli,46,5668,0
 UP_Rae Bareli,47,2344,0
@@ -50214,7 +50214,7 @@ UP_Rampur,40,0,0
 UP_Rampur,41,0,0
 UP_Rampur,42,0,0
 UP_Rampur,43,0,0
-UP_Rampur,44,0,0
+UP_Rampur,44,11,0
 UP_Rampur,45,43,0
 UP_Rampur,46,4010,0
 UP_Rampur,47,1605,0
@@ -50288,7 +50288,7 @@ UP_Saharanpur,40,0,0
 UP_Saharanpur,41,0,0
 UP_Saharanpur,42,0,0
 UP_Saharanpur,43,0,0
-UP_Saharanpur,44,0,0
+UP_Saharanpur,44,72,0
 UP_Saharanpur,45,385,0
 UP_Saharanpur,46,7484,0
 UP_Saharanpur,47,2232,0
@@ -50362,7 +50362,7 @@ UP_Sambhal,40,0,0
 UP_Sambhal,41,0,0
 UP_Sambhal,42,0,0
 UP_Sambhal,43,0,0
-UP_Sambhal,44,0,0
+UP_Sambhal,44,28,0
 UP_Sambhal,45,320,0
 UP_Sambhal,46,3320,0
 UP_Sambhal,47,1057,0
@@ -50436,7 +50436,7 @@ UP_Sant Kabir Nagar,40,0,0
 UP_Sant Kabir Nagar,41,0,0
 UP_Sant Kabir Nagar,42,0,0
 UP_Sant Kabir Nagar,43,0,0
-UP_Sant Kabir Nagar,44,0,0
+UP_Sant Kabir Nagar,44,14,0
 UP_Sant Kabir Nagar,45,96,0
 UP_Sant Kabir Nagar,46,3331,0
 UP_Sant Kabir Nagar,47,1942,0
@@ -50510,7 +50510,7 @@ UP_Shahjahanpur,40,0,0
 UP_Shahjahanpur,41,0,0
 UP_Shahjahanpur,42,0,0
 UP_Shahjahanpur,43,0,0
-UP_Shahjahanpur,44,0,0
+UP_Shahjahanpur,44,5,0
 UP_Shahjahanpur,45,198,0
 UP_Shahjahanpur,46,8258,0
 UP_Shahjahanpur,47,1206,0
@@ -50584,7 +50584,7 @@ UP_Shamli,40,0,0
 UP_Shamli,41,0,0
 UP_Shamli,42,0,0
 UP_Shamli,43,0,0
-UP_Shamli,44,0,0
+UP_Shamli,44,35,0
 UP_Shamli,45,51,0
 UP_Shamli,46,1651,0
 UP_Shamli,47,1062,0
@@ -50658,7 +50658,7 @@ UP_Shrawasti,40,0,0
 UP_Shrawasti,41,0,0
 UP_Shrawasti,42,0,0
 UP_Shrawasti,43,0,0
-UP_Shrawasti,44,0,0
+UP_Shrawasti,44,7,0
 UP_Shrawasti,45,31,0
 UP_Shrawasti,46,2054,0
 UP_Shrawasti,47,1300,0
@@ -50732,7 +50732,7 @@ UP_Siddharthnagar,40,0,0
 UP_Siddharthnagar,41,0,0
 UP_Siddharthnagar,42,0,0
 UP_Siddharthnagar,43,0,0
-UP_Siddharthnagar,44,0,0
+UP_Siddharthnagar,44,2,0
 UP_Siddharthnagar,45,992,0
 UP_Siddharthnagar,46,6468,0
 UP_Siddharthnagar,47,1677,0
@@ -50806,7 +50806,7 @@ UP_Sitapur,40,0,0
 UP_Sitapur,41,0,0
 UP_Sitapur,42,0,0
 UP_Sitapur,43,0,0
-UP_Sitapur,44,0,0
+UP_Sitapur,44,9,0
 UP_Sitapur,45,503,0
 UP_Sitapur,46,7069,0
 UP_Sitapur,47,3447,0
@@ -50880,7 +50880,7 @@ UP_Sonbhadra,40,0,0
 UP_Sonbhadra,41,0,0
 UP_Sonbhadra,42,0,0
 UP_Sonbhadra,43,0,0
-UP_Sonbhadra,44,0,0
+UP_Sonbhadra,44,91,0
 UP_Sonbhadra,45,110,0
 UP_Sonbhadra,46,3122,0
 UP_Sonbhadra,47,2493,0
@@ -50954,7 +50954,7 @@ UP_Sultanpur,40,0,0
 UP_Sultanpur,41,0,0
 UP_Sultanpur,42,0,0
 UP_Sultanpur,43,0,0
-UP_Sultanpur,44,0,0
+UP_Sultanpur,44,36,0
 UP_Sultanpur,45,322,0
 UP_Sultanpur,46,7120,0
 UP_Sultanpur,47,2844,0
@@ -51028,7 +51028,7 @@ UP_Unnao,40,0,0
 UP_Unnao,41,0,0
 UP_Unnao,42,0,0
 UP_Unnao,43,0,0
-UP_Unnao,44,0,0
+UP_Unnao,44,40,0
 UP_Unnao,45,396,0
 UP_Unnao,46,6993,0
 UP_Unnao,47,2545,0
@@ -51102,7 +51102,7 @@ UP_Varanasi,40,0,0
 UP_Varanasi,41,0,0
 UP_Varanasi,42,0,0
 UP_Varanasi,43,0,0
-UP_Varanasi,44,0,0
+UP_Varanasi,44,40,0
 UP_Varanasi,45,419,0
 UP_Varanasi,46,6851,0
 UP_Varanasi,47,4279,0
@@ -51176,7 +51176,7 @@ UT_Almora,40,0,0
 UT_Almora,41,0,0
 UT_Almora,42,0,0
 UT_Almora,43,0,0
-UT_Almora,44,0,0
+UT_Almora,44,12,0
 UT_Almora,45,155,0
 UT_Almora,46,707,0
 UT_Almora,47,3510,0
@@ -51250,7 +51250,7 @@ UT_Bageshwar,40,0,0
 UT_Bageshwar,41,0,0
 UT_Bageshwar,42,0,0
 UT_Bageshwar,43,0,0
-UT_Bageshwar,44,0,0
+UT_Bageshwar,44,16,0
 UT_Bageshwar,45,203,0
 UT_Bageshwar,46,514,0
 UT_Bageshwar,47,1074,0
@@ -51324,7 +51324,7 @@ UT_Chamoli,40,0,0
 UT_Chamoli,41,0,0
 UT_Chamoli,42,0,0
 UT_Chamoli,43,0,0
-UT_Chamoli,44,0,0
+UT_Chamoli,44,12,0
 UT_Chamoli,45,200,0
 UT_Chamoli,46,976,0
 UT_Chamoli,47,1749,0
@@ -51398,7 +51398,7 @@ UT_Champawat,40,0,0
 UT_Champawat,41,0,0
 UT_Champawat,42,0,0
 UT_Champawat,43,0,0
-UT_Champawat,44,0,0
+UT_Champawat,44,159,0
 UT_Champawat,45,248,0
 UT_Champawat,46,963,0
 UT_Champawat,47,619,0
@@ -51472,7 +51472,7 @@ UT_Dehradun,40,0,0
 UT_Dehradun,41,0,0
 UT_Dehradun,42,0,0
 UT_Dehradun,43,0,0
-UT_Dehradun,44,0,0
+UT_Dehradun,44,19,0
 UT_Dehradun,45,356,0
 UT_Dehradun,46,4950,0
 UT_Dehradun,47,13925,0
@@ -51546,7 +51546,7 @@ UT_Haridwar,40,0,0
 UT_Haridwar,41,0,0
 UT_Haridwar,42,0,0
 UT_Haridwar,43,0,0
-UT_Haridwar,44,0,0
+UT_Haridwar,44,25,0
 UT_Haridwar,45,164,0
 UT_Haridwar,46,2175,0
 UT_Haridwar,47,7879,0
@@ -51620,7 +51620,7 @@ UT_Nainital,40,0,0
 UT_Nainital,41,0,0
 UT_Nainital,42,0,0
 UT_Nainital,43,0,0
-UT_Nainital,44,0,0
+UT_Nainital,44,178,0
 UT_Nainital,45,486,0
 UT_Nainital,46,3025,0
 UT_Nainital,47,4558,0
@@ -51694,7 +51694,7 @@ UT_Pauri Garhwal,40,0,0
 UT_Pauri Garhwal,41,0,0
 UT_Pauri Garhwal,42,0,0
 UT_Pauri Garhwal,43,0,0
-UT_Pauri Garhwal,44,0,0
+UT_Pauri Garhwal,44,21,0
 UT_Pauri Garhwal,45,237,0
 UT_Pauri Garhwal,46,2026,0
 UT_Pauri Garhwal,47,2180,0
@@ -51768,7 +51768,7 @@ UT_Pithoragarh,40,0,0
 UT_Pithoragarh,41,0,0
 UT_Pithoragarh,42,0,0
 UT_Pithoragarh,43,0,0
-UT_Pithoragarh,44,0,0
+UT_Pithoragarh,44,13,0
 UT_Pithoragarh,45,114,0
 UT_Pithoragarh,46,608,0
 UT_Pithoragarh,47,2220,0
@@ -51842,7 +51842,7 @@ UT_Rudraprayag,40,0,0
 UT_Rudraprayag,41,0,0
 UT_Rudraprayag,42,0,0
 UT_Rudraprayag,43,0,0
-UT_Rudraprayag,44,0,0
+UT_Rudraprayag,44,24,0
 UT_Rudraprayag,45,168,0
 UT_Rudraprayag,46,758,0
 UT_Rudraprayag,47,518,0
@@ -51916,7 +51916,7 @@ UT_Tehri Garhwal,40,0,0
 UT_Tehri Garhwal,41,0,0
 UT_Tehri Garhwal,42,0,0
 UT_Tehri Garhwal,43,0,0
-UT_Tehri Garhwal,44,0,0
+UT_Tehri Garhwal,44,13,0
 UT_Tehri Garhwal,45,154,0
 UT_Tehri Garhwal,46,1217,0
 UT_Tehri Garhwal,47,3134,0
@@ -51990,7 +51990,7 @@ UT_Udham Singh Nagar,40,0,0
 UT_Udham Singh Nagar,41,0,0
 UT_Udham Singh Nagar,42,0,0
 UT_Udham Singh Nagar,43,0,0
-UT_Udham Singh Nagar,44,0,0
+UT_Udham Singh Nagar,44,9,0
 UT_Udham Singh Nagar,45,206,0
 UT_Udham Singh Nagar,46,1843,0
 UT_Udham Singh Nagar,47,3612,0
@@ -52064,7 +52064,7 @@ UT_Uttarkashi,40,0,0
 UT_Uttarkashi,41,0,0
 UT_Uttarkashi,42,0,0
 UT_Uttarkashi,43,0,0
-UT_Uttarkashi,44,0,0
+UT_Uttarkashi,44,10,0
 UT_Uttarkashi,45,36,0
 UT_Uttarkashi,46,922,0
 UT_Uttarkashi,47,1438,0
@@ -52138,7 +52138,7 @@ WB_Alipurduar,40,0,0
 WB_Alipurduar,41,0,0
 WB_Alipurduar,42,0,0
 WB_Alipurduar,43,0,0
-WB_Alipurduar,44,0,0
+WB_Alipurduar,44,45,0
 WB_Alipurduar,45,830,0
 WB_Alipurduar,46,3277,0
 WB_Alipurduar,47,1847,0
@@ -52360,7 +52360,7 @@ WB_Birbhum,40,0,0
 WB_Birbhum,41,0,0
 WB_Birbhum,42,0,0
 WB_Birbhum,43,0,0
-WB_Birbhum,44,0,0
+WB_Birbhum,44,1,0
 WB_Birbhum,45,624,0
 WB_Birbhum,46,1551,0
 WB_Birbhum,47,756,0
@@ -52434,7 +52434,7 @@ WB_Birbhum,40,0,0
 WB_Birbhum,41,0,0
 WB_Birbhum,42,0,0
 WB_Birbhum,43,0,0
-WB_Birbhum,44,0,0
+WB_Birbhum,44,1,0
 WB_Birbhum,45,624,0
 WB_Birbhum,46,1551,0
 WB_Birbhum,47,756,0
@@ -52508,7 +52508,7 @@ WB_Cooch Behar,40,0,0
 WB_Cooch Behar,41,0,0
 WB_Cooch Behar,42,0,0
 WB_Cooch Behar,43,0,0
-WB_Cooch Behar,44,0,0
+WB_Cooch Behar,44,174,0
 WB_Cooch Behar,45,1416,0
 WB_Cooch Behar,46,2720,0
 WB_Cooch Behar,47,2383,0
@@ -52582,7 +52582,7 @@ WB_Dakshin Dinajpur,40,0,0
 WB_Dakshin Dinajpur,41,0,0
 WB_Dakshin Dinajpur,42,0,0
 WB_Dakshin Dinajpur,43,0,0
-WB_Dakshin Dinajpur,44,0,0
+WB_Dakshin Dinajpur,44,110,0
 WB_Dakshin Dinajpur,45,2129,0
 WB_Dakshin Dinajpur,46,3460,0
 WB_Dakshin Dinajpur,47,2749,0
@@ -52656,7 +52656,7 @@ WB_Darjeeling,40,0,0
 WB_Darjeeling,41,0,0
 WB_Darjeeling,42,0,0
 WB_Darjeeling,43,0,0
-WB_Darjeeling,44,0,0
+WB_Darjeeling,44,59,0
 WB_Darjeeling,45,1173,0
 WB_Darjeeling,46,4995,0
 WB_Darjeeling,47,4724,0
@@ -52730,7 +52730,7 @@ WB_Hooghly,40,0,0
 WB_Hooghly,41,0,0
 WB_Hooghly,42,0,0
 WB_Hooghly,43,0,0
-WB_Hooghly,44,0,0
+WB_Hooghly,44,14,0
 WB_Hooghly,45,2689,0
 WB_Hooghly,46,7862,0
 WB_Hooghly,47,6809,0
@@ -52804,7 +52804,7 @@ WB_Howrah,40,0,0
 WB_Howrah,41,0,0
 WB_Howrah,42,0,0
 WB_Howrah,43,0,0
-WB_Howrah,44,0,0
+WB_Howrah,44,6,0
 WB_Howrah,45,1981,0
 WB_Howrah,46,7333,0
 WB_Howrah,47,5266,0
@@ -52952,7 +52952,7 @@ WB_Jhargram,40,0,0
 WB_Jhargram,41,0,0
 WB_Jhargram,42,0,0
 WB_Jhargram,43,0,0
-WB_Jhargram,44,0,0
+WB_Jhargram,44,167,0
 WB_Jhargram,45,1402,0
 WB_Jhargram,46,2546,0
 WB_Jhargram,47,1327,0
@@ -53026,7 +53026,7 @@ WB_Kalimpong,40,0,0
 WB_Kalimpong,41,0,0
 WB_Kalimpong,42,0,0
 WB_Kalimpong,43,0,0
-WB_Kalimpong,44,0,0
+WB_Kalimpong,44,2,0
 WB_Kalimpong,45,373,0
 WB_Kalimpong,46,1571,0
 WB_Kalimpong,47,284,0
@@ -53100,7 +53100,7 @@ WB_Kolkata,40,0,0
 WB_Kolkata,41,0,0
 WB_Kolkata,42,0,0
 WB_Kolkata,43,0,0
-WB_Kolkata,44,0,0
+WB_Kolkata,44,160,0
 WB_Kolkata,45,4839,0
 WB_Kolkata,46,24416,0
 WB_Kolkata,47,20699,0
@@ -53174,7 +53174,7 @@ WB_Malda,40,0,0
 WB_Malda,41,0,0
 WB_Malda,42,0,0
 WB_Malda,43,0,0
-WB_Malda,44,0,0
+WB_Malda,44,34,0
 WB_Malda,45,1148,0
 WB_Malda,46,3750,0
 WB_Malda,47,4112,0
@@ -53248,7 +53248,7 @@ WB_Murshidabad,40,0,0
 WB_Murshidabad,41,0,0
 WB_Murshidabad,42,0,0
 WB_Murshidabad,43,0,0
-WB_Murshidabad,44,0,0
+WB_Murshidabad,44,398,0
 WB_Murshidabad,45,2345,0
 WB_Murshidabad,46,10549,0
 WB_Murshidabad,47,2867,0
@@ -53322,7 +53322,7 @@ WB_Nadia,40,0,0
 WB_Nadia,41,0,0
 WB_Nadia,42,0,0
 WB_Nadia,43,0,0
-WB_Nadia,44,0,0
+WB_Nadia,44,250,0
 WB_Nadia,45,2321,0
 WB_Nadia,46,8189,0
 WB_Nadia,47,3167,0
@@ -53396,7 +53396,7 @@ WB_North 24 Parganas,40,0,0
 WB_North 24 Parganas,41,0,0
 WB_North 24 Parganas,42,0,0
 WB_North 24 Parganas,43,0,0
-WB_North 24 Parganas,44,0,0
+WB_North 24 Parganas,44,60,0
 WB_North 24 Parganas,45,2153,0
 WB_North 24 Parganas,46,10828,0
 WB_North 24 Parganas,47,9357,0
@@ -53470,7 +53470,7 @@ WB_North 24 Parganas,40,0,0
 WB_North 24 Parganas,41,0,0
 WB_North 24 Parganas,42,0,0
 WB_North 24 Parganas,43,0,0
-WB_North 24 Parganas,44,0,0
+WB_North 24 Parganas,44,60,0
 WB_North 24 Parganas,45,2153,0
 WB_North 24 Parganas,46,10828,0
 WB_North 24 Parganas,47,9357,0
@@ -53544,7 +53544,7 @@ WB_Paschim Bardhaman,40,0,0
 WB_Paschim Bardhaman,41,0,0
 WB_Paschim Bardhaman,42,0,0
 WB_Paschim Bardhaman,43,0,0
-WB_Paschim Bardhaman,44,0,0
+WB_Paschim Bardhaman,44,62,0
 WB_Paschim Bardhaman,45,1480,0
 WB_Paschim Bardhaman,46,4126,0
 WB_Paschim Bardhaman,47,5754,0
@@ -53618,7 +53618,7 @@ WB_Paschim Medinipur,40,0,0
 WB_Paschim Medinipur,41,0,0
 WB_Paschim Medinipur,42,0,0
 WB_Paschim Medinipur,43,0,0
-WB_Paschim Medinipur,44,0,0
+WB_Paschim Medinipur,44,120,0
 WB_Paschim Medinipur,45,1264,0
 WB_Paschim Medinipur,46,9504,0
 WB_Paschim Medinipur,47,4899,0
@@ -53692,7 +53692,7 @@ WB_Purba Bardhaman,40,0,0
 WB_Purba Bardhaman,41,0,0
 WB_Purba Bardhaman,42,0,0
 WB_Purba Bardhaman,43,0,0
-WB_Purba Bardhaman,44,0,0
+WB_Purba Bardhaman,44,3,0
 WB_Purba Bardhaman,45,592,0
 WB_Purba Bardhaman,46,9756,0
 WB_Purba Bardhaman,47,5204,0
@@ -53766,7 +53766,7 @@ WB_Purba Medinipur,40,0,0
 WB_Purba Medinipur,41,0,0
 WB_Purba Medinipur,42,0,0
 WB_Purba Medinipur,43,0,0
-WB_Purba Medinipur,44,0,0
+WB_Purba Medinipur,44,32,0
 WB_Purba Medinipur,45,1189,0
 WB_Purba Medinipur,46,12347,0
 WB_Purba Medinipur,47,902,0
@@ -53840,7 +53840,7 @@ WB_Purba Medinipur,40,0,0
 WB_Purba Medinipur,41,0,0
 WB_Purba Medinipur,42,0,0
 WB_Purba Medinipur,43,0,0
-WB_Purba Medinipur,44,0,0
+WB_Purba Medinipur,44,32,0
 WB_Purba Medinipur,45,1189,0
 WB_Purba Medinipur,46,12347,0
 WB_Purba Medinipur,47,902,0
@@ -53914,7 +53914,7 @@ WB_Purulia,40,0,0
 WB_Purulia,41,0,0
 WB_Purulia,42,0,0
 WB_Purulia,43,0,0
-WB_Purulia,44,0,0
+WB_Purulia,44,31,0
 WB_Purulia,45,719,0
 WB_Purulia,46,7173,0
 WB_Purulia,47,3427,0
@@ -53988,7 +53988,7 @@ WB_South 24 Parganas,40,0,0
 WB_South 24 Parganas,41,0,0
 WB_South 24 Parganas,42,0,0
 WB_South 24 Parganas,43,0,0
-WB_South 24 Parganas,44,0,0
+WB_South 24 Parganas,44,14,0
 WB_South 24 Parganas,45,1358,0
 WB_South 24 Parganas,46,6125,0
 WB_South 24 Parganas,47,5018,0
@@ -54062,7 +54062,7 @@ WB_South 24 Parganas,40,0,0
 WB_South 24 Parganas,41,0,0
 WB_South 24 Parganas,42,0,0
 WB_South 24 Parganas,43,0,0
-WB_South 24 Parganas,44,0,0
+WB_South 24 Parganas,44,14,0
 WB_South 24 Parganas,45,1358,0
 WB_South 24 Parganas,46,6125,0
 WB_South 24 Parganas,47,5018,0

@@ -99,17 +99,16 @@ for i in range(0, len(wk_typ1)-1):
     for k in valdist:
         wkdt[str(i+1)][k] = {}
         swkdt[str(i+1)][distnamekey[k][:2]] = swkdt[str(i+1)].get(distnamekey[k][:2], {"indi": 0, "m": 0, "f": 0, "trans": 0, "covaxin": 0, "covishield": 0, "1D": 0, "2D": 0})
-        if wk_typ1[i] in vaccdts and wk_typ1[i+1] in vaccdts:
-            wkdt[str(i+1)][k]["indi"] = cvdcases[k].get(wk_typ1[i+1], {"indi": 0})["indi"]-cvdcases[k].get(wk_typ1[i], {"indi": 0})["indi"]
-            # if wkdt[str(i+1)][k]["indi"] < 0:
-            #     print(wk_typ1[i+1], wk_typ1[i], distnamekey[k])
-            wkdt[str(i+1)][k]["m"] = cvdcases[k].get(wk_typ1[i+1], {"m": 0})["m"]-cvdcases[k].get(wk_typ1[i], {"m": 0})["m"]
-            wkdt[str(i+1)][k]["f"] = cvdcases[k].get(wk_typ1[i+1], {"f": 0})["f"]-cvdcases[k].get(wk_typ1[i], {"f": 0})["f"]
-            wkdt[str(i+1)][k]["trans"] = cvdcases[k].get(wk_typ1[i+1], {"trans": 0})["trans"]-cvdcases[k].get(wk_typ1[i], {"trans": 0})["trans"]
-            wkdt[str(i+1)][k]["covaxin"] = cvdcases[k].get(wk_typ1[i+1], {"covaxin": 0})["covaxin"]-cvdcases[k].get(wk_typ1[i], {"covaxin": 0})["covaxin"]
-            wkdt[str(i+1)][k]["covishield"] = cvdcases[k].get(wk_typ1[i+1], {"covishield": 0})["covishield"]-cvdcases[k].get(wk_typ1[i], {"covishield": 0})["covishield"]
-            wkdt[str(i+1)][k]["1D"] = cvdcases[k].get(wk_typ1[i+1], {"1D": 0})["1D"]-cvdcases[k].get(wk_typ1[i], {"1D": 0})["1D"]
-            wkdt[str(i+1)][k]["2D"] = cvdcases[k].get(wk_typ1[i+1], {"2D": 0})["2D"]-cvdcases[k].get(wk_typ1[i], {"2D": 0})["2D"]
+        # if wk_typ1[i] in vaccdts and wk_typ1[i+1] in vaccdts:
+        if wk_typ1[i+1] in vaccdts:
+            wkdt[str(i+1)][k]["indi"] = cvdcases[k].get(wk_typ1[i+1], {"indi": 0})["indi"]-cvdcases[k].get(wk_typ1[i], {"indi": 0}).get("indi", 0)
+            wkdt[str(i+1)][k]["m"] = cvdcases[k].get(wk_typ1[i+1], {"m": 0})["m"]-cvdcases[k].get(wk_typ1[i], {"m": 0}).get("m", 0)
+            wkdt[str(i+1)][k]["f"] = cvdcases[k].get(wk_typ1[i+1], {"f": 0})["f"]-cvdcases[k].get(wk_typ1[i], {"f": 0}).get("f", 0)
+            wkdt[str(i+1)][k]["trans"] = cvdcases[k].get(wk_typ1[i+1], {"trans": 0})["trans"]-cvdcases[k].get(wk_typ1[i], {"trans": 0}).get("trans", 0)
+            wkdt[str(i+1)][k]["covaxin"] = cvdcases[k].get(wk_typ1[i+1], {"covaxin": 0})["covaxin"]-cvdcases[k].get(wk_typ1[i], {"covaxin": 0}).get("covaxin", 0)
+            wkdt[str(i+1)][k]["covishield"] = cvdcases[k].get(wk_typ1[i+1], {"covishield": 0})["covishield"]-cvdcases[k].get(wk_typ1[i], {"covishield": 0}).get("covishield", 0)
+            wkdt[str(i+1)][k]["1D"] = cvdcases[k].get(wk_typ1[i+1], {"1D": 0})["1D"]-cvdcases[k].get(wk_typ1[i], {"1D": 0}).get("1D", 0)
+            wkdt[str(i+1)][k]["2D"] = cvdcases[k].get(wk_typ1[i+1], {"2D": 0})["2D"]-cvdcases[k].get(wk_typ1[i], {"2D": 0}).get("2D", 0)
             swkdt[str(i+1)][distnamekey[k][:2]]["indi"] += wkdt[str(i+1)][k]["indi"]
             swkdt[str(i+1)][distnamekey[k][:2]]["m"] += wkdt[str(i+1)][k]["m"]
             swkdt[str(i+1)][distnamekey[k][:2]]["f"] += wkdt[str(i+1)][k]["f"]
@@ -126,15 +125,16 @@ for i in range(0, len(mnth)-1):
     for k in valdist:
         mndt[str(i+1)][k] = {}
         smndt[str(i+1)][distnamekey[k][:2]] = smndt[str(i+1)].get(distnamekey[k][:2], {"indi": 0, "m": 0, "f": 0, "trans": 0, "covaxin": 0, "covishield": 0, "1D": 0, "2D": 0})
-        if mnth[i] in vaccdts and mnth[i+1] in vaccdts:
-            mndt[str(i+1)][k]["indi"] = cvdcases[k].get(mnth[i+1], {"indi": 0})["indi"]-cvdcases[k].get(mnth[i], {"indi": 0})["indi"]
-            mndt[str(i+1)][k]["m"] = cvdcases[k].get(mnth[i+1], {"m": 0})["m"]-cvdcases[k].get(mnth[i], {"m": 0})["m"]
-            mndt[str(i+1)][k]["f"] = cvdcases[k].get(mnth[i+1], {"f": 0})["f"]-cvdcases[k].get(mnth[i], {"f": 0})["f"]
-            mndt[str(i+1)][k]["trans"] = cvdcases[k].get(mnth[i+1], {"trans": 0})["trans"]-cvdcases[k].get(mnth[i], {"trans": 0})["trans"]
-            mndt[str(i+1)][k]["covaxin"] = cvdcases[k].get(mnth[i+1], {"covaxin": 0})["covaxin"]-cvdcases[k].get(mnth[i], {"covaxin": 0})["covaxin"]
-            mndt[str(i+1)][k]["covishield"] = cvdcases[k].get(mnth[i+1], {"covishield": 0})["covishield"]-cvdcases[k].get(mnth[i], {"covishield": 0})["covishield"]
-            mndt[str(i+1)][k]["1D"] = cvdcases[k].get(mnth[i+1], {"1D": 0})["1D"]-cvdcases[k].get(mnth[i], {"1D": 0})["1D"]
-            mndt[str(i+1)][k]["2D"] = cvdcases[k].get(mnth[i+1], {"2D": 0})["2D"]-cvdcases[k].get(mnth[i], {"2D": 0})["2D"]
+        # if mnth[i] in vaccdts and mnth[i+1] in vaccdts:
+        if mnth[i+1] in vaccdts:
+            mndt[str(i+1)][k]["indi"] = cvdcases[k].get(mnth[i+1], {"indi": 0})["indi"]-cvdcases[k].get(mnth[i], {"indi": 0}).get("indi", 0)
+            mndt[str(i+1)][k]["m"] = cvdcases[k].get(mnth[i+1], {"m": 0})["m"]-cvdcases[k].get(mnth[i], {"m": 0}).get("m", 0)
+            mndt[str(i+1)][k]["f"] = cvdcases[k].get(mnth[i+1], {"f": 0})["f"]-cvdcases[k].get(mnth[i], {"f": 0}).get("f", 0)
+            mndt[str(i+1)][k]["trans"] = cvdcases[k].get(mnth[i+1], {"trans": 0})["trans"]-cvdcases[k].get(mnth[i], {"trans": 0}).get("trans", 0)
+            mndt[str(i+1)][k]["covaxin"] = cvdcases[k].get(mnth[i+1], {"covaxin": 0})["covaxin"]-cvdcases[k].get(mnth[i], {"covaxin": 0}).get("covaxin", 0)
+            mndt[str(i+1)][k]["covishield"] = cvdcases[k].get(mnth[i+1], {"covishield": 0})["covishield"]-cvdcases[k].get(mnth[i], {"covishield": 0}).get("covishield", 0)
+            mndt[str(i+1)][k]["1D"] = cvdcases[k].get(mnth[i+1], {"1D": 0})["1D"]-cvdcases[k].get(mnth[i], {"1D": 0}).get("1D", 0)
+            mndt[str(i+1)][k]["2D"] = cvdcases[k].get(mnth[i+1], {"2D": 0})["2D"]-cvdcases[k].get(mnth[i], {"2D": 0}).get("2D", 0)
             ov1d[k] = ov1d.get(k, 0) + mndt[str(i+1)][k]["1D"]
             ov2d[k] = ov2d.get(k, 0) + mndt[str(i+1)][k]["2D"]
             ovm[k] = ovm.get(k, 0) + mndt[str(i+1)][k]["m"]
