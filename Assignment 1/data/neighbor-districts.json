@@ -38,7 +38,7 @@
     "pathankot/Q172269",
     "kullu/Q2980880",
     "mandi/Q1892161",
-    "hamirpur/Q2086180"
+    "hamirpur1/Q2086180"
   ],
   "leh_district/Q1921210": [
     "lahaul_and_spiti/Q837595",
@@ -82,7 +82,7 @@
     "kullu/Q2980880",
     "solan/Q2980937",
     "bilaspur2/Q1478939",
-    "hamirpur/Q2086180"
+    "hamirpur1/Q2086180"
   ],
   "kathua/Q2375700": [
     "udhampur/Q1947311",
@@ -110,9 +110,9 @@
     "hoshiarpur/Q304800",
     "kangra/Q727232",
     "bilaspur2/Q1478939",
-    "hamirpur/Q2086180"
+    "hamirpur1/Q2086180"
   ],
-  "hamirpur/Q2086180": [
+  "hamirpur1/Q2086180": [
     "bilaspur2/Q1478939",
     "una/Q2301741",
     "kangra/Q727232",
@@ -139,7 +139,7 @@
     "una/Q2301741",
     "solan/Q2980937",
     "mandi/Q1892161",
-    "hamirpur/Q2086180"
+    "hamirpur1/Q2086180"
   ],
   "rupnagar/Q196508": [
     "hoshiarpur/Q304800",
@@ -902,7 +902,7 @@
   ],
   "kanpur_nagar/Q2089152": [
     "unnao/Q1937875",
-    "hamirpur/Q2019757",
+    "hamirpur2/Q2019757",
     "kanpur_dehat/Q610612",
     "hardoi/Q1772822",
     "fatehpur/Q1946829",
@@ -911,7 +911,7 @@
   "fatehpur/Q1946829": [
     "kanpur_nagar/Q2089152",
     "unnao/Q1937875",
-    "hamirpur/Q2019757",
+    "hamirpur2/Q2019757",
     "pratapgarh1/Q1473962",
     "rae_bareli/Q1321157",
     "banda/Q2131759",
@@ -2464,11 +2464,11 @@
   "kanpur_dehat/Q610612": [
     "kanpur_nagar/Q2089152",
     "auraiya/Q1812533",
-    "hamirpur/Q2019757",
+    "hamirpur2/Q2019757",
     "jalaun/Q2089115",
     "kannauj/Q627979"
   ],
-  "hamirpur/Q2019757": [
+  "hamirpur2/Q2019757": [
     "kanpur_nagar/Q2089152",
     "mahoba/Q1815322",
     "kanpur_dehat/Q610612",
@@ -2486,7 +2486,7 @@
   "jalaun/Q2089115": [
     "etawah/Q1815288",
     "auraiya/Q1812533",
-    "hamirpur/Q2019757",
+    "hamirpur2/Q2019757",
     "kanpur_dehat/Q610612",
     "jhansi/Q1937885",
     "bhind/Q2341700"
@@ -2494,7 +2494,7 @@
   "jhansi/Q1937885": [
     "mahoba/Q1815322",
     "shivpuri/Q2299042",
-    "hamirpur/Q2019757",
+    "hamirpur2/Q2019757",
     "lalitpur/Q1947336",
     "tikamgarh/Q2449760",
     "datia/Q2206266",
@@ -2515,7 +2515,7 @@
     "jhansi/Q1937885",
     "banda/Q2131759",
     "chhatarpur/Q2449785",
-    "hamirpur/Q2019757"
+    "hamirpur2/Q2019757"
   ],
   "datia/Q2206266": [
     "shivpuri/Q2299042",
@@ -2588,7 +2588,7 @@
   ],
   "banda/Q2131759": [
     "mahoba/Q1815322",
-    "hamirpur/Q2019757",
+    "hamirpur2/Q2019757",
     "chhatarpur/Q2449785",
     "satna/Q2577924",
     "panna/Q2341630",

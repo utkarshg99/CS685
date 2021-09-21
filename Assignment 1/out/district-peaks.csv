@@ -144,7 +144,7 @@ GJ_Vadodara,75,121,9,14
 GJ_Valsad,39,118,5,14
 HP_Bilaspur2,75,121,9,14
 HP_Chamba,76,121,9,14
-UP_Hamirpur,48,118,6,14
+HP_Hamirpur1,73,120,9,14
 HP_Kangra,76,120,9,14
 HP_Kinnaur,76,123,9,15
 HP_Kullu,72,120,9,14
@@ -552,6 +552,7 @@ UP_Ghaziabad,52,118,7,14
 UP_Ghazipur,44,116,5,14
 UP_Gonda,46,116,6,14
 UP_Gorakhpur,44,116,6,14
+UP_Hamirpur2,48,118,6,14
 UP_Hapur,55,120,7,14
 UP_Hardoi,51,117,6,14
 UP_Hathras,48,120,6,14

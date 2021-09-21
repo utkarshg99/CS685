@@ -588,8 +588,8 @@ MP_Chhatarpur,MP_Panna
 MP_Panna,UP_Banda
 UP_Banda,UP_Chitrakoot
 UP_Chitrakoot,UP_Fatehpur
-UP_Fatehpur,UP_Hamirpur
-UP_Hamirpur,UP_Jalaun
+UP_Fatehpur,UP_Hamirpur2
+UP_Hamirpur2,UP_Jalaun
 UP_Jalaun,MP_Bhind
 MP_Bhind,MP_Datia
 MP_Datia,MP_Gwalior
@@ -679,13 +679,14 @@ HR_Kurukshetra,HR_Ambala
 HR_Ambala,CH_Chandigarh
 CH_Chandigarh,HP_Solan
 HP_Solan,HP_Bilaspur2
-HP_Bilaspur2,HP_Mandi
-HP_Mandi,HP_Kangra
+HP_Bilaspur2,HP_Hamirpur1
+HP_Hamirpur1,HP_Kangra
 HP_Kangra,HP_Chamba
 HP_Chamba,HP_Lahaul and Spiti
 HP_Lahaul and Spiti,HP_Kinnaur
 HP_Kinnaur,HP_Kullu
-HP_Kullu,HP_Shimla
+HP_Kullu,HP_Mandi
+HP_Mandi,HP_Shimla
 HP_Shimla,HP_Sirmaur
 HP_Sirmaur,HR_Panchkula
 HR_Panchkula,PB_Fatehgarh Sahib
@@ -1054,6 +1055,7 @@ HP_Sirmaur,UP_Saharanpur
 HP_Sirmaur,UT_Dehradun
 HP_Shimla,UT_Dehradun
 HP_Shimla,UT_Uttarkashi
+HP_Kullu,HP_Shimla
 HP_Kinnaur,HP_Shimla
 HP_Kinnaur,UT_Uttarkashi
 HP_Lahaul and Spiti,HP_Kullu
@@ -1067,12 +1069,14 @@ HP_Chamba,JK_Kishtwar
 HP_Chamba,PB_Pathankot
 HP_Kangra,HP_Kullu
 HP_Kangra,HP_Lahaul and Spiti
+HP_Kangra,HP_Mandi
 HP_Kangra,HP_Una
 HP_Kangra,PB_Gurdaspur
 HP_Kangra,PB_Hoshiarpur
 HP_Kangra,PB_Pathankot
-HP_Mandi,HP_Kullu
-HP_Mandi,HP_Shimla
+HP_Hamirpur1,HP_Mandi
+HP_Hamirpur1,HP_Una
+HP_Bilaspur2,HP_Mandi
 HP_Bilaspur2,HP_Una
 HP_Bilaspur2,PB_Rupnagar
 HP_Solan,HP_Mandi
@@ -1482,10 +1486,10 @@ UP_Jalaun,UP_Auraiya
 UP_Jalaun,UP_Etawah
 UP_Jalaun,UP_Jhansi
 UP_Jalaun,UP_Kanpur Dehat
-UP_Hamirpur,UP_Jhansi
-UP_Hamirpur,UP_Kanpur Dehat
-UP_Hamirpur,UP_Kanpur Nagar
-UP_Hamirpur,UP_Mahoba
+UP_Hamirpur2,UP_Jhansi
+UP_Hamirpur2,UP_Kanpur Dehat
+UP_Hamirpur2,UP_Kanpur Nagar
+UP_Hamirpur2,UP_Mahoba
 UP_Fatehpur,UP_Kanpur Nagar
 UP_Fatehpur,UP_Kaushambi
 UP_Fatehpur,UP_Pratapgarh1
@@ -1494,7 +1498,7 @@ UP_Fatehpur,UP_Unnao
 UP_Chitrakoot,UP_Kaushambi
 UP_Chitrakoot,UP_Prayagraj
 UP_Banda,UP_Fatehpur
-UP_Banda,UP_Hamirpur
+UP_Banda,UP_Hamirpur2
 UP_Banda,UP_Mahoba
 MP_Chhatarpur,MP_Sagar
 MP_Chhatarpur,MP_Tikamgarh

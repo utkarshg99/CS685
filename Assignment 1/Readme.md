@@ -95,7 +95,7 @@
 #### <b>[`cowin_vaccine_data_districtwise_modified.csv`](data/cowin_vaccine_data_districtwise_modified.csv)</b>
 
 * Original Dataset: [`cowin_vaccine_data_districtwise.csv`](base/cowin_vaccine_data_districtwise.csv)
-* There are 4 pairs of districts with same name, a number was augmented to their name to resolve the conflict.
+* There are 5 pairs of districts with same name, a number was augmented to their name to resolve the conflict.
 * There are 2 header rows, which were merged into a single header.
 * Exact changes made to districts can be found in [Appendix-A](#app_A)
 
@@ -106,7 +106,7 @@
 * All district pairs with edit distances < 3 were examined.
 * All district pairs such that one was "contained" in the other's name were examined.
 * Some merges were obvious, for others, it was checked if they belong to the same state.
-* There are 3 pairs of districts with same name, a number was augmented to their name to resolve the conflict ([Appendix-A](#app_A)).
+* There are 5 pairs of districts with same name, a number was augmented to their name to resolve the conflict ([Appendix-A](#app_A)).
 * Exact changes made can be found in [Appendix-B](#app_B)
 
 #### Other than the aforementioned changes, dataset was also modified according to the instructions mentioned in the "NOTE" of [Assignment](assignment1.pdf)
@@ -137,6 +137,8 @@
 | RJ_Pratapgarh | RJ_Pratapgarh2 |
 | CT_Bilaspur | CT_Bilaspur1 |
 | HP_Bilaspur | HP_Bilaspur2 |
+| HP_Hamirpur | HP_Hamirpur1 |
+| UP_Hamirpur | UP_Hamirpur2 |
 
 ### <a name="app_B"></a> Appendix-B: Census
 

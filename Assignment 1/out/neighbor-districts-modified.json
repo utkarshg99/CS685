@@ -1212,11 +1212,11 @@
 		"RJ_Udaipur"
 	],
 	"HP_Bilaspur2": [
+		"HP_Hamirpur1",
 		"HP_Mandi",
 		"HP_Solan",
 		"HP_Una",
-		"PB_Rupnagar",
-		"UP_Hamirpur"
+		"PB_Rupnagar"
 	],
 	"HP_Chamba": [
 		"HP_Kangra",
@@ -1226,16 +1226,22 @@
 		"JK_Kishtwar",
 		"PB_Pathankot"
 	],
+	"HP_Hamirpur1": [
+		"HP_Bilaspur2",
+		"HP_Kangra",
+		"HP_Mandi",
+		"HP_Una"
+	],
 	"HP_Kangra": [
 		"HP_Chamba",
+		"HP_Hamirpur1",
 		"HP_Kullu",
 		"HP_Lahaul and Spiti",
 		"HP_Mandi",
 		"HP_Una",
 		"PB_Gurdaspur",
 		"PB_Hoshiarpur",
-		"PB_Pathankot",
-		"UP_Hamirpur"
+		"PB_Pathankot"
 	],
 	"HP_Kinnaur": [
 		"HP_Kullu",
@@ -1262,11 +1268,11 @@
 	],
 	"HP_Mandi": [
 		"HP_Bilaspur2",
+		"HP_Hamirpur1",
 		"HP_Kangra",
 		"HP_Kullu",
 		"HP_Shimla",
-		"HP_Solan",
-		"UP_Hamirpur"
+		"HP_Solan"
 	],
 	"HP_Shimla": [
 		"HP_Kinnaur",
@@ -1300,10 +1306,10 @@
 	],
 	"HP_Una": [
 		"HP_Bilaspur2",
+		"HP_Hamirpur1",
 		"HP_Kangra",
 		"PB_Hoshiarpur",
-		"PB_Rupnagar",
-		"UP_Hamirpur"
+		"PB_Rupnagar"
 	],
 	"HR_Ambala": [
 		"CH_Chandigarh",
@@ -4816,7 +4822,7 @@
 		"MP_Satna",
 		"UP_Chitrakoot",
 		"UP_Fatehpur",
-		"UP_Hamirpur",
+		"UP_Hamirpur2",
 		"UP_Mahoba"
 	],
 	"UP_Barabanki": [
@@ -4930,7 +4936,7 @@
 	"UP_Fatehpur": [
 		"UP_Banda",
 		"UP_Chitrakoot",
-		"UP_Hamirpur",
+		"UP_Hamirpur2",
 		"UP_Kanpur Nagar",
 		"UP_Kaushambi",
 		"UP_Pratapgarh1",
@@ -4999,7 +5005,7 @@
 		"UP_Sant Kabir Nagar",
 		"UP_Siddharthnagar"
 	],
-	"UP_Hamirpur": [
+	"UP_Hamirpur2": [
 		"UP_Banda",
 		"UP_Fatehpur",
 		"UP_Jalaun",
@@ -5037,7 +5043,7 @@
 		"MP_Bhind",
 		"UP_Auraiya",
 		"UP_Etawah",
-		"UP_Hamirpur",
+		"UP_Hamirpur2",
 		"UP_Jhansi",
 		"UP_Kanpur Dehat"
 	],
@@ -5056,7 +5062,7 @@
 		"MP_Datia",
 		"MP_Shivpuri",
 		"MP_Tikamgarh",
-		"UP_Hamirpur",
+		"UP_Hamirpur2",
 		"UP_Jalaun",
 		"UP_Lalitpur",
 		"UP_Mahoba"
@@ -5072,14 +5078,14 @@
 	],
 	"UP_Kanpur Dehat": [
 		"UP_Auraiya",
-		"UP_Hamirpur",
+		"UP_Hamirpur2",
 		"UP_Jalaun",
 		"UP_Kannauj",
 		"UP_Kanpur Nagar"
 	],
 	"UP_Kanpur Nagar": [
 		"UP_Fatehpur",
-		"UP_Hamirpur",
+		"UP_Hamirpur2",
 		"UP_Hardoi",
 		"UP_Kannauj",
 		"UP_Kanpur Dehat",
@@ -5136,7 +5142,7 @@
 	"UP_Mahoba": [
 		"MP_Chhatarpur",
 		"UP_Banda",
-		"UP_Hamirpur",
+		"UP_Hamirpur2",
 		"UP_Jhansi"
 	],
 	"UP_Mainpuri": [

@@ -144,7 +144,7 @@ GJ_Vadodara,1,77924
 GJ_Valsad,1,6244
 HP_Bilaspur2,1,13165
 HP_Chamba,1,12993
-UP_Hamirpur,1,5230
+HP_Hamirpur1,1,14883
 HP_Kangra,1,46992
 HP_Kinnaur,1,3348
 HP_Kullu,1,9321
@@ -552,6 +552,7 @@ UP_Ghaziabad,1,55625
 UP_Ghazipur,1,21637
 UP_Gonda,1,12282
 UP_Gorakhpur,1,59378
+UP_Hamirpur2,1,5230
 UP_Hapur,1,12629
 UP_Hardoi,1,13754
 UP_Hathras,1,2917
