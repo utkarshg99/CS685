@@ -95,7 +95,7 @@
 #### <b>[`cowin_vaccine_data_districtwise_modified.csv`](data/cowin_vaccine_data_districtwise_modified.csv)</b>
 
 * Original Dataset: [`cowin_vaccine_data_districtwise.csv`](base/cowin_vaccine_data_districtwise.csv)
-* There are 3 pairs of districts with same name, a number was augmented to their name to resolve the conflict.
+* There are 4 pairs of districts with same name, a number was augmented to their name to resolve the conflict.
 * There are 2 header rows, which were merged into a single header.
 * Exact changes made to districts can be found in [Appendix-A](#app_A)
 
@@ -135,6 +135,8 @@
 | CT_Balrampur | CT_Balrampur2 |
 | UP_Pratapgarh | UP_Pratapgarh1 |
 | RJ_Pratapgarh | RJ_Pratapgarh2 |
+| CT_Bilaspur | CT_Bilaspur1 |
+| HP_Bilaspur | HP_Bilaspur2 |
 
 ### <a name="app_B"></a> Appendix-B: Census
 

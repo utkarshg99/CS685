@@ -81,7 +81,7 @@
     "kangra/Q727232",
     "kullu/Q2980880",
     "solan/Q2980937",
-    "bilaspur/Q1478939",
+    "bilaspur2/Q1478939",
     "hamirpur/Q2086180"
   ],
   "kathua/Q2375700": [
@@ -109,11 +109,11 @@
     "rupnagar/Q196508",
     "hoshiarpur/Q304800",
     "kangra/Q727232",
-    "bilaspur/Q1478939",
+    "bilaspur2/Q1478939",
     "hamirpur/Q2086180"
   ],
   "hamirpur/Q2086180": [
-    "bilaspur/Q1478939",
+    "bilaspur2/Q1478939",
     "una/Q2301741",
     "kangra/Q727232",
     "mandi/Q1892161"
@@ -134,7 +134,7 @@
     "gurdaspur/Q146708",
     "shahid_bhagat_singh_nagar/Q202710"
   ],
-  "bilaspur/Q1478939": [
+  "bilaspur2/Q1478939": [
     "rupnagar/Q196508",
     "una/Q2301741",
     "solan/Q2980937",
@@ -148,7 +148,7 @@
     "shahid_bhagat_singh_nagar/Q202710",
     "fatehgarh_sahib/Q172485",
     "sahibzada_ajit_singh_nagar/Q2037672",
-    "bilaspur/Q1478939",
+    "bilaspur2/Q1478939",
     "ludhiana/Q172482"
   ],
   "solan/Q2980937": [
@@ -158,7 +158,7 @@
     "sirmaur/Q654331",
     "sahibzada_ajit_singh_nagar/Q2037672",
     "mandi/Q1892161",
-    "bilaspur/Q1478939"
+    "bilaspur2/Q1478939"
   ],
   "sirmaur/Q654331": [
     "shimla/Q1921404",
@@ -3244,7 +3244,7 @@
   "korba/Q2299121": [
     "surajpur/Q16938031",
     "raigarh/Q2286310",
-    "bilaspur/Q100157",
+    "bilaspur1/Q100157",
     "janjgir_champa/Q2575633",
     "koriya/Q2295896",
     "surguja/Q1805075"
@@ -3256,7 +3256,7 @@
     "koriya/Q2295896",
     "surguja/Q1805075"
   ],
-  "bilaspur/Q100157": [
+  "bilaspur1/Q100157": [
     "mungeli/Q13476249",
     "baloda_bazar/Q15663455",
     "korba/Q2299121",
@@ -3268,7 +3268,7 @@
     "surajpur/Q16938031",
     "singrauli/Q2668638",
     "korba/Q2299121",
-    "bilaspur/Q100157",
+    "bilaspur1/Q100157",
     "anuppur/Q2299093",
     "sidhi/Q2449793",
     "shahdol/Q2085464"
@@ -3278,12 +3278,12 @@
     "mungeli/Q13476249",
     "bametara/Q16254159",
     "raigarh/Q2286310",
-    "bilaspur/Q100157",
+    "bilaspur1/Q100157",
     "mahasamund/Q2450240",
     "janjgir_champa/Q2575633"
   ],
   "janjgir_champa/Q2575633": [
-    "bilaspur/Q100157",
+    "bilaspur1/Q100157",
     "baloda_bazar/Q15663455",
     "raigarh/Q2286310",
     "korba/Q2299121"
@@ -3293,14 +3293,14 @@
     "baloda_bazar/Q15663455",
     "bametara/Q16254159",
     "dindori/Q2398551",
-    "bilaspur/Q100157",
+    "bilaspur1/Q100157",
     "anuppur/Q2299093"
   ],
   "anuppur/Q2299093": [
     "umaria/Q620297",
     "mungeli/Q13476249",
     "dindori/Q2398551",
-    "bilaspur/Q100157",
+    "bilaspur1/Q100157",
     "koriya/Q2295896",
     "shahdol/Q2085464"
   ],
