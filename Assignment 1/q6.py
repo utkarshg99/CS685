@@ -93,7 +93,7 @@ with open("out/state-vaccination-population-ratio.csv", "w") as vcprs:
     vcprs.writelines(lines)
 
 with open("out/overall-vaccination-population-ratio.csv", "w") as vcpro:
-    lines = ["overallid,vaccinationratio,populationratio,ratioofratios\n", "1,"+str(vm/vf)+","+str(totm/totf)+","+str((vm/vf)/(totm/totf))+"\n"]
+    lines = ["overallid,vaccinationratio,populationratio,ratioofratios\n", "1,"+str(vf/vm)+","+str(totf/totm)+","+str((vf/vm)/(totf/totm))+"\n"]
     vcpro.writelines(lines)
 
 with open("meta/census.json", "w") as cns:
