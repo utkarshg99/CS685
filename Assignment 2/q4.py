@@ -1,5 +1,4 @@
 import json
-import numpy as np
 
 with open("meta/config.json", "r") as mcjs:
     config = json.load(mcjs)
@@ -12,7 +11,6 @@ with open("meta/state_c17.json", "r") as stc17:
 
 with open("meta/state_map.json", "r") as smp:
     state_map = json.load(smp)
-
 
 rat3to2 = {}
 rat2to1 = {}
