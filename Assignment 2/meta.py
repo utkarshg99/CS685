@@ -267,9 +267,11 @@ def getLiteracyDict():
     return rDic
 
 c19 = {}
+c19_lit = {}
 for ind in lit_df.index:
     sc = int(lit_df["1"][ind])
     c19[str(sc)] = c19.get(str(sc), getLiteracyDict())
+    c19_lit[str(sc)] = c19_lit.get(str(sc), {})
     if lit_df["4"][ind].strip() == "Total":
         tcd = "t"
     elif lit_df["4"][ind].strip() == "Rural":
@@ -292,7 +294,19 @@ for ind in lit_df.index:
         lit_f = "fi"
         lit_p = "pi"
     else:
+        c19_lit[str(sc)][lit_df["5"][ind].strip()] = c19_lit[str(sc)].get(lit_df["5"][ind].strip(), {
+            "u": {"mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0},
+            "r": {"mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0},
+            "t": {"mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0}
+        })
+        c19_lit[str(sc)][lit_df["5"][ind].strip()][tcd]["pE3"] = int(lit_df["9"][ind])
+        c19_lit[str(sc)][lit_df["5"][ind].strip()][tcd]["mE3"] = int(lit_df["10"][ind])
+        c19_lit[str(sc)][lit_df["5"][ind].strip()][tcd]["fE3"] = int(lit_df["11"][ind])
+        c19_lit[str(sc)][lit_df["5"][ind].strip()][tcd]["pE2"] = int(lit_df["6"][ind]) - int(lit_df["9"][ind])
+        c19_lit[str(sc)][lit_df["5"][ind].strip()][tcd]["mE2"] = int(lit_df["7"][ind]) - int(lit_df["10"][ind])
+        c19_lit[str(sc)][lit_df["5"][ind].strip()][tcd]["fE2"] = int(lit_df["8"][ind]) - int(lit_df["11"][ind])
         continue
+
     c19[str(sc)][litgrp][tcd]["pE3"] = int(lit_df["9"][ind])
     c19[str(sc)][litgrp][tcd]["mE3"] = int(lit_df["10"][ind])
     c19[str(sc)][litgrp][tcd]["fE3"] = int(lit_df["11"][ind])
@@ -320,3 +334,6 @@ with open("meta/age_c18.json", "w") as agc18:
 
 with open("meta/lit_c19.json", "w") as litc19:
     json.dump(c19, litc19, indent="\t")
+
+with open("meta/lit_c19_literate.json", "w") as litc19:
+    json.dump(c19_lit, litc19, indent="\t")
