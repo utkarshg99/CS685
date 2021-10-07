@@ -123,9 +123,7 @@ for ind in census_df.index:
         census[str(sc)]["r"]["fi"] = int(census_df["F_ILL"][ind])
         census[str(sc)]["r"]["pi"] = int(census_df["P_ILL"][ind])
 
-
 # Extract Data From C13
-
 def getAgeRangeDict():
     rDic = {}
     for r in config["AGE_LIM"]:
@@ -135,6 +133,16 @@ def getAgeRangeDict():
             "t": {"m": 0, "f": 0, "p": 0}
         }
     rDic[config["AGE_MX"]] = {
+        "u": {"m": 0, "f": 0, "p": 0},
+        "r": {"m": 0, "f": 0, "p": 0},
+        "t": {"m": 0, "f": 0, "p": 0}
+    }
+    rDic["Total"] = {
+        "u": {"m": 0, "f": 0, "p": 0},
+        "r": {"m": 0, "f": 0, "p": 0},
+        "t": {"m": 0, "f": 0, "p": 0}
+    }
+    rDic["Age not stated"] = {
         "u": {"m": 0, "f": 0, "p": 0},
         "r": {"m": 0, "f": 0, "p": 0},
         "t": {"m": 0, "f": 0, "p": 0}
@@ -171,16 +179,71 @@ for ind in agec13_df.index:
                     agec13[str(sc)][r["RN"]]["u"]["f"] += int(agec13_df[10][ind])
                     break
     except:
+        ikey = ""
         if agec13_df[1][ind].strip() == "100+":
-            agec13[str(sc)][config["AGE_MX"]]["t"]["p"] += int(agec13_df[2][ind])
-            agec13[str(sc)][config["AGE_MX"]]["t"]["m"] += int(agec13_df[3][ind])
-            agec13[str(sc)][config["AGE_MX"]]["t"]["f"] += int(agec13_df[4][ind])
-            agec13[str(sc)][config["AGE_MX"]]["r"]["p"] += int(agec13_df[5][ind])
-            agec13[str(sc)][config["AGE_MX"]]["r"]["m"] += int(agec13_df[6][ind])
-            agec13[str(sc)][config["AGE_MX"]]["r"]["f"] += int(agec13_df[7][ind])
-            agec13[str(sc)][config["AGE_MX"]]["u"]["p"] += int(agec13_df[8][ind])
-            agec13[str(sc)][config["AGE_MX"]]["u"]["m"] += int(agec13_df[9][ind])
-            agec13[str(sc)][config["AGE_MX"]]["u"]["f"] += int(agec13_df[10][ind])
+            ikey = config["AGE_MX"]
+        elif agec13_df[1][ind].strip() == "All ages":
+            ikey = "Total"
+        else:
+            ikey = "Age not stated"
+        agec13[str(sc)][ikey]["t"]["p"] += int(agec13_df[2][ind])
+        agec13[str(sc)][ikey]["t"]["m"] += int(agec13_df[3][ind])
+        agec13[str(sc)][ikey]["t"]["f"] += int(agec13_df[4][ind])
+        agec13[str(sc)][ikey]["r"]["p"] += int(agec13_df[5][ind])
+        agec13[str(sc)][ikey]["r"]["m"] += int(agec13_df[6][ind])
+        agec13[str(sc)][ikey]["r"]["f"] += int(agec13_df[7][ind])
+        agec13[str(sc)][ikey]["u"]["p"] += int(agec13_df[8][ind])
+        agec13[str(sc)][ikey]["u"]["m"] += int(agec13_df[9][ind])
+        agec13[str(sc)][ikey]["u"]["f"] += int(agec13_df[10][ind])
+
+# Extract Data From C18
+def getAgeRangeDictC18():
+    rDic = {}
+    for r in config["AGE_LIM"]:
+        rDic[r["RN"]] = {
+            "u": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0},
+            "r": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0},
+            "t": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0}
+        }
+    rDic[config["AGE_MX"]] = {
+        "u": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0},
+        "r": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0},
+        "t": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0}
+    }
+    rDic["Total"] = {
+        "u": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0},
+        "r": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0},
+        "t": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0}
+    }
+    rDic["Age not stated"] = {
+        "u": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0},
+        "r": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0},
+        "t": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0}
+    }
+    return rDic
+
+c18 = {}
+for ind in age_df.index:
+    sc = int(age_df["1"][ind])
+    c18[str(sc)] = c18.get(str(sc), getAgeRangeDictC18())
+    agrp = age_df["5"][ind].strip()
+    if age_df["4"][ind].strip() == "Total":
+        tcd = "t"
+    elif age_df["4"][ind].strip() == "Rural":
+        tcd = "r"
+    else:
+        tcd = "u"
+    c18[str(sc)][agrp][tcd]["pE3"] = int(age_df["9"][ind])
+    c18[str(sc)][agrp][tcd]["mE3"] = int(age_df["10"][ind])
+    c18[str(sc)][agrp][tcd]["fE3"] = int(age_df["11"][ind])
+    c18[str(sc)][agrp][tcd]["pE2"] = int(age_df["6"][ind]) - int(age_df["9"][ind])
+    c18[str(sc)][agrp][tcd]["mE2"] = int(age_df["7"][ind]) - int(age_df["10"][ind])
+    c18[str(sc)][agrp][tcd]["fE2"] = int(age_df["8"][ind]) - int(age_df["11"][ind])
+    c18[str(sc)][agrp][tcd]["pE1"] = agec13[str(sc)][agrp][tcd]["p"] - int(age_df["6"][ind])
+    c18[str(sc)][agrp][tcd]["mE1"] = agec13[str(sc)][agrp][tcd]["m"] - int(age_df["7"][ind])
+    c18[str(sc)][agrp][tcd]["fE1"] = agec13[str(sc)][agrp][tcd]["f"] - int(age_df["8"][ind])
+
+
 
 
 with open("meta/state_c17.json", "w") as stc17:
@@ -191,3 +254,6 @@ with open("meta/census.json", "w") as cnss:
 
 with open("meta/age_c13.json", "w") as agc:
     json.dump(agec13, agc, indent="\t")
+
+with open("meta/age_c18.json", "w") as agc18:
+    json.dump(c18, agc18, indent="\t")
