@@ -1,8 +1,6 @@
 import pandas as pd
 import json
 
-from pandas.core.indexes.base import Index
-
 with open("meta/config.json", "r") as mcjs:
     config = json.load(mcjs)
 
@@ -81,6 +79,7 @@ for i in range(config["SC_ULM"]):
 
 # Extract Data From Census
 census = {}
+state_map = {}
 for ind in census_df.index:
     sc = int(census_df["State"][ind])
     census[str(sc)] = census.get(str(sc), {
@@ -92,6 +91,7 @@ for ind in census_df.index:
     if census_df["Level"][ind].strip() == "DISTRICT":
         continue
 
+    state_map[str(sc)] = census_df["Name"][ind].strip()
     if census_df["TRU"][ind].strip() == "Total":
         census[str(sc)]["t"]["m"] = int(census_df["TOT_M"][ind])
         census[str(sc)]["t"]["f"] = int(census_df["TOT_F"][ind])
@@ -308,6 +308,9 @@ with open("meta/state_c17.json", "w") as stc17:
 
 with open("meta/census.json", "w") as cnss:
     json.dump(census, cnss, indent="\t")
+
+with open("meta/state_map.json", "w") as smp:
+    json.dump(state_map, smp, indent="\t")
 
 with open("meta/age_c13.json", "w") as agc:
     json.dump(agec13, agc, indent="\t")
