@@ -7,6 +7,9 @@ with open("meta/config.json", "r") as mcjs:
 # Reading Census
 census_df = pd.read_excel("data/DDW_PCA0000_2011_Indiastatedist.xlsx", header=0).dropna()
 
+# Reading C13
+agec13_df = pd.read_excel("data/DDW-0000C-13.xls", skiprows=4, header=0).dropna()
+
 # Reading C17
 c17 = {}
 from os import listdir
@@ -74,8 +77,117 @@ for i in range(config["SC_ULM"]):
     sttw[str(i)]["e2"]["m"] = sttw[str(i)]["t2"]["m"] - sttw[str(i)]["t3"]["m"]
     sttw[str(i)]["e2"]["f"] = sttw[str(i)]["t2"]["f"] - sttw[str(i)]["t3"]["f"]
 
+# Extract Data From Census
+census = {}
+for ind in census_df.index:
+    sc = int(census_df["State"][ind])
+    census[str(sc)] = census.get(str(sc), {
+        "u": {"m": 0, "f": 0, "p": 0, "ml": 0, "fl": 0, "pl": 0, "mi": 0, "fi": 0, "pi": 0}, 
+        "r": {"m": 0, "f": 0, "p": 0, "ml": 0, "fl": 0, "pl": 0, "mi": 0, "fi": 0, "pi": 0}, 
+        "t": {"m": 0, "f": 0, "p": 0, "ml": 0, "fl": 0, "pl": 0, "mi": 0, "fi": 0, "pi": 0}, 
+    })
+    
+    if census_df["Level"][ind].strip() == "DISTRICT":
+        continue
 
+    if census_df["TRU"][ind].strip() == "Total":
+        census[str(sc)]["t"]["m"] = int(census_df["TOT_M"][ind])
+        census[str(sc)]["t"]["f"] = int(census_df["TOT_F"][ind])
+        census[str(sc)]["t"]["p"] = int(census_df["TOT_P"][ind])
+        census[str(sc)]["t"]["ml"] = int(census_df["M_LIT"][ind])
+        census[str(sc)]["t"]["fl"] = int(census_df["F_LIT"][ind])
+        census[str(sc)]["t"]["pl"] = int(census_df["P_LIT"][ind])
+        census[str(sc)]["t"]["mi"] = int(census_df["M_ILL"][ind])
+        census[str(sc)]["t"]["fi"] = int(census_df["F_ILL"][ind])
+        census[str(sc)]["t"]["pi"] = int(census_df["P_ILL"][ind])
+
+    elif census_df["TRU"][ind].strip() == "Urban":
+        census[str(sc)]["u"]["m"] = int(census_df["TOT_M"][ind])
+        census[str(sc)]["u"]["f"] = int(census_df["TOT_F"][ind])
+        census[str(sc)]["u"]["p"] = int(census_df["TOT_P"][ind])
+        census[str(sc)]["u"]["ml"] = int(census_df["M_LIT"][ind])
+        census[str(sc)]["u"]["fl"] = int(census_df["F_LIT"][ind])
+        census[str(sc)]["u"]["pl"] = int(census_df["P_LIT"][ind])
+        census[str(sc)]["u"]["mi"] = int(census_df["M_ILL"][ind])
+        census[str(sc)]["u"]["fi"] = int(census_df["F_ILL"][ind])
+        census[str(sc)]["u"]["pi"] = int(census_df["P_ILL"][ind])
+
+    elif census_df["TRU"][ind].strip() == "Rural":
+        census[str(sc)]["r"]["m"] = int(census_df["TOT_M"][ind])
+        census[str(sc)]["r"]["f"] = int(census_df["TOT_F"][ind])
+        census[str(sc)]["r"]["p"] = int(census_df["TOT_P"][ind])
+        census[str(sc)]["r"]["ml"] = int(census_df["M_LIT"][ind])
+        census[str(sc)]["r"]["fl"] = int(census_df["F_LIT"][ind])
+        census[str(sc)]["r"]["pl"] = int(census_df["P_LIT"][ind])
+        census[str(sc)]["r"]["mi"] = int(census_df["M_ILL"][ind])
+        census[str(sc)]["r"]["fi"] = int(census_df["F_ILL"][ind])
+        census[str(sc)]["r"]["pi"] = int(census_df["P_ILL"][ind])
+
+
+# Extract Data From C13
+
+def getAgeRangeDict():
+    rDic = {}
+    for r in config["AGE_LIM"]:
+        rDic[r["RN"]] = {
+            "u": {"m": 0, "f": 0, "p": 0},
+            "r": {"m": 0, "f": 0, "p": 0},
+            "t": {"m": 0, "f": 0, "p": 0}
+        }
+    rDic[config["AGE_MX"]] = {
+        "u": {"m": 0, "f": 0, "p": 0},
+        "r": {"m": 0, "f": 0, "p": 0},
+        "t": {"m": 0, "f": 0, "p": 0}
+    }
+    return rDic
+
+agec13 = {}
+for ind in agec13_df.index:
+    sc = int(agec13_df["sc"][ind])
+    agec13[str(sc)] = agec13.get(str(sc), getAgeRangeDict())
+    try:
+        age = int(agec13_df[1][ind])
+        if age >= 70:
+            agec13[str(sc)][config["AGE_MX"]]["t"]["p"] += int(agec13_df[2][ind])
+            agec13[str(sc)][config["AGE_MX"]]["t"]["m"] += int(agec13_df[3][ind])
+            agec13[str(sc)][config["AGE_MX"]]["t"]["f"] += int(agec13_df[4][ind])
+            agec13[str(sc)][config["AGE_MX"]]["r"]["p"] += int(agec13_df[5][ind])
+            agec13[str(sc)][config["AGE_MX"]]["r"]["m"] += int(agec13_df[6][ind])
+            agec13[str(sc)][config["AGE_MX"]]["r"]["f"] += int(agec13_df[7][ind])
+            agec13[str(sc)][config["AGE_MX"]]["u"]["p"] += int(agec13_df[8][ind])
+            agec13[str(sc)][config["AGE_MX"]]["u"]["m"] += int(agec13_df[9][ind])
+            agec13[str(sc)][config["AGE_MX"]]["u"]["f"] += int(agec13_df[10][ind])
+        else:
+            for r in config["AGE_LIM"]:
+                if r["MX"] >= age and r["MN"] <= age:
+                    agec13[str(sc)][r["RN"]]["t"]["p"] += int(agec13_df[2][ind])
+                    agec13[str(sc)][r["RN"]]["t"]["m"] += int(agec13_df[3][ind])
+                    agec13[str(sc)][r["RN"]]["t"]["f"] += int(agec13_df[4][ind])
+                    agec13[str(sc)][r["RN"]]["r"]["p"] += int(agec13_df[5][ind])
+                    agec13[str(sc)][r["RN"]]["r"]["m"] += int(agec13_df[6][ind])
+                    agec13[str(sc)][r["RN"]]["r"]["f"] += int(agec13_df[7][ind])
+                    agec13[str(sc)][r["RN"]]["u"]["p"] += int(agec13_df[8][ind])
+                    agec13[str(sc)][r["RN"]]["u"]["m"] += int(agec13_df[9][ind])
+                    agec13[str(sc)][r["RN"]]["u"]["f"] += int(agec13_df[10][ind])
+                    break
+    except:
+        if agec13_df[1][ind].strip() == "100+":
+            agec13[str(sc)][config["AGE_MX"]]["t"]["p"] += int(agec13_df[2][ind])
+            agec13[str(sc)][config["AGE_MX"]]["t"]["m"] += int(agec13_df[3][ind])
+            agec13[str(sc)][config["AGE_MX"]]["t"]["f"] += int(agec13_df[4][ind])
+            agec13[str(sc)][config["AGE_MX"]]["r"]["p"] += int(agec13_df[5][ind])
+            agec13[str(sc)][config["AGE_MX"]]["r"]["m"] += int(agec13_df[6][ind])
+            agec13[str(sc)][config["AGE_MX"]]["r"]["f"] += int(agec13_df[7][ind])
+            agec13[str(sc)][config["AGE_MX"]]["u"]["p"] += int(agec13_df[8][ind])
+            agec13[str(sc)][config["AGE_MX"]]["u"]["m"] += int(agec13_df[9][ind])
+            agec13[str(sc)][config["AGE_MX"]]["u"]["f"] += int(agec13_df[10][ind])
 
 
 with open("meta/state_c17.json", "w") as stc17:
     json.dump(sttw, stc17, indent="\t")
+
+with open("meta/census.json", "w") as cnss:
+    json.dump(census, cnss, indent="\t")
+
+with open("meta/age_c13.json", "w") as agc:
+    json.dump(agec13, agc, indent="\t")
