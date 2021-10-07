@@ -1,6 +1,8 @@
 import pandas as pd
 import json
 
+from pandas.core.indexes.base import Index
+
 with open("meta/config.json", "r") as mcjs:
     config = json.load(mcjs)
 
@@ -243,8 +245,63 @@ for ind in age_df.index:
     c18[str(sc)][agrp][tcd]["mE1"] = agec13[str(sc)][agrp][tcd]["m"] - int(age_df["7"][ind])
     c18[str(sc)][agrp][tcd]["fE1"] = agec13[str(sc)][agrp][tcd]["f"] - int(age_df["8"][ind])
 
+# Extract Data From C19
+def getLiteracyDict():
+    rDic = {
+        "LIT": {
+            "u": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0},
+            "r": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0},
+            "t": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0}
+        },
+        "ILL": {
+            "u": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0},
+            "r": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0},
+            "t": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0}
+        },
+        "TOT": {
+            "u": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0},
+            "r": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0},
+            "t": {"mE1": 0, "fE1": 0, "pE1": 0, "mE2": 0, "fE2": 0, "pE2": 0, "mE3": 0, "fE3": 0, "pE3": 0}
+        }
+    }
+    return rDic
 
-
+c19 = {}
+for ind in lit_df.index:
+    sc = int(lit_df["1"][ind])
+    c19[str(sc)] = c19.get(str(sc), getLiteracyDict())
+    if lit_df["4"][ind].strip() == "Total":
+        tcd = "t"
+    elif lit_df["4"][ind].strip() == "Rural":
+        tcd = "r"
+    else:
+        tcd = "u"
+    if lit_df["5"][ind].strip() == "Total":
+        litgrp = "TOT"
+        lit_m = "m"
+        lit_f = "f"
+        lit_p = "p"
+    elif lit_df["5"][ind].strip() == "Literate":
+        litgrp = "LIT"
+        lit_m = "ml"
+        lit_f = "fl"
+        lit_p = "pl"
+    elif lit_df["5"][ind].strip() == "Illiterate":
+        litgrp = "ILL"
+        lit_m = "mi"
+        lit_f = "fi"
+        lit_p = "pi"
+    else:
+        continue
+    c19[str(sc)][litgrp][tcd]["pE3"] = int(lit_df["9"][ind])
+    c19[str(sc)][litgrp][tcd]["mE3"] = int(lit_df["10"][ind])
+    c19[str(sc)][litgrp][tcd]["fE3"] = int(lit_df["11"][ind])
+    c19[str(sc)][litgrp][tcd]["pE2"] = int(lit_df["6"][ind]) - int(lit_df["9"][ind])
+    c19[str(sc)][litgrp][tcd]["mE2"] = int(lit_df["7"][ind]) - int(lit_df["10"][ind])
+    c19[str(sc)][litgrp][tcd]["fE2"] = int(lit_df["8"][ind]) - int(lit_df["11"][ind])
+    c19[str(sc)][litgrp][tcd]["pE1"] = census[str(sc)][tcd][lit_p] - int(lit_df["6"][ind])
+    c19[str(sc)][litgrp][tcd]["mE1"] = census[str(sc)][tcd][lit_m] - int(lit_df["7"][ind])
+    c19[str(sc)][litgrp][tcd]["fE1"] = census[str(sc)][tcd][lit_f] - int(lit_df["8"][ind])
 
 with open("meta/state_c17.json", "w") as stc17:
     json.dump(sttw, stc17, indent="\t")
@@ -257,3 +314,6 @@ with open("meta/age_c13.json", "w") as agc:
 
 with open("meta/age_c18.json", "w") as agc18:
     json.dump(c18, agc18, indent="\t")
+
+with open("meta/lit_c19.json", "w") as litc19:
+    json.dump(c19, litc19, indent="\t")
