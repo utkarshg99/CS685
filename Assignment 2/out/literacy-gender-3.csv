@@ -1,37 +1,37 @@
 state/ut,literacy-group,males,literacy-group,females
-India,Matric/Secondary but below graduate,0.03274846944485517,Matric/Secondary but below graduate,0.02295511024002651
-JAMMU & KASHMIR,Matric/Secondary but below graduate,0.07779405125573324,Matric/Secondary but below graduate,0.05413243309200358
-HIMACHAL PRADESH,Matric/Secondary but below graduate,0.030285711167523915,Matric/Secondary but below graduate,0.021486793650925037
-PUNJAB,Matric/Secondary but below graduate,0.15948287727727756,Matric/Secondary but below graduate,0.13010260401638507
-CHANDIGARH,Graduate and above,0.12368447791576181,Graduate and above,0.1332408006116427
-UTTARAKHAND,Matric/Secondary but below graduate,0.00829153020189876,Graduate and above,0.005874686951793052
-HARYANA,Matric/Secondary but below graduate,0.023004232613995947,Matric/Secondary but below graduate,0.01697449751735892
-NCT OF DELHI,Graduate and above,0.03978035291030947,Graduate and above,0.038712973271979194
-RAJASTHAN,Matric/Secondary but below graduate,0.007074231982861128,Matric/Secondary but below graduate,0.0038751187970945625
-UTTAR PRADESH,Matric/Secondary but below graduate,0.005519795031628387,Matric/Secondary but below graduate,0.0038139936701729773
-BIHAR,Matric/Secondary but below graduate,0.005936273775839515,Matric/Secondary but below graduate,0.0036251767442014504
-SIKKIM,Matric/Secondary but below graduate,0.0936081963661126,Matric/Secondary but below graduate,0.08873175261819712
-ARUNACHAL PRADESH,Matric/Secondary but below graduate,0.09045932832057732,Matric/Secondary but below graduate,0.06779931772205758
-NAGALAND,Matric/Secondary but below graduate,0.0880125779657229,Matric/Secondary but below graduate,0.07224069117568431
-MANIPUR,Matric/Secondary but below graduate,0.091335519739522,Matric/Secondary but below graduate,0.06734720662034084
-MIZORAM,Matric/Secondary but below graduate,0.021125834850424696,Matric/Secondary but below graduate,0.012475386026460368
-TRIPURA,Matric/Secondary but below graduate,0.024120560655919623,Matric/Secondary but below graduate,0.012423167907816493
-MEGHALAYA,Matric/Secondary but below graduate,0.03552276663860274,Matric/Secondary but below graduate,0.024529221582623585
-ASSAM,Matric/Secondary but below graduate,0.05416211846298519,Matric/Secondary but below graduate,0.03585256331777013
-WEST BENGAL,Graduate and above,0.01614028422338281,Graduate and above,0.009575711366572958
-JHARKHAND,Matric/Secondary but below graduate,0.01806245187995616,Matric/Secondary but below graduate,0.010568994456843735
-ODISHA,Matric/Secondary but below graduate,0.06428079661567322,Matric/Secondary but below graduate,0.041118275132522836
-CHHATTISGARH,Matric/Secondary but below graduate,0.0053231168804856585,Graduate and above,0.0036541765878299157
-MADHYA PRADESH,Matric/Secondary but below graduate,0.007233749507408559,Matric/Secondary but below graduate,0.004566479210057615
-GUJARAT,Matric/Secondary but below graduate,0.07109166162293919,Matric/Secondary but below graduate,0.046728472201879534
-DAMAN & DIU,Matric/Secondary but below graduate,0.07500282765916394,Matric/Secondary but below graduate,0.06262776235663718
-DADRA & NAGAR HAVELI,Matric/Secondary but below graduate,0.06773843930635838,Matric/Secondary but below graduate,0.041420749721572
-MAHARASHTRA,Matric/Secondary but below graduate,0.08036932334045109,Matric/Secondary but below graduate,0.05729862977368888
-ANDHRA PRADESH,Matric/Secondary but below graduate,0.035483596894464293,Matric/Secondary but below graduate,0.023423969326388416
-KARNATAKA,Matric/Secondary but below graduate,0.055619468384979366,Matric/Secondary but below graduate,0.039311631723171044
-GOA,Matric/Secondary but below graduate,0.22355169521335605,Matric/Secondary but below graduate,0.18079802058645686
-LAKSHADWEEP,Matric/Secondary but below graduate,0.09467741448540289,Matric/Secondary but below graduate,0.05543859649122807
-KERALA,Matric/Secondary but below graduate,0.052286170718017354,Matric/Secondary but below graduate,0.03824232827304355
-TAMIL NADU,Matric/Secondary but below graduate,0.015477347582425412,Matric/Secondary but below graduate,0.010524297291334082
-PUDUCHERRY,Graduate and above,0.028275410564055175,Graduate and above,0.020165491106977504
-ANDAMAN & NICOBAR ISLANDS,Matric/Secondary but below graduate,0.08693701909094942,Matric/Secondary but below graduate,0.07360306116706994
+0,Matric/Secondary but below graduate,0.03274846944485517,Matric/Secondary but below graduate,0.02295511024002651
+1,Matric/Secondary but below graduate,0.07779405125573324,Matric/Secondary but below graduate,0.05413243309200358
+2,Matric/Secondary but below graduate,0.030285711167523915,Matric/Secondary but below graduate,0.021486793650925037
+3,Matric/Secondary but below graduate,0.15948287727727756,Matric/Secondary but below graduate,0.13010260401638507
+4,Graduate and above,0.12368447791576181,Graduate and above,0.1332408006116427
+5,Matric/Secondary but below graduate,0.00829153020189876,Graduate and above,0.005874686951793052
+6,Matric/Secondary but below graduate,0.023004232613995947,Matric/Secondary but below graduate,0.01697449751735892
+7,Graduate and above,0.03978035291030947,Graduate and above,0.038712973271979194
+8,Matric/Secondary but below graduate,0.007074231982861128,Matric/Secondary but below graduate,0.0038751187970945625
+9,Matric/Secondary but below graduate,0.005519795031628387,Matric/Secondary but below graduate,0.0038139936701729773
+10,Matric/Secondary but below graduate,0.005936273775839515,Matric/Secondary but below graduate,0.0036251767442014504
+11,Matric/Secondary but below graduate,0.0936081963661126,Matric/Secondary but below graduate,0.08873175261819712
+12,Matric/Secondary but below graduate,0.09045932832057732,Matric/Secondary but below graduate,0.06779931772205758
+13,Matric/Secondary but below graduate,0.0880125779657229,Matric/Secondary but below graduate,0.07224069117568431
+14,Matric/Secondary but below graduate,0.091335519739522,Matric/Secondary but below graduate,0.06734720662034084
+15,Matric/Secondary but below graduate,0.021125834850424696,Matric/Secondary but below graduate,0.012475386026460368
+16,Matric/Secondary but below graduate,0.024120560655919623,Matric/Secondary but below graduate,0.012423167907816493
+17,Matric/Secondary but below graduate,0.03552276663860274,Matric/Secondary but below graduate,0.024529221582623585
+18,Matric/Secondary but below graduate,0.05416211846298519,Matric/Secondary but below graduate,0.03585256331777013
+19,Graduate and above,0.01614028422338281,Graduate and above,0.009575711366572958
+20,Matric/Secondary but below graduate,0.01806245187995616,Matric/Secondary but below graduate,0.010568994456843735
+21,Matric/Secondary but below graduate,0.06428079661567322,Matric/Secondary but below graduate,0.041118275132522836
+22,Matric/Secondary but below graduate,0.0053231168804856585,Graduate and above,0.0036541765878299157
+23,Matric/Secondary but below graduate,0.007233749507408559,Matric/Secondary but below graduate,0.004566479210057615
+24,Matric/Secondary but below graduate,0.07109166162293919,Matric/Secondary but below graduate,0.046728472201879534
+25,Matric/Secondary but below graduate,0.07500282765916394,Matric/Secondary but below graduate,0.06262776235663718
+26,Matric/Secondary but below graduate,0.06773843930635838,Matric/Secondary but below graduate,0.041420749721572
+27,Matric/Secondary but below graduate,0.08036932334045109,Matric/Secondary but below graduate,0.05729862977368888
+28,Matric/Secondary but below graduate,0.035483596894464293,Matric/Secondary but below graduate,0.023423969326388416
+29,Matric/Secondary but below graduate,0.055619468384979366,Matric/Secondary but below graduate,0.039311631723171044
+30,Matric/Secondary but below graduate,0.22355169521335605,Matric/Secondary but below graduate,0.18079802058645686
+31,Matric/Secondary but below graduate,0.09467741448540289,Matric/Secondary but below graduate,0.05543859649122807
+32,Matric/Secondary but below graduate,0.052286170718017354,Matric/Secondary but below graduate,0.03824232827304355
+33,Matric/Secondary but below graduate,0.015477347582425412,Matric/Secondary but below graduate,0.010524297291334082
+34,Graduate and above,0.028275410564055175,Graduate and above,0.020165491106977504
+35,Matric/Secondary but below graduate,0.08693701909094942,Matric/Secondary but below graduate,0.07360306116706994

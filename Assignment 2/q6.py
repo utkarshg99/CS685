@@ -22,5 +22,6 @@ with open("out/literacy-india.csv", "w") as aicsv:
                 rest[lgrp] = c19_lit[str(i)][lgrp]["t"]["pE3"]
         rest = dict(sorted(rest.items(), key=lambda item: item[1], reverse=True))
         rkys = list(rest.keys())
-        lines.append(state_map[str(i)]+","+rkys[0]+","+str(c19_lit[str(i)][rkys[0]]["t"]["pE3"]/census[str(i)]["t"]["p"]*100)+"\n")
+        # lines.append(state_map[str(i)]+","+rkys[0]+","+str(c19_lit[str(i)][rkys[0]]["t"]["pE3"]/census[str(i)]["t"]["p"]*100)+"\n")
+        lines.append(str(i)+","+rkys[0]+","+str(c19_lit[str(i)][rkys[0]]["t"]["pE3"]/census[str(i)]["t"]["p"]*100)+"\n")
     aicsv.writelines(lines)

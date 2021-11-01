@@ -25,7 +25,8 @@ with open("out/age-gender-3.csv", "w") as al3csv:
         agrps_f = dict(sorted(agrps_f.items(), key=lambda item: item[1], reverse=True))
         agp_m = list(agrps_m.keys())
         agp_f = list(agrps_f.keys())
-        lines.append(f'{state_map[str(i)]},{agp_m[0]},{agrps_m[agp_m[0]]},{agp_f[0]},{agrps_f[agp_f[0]]}\n')
+        # lines.append(f'{state_map[str(i)]},{agp_m[0]},{agrps_m[agp_m[0]]},{agp_f[0]},{agrps_f[agp_f[0]]}\n')
+        lines.append(f'{str(i)},{agp_m[0]},{agrps_m[agp_m[0]]},{agp_f[0]},{agrps_f[agp_f[0]]}\n')
     al3csv.writelines(lines)
 
 with open("out/age-gender-2.csv", "w") as al2csv:
@@ -41,7 +42,8 @@ with open("out/age-gender-2.csv", "w") as al2csv:
         agrps_f = dict(sorted(agrps_f.items(), key=lambda item: item[1], reverse=True))
         agp_m = list(agrps_m.keys())
         agp_f = list(agrps_f.keys())
-        lines.append(f'{state_map[str(i)]},{agp_m[0]},{agrps_m[agp_m[0]]},{agp_f[0]},{agrps_f[agp_f[0]]}\n')
+        # lines.append(f'{state_map[str(i)]},{agp_m[0]},{agrps_m[agp_m[0]]},{agp_f[0]},{agrps_f[agp_f[0]]}\n')
+        lines.append(f'{str(i)},{agp_m[0]},{agrps_m[agp_m[0]]},{agp_f[0]},{agrps_f[agp_f[0]]}\n')
     al2csv.writelines(lines)
 
 with open("out/age-gender-1.csv", "w") as al1csv:
@@ -57,5 +59,6 @@ with open("out/age-gender-1.csv", "w") as al1csv:
         agrps_f = dict(sorted(agrps_f.items(), key=lambda item: item[1], reverse=True))
         agp_m = list(agrps_m.keys())
         agp_f = list(agrps_f.keys())
-        lines.append(f'{state_map[str(i)]},{agp_m[0]},{agrps_m[agp_m[0]]},{agp_f[0]},{agrps_f[agp_f[0]]}\n')
+        # lines.append(f'{state_map[str(i)]},{agp_m[0]},{agrps_m[agp_m[0]]},{agp_f[0]},{agrps_f[agp_f[0]]}\n')
+        lines.append(f'{str(i)},{agp_m[0]},{agrps_m[agp_m[0]]},{agp_f[0]},{agrps_f[agp_f[0]]}\n')
     al1csv.writelines(lines)
