@@ -32,5 +32,5 @@ with open("out/gender-india.csv", "w") as picsv:
         diff_mean = arr.mean() - b_arr.mean()
         vard = np.sqrt((arr.var() + b_arr.var()) / (len(arr) + len(b_arr) - 2))
         pval = vard / diff_mean
-        lines.append(f'{str(i)}{100*sttw[str(i)]["t3"]["m"]/sttw[str(i)]["t1"]["m"]},{100*sttw[str(i)]["t3"]["f"]/sttw[str(i)]["t1"]["f"]},{pval}\n')
+        lines.append(f'{str(i)},{100*sttw[str(i)]["t3"]["m"]/sttw[str(i)]["t1"]["m"]},{100*sttw[str(i)]["t3"]["f"]/sttw[str(i)]["t1"]["f"]},{pval}\n')
     picsv.writelines(lines)
