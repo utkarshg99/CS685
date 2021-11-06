@@ -23,5 +23,5 @@ with open("out/age-india.csv", "w") as aicsv:
         rest = dict(sorted(rest.items(), key=lambda item: item[1], reverse=True))
         rkys = list(rest.keys())
         # lines.append(state_map[str(i)]+","+rkys[0]+","+str(c18[str(i)][rkys[0]]["t"]["pE3"]/census[str(i)]["t"]["p"]*100)+"\n")
-        lines.append(str(i)+","+rkys[0]+","+str(c18[str(i)][rkys[0]]["t"]["pE3"]/census[str(i)]["t"]["p"]*100)+"\n")
+        lines.append(str(i//10)+str(i%10)+","+rkys[0]+","+str(c18[str(i)][rkys[0]]["t"]["pE3"]/census[str(i)]["t"]["p"]*100)+"\n")
     aicsv.writelines(lines)

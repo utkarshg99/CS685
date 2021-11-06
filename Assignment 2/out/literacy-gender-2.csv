@@ -1,14 +1,14 @@
 state/ut,literacy-group,males,literacy-group,females
-0,Matric/Secondary but below graduate,0.057136212650788804,Matric/Secondary but below graduate,0.04032363884534581
-1,Matric/Secondary but below graduate,0.10034481501994831,Middle but below matric/secondary,0.06437047506711137
-2,Matric/Secondary but below graduate,0.049106328691483,Matric/Secondary but below graduate,0.035278321142485844
-3,Matric/Secondary but below graduate,0.06379310992580671,Primary but below middle,0.04842392779600352
-4,Matric/Secondary but below graduate,0.0916176853011127,Matric/Secondary but below graduate,0.07244301128716667
-5,Matric/Secondary but below graduate,0.04567796202751659,Matric/Secondary but below graduate,0.029498926850639554
-6,Matric/Secondary but below graduate,0.07328599437380537,Matric/Secondary but below graduate,0.049596482267283186
-7,Matric/Secondary but below graduate,0.11992988793329629,Graduate and above,0.09903475559298851
-8,Matric/Secondary but below graduate,0.024700488709219603,Primary but below middle,0.015145508257610288
-9,Matric/Secondary but below graduate,0.03298530989176833,Matric/Secondary but below graduate,0.021715422627306927
+00,Matric/Secondary but below graduate,0.057136212650788804,Matric/Secondary but below graduate,0.04032363884534581
+01,Matric/Secondary but below graduate,0.10034481501994831,Middle but below matric/secondary,0.06437047506711137
+02,Matric/Secondary but below graduate,0.049106328691483,Matric/Secondary but below graduate,0.035278321142485844
+03,Matric/Secondary but below graduate,0.06379310992580671,Primary but below middle,0.04842392779600352
+04,Matric/Secondary but below graduate,0.0916176853011127,Matric/Secondary but below graduate,0.07244301128716667
+05,Matric/Secondary but below graduate,0.04567796202751659,Matric/Secondary but below graduate,0.029498926850639554
+06,Matric/Secondary but below graduate,0.07328599437380537,Matric/Secondary but below graduate,0.049596482267283186
+07,Matric/Secondary but below graduate,0.11992988793329629,Graduate and above,0.09903475559298851
+08,Matric/Secondary but below graduate,0.024700488709219603,Primary but below middle,0.015145508257610288
+09,Matric/Secondary but below graduate,0.03298530989176833,Matric/Secondary but below graduate,0.021715422627306927
 10,Primary but below middle,0.02888460269570317,Literate but below primary,0.02467892494564824
 11,Literate but below primary,0.09342866870956759,Primary but below middle,0.08241886284507856
 12,Literate but below primary,0.06241245419603537,Literate but below primary,0.05836984839097363
