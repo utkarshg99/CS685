@@ -1,37 +1,37 @@
 state/ut,literacy-group,males,literacy-group,females
-00,Matric/Secondary but below graduate,0.03274846944485517,Matric/Secondary but below graduate,0.02295511024002651
-01,Matric/Secondary but below graduate,0.07779405125573324,Matric/Secondary but below graduate,0.05413243309200358
-02,Matric/Secondary but below graduate,0.030285711167523915,Matric/Secondary but below graduate,0.021486793650925037
-03,Matric/Secondary but below graduate,0.15948287727727756,Matric/Secondary but below graduate,0.13010260401638507
-04,Graduate and above,0.12368447791576181,Graduate and above,0.1332408006116427
-05,Matric/Secondary but below graduate,0.00829153020189876,Graduate and above,0.005874686951793052
-06,Matric/Secondary but below graduate,0.023004232613995947,Matric/Secondary but below graduate,0.01697449751735892
-07,Graduate and above,0.03978035291030947,Graduate and above,0.038712973271979194
-08,Matric/Secondary but below graduate,0.007074231982861128,Matric/Secondary but below graduate,0.0038751187970945625
-09,Matric/Secondary but below graduate,0.005519795031628387,Matric/Secondary but below graduate,0.0038139936701729773
-10,Matric/Secondary but below graduate,0.005936273775839515,Matric/Secondary but below graduate,0.0036251767442014504
-11,Matric/Secondary but below graduate,0.0936081963661126,Matric/Secondary but below graduate,0.08873175261819712
-12,Matric/Secondary but below graduate,0.09045932832057732,Matric/Secondary but below graduate,0.06779931772205758
-13,Matric/Secondary but below graduate,0.0880125779657229,Matric/Secondary but below graduate,0.07224069117568431
-14,Matric/Secondary but below graduate,0.091335519739522,Matric/Secondary but below graduate,0.06734720662034084
-15,Matric/Secondary but below graduate,0.021125834850424696,Matric/Secondary but below graduate,0.012475386026460368
-16,Matric/Secondary but below graduate,0.024120560655919623,Matric/Secondary but below graduate,0.012423167907816493
-17,Matric/Secondary but below graduate,0.03552276663860274,Matric/Secondary but below graduate,0.024529221582623585
-18,Matric/Secondary but below graduate,0.05416211846298519,Matric/Secondary but below graduate,0.03585256331777013
-19,Graduate and above,0.01614028422338281,Graduate and above,0.009575711366572958
-20,Matric/Secondary but below graduate,0.01806245187995616,Matric/Secondary but below graduate,0.010568994456843735
-21,Matric/Secondary but below graduate,0.06428079661567322,Matric/Secondary but below graduate,0.041118275132522836
-22,Matric/Secondary but below graduate,0.0053231168804856585,Graduate and above,0.0036541765878299157
-23,Matric/Secondary but below graduate,0.007233749507408559,Matric/Secondary but below graduate,0.004566479210057615
-24,Matric/Secondary but below graduate,0.07109166162293919,Matric/Secondary but below graduate,0.046728472201879534
-25,Matric/Secondary but below graduate,0.07500282765916394,Matric/Secondary but below graduate,0.06262776235663718
-26,Matric/Secondary but below graduate,0.06773843930635838,Matric/Secondary but below graduate,0.041420749721572
-27,Matric/Secondary but below graduate,0.08036932334045109,Matric/Secondary but below graduate,0.05729862977368888
-28,Matric/Secondary but below graduate,0.035483596894464293,Matric/Secondary but below graduate,0.023423969326388416
-29,Matric/Secondary but below graduate,0.055619468384979366,Matric/Secondary but below graduate,0.039311631723171044
-30,Matric/Secondary but below graduate,0.22355169521335605,Matric/Secondary but below graduate,0.18079802058645686
-31,Matric/Secondary but below graduate,0.09467741448540289,Matric/Secondary but below graduate,0.05543859649122807
-32,Matric/Secondary but below graduate,0.052286170718017354,Matric/Secondary but below graduate,0.03824232827304355
-33,Matric/Secondary but below graduate,0.015477347582425412,Matric/Secondary but below graduate,0.010524297291334082
-34,Graduate and above,0.028275410564055175,Graduate and above,0.020165491106977504
-35,Matric/Secondary but below graduate,0.08693701909094942,Matric/Secondary but below graduate,0.07360306116706994
+00,Graduate and above,0.3161509157307399,Graduate and above,0.3374330698448987
+01,Graduate and above,0.6697908437770229,Graduate and above,0.6803136820009109
+02,Graduate and above,0.15253778407733593,Graduate and above,0.1524572130266827
+03,Graduate and above,0.7675170753144971,Graduate and above,0.7655371053017237
+04,Graduate and above,0.6856360025967083,Graduate and above,0.7052115266707542
+05,Graduate and above,0.07198458017294578,Graduate and above,0.07300236050424389
+06,Graduate and above,0.1692450823306665,Graduate and above,0.19628013783198756
+07,Graduate and above,0.23276400871890893,Graduate and above,0.24714945591682272
+08,Graduate and above,0.07642623332711802,Graduate and above,0.08632444078257176
+09,Graduate and above,0.06493682011897516,Graduate and above,0.06924386594008528
+10,Graduate and above,0.08591620623775843,Graduate and above,0.08449069039022056
+11,Graduate and above,0.76049766718507,Graduate and above,0.7918379550041109
+12,Graduate and above,0.7146856986000549,Graduate and above,0.7169306008383791
+13,Graduate and above,0.7078626256530185,Graduate and above,0.6959803787982014
+14,Graduate and above,0.6636931641521446,Graduate and above,0.6211866840442687
+15,Graduate and above,0.2760862939004978,Graduate and above,0.20961481039116153
+16,Graduate and above,0.35156452759503953,Graduate and above,0.31393954178609906
+17,Graduate and above,0.5071797197210166,Graduate and above,0.4296733622873688
+18,Graduate and above,0.6387935066743216,Graduate and above,0.6003563519876164
+19,Graduate and above,0.2446069881790659,Graduate and above,0.2448353902839558
+20,Graduate and above,0.19314723220926666,Graduate and above,0.2174433996443312
+21,Graduate and above,0.673253084695414,Graduate and above,0.6559965092607933
+22,Graduate and above,0.09825499445439938,Graduate and above,0.12911788577210012
+23,Graduate and above,0.10859737110378831,Graduate and above,0.11769304627989843
+24,Graduate and above,0.7007514012131514,Graduate and above,0.6700027920195036
+25,Graduate and above,0.5323442136498516,Graduate and above,0.5793922778158556
+26,Graduate and above,0.5026580518524577,Graduate and above,0.5487260688066792
+27,Graduate and above,0.6420050734653967,Graduate and above,0.6568947488196439
+28,Graduate and above,0.3751353705395166,Graduate and above,0.36251012333109656
+29,Graduate and above,0.48148990301738426,Graduate and above,0.5019788502339753
+30,Graduate and above,0.8057021747640968,Graduate and above,0.804937389176781
+31,Graduate and above,0.7091906721536351,Graduate and above,0.6101895734597157
+32,Graduate and above,0.4290953350728696,Graduate and above,0.35301878234409656
+33,Graduate and above,0.15328745613658265,Graduate and above,0.1454464591173452
+34,Graduate and above,0.21789839208877482,Graduate and above,0.20486993780676932
+35,Graduate and above,0.5738511231830862,Graduate and above,0.523678466356648

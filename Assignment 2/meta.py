@@ -10,6 +10,9 @@ census_df = pd.read_excel("data/DDW_PCA0000_2011_Indiastatedist.xlsx", header=0)
 # Reading C13
 agec13_df = pd.read_excel("data/DDW-0000C-13.xls", skiprows=4, header=0).dropna()
 
+# Reading C8
+litc8_df = pd.read_excel("data/DDW-0000C-08.xlsx", skiprows=5, header=0).dropna()
+
 # Reading C17
 c17 = {}
 from os import listdir
@@ -318,6 +321,41 @@ for ind in lit_df.index:
     c19[str(sc)][litgrp][tcd]["mE1"] = census[str(sc)][tcd][lit_m] - int(lit_df["7"][ind])
     c19[str(sc)][litgrp][tcd]["fE1"] = census[str(sc)][tcd][lit_f] - int(lit_df["8"][ind])
 
+# Extract Data From C8
+c8_dct = {}
+for ind in litc8_df.index:
+    sc = int(litc8_df["sc"][ind])
+    if litc8_df[1][ind] != "All ages":
+        continue
+    c8_dct[sc] = c8_dct.get(sc, {})
+    c8_dct[sc][litc8_df["tru"][ind].strip()] = {
+        "Literate but below primary": {
+            "p":int(litc8_df[14][ind]),
+            "m":int(litc8_df[15][ind]),
+            "f":int(litc8_df[16][ind])
+        },
+        "Primary but below middle": {
+            "p":int(litc8_df[17][ind]),
+            "m":int(litc8_df[18][ind]),
+            "f":int(litc8_df[19][ind])
+        },
+        "Middle but below matric/secondary": {
+            "p":int(litc8_df[20][ind]),
+            "m":int(litc8_df[21][ind]),
+            "f":int(litc8_df[22][ind])
+        },
+        "Matric/Secondary but below graduate": {
+            "p":int(litc8_df[23][ind]) + int(litc8_df[26][ind]) + int(litc8_df[29][ind]) + int(litc8_df[32][ind]),
+            "m":int(litc8_df[24][ind]) + int(litc8_df[27][ind]) + int(litc8_df[30][ind]) + int(litc8_df[33][ind]),
+            "f":int(litc8_df[25][ind]) + int(litc8_df[28][ind]) + int(litc8_df[31][ind]) + int(litc8_df[34][ind])
+        },
+        "Graduate and above": {
+            "p":int(litc8_df[35][ind]),
+            "m":int(litc8_df[36][ind]),
+            "f":int(litc8_df[37][ind])
+        }
+    }
+
 with open("meta/state_c17.json", "w") as stc17:
     json.dump(sttw, stc17, indent="\t")
 
@@ -338,3 +376,6 @@ with open("meta/lit_c19.json", "w") as litc19:
 
 with open("meta/lit_c19_literate.json", "w") as litc19:
     json.dump(c19_lit, litc19, indent="\t")
+
+with open("meta/c8_lit.json", "w") as litc8:
+    json.dump(c8_dct, litc8, indent="\t")

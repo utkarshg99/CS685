@@ -1,0 +1,2990 @@
+{
+	"0": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 146897597,
+				"m": 78445099,
+				"f": 68452498
+			},
+			"Primary but below middle": {
+				"p": 184170833,
+				"m": 99311072,
+				"f": 84859761
+			},
+			"Middle but below matric/secondary": {
+				"p": 133903266,
+				"m": 77629578,
+				"f": 56273688
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 192193344,
+				"m": 116331881,
+				"f": 75861463
+			},
+			"Graduate and above": {
+				"p": 68288971,
+				"m": 42120460,
+				"f": 26168511
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 109643998,
+				"m": 59106785,
+				"f": 50537213
+			},
+			"Primary but below middle": {
+				"p": 130265150,
+				"m": 71805082,
+				"f": 58460068
+			},
+			"Middle but below matric/secondary": {
+				"p": 90343798,
+				"m": 53864377,
+				"f": 36479421
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 105238622,
+				"m": 66910802,
+				"f": 38327820
+			},
+			"Graduate and above": {
+				"p": 22339967,
+				"m": 15659295,
+				"f": 6680672
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 37253599,
+				"m": 19338314,
+				"f": 17915285
+			},
+			"Primary but below middle": {
+				"p": 53905683,
+				"m": 27505990,
+				"f": 26399693
+			},
+			"Middle but below matric/secondary": {
+				"p": 43559468,
+				"m": 23765201,
+				"f": 19794267
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 86954722,
+				"m": 49421079,
+				"f": 37533643
+			},
+			"Graduate and above": {
+				"p": 45949004,
+				"m": 26461165,
+				"f": 19487839
+			}
+		}
+	},
+	"1": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 987774,
+				"m": 541130,
+				"f": 446644
+			},
+			"Primary but below middle": {
+				"p": 1285909,
+				"m": 719512,
+				"f": 566397
+			},
+			"Middle but below matric/secondary": {
+				"p": 1666381,
+				"m": 1015129,
+				"f": 651252
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 2244013,
+				"m": 1443868,
+				"f": 800145
+			},
+			"Graduate and above": {
+				"p": 653764,
+				"m": 401279,
+				"f": 252485
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 763590,
+				"m": 419327,
+				"f": 344263
+			},
+			"Primary but below middle": {
+				"p": 999472,
+				"m": 564510,
+				"f": 434962
+			},
+			"Middle but below matric/secondary": {
+				"p": 1243109,
+				"m": 770561,
+				"f": 472548
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 1350234,
+				"m": 878414,
+				"f": 471820
+			},
+			"Graduate and above": {
+				"p": 254288,
+				"m": 173914,
+				"f": 80374
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 224184,
+				"m": 121803,
+				"f": 102381
+			},
+			"Primary but below middle": {
+				"p": 286437,
+				"m": 155002,
+				"f": 131435
+			},
+			"Middle but below matric/secondary": {
+				"p": 423272,
+				"m": 244568,
+				"f": 178704
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 893779,
+				"m": 565454,
+				"f": 328325
+			},
+			"Graduate and above": {
+				"p": 399476,
+				"m": 227365,
+				"f": 172111
+			}
+		}
+	},
+	"2": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 611475,
+				"m": 326058,
+				"f": 285417
+			},
+			"Primary but below middle": {
+				"p": 1162995,
+				"m": 576764,
+				"f": 586231
+			},
+			"Middle but below matric/secondary": {
+				"p": 826611,
+				"m": 452919,
+				"f": 373692
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 1852386,
+				"m": 1076380,
+				"f": 776006
+			},
+			"Graduate and above": {
+				"p": 446609,
+				"m": 251164,
+				"f": 195445
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 559188,
+				"m": 297122,
+				"f": 262066
+			},
+			"Primary but below middle": {
+				"p": 1081117,
+				"m": 532805,
+				"f": 548312
+			},
+			"Middle but below matric/secondary": {
+				"p": 755572,
+				"m": 412688,
+				"f": 342884
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 1632461,
+				"m": 951146,
+				"f": 681315
+			},
+			"Graduate and above": {
+				"p": 315940,
+				"m": 181122,
+				"f": 134818
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 52287,
+				"m": 28936,
+				"f": 23351
+			},
+			"Primary but below middle": {
+				"p": 81878,
+				"m": 43959,
+				"f": 37919
+			},
+			"Middle but below matric/secondary": {
+				"p": 71039,
+				"m": 40231,
+				"f": 30808
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 219925,
+				"m": 125234,
+				"f": 94691
+			},
+			"Graduate and above": {
+				"p": 130669,
+				"m": 70042,
+				"f": 60627
+			}
+		}
+	},
+	"3": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 2227684,
+				"m": 1273936,
+				"f": 953748
+			},
+			"Primary but below middle": {
+				"p": 4288200,
+				"m": 2273540,
+				"f": 2014660
+			},
+			"Middle but below matric/secondary": {
+				"p": 3066305,
+				"m": 1747063,
+				"f": 1319242
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 6755536,
+				"m": 3945160,
+				"f": 2810376
+			},
+			"Graduate and above": {
+				"p": 1760846,
+				"m": 873776,
+				"f": 887070
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 1454338,
+				"m": 832909,
+				"f": 621429
+			},
+			"Primary but below middle": {
+				"p": 2953365,
+				"m": 1555595,
+				"f": 1397770
+			},
+			"Middle but below matric/secondary": {
+				"p": 1965243,
+				"m": 1117838,
+				"f": 847405
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 3788069,
+				"m": 2225263,
+				"f": 1562806
+			},
+			"Graduate and above": {
+				"p": 460985,
+				"m": 227170,
+				"f": 233815
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 773346,
+				"m": 441027,
+				"f": 332319
+			},
+			"Primary but below middle": {
+				"p": 1334835,
+				"m": 717945,
+				"f": 616890
+			},
+			"Middle but below matric/secondary": {
+				"p": 1101062,
+				"m": 629225,
+				"f": 471837
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 2967467,
+				"m": 1719897,
+				"f": 1247570
+			},
+			"Graduate and above": {
+				"p": 1299861,
+				"m": 646606,
+				"f": 653255
+			}
+		}
+	},
+	"4": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 90869,
+				"m": 51211,
+				"f": 39658
+			},
+			"Primary but below middle": {
+				"p": 130243,
+				"m": 73645,
+				"f": 56598
+			},
+			"Middle but below matric/secondary": {
+				"p": 111879,
+				"m": 67964,
+				"f": 43915
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 265112,
+				"m": 161391,
+				"f": 103721
+			},
+			"Graduate and above": {
+				"p": 194453,
+				"m": 104748,
+				"f": 89705
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 2997,
+				"m": 1738,
+				"f": 1259
+			},
+			"Primary but below middle": {
+				"p": 4091,
+				"m": 2484,
+				"f": 1607
+			},
+			"Middle but below matric/secondary": {
+				"p": 3461,
+				"m": 2269,
+				"f": 1192
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 7252,
+				"m": 4886,
+				"f": 2366
+			},
+			"Graduate and above": {
+				"p": 1872,
+				"m": 1195,
+				"f": 677
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 87872,
+				"m": 49473,
+				"f": 38399
+			},
+			"Primary but below middle": {
+				"p": 126152,
+				"m": 71161,
+				"f": 54991
+			},
+			"Middle but below matric/secondary": {
+				"p": 108418,
+				"m": 65695,
+				"f": 42723
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 257860,
+				"m": 156505,
+				"f": 101355
+			},
+			"Graduate and above": {
+				"p": 192581,
+				"m": 103553,
+				"f": 89028
+			}
+		}
+	},
+	"5": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 1034583,
+				"m": 554430,
+				"f": 480153
+			},
+			"Primary but below middle": {
+				"p": 1550574,
+				"m": 803056,
+				"f": 747518
+			},
+			"Middle but below matric/secondary": {
+				"p": 1406871,
+				"m": 806770,
+				"f": 600101
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 1815486,
+				"m": 1105814,
+				"f": 709672
+			},
+			"Graduate and above": {
+				"p": 910288,
+				"m": 512068,
+				"f": 398220
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 763789,
+				"m": 405044,
+				"f": 358745
+			},
+			"Primary but below middle": {
+				"p": 1158397,
+				"m": 595425,
+				"f": 562972
+			},
+			"Middle but below matric/secondary": {
+				"p": 1055738,
+				"m": 607483,
+				"f": 448255
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 1139544,
+				"m": 703380,
+				"f": 436164
+			},
+			"Graduate and above": {
+				"p": 386054,
+				"m": 231662,
+				"f": 154392
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 270794,
+				"m": 149386,
+				"f": 121408
+			},
+			"Primary but below middle": {
+				"p": 392177,
+				"m": 207631,
+				"f": 184546
+			},
+			"Middle but below matric/secondary": {
+				"p": 351133,
+				"m": 199287,
+				"f": 151846
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 675942,
+				"m": 402434,
+				"f": 273508
+			},
+			"Graduate and above": {
+				"p": 524234,
+				"m": 280406,
+				"f": 243828
+			}
+		}
+	},
+	"6": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 2473145,
+				"m": 1403012,
+				"f": 1070133
+			},
+			"Primary but below middle": {
+				"p": 3772022,
+				"m": 2075334,
+				"f": 1696688
+			},
+			"Middle but below matric/secondary": {
+				"p": 2705282,
+				"m": 1557670,
+				"f": 1147612
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 5343778,
+				"m": 3426435,
+				"f": 1917343
+			},
+			"Graduate and above": {
+				"p": 1877085,
+				"m": 1102809,
+				"f": 774276
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 1721502,
+				"m": 979683,
+				"f": 741819
+			},
+			"Primary but below middle": {
+				"p": 2663725,
+				"m": 1481060,
+				"f": 1182665
+			},
+			"Middle but below matric/secondary": {
+				"p": 1790768,
+				"m": 1044222,
+				"f": 746546
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 3163290,
+				"m": 2113805,
+				"f": 1049485
+			},
+			"Graduate and above": {
+				"p": 565061,
+				"m": 381815,
+				"f": 183246
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 751643,
+				"m": 423329,
+				"f": 328314
+			},
+			"Primary but below middle": {
+				"p": 1108297,
+				"m": 594274,
+				"f": 514023
+			},
+			"Middle but below matric/secondary": {
+				"p": 914514,
+				"m": 513448,
+				"f": 401066
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 2180488,
+				"m": 1312630,
+				"f": 867858
+			},
+			"Graduate and above": {
+				"p": 1312024,
+				"m": 720994,
+				"f": 591030
+			}
+		}
+	},
+	"7": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 1458061,
+				"m": 796975,
+				"f": 661086
+			},
+			"Primary but below middle": {
+				"p": 2230894,
+				"m": 1197622,
+				"f": 1033272
+			},
+			"Middle but below matric/secondary": {
+				"p": 1931411,
+				"m": 1099958,
+				"f": 831453
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 3891873,
+				"m": 2316711,
+				"f": 1575162
+			},
+			"Graduate and above": {
+				"p": 2757844,
+				"m": 1535972,
+				"f": 1221872
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 40394,
+				"m": 22595,
+				"f": 17799
+			},
+			"Primary but below middle": {
+				"p": 59411,
+				"m": 31897,
+				"f": 27514
+			},
+			"Middle but below matric/secondary": {
+				"p": 52739,
+				"m": 30035,
+				"f": 22704
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 106976,
+				"m": 67448,
+				"f": 39528
+			},
+			"Graduate and above": {
+				"p": 28558,
+				"m": 17725,
+				"f": 10833
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 1417667,
+				"m": 774380,
+				"f": 643287
+			},
+			"Primary but below middle": {
+				"p": 2171483,
+				"m": 1165725,
+				"f": 1005758
+			},
+			"Middle but below matric/secondary": {
+				"p": 1878672,
+				"m": 1069923,
+				"f": 808749
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 3784897,
+				"m": 2249263,
+				"f": 1535634
+			},
+			"Graduate and above": {
+				"p": 2729286,
+				"m": 1518247,
+				"f": 1211039
+			}
+		}
+	},
+	"8": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 8083827,
+				"m": 4423518,
+				"f": 3660309
+			},
+			"Primary but below middle": {
+				"p": 10524424,
+				"m": 6143552,
+				"f": 4380872
+			},
+			"Middle but below matric/secondary": {
+				"p": 7319223,
+				"m": 4788350,
+				"f": 2530873
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 7298204,
+				"m": 5056123,
+				"f": 2242081
+			},
+			"Graduate and above": {
+				"p": 3063282,
+				"m": 2086247,
+				"f": 977035
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 6350821,
+				"m": 3506792,
+				"f": 2844029
+			},
+			"Primary but below middle": {
+				"p": 8056837,
+				"m": 4849831,
+				"f": 3207006
+			},
+			"Middle but below matric/secondary": {
+				"p": 5238474,
+				"m": 3592691,
+				"f": 1645783
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 4288581,
+				"m": 3177365,
+				"f": 1111216
+			},
+			"Graduate and above": {
+				"p": 1130814,
+				"m": 905012,
+				"f": 225802
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 1733006,
+				"m": 916726,
+				"f": 816280
+			},
+			"Primary but below middle": {
+				"p": 2467587,
+				"m": 1293721,
+				"f": 1173866
+			},
+			"Middle but below matric/secondary": {
+				"p": 2080749,
+				"m": 1195659,
+				"f": 885090
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 3009623,
+				"m": 1878758,
+				"f": 1130865
+			},
+			"Graduate and above": {
+				"p": 1932468,
+				"m": 1181235,
+				"f": 751233
+			}
+		}
+	},
+	"9": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 21424480,
+				"m": 11763367,
+				"f": 9661113
+			},
+			"Primary but below middle": {
+				"p": 27798792,
+				"m": 15505178,
+				"f": 12293614
+			},
+			"Middle but below matric/secondary": {
+				"p": 23122728,
+				"m": 14276668,
+				"f": 8846060
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 26270147,
+				"m": 16809553,
+				"f": 9460594
+			},
+			"Graduate and above": {
+				"p": 9919838,
+				"m": 6378138,
+				"f": 3541700
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 17578607,
+				"m": 9646918,
+				"f": 7931689
+			},
+			"Primary but below middle": {
+				"p": 22391245,
+				"m": 12594860,
+				"f": 9796385
+			},
+			"Middle but below matric/secondary": {
+				"p": 18300002,
+				"m": 11539043,
+				"f": 6760959
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 18176802,
+				"m": 12118271,
+				"f": 6058531
+			},
+			"Graduate and above": {
+				"p": 4654942,
+				"m": 3344339,
+				"f": 1310603
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 3845873,
+				"m": 2116449,
+				"f": 1729424
+			},
+			"Primary but below middle": {
+				"p": 5407547,
+				"m": 2910318,
+				"f": 2497229
+			},
+			"Middle but below matric/secondary": {
+				"p": 4822726,
+				"m": 2737625,
+				"f": 2085101
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 8093345,
+				"m": 4691282,
+				"f": 3402063
+			},
+			"Graduate and above": {
+				"p": 5264896,
+				"m": 3033799,
+				"f": 2231097
+			}
+		}
+	},
+	"10": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 13701980,
+				"m": 7308358,
+				"f": 6393622
+			},
+			"Primary but below middle": {
+				"p": 13154969,
+				"m": 7625383,
+				"f": 5529586
+			},
+			"Middle but below matric/secondary": {
+				"p": 7969599,
+				"m": 4930890,
+				"f": 3038709
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 11234040,
+				"m": 7458931,
+				"f": 3775109
+			},
+			"Graduate and above": {
+				"p": 3061676,
+				"m": 2326092,
+				"f": 735584
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 12370917,
+				"m": 6611758,
+				"f": 5759159
+			},
+			"Primary but below middle": {
+				"p": 11717783,
+				"m": 6878975,
+				"f": 4838808
+			},
+			"Middle but below matric/secondary": {
+				"p": 6873883,
+				"m": 4333233,
+				"f": 2540650
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 9017630,
+				"m": 6189519,
+				"f": 2828111
+			},
+			"Graduate and above": {
+				"p": 1851135,
+				"m": 1488731,
+				"f": 362404
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 1331063,
+				"m": 696600,
+				"f": 634463
+			},
+			"Primary but below middle": {
+				"p": 1437186,
+				"m": 746408,
+				"f": 690778
+			},
+			"Middle but below matric/secondary": {
+				"p": 1095716,
+				"m": 597657,
+				"f": 498059
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 2216410,
+				"m": 1269412,
+				"f": 946998
+			},
+			"Graduate and above": {
+				"p": 1210541,
+				"m": 837361,
+				"f": 373180
+			}
+		}
+	},
+	"11": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 116100,
+				"m": 66658,
+				"f": 49442
+			},
+			"Primary but below middle": {
+				"p": 115601,
+				"m": 62664,
+				"f": 52937
+			},
+			"Middle but below matric/secondary": {
+				"p": 69545,
+				"m": 37520,
+				"f": 32025
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 91178,
+				"m": 53420,
+				"f": 37758
+			},
+			"Graduate and above": {
+				"p": 32669,
+				"m": 19290,
+				"f": 13379
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 96333,
+				"m": 56198,
+				"f": 40135
+			},
+			"Primary but below middle": {
+				"p": 90078,
+				"m": 48838,
+				"f": 41240
+			},
+			"Middle but below matric/secondary": {
+				"p": 48951,
+				"m": 26434,
+				"f": 22517
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 56283,
+				"m": 34313,
+				"f": 21970
+			},
+			"Graduate and above": {
+				"p": 14545,
+				"m": 8888,
+				"f": 5657
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 19767,
+				"m": 10460,
+				"f": 9307
+			},
+			"Primary but below middle": {
+				"p": 25523,
+				"m": 13826,
+				"f": 11697
+			},
+			"Middle but below matric/secondary": {
+				"p": 20594,
+				"m": 11086,
+				"f": 9508
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 34895,
+				"m": 19107,
+				"f": 15788
+			},
+			"Graduate and above": {
+				"p": 18124,
+				"m": 10402,
+				"f": 7722
+			}
+		}
+	},
+	"12": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 164976,
+				"m": 88788,
+				"f": 76188
+			},
+			"Primary but below middle": {
+				"p": 189369,
+				"m": 102518,
+				"f": 86851
+			},
+			"Middle but below matric/secondary": {
+				"p": 145848,
+				"m": 82535,
+				"f": 63313
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 188681,
+				"m": 115956,
+				"f": 72725
+			},
+			"Graduate and above": {
+				"p": 53606,
+				"m": 36430,
+				"f": 17176
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 130062,
+				"m": 70679,
+				"f": 59383
+			},
+			"Primary but below middle": {
+				"p": 144994,
+				"m": 79508,
+				"f": 65486
+			},
+			"Middle but below matric/secondary": {
+				"p": 103066,
+				"m": 58908,
+				"f": 44158
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 112460,
+				"m": 70555,
+				"f": 41905
+			},
+			"Graduate and above": {
+				"p": 27668,
+				"m": 19476,
+				"f": 8192
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 34914,
+				"m": 18109,
+				"f": 16805
+			},
+			"Primary but below middle": {
+				"p": 44375,
+				"m": 23010,
+				"f": 21365
+			},
+			"Middle but below matric/secondary": {
+				"p": 42782,
+				"m": 23627,
+				"f": 19155
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 76221,
+				"m": 45401,
+				"f": 30820
+			},
+			"Graduate and above": {
+				"p": 25938,
+				"m": 16954,
+				"f": 8984
+			}
+		}
+	},
+	"13": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 258594,
+				"m": 134218,
+				"f": 124376
+			},
+			"Primary but below middle": {
+				"p": 330358,
+				"m": 170554,
+				"f": 159804
+			},
+			"Middle but below matric/secondary": {
+				"p": 304611,
+				"m": 164734,
+				"f": 139877
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 281452,
+				"m": 160007,
+				"f": 121445
+			},
+			"Graduate and above": {
+				"p": 89718,
+				"m": 53023,
+				"f": 36695
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 195040,
+				"m": 101132,
+				"f": 93908
+			},
+			"Primary but below middle": {
+				"p": 245799,
+				"m": 126574,
+				"f": 119225
+			},
+			"Middle but below matric/secondary": {
+				"p": 204421,
+				"m": 111718,
+				"f": 92703
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 155993,
+				"m": 90728,
+				"f": 65265
+			},
+			"Graduate and above": {
+				"p": 39983,
+				"m": 24521,
+				"f": 15462
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 63554,
+				"m": 33086,
+				"f": 30468
+			},
+			"Primary but below middle": {
+				"p": 84559,
+				"m": 43980,
+				"f": 40579
+			},
+			"Middle but below matric/secondary": {
+				"p": 100190,
+				"m": 53016,
+				"f": 47174
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 125459,
+				"m": 69279,
+				"f": 56180
+			},
+			"Graduate and above": {
+				"p": 49735,
+				"m": 28502,
+				"f": 21233
+			}
+		}
+	},
+	"14": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 243566,
+				"m": 123662,
+				"f": 119904
+			},
+			"Primary but below middle": {
+				"p": 326953,
+				"m": 164889,
+				"f": 162064
+			},
+			"Middle but below matric/secondary": {
+				"p": 457032,
+				"m": 251129,
+				"f": 205903
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 563369,
+				"m": 315644,
+				"f": 247725
+			},
+			"Graduate and above": {
+				"p": 225620,
+				"m": 135082,
+				"f": 90538
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 182156,
+				"m": 92797,
+				"f": 89359
+			},
+			"Primary but below middle": {
+				"p": 250145,
+				"m": 127663,
+				"f": 122482
+			},
+			"Middle but below matric/secondary": {
+				"p": 321923,
+				"m": 180386,
+				"f": 141537
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 358154,
+				"m": 205962,
+				"f": 152192
+			},
+			"Graduate and above": {
+				"p": 103602,
+				"m": 66363,
+				"f": 37239
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 61410,
+				"m": 30865,
+				"f": 30545
+			},
+			"Primary but below middle": {
+				"p": 76808,
+				"m": 37226,
+				"f": 39582
+			},
+			"Middle but below matric/secondary": {
+				"p": 135109,
+				"m": 70743,
+				"f": 64366
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 205215,
+				"m": 109682,
+				"f": 95533
+			},
+			"Graduate and above": {
+				"p": 122018,
+				"m": 68719,
+				"f": 53299
+			}
+		}
+	},
+	"15": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 215865,
+				"m": 105262,
+				"f": 110603
+			},
+			"Primary but below middle": {
+				"p": 207450,
+				"m": 108434,
+				"f": 99016
+			},
+			"Middle but below matric/secondary": {
+				"p": 201482,
+				"m": 104978,
+				"f": 96504
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 159276,
+				"m": 83510,
+				"f": 75766
+			},
+			"Graduate and above": {
+				"p": 49621,
+				"m": 29527,
+				"f": 20094
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 124917,
+				"m": 63665,
+				"f": 61252
+			},
+			"Primary but below middle": {
+				"p": 107206,
+				"m": 58312,
+				"f": 48894
+			},
+			"Middle but below matric/secondary": {
+				"p": 75244,
+				"m": 40653,
+				"f": 34591
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 39259,
+				"m": 22761,
+				"f": 16498
+			},
+			"Graduate and above": {
+				"p": 8889,
+				"m": 6149,
+				"f": 2740
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 90948,
+				"m": 41597,
+				"f": 49351
+			},
+			"Primary but below middle": {
+				"p": 100244,
+				"m": 50122,
+				"f": 50122
+			},
+			"Middle but below matric/secondary": {
+				"p": 126238,
+				"m": 64325,
+				"f": 61913
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 120017,
+				"m": 60749,
+				"f": 59268
+			},
+			"Graduate and above": {
+				"p": 40732,
+				"m": 23378,
+				"f": 17354
+			}
+		}
+	},
+	"16": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 725461,
+				"m": 363853,
+				"f": 361608
+			},
+			"Primary but below middle": {
+				"p": 698656,
+				"m": 363404,
+				"f": 335252
+			},
+			"Middle but below matric/secondary": {
+				"p": 592396,
+				"m": 320040,
+				"f": 272356
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 480515,
+				"m": 285987,
+				"f": 194528
+			},
+			"Graduate and above": {
+				"p": 137812,
+				"m": 88621,
+				"f": 49191
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 579471,
+				"m": 294874,
+				"f": 284597
+			},
+			"Primary but below middle": {
+				"p": 534359,
+				"m": 283731,
+				"f": 250628
+			},
+			"Middle but below matric/secondary": {
+				"p": 413619,
+				"m": 228022,
+				"f": 185597
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 289197,
+				"m": 180152,
+				"f": 109045
+			},
+			"Graduate and above": {
+				"p": 48053,
+				"m": 34869,
+				"f": 13184
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 145990,
+				"m": 68979,
+				"f": 77011
+			},
+			"Primary but below middle": {
+				"p": 164297,
+				"m": 79673,
+				"f": 84624
+			},
+			"Middle but below matric/secondary": {
+				"p": 178777,
+				"m": 92018,
+				"f": 86759
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 191318,
+				"m": 105835,
+				"f": 85483
+			},
+			"Graduate and above": {
+				"p": 89759,
+				"m": 53752,
+				"f": 36007
+			}
+		}
+	},
+	"17": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 609064,
+				"m": 311818,
+				"f": 297246
+			},
+			"Primary but below middle": {
+				"p": 412929,
+				"m": 203761,
+				"f": 209168
+			},
+			"Middle but below matric/secondary": {
+				"p": 297897,
+				"m": 151272,
+				"f": 146625
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 290310,
+				"m": 156544,
+				"f": 133766
+			},
+			"Graduate and above": {
+				"p": 90519,
+				"m": 46311,
+				"f": 44208
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 527346,
+				"m": 271443,
+				"f": 255903
+			},
+			"Primary but below middle": {
+				"p": 327955,
+				"m": 162619,
+				"f": 165336
+			},
+			"Middle but below matric/secondary": {
+				"p": 200963,
+				"m": 101714,
+				"f": 99249
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 160821,
+				"m": 87548,
+				"f": 73273
+			},
+			"Graduate and above": {
+				"p": 27487,
+				"m": 14884,
+				"f": 12603
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 81718,
+				"m": 40375,
+				"f": 41343
+			},
+			"Primary but below middle": {
+				"p": 84974,
+				"m": 41142,
+				"f": 43832
+			},
+			"Middle but below matric/secondary": {
+				"p": 96934,
+				"m": 49558,
+				"f": 47376
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 129489,
+				"m": 68996,
+				"f": 60493
+			},
+			"Graduate and above": {
+				"p": 63032,
+				"m": 31427,
+				"f": 31605
+			}
+		}
+	},
+	"18": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 4550439,
+				"m": 2469904,
+				"f": 2080535
+			},
+			"Primary but below middle": {
+				"p": 4383390,
+				"m": 2378849,
+				"f": 2004541
+			},
+			"Middle but below matric/secondary": {
+				"p": 4285011,
+				"m": 2248173,
+				"f": 2036838
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 3993107,
+				"m": 2304914,
+				"f": 1688193
+			},
+			"Graduate and above": {
+				"p": 1011345,
+				"m": 639241,
+				"f": 372104
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 4059010,
+				"m": 2219933,
+				"f": 1839077
+			},
+			"Primary but below middle": {
+				"p": 3787871,
+				"m": 2066648,
+				"f": 1721223
+			},
+			"Middle but below matric/secondary": {
+				"p": 3572051,
+				"m": 1885166,
+				"f": 1686885
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 2941276,
+				"m": 1736400,
+				"f": 1204876
+			},
+			"Graduate and above": {
+				"p": 507240,
+				"m": 340774,
+				"f": 166466
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 491429,
+				"m": 249971,
+				"f": 241458
+			},
+			"Primary but below middle": {
+				"p": 595519,
+				"m": 312201,
+				"f": 283318
+			},
+			"Middle but below matric/secondary": {
+				"p": 712960,
+				"m": 363007,
+				"f": 349953
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 1051831,
+				"m": 568514,
+				"f": 483317
+			},
+			"Graduate and above": {
+				"p": 504105,
+				"m": 298467,
+				"f": 205638
+			}
+		}
+	},
+	"19": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 15902612,
+				"m": 8437465,
+				"f": 7465147
+			},
+			"Primary but below middle": {
+				"p": 14954591,
+				"m": 7897027,
+				"f": 7057564
+			},
+			"Middle but below matric/secondary": {
+				"p": 12474301,
+				"m": 6684464,
+				"f": 5789837
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 11189459,
+				"m": 6540090,
+				"f": 4649369
+			},
+			"Graduate and above": {
+				"p": 4827817,
+				"m": 3088673,
+				"f": 1739144
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 11970137,
+				"m": 6421511,
+				"f": 5548626
+			},
+			"Primary but below middle": {
+				"p": 10626781,
+				"m": 5687905,
+				"f": 4938876
+			},
+			"Middle but below matric/secondary": {
+				"p": 8167485,
+				"m": 4449851,
+				"f": 3717634
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 5704125,
+				"m": 3516531,
+				"f": 2187594
+			},
+			"Graduate and above": {
+				"p": 1402776,
+				"m": 1042854,
+				"f": 359922
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 3932475,
+				"m": 2015954,
+				"f": 1916521
+			},
+			"Primary but below middle": {
+				"p": 4327810,
+				"m": 2209122,
+				"f": 2118688
+			},
+			"Middle but below matric/secondary": {
+				"p": 4306816,
+				"m": 2234613,
+				"f": 2072203
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 5485334,
+				"m": 3023559,
+				"f": 2461775
+			},
+			"Graduate and above": {
+				"p": 3425041,
+				"m": 2045819,
+				"f": 1379222
+			}
+		}
+	},
+	"20": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 4293415,
+				"m": 2292684,
+				"f": 2000731
+			},
+			"Primary but below middle": {
+				"p": 4808604,
+				"m": 2752242,
+				"f": 2056362
+			},
+			"Middle but below matric/secondary": {
+				"p": 3091107,
+				"m": 1895039,
+				"f": 1196068
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 4021045,
+				"m": 2579486,
+				"f": 1441559
+			},
+			"Graduate and above": {
+				"p": 1328477,
+				"m": 906174,
+				"f": 422303
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 3446217,
+				"m": 1851175,
+				"f": 1595042
+			},
+			"Primary but below middle": {
+				"p": 3759149,
+				"m": 2219230,
+				"f": 1539919
+			},
+			"Middle but below matric/secondary": {
+				"p": 2202517,
+				"m": 1409430,
+				"f": 793087
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 2204801,
+				"m": 1514555,
+				"f": 690246
+			},
+			"Graduate and above": {
+				"p": 414891,
+				"m": 321799,
+				"f": 93092
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 847198,
+				"m": 441509,
+				"f": 405689
+			},
+			"Primary but below middle": {
+				"p": 1049455,
+				"m": 533012,
+				"f": 516443
+			},
+			"Middle but below matric/secondary": {
+				"p": 888590,
+				"m": 485609,
+				"f": 402981
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 1816244,
+				"m": 1064931,
+				"f": 751313
+			},
+			"Graduate and above": {
+				"p": 913586,
+				"m": 584375,
+				"f": 329211
+			}
+		}
+	},
+	"21": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 5886571,
+				"m": 3126770,
+				"f": 2759801
+			},
+			"Primary but below middle": {
+				"p": 7714716,
+				"m": 4157327,
+				"f": 3557389
+			},
+			"Middle but below matric/secondary": {
+				"p": 5285243,
+				"m": 3035765,
+				"f": 2249478
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 5178562,
+				"m": 3122104,
+				"f": 2056458
+			},
+			"Graduate and above": {
+				"p": 1783797,
+				"m": 1174184,
+				"f": 609613
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 5154817,
+				"m": 2761589,
+				"f": 2393228
+			},
+			"Primary but below middle": {
+				"p": 6574302,
+				"m": 3588993,
+				"f": 2985309
+			},
+			"Middle but below matric/secondary": {
+				"p": 4411216,
+				"m": 2554590,
+				"f": 1856626
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 3608295,
+				"m": 2230560,
+				"f": 1377735
+			},
+			"Graduate and above": {
+				"p": 899969,
+				"m": 626900,
+				"f": 273069
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 731754,
+				"m": 365181,
+				"f": 366573
+			},
+			"Primary but below middle": {
+				"p": 1140414,
+				"m": 568334,
+				"f": 572080
+			},
+			"Middle but below matric/secondary": {
+				"p": 874027,
+				"m": 481175,
+				"f": 392852
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 1570267,
+				"m": 891544,
+				"f": 678723
+			},
+			"Graduate and above": {
+				"p": 883828,
+				"m": 547284,
+				"f": 336544
+			}
+		}
+	},
+	"22": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 3687369,
+				"m": 2011523,
+				"f": 1675846
+			},
+			"Primary but below middle": {
+				"p": 4192144,
+				"m": 2267581,
+				"f": 1924563
+			},
+			"Middle but below matric/secondary": {
+				"p": 3202404,
+				"m": 1825488,
+				"f": 1376916
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 2856326,
+				"m": 1815791,
+				"f": 1040535
+			},
+			"Graduate and above": {
+				"p": 1018853,
+				"m": 659081,
+				"f": 359772
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 2983774,
+				"m": 1642972,
+				"f": 1340802
+			},
+			"Primary but below middle": {
+				"p": 3271118,
+				"m": 1790520,
+				"f": 1480598
+			},
+			"Middle but below matric/secondary": {
+				"p": 2443110,
+				"m": 1421517,
+				"f": 1021593
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 1652897,
+				"m": 1114762,
+				"f": 538135
+			},
+			"Graduate and above": {
+				"p": 336785,
+				"m": 256863,
+				"f": 79922
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 703595,
+				"m": 368551,
+				"f": 335044
+			},
+			"Primary but below middle": {
+				"p": 921026,
+				"m": 477061,
+				"f": 443965
+			},
+			"Middle but below matric/secondary": {
+				"p": 759294,
+				"m": 403971,
+				"f": 355323
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 1203429,
+				"m": 701029,
+				"f": 502400
+			},
+			"Graduate and above": {
+				"p": 682068,
+				"m": 402218,
+				"f": 279850
+			}
+		}
+	},
+	"23": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 9582214,
+				"m": 5242949,
+				"f": 4339265
+			},
+			"Primary but below middle": {
+				"p": 11878241,
+				"m": 6640472,
+				"f": 5237769
+			},
+			"Middle but below matric/secondary": {
+				"p": 8431000,
+				"m": 5094579,
+				"f": 3336421
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 7744058,
+				"m": 5009908,
+				"f": 2734150
+			},
+			"Graduate and above": {
+				"p": 3222802,
+				"m": 2051127,
+				"f": 1171675
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 7479650,
+				"m": 4119981,
+				"f": 3359669
+			},
+			"Primary but below middle": {
+				"p": 8840409,
+				"m": 5042491,
+				"f": 3797918
+			},
+			"Middle but below matric/secondary": {
+				"p": 5854741,
+				"m": 3683782,
+				"f": 2170959
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 3866093,
+				"m": 2740477,
+				"f": 1125616
+			},
+			"Graduate and above": {
+				"p": 835601,
+				"m": 640936,
+				"f": 194665
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 2102564,
+				"m": 1122968,
+				"f": 979596
+			},
+			"Primary but below middle": {
+				"p": 3037832,
+				"m": 1597981,
+				"f": 1439851
+			},
+			"Middle but below matric/secondary": {
+				"p": 2576259,
+				"m": 1410797,
+				"f": 1165462
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 3877965,
+				"m": 2269431,
+				"f": 1608534
+			},
+			"Graduate and above": {
+				"p": 2387201,
+				"m": 1410191,
+				"f": 977010
+			}
+		}
+	},
+	"24": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 8462829,
+				"m": 4486708,
+				"f": 3976121
+			},
+			"Primary but below middle": {
+				"p": 10557001,
+				"m": 5568559,
+				"f": 4988442
+			},
+			"Middle but below matric/secondary": {
+				"p": 6453935,
+				"m": 4031450,
+				"f": 2422485
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 9984720,
+				"m": 6193323,
+				"f": 3791397
+			},
+			"Graduate and above": {
+				"p": 3174158,
+				"m": 1891932,
+				"f": 1282226
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 5538772,
+				"m": 2959945,
+				"f": 2578827
+			},
+			"Primary but below middle": {
+				"p": 6296439,
+				"m": 3391739,
+				"f": 2904700
+			},
+			"Middle but below matric/secondary": {
+				"p": 3370371,
+				"m": 2165852,
+				"f": 1204519
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 4188596,
+				"m": 2767138,
+				"f": 1421458
+			},
+			"Graduate and above": {
+				"p": 670430,
+				"m": 452150,
+				"f": 218280
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 2924057,
+				"m": 1526763,
+				"f": 1397294
+			},
+			"Primary but below middle": {
+				"p": 4260562,
+				"m": 2176820,
+				"f": 2083742
+			},
+			"Middle but below matric/secondary": {
+				"p": 3083564,
+				"m": 1865598,
+				"f": 1217966
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 5796124,
+				"m": 3426185,
+				"f": 2369939
+			},
+			"Graduate and above": {
+				"p": 2503728,
+				"m": 1439782,
+				"f": 1063946
+			}
+		}
+	},
+	"25": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 26623,
+				"m": 15332,
+				"f": 11291
+			},
+			"Primary but below middle": {
+				"p": 41447,
+				"m": 26048,
+				"f": 15399
+			},
+			"Middle but below matric/secondary": {
+				"p": 35626,
+				"m": 24792,
+				"f": 10834
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 64988,
+				"m": 45447,
+				"f": 19541
+			},
+			"Graduate and above": {
+				"p": 12802,
+				"m": 8425,
+				"f": 4377
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 7966,
+				"m": 4407,
+				"f": 3559
+			},
+			"Primary but below middle": {
+				"p": 11437,
+				"m": 6564,
+				"f": 4873
+			},
+			"Middle but below matric/secondary": {
+				"p": 8118,
+				"m": 4812,
+				"f": 3306
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 12485,
+				"m": 7745,
+				"f": 4740
+			},
+			"Graduate and above": {
+				"p": 1669,
+				"m": 1223,
+				"f": 446
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 18657,
+				"m": 10925,
+				"f": 7732
+			},
+			"Primary but below middle": {
+				"p": 30010,
+				"m": 19484,
+				"f": 10526
+			},
+			"Middle but below matric/secondary": {
+				"p": 27508,
+				"m": 19980,
+				"f": 7528
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 52503,
+				"m": 37702,
+				"f": 14801
+			},
+			"Graduate and above": {
+				"p": 11133,
+				"m": 7202,
+				"f": 3931
+			}
+		}
+	},
+	"26": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 43709,
+				"m": 24482,
+				"f": 19227
+			},
+			"Primary but below middle": {
+				"p": 48436,
+				"m": 28803,
+				"f": 19633
+			},
+			"Middle but below matric/secondary": {
+				"p": 37385,
+				"m": 24919,
+				"f": 12466
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 60876,
+				"m": 43072,
+				"f": 17804
+			},
+			"Graduate and above": {
+				"p": 19174,
+				"m": 12227,
+				"f": 6947
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 27374,
+				"m": 15424,
+				"f": 11950
+			},
+			"Primary but below middle": {
+				"p": 26687,
+				"m": 16288,
+				"f": 10399
+			},
+			"Middle but below matric/secondary": {
+				"p": 16968,
+				"m": 11513,
+				"f": 5455
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 18679,
+				"m": 14200,
+				"f": 4479
+			},
+			"Graduate and above": {
+				"p": 3179,
+				"m": 2242,
+				"f": 937
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 16335,
+				"m": 9058,
+				"f": 7277
+			},
+			"Primary but below middle": {
+				"p": 21749,
+				"m": 12515,
+				"f": 9234
+			},
+			"Middle but below matric/secondary": {
+				"p": 20417,
+				"m": 13406,
+				"f": 7011
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 42197,
+				"m": 28872,
+				"f": 13325
+			},
+			"Graduate and above": {
+				"p": 15995,
+				"m": 9985,
+				"f": 6010
+			}
+		}
+	},
+	"27": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 15335820,
+				"m": 8069806,
+				"f": 7266014
+			},
+			"Primary but below middle": {
+				"p": 16628201,
+				"m": 8346143,
+				"f": 8282058
+			},
+			"Middle but below matric/secondary": {
+				"p": 12592729,
+				"m": 7132530,
+				"f": 5460199
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 23790264,
+				"m": 14262044,
+				"f": 9528220
+			},
+			"Graduate and above": {
+				"p": 8639081,
+				"m": 5167671,
+				"f": 3471410
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 9911854,
+				"m": 5299069,
+				"f": 4612785
+			},
+			"Primary but below middle": {
+				"p": 9436900,
+				"m": 4784289,
+				"f": 4652611
+			},
+			"Middle but below matric/secondary": {
+				"p": 6828364,
+				"m": 3917698,
+				"f": 2910666
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 10524811,
+				"m": 6593303,
+				"f": 3931508
+			},
+			"Graduate and above": {
+				"p": 2007858,
+				"m": 1440447,
+				"f": 567411
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 5423966,
+				"m": 2770737,
+				"f": 2653229
+			},
+			"Primary but below middle": {
+				"p": 7191301,
+				"m": 3561854,
+				"f": 3629447
+			},
+			"Middle but below matric/secondary": {
+				"p": 5764365,
+				"m": 3214832,
+				"f": 2549533
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 13265453,
+				"m": 7668741,
+				"f": 5596712
+			},
+			"Graduate and above": {
+				"p": 6631223,
+				"m": 3727224,
+				"f": 2903999
+			}
+		}
+	},
+	"28": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 7437519,
+				"m": 3884076,
+				"f": 3553443
+			},
+			"Primary but below middle": {
+				"p": 13449300,
+				"m": 6904114,
+				"f": 6545186
+			},
+			"Middle but below matric/secondary": {
+				"p": 5572154,
+				"m": 3006742,
+				"f": 2565412
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 15028263,
+				"m": 8885040,
+				"f": 6143223
+			},
+			"Graduate and above": {
+				"p": 5577387,
+				"m": 3632622,
+				"f": 1944765
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 5284438,
+				"m": 2791703,
+				"f": 2492735
+			},
+			"Primary but below middle": {
+				"p": 9157499,
+				"m": 4848653,
+				"f": 4308846
+			},
+			"Middle but below matric/secondary": {
+				"p": 3671765,
+				"m": 2052920,
+				"f": 1618845
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 8283695,
+				"m": 5151939,
+				"f": 3131756
+			},
+			"Graduate and above": {
+				"p": 1921725,
+				"m": 1382454,
+				"f": 539271
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 2153081,
+				"m": 1092373,
+				"f": 1060708
+			},
+			"Primary but below middle": {
+				"p": 4291801,
+				"m": 2055461,
+				"f": 2236340
+			},
+			"Middle but below matric/secondary": {
+				"p": 1900389,
+				"m": 953822,
+				"f": 946567
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 6744568,
+				"m": 3733101,
+				"f": 3011467
+			},
+			"Graduate and above": {
+				"p": 3655662,
+				"m": 2250168,
+				"f": 1405494
+			}
+		}
+	},
+	"29": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 6924069,
+				"m": 3655942,
+				"f": 3268127
+			},
+			"Primary but below middle": {
+				"p": 9493106,
+				"m": 4944027,
+				"f": 4549079
+			},
+			"Middle but below matric/secondary": {
+				"p": 5161708,
+				"m": 2869395,
+				"f": 2292313
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 12381901,
+				"m": 7129491,
+				"f": 5252410
+			},
+			"Graduate and above": {
+				"p": 4043647,
+				"m": 2489209,
+				"f": 1554438
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 4719828,
+				"m": 2535393,
+				"f": 2184435
+			},
+			"Primary but below middle": {
+				"p": 6052956,
+				"m": 3241250,
+				"f": 2811706
+			},
+			"Middle but below matric/secondary": {
+				"p": 3241101,
+				"m": 1866652,
+				"f": 1374449
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 5979561,
+				"m": 3632377,
+				"f": 2347184
+			},
+			"Graduate and above": {
+				"p": 982319,
+				"m": 694998,
+				"f": 287321
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 2204241,
+				"m": 1120549,
+				"f": 1083692
+			},
+			"Primary but below middle": {
+				"p": 3440150,
+				"m": 1702777,
+				"f": 1737373
+			},
+			"Middle but below matric/secondary": {
+				"p": 1920607,
+				"m": 1002743,
+				"f": 917864
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 6402340,
+				"m": 3497114,
+				"f": 2905226
+			},
+			"Graduate and above": {
+				"p": 3061328,
+				"m": 1794211,
+				"f": 1267117
+			}
+		}
+	},
+	"30": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 161303,
+				"m": 80497,
+				"f": 80806
+			},
+			"Primary but below middle": {
+				"p": 181495,
+				"m": 94300,
+				"f": 87195
+			},
+			"Middle but below matric/secondary": {
+				"p": 166523,
+				"m": 91716,
+				"f": 74807
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 402429,
+				"m": 226752,
+				"f": 175677
+			},
+			"Graduate and above": {
+				"p": 146828,
+				"m": 74077,
+				"f": 72751
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 68444,
+				"m": 34450,
+				"f": 33994
+			},
+			"Primary but below middle": {
+				"p": 72753,
+				"m": 37650,
+				"f": 35103
+			},
+			"Middle but below matric/secondary": {
+				"p": 73201,
+				"m": 40225,
+				"f": 32976
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 137838,
+				"m": 77803,
+				"f": 60035
+			},
+			"Graduate and above": {
+				"p": 34633,
+				"m": 17361,
+				"f": 17272
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 92859,
+				"m": 46047,
+				"f": 46812
+			},
+			"Primary but below middle": {
+				"p": 108742,
+				"m": 56650,
+				"f": 52092
+			},
+			"Middle but below matric/secondary": {
+				"p": 93322,
+				"m": 51491,
+				"f": 41831
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 264591,
+				"m": 148949,
+				"f": 115642
+			},
+			"Graduate and above": {
+				"p": 112195,
+				"m": 56716,
+				"f": 55479
+			}
+		}
+	},
+	"31": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 9410,
+				"m": 4523,
+				"f": 4887
+			},
+			"Primary but below middle": {
+				"p": 12813,
+				"m": 6500,
+				"f": 6313
+			},
+			"Middle but below matric/secondary": {
+				"p": 11305,
+				"m": 5970,
+				"f": 5335
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 13918,
+				"m": 8275,
+				"f": 5643
+			},
+			"Graduate and above": {
+				"p": 2302,
+				"m": 1458,
+				"f": 844
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 2116,
+				"m": 1095,
+				"f": 1021
+			},
+			"Primary but below middle": {
+				"p": 3055,
+				"m": 1522,
+				"f": 1533
+			},
+			"Middle but below matric/secondary": {
+				"p": 2181,
+				"m": 1035,
+				"f": 1146
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 2778,
+				"m": 1640,
+				"f": 1138
+			},
+			"Graduate and above": {
+				"p": 355,
+				"m": 256,
+				"f": 99
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 7294,
+				"m": 3428,
+				"f": 3866
+			},
+			"Primary but below middle": {
+				"p": 9758,
+				"m": 4978,
+				"f": 4780
+			},
+			"Middle but below matric/secondary": {
+				"p": 9124,
+				"m": 4935,
+				"f": 4189
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 11140,
+				"m": 6635,
+				"f": 4505
+			},
+			"Graduate and above": {
+				"p": 1947,
+				"m": 1202,
+				"f": 745
+			}
+		}
+	},
+	"32": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 4401497,
+				"m": 2076920,
+				"f": 2324577
+			},
+			"Primary but below middle": {
+				"p": 5065710,
+				"m": 2522296,
+				"f": 2543414
+			},
+			"Middle but below matric/secondary": {
+				"p": 5059809,
+				"m": 2590783,
+				"f": 2469026
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 9706516,
+				"m": 4755722,
+				"f": 4950794
+			},
+			"Graduate and above": {
+				"p": 2531321,
+				"m": 1131336,
+				"f": 1399985
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 2424369,
+				"m": 1155194,
+				"f": 1269175
+			},
+			"Primary but below middle": {
+				"p": 2726676,
+				"m": 1369388,
+				"f": 1357288
+			},
+			"Middle but below matric/secondary": {
+				"p": 2709892,
+				"m": 1391467,
+				"f": 1318425
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 4951852,
+				"m": 2428568,
+				"f": 2523284
+			},
+			"Graduate and above": {
+				"p": 1030491,
+				"m": 462498,
+				"f": 567993
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 1977128,
+				"m": 921726,
+				"f": 1055402
+			},
+			"Primary but below middle": {
+				"p": 2339034,
+				"m": 1152908,
+				"f": 1186126
+			},
+			"Middle but below matric/secondary": {
+				"p": 2349917,
+				"m": 1199316,
+				"f": 1150601
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 4754664,
+				"m": 2327154,
+				"f": 2427510
+			},
+			"Graduate and above": {
+				"p": 1500830,
+				"m": 668838,
+				"f": 831992
+			}
+		}
+	},
+	"33": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 5629379,
+				"m": 2861589,
+				"f": 2767790
+			},
+			"Primary but below middle": {
+				"p": 12325162,
+				"m": 6479422,
+				"f": 5845740
+			},
+			"Middle but below matric/secondary": {
+				"p": 9608004,
+				"m": 5087592,
+				"f": 4520412
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 16331186,
+				"m": 9206497,
+				"f": 7124689
+			},
+			"Graduate and above": {
+				"p": 5457742,
+				"m": 3119342,
+				"f": 2338400
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 3064611,
+				"m": 1587693,
+				"f": 1476918
+			},
+			"Primary but below middle": {
+				"p": 6728075,
+				"m": 3681444,
+				"f": 3046631
+			},
+			"Middle but below matric/secondary": {
+				"p": 5020643,
+				"m": 2754507,
+				"f": 2266136
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 7172661,
+				"m": 4177921,
+				"f": 2994740
+			},
+			"Graduate and above": {
+				"p": 1337768,
+				"m": 828750,
+				"f": 509018
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 2564768,
+				"m": 1273896,
+				"f": 1290872
+			},
+			"Primary but below middle": {
+				"p": 5597087,
+				"m": 2797978,
+				"f": 2799109
+			},
+			"Middle but below matric/secondary": {
+				"p": 4587361,
+				"m": 2333085,
+				"f": 2254276
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 9158525,
+				"m": 5028576,
+				"f": 4129949
+			},
+			"Graduate and above": {
+				"p": 4119974,
+				"m": 2290592,
+				"f": 1829382
+			}
+		}
+	},
+	"34": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 93186,
+				"m": 45162,
+				"f": 48024
+			},
+			"Primary but below middle": {
+				"p": 187723,
+				"m": 89632,
+				"f": 98091
+			},
+			"Middle but below matric/secondary": {
+				"p": 171301,
+				"m": 85255,
+				"f": 86046
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 336296,
+				"m": 185024,
+				"f": 151272
+			},
+			"Graduate and above": {
+				"p": 142029,
+				"m": 79482,
+				"f": 62547
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 29893,
+				"m": 14818,
+				"f": 15075
+			},
+			"Primary but below middle": {
+				"p": 60763,
+				"m": 30148,
+				"f": 30615
+			},
+			"Middle but below matric/secondary": {
+				"p": 58282,
+				"m": 29986,
+				"f": 28296
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 100581,
+				"m": 57853,
+				"f": 42728
+			},
+			"Graduate and above": {
+				"p": 23444,
+				"m": 13620,
+				"f": 9824
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 63293,
+				"m": 30344,
+				"f": 32949
+			},
+			"Primary but below middle": {
+				"p": 126960,
+				"m": 59484,
+				"f": 67476
+			},
+			"Middle but below matric/secondary": {
+				"p": 113019,
+				"m": 55269,
+				"f": 57750
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 235715,
+				"m": 127171,
+				"f": 108544
+			},
+			"Graduate and above": {
+				"p": 118585,
+				"m": 65862,
+				"f": 52723
+			}
+		}
+	},
+	"35": {
+		"Total": {
+			"Literate but below primary": {
+				"p": 42129,
+				"m": 22513,
+				"f": 19616
+			},
+			"Primary but below middle": {
+				"p": 68415,
+				"m": 37920,
+				"f": 30495
+			},
+			"Middle but below matric/secondary": {
+				"p": 68620,
+				"m": 39337,
+				"f": 29283
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 84074,
+				"m": 47467,
+				"f": 36607
+			},
+			"Graduate and above": {
+				"p": 24159,
+				"m": 13622,
+				"f": 10537
+			}
+		},
+		"Rural": {
+			"Literate but below primary": {
+				"p": 29260,
+				"m": 15759,
+				"f": 13501
+			},
+			"Primary but below middle": {
+				"p": 46301,
+				"m": 25673,
+				"f": 20628
+			},
+			"Middle but below matric/secondary": {
+				"p": 44616,
+				"m": 25476,
+				"f": 19140
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 44592,
+				"m": 25514,
+				"f": 19078
+			},
+			"Graduate and above": {
+				"p": 8958,
+				"m": 5335,
+				"f": 3623
+			}
+		},
+		"Urban": {
+			"Literate but below primary": {
+				"p": 12869,
+				"m": 6754,
+				"f": 6115
+			},
+			"Primary but below middle": {
+				"p": 22114,
+				"m": 12247,
+				"f": 9867
+			},
+			"Middle but below matric/secondary": {
+				"p": 24004,
+				"m": 13861,
+				"f": 10143
+			},
+			"Matric/Secondary but below graduate": {
+				"p": 39482,
+				"m": 21953,
+				"f": 17529
+			},
+			"Graduate and above": {
+				"p": 15201,
+				"m": 8287,
+				"f": 6914
+			}
+		}
+	}
+}
