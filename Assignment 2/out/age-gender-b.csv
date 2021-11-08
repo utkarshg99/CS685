@@ -1,4 +1,4 @@
-state/ut,age-group-males,males,age-group-females,females
+state/ut,age-group-males,ratio-males,age-group-females,ratio-females
 00,20-24,0.266026945737125,20-24,0.24500570946673772
 01,10-14,0.49102174248679276,10-14,0.4739087411322605
 02,25-29,0.16846531667384748,20-24,0.1531832351489633

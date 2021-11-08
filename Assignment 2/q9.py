@@ -19,7 +19,7 @@ with open("meta/c8_lit.json", "r") as c8_ld:
     c8_lit = json.load(c8_ld)
 
 with open("out/literacy-gender-a.csv", "w") as al3csv:
-    lines = ["state/ut,literacy-group-males,males,literacy-group-females,females\n"]
+    lines = ["state/ut,literacy-group-males,ratio-males,literacy-group-females,ratio-females\n"]
     for i in range(config["SC_ULM"]):
         lgrps_m = {}
         lgrps_f = {}
@@ -38,7 +38,7 @@ with open("out/literacy-gender-a.csv", "w") as al3csv:
     al3csv.writelines(lines)
 
 with open("out/literacy-gender-b.csv", "w") as al2csv:
-    lines = ["state/ut,literacy-group-males,males,literacy-group-females,females\n"]
+    lines = ["state/ut,literacy-group-males,ratio-males,literacy-group-females,ratio-females\n"]
     for i in range(config["SC_ULM"]):
         lgrps_m = {}
         lgrps_f = {}
@@ -57,7 +57,7 @@ with open("out/literacy-gender-b.csv", "w") as al2csv:
     al2csv.writelines(lines)
 
 with open("out/literacy-gender-c.csv", "w") as al1csv:
-    lines = ["state/ut,literacy-group-males,males,literacy-group-females,females\n"]
+    lines = ["state/ut,literacy-group-males,ratio-males,literacy-group-females,ratio-females\n"]
     for i in range(config["SC_ULM"]):
         lgrps_m = {}
         lgrps_f = {}

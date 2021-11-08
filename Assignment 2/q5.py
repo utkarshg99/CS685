@@ -19,9 +19,8 @@ with open("out/age-india.csv", "w") as aicsv:
         rest = {}
         for agrp in c18[str(i)].keys():
             if agrp != "Total":
-                rest[agrp] = c18[str(i)][agrp]["t"]["pE3"]
+                rest[agrp] = c18[str(i)][agrp]["t"]["pE3"]/(c18[str(i)][agrp]["t"]["pE1"] + c18[str(i)][agrp]["t"]["pE2"] + c18[str(i)][agrp]["t"]["pE3"])
         rest = dict(sorted(rest.items(), key=lambda item: item[1], reverse=True))
         rkys = list(rest.keys())
-        # lines.append(state_map[str(i)]+","+rkys[0]+","+str(c18[str(i)][rkys[0]]["t"]["pE3"]/census[str(i)]["t"]["p"]*100)+"\n")
-        lines.append(str(i//10)+str(i%10)+","+rkys[0]+","+str(c18[str(i)][rkys[0]]["t"]["pE3"]/census[str(i)]["t"]["p"]*100)+"\n")
+        lines.append(str(i//10)+str(i%10)+","+rkys[0]+","+str(100*c18[str(i)][rkys[0]]["t"]["pE3"]/(c18[str(i)][rkys[0]]["t"]["pE1"] + c18[str(i)][rkys[0]]["t"]["pE2"] + c18[str(i)][rkys[0]]["t"]["pE3"]))+"\n")
     aicsv.writelines(lines)
