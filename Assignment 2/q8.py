@@ -12,8 +12,8 @@ with open("meta/age_c18.json", "r") as agc18js:
 with open("meta/state_map.json", "r") as smp:
     state_map = json.load(smp)
 
-with open("out/age-gender-3.csv", "w") as al3csv:
-    lines = ["state/ut,age-group,males,age-group,females\n"]
+with open("out/age-gender-c.csv", "w") as al3csv:
+    lines = ["state/ut,age-group-males,males,age-group-females,females\n"]
     for i in range(config["SC_ULM"]):
         agrps_m = {}
         agrps_f = {}
@@ -31,8 +31,8 @@ with open("out/age-gender-3.csv", "w") as al3csv:
         lines.append(f'{str(i//10)+str(i%10)},{agp_m[0]},{agrps_m[agp_m[0]]},{agp_f[0]},{agrps_f[agp_f[0]]}\n')
     al3csv.writelines(lines)
 
-with open("out/age-gender-2.csv", "w") as al2csv:
-    lines = ["state/ut,age-group,males,age-group,females\n"]
+with open("out/age-gender-b.csv", "w") as al2csv:
+    lines = ["state/ut,age-group-males,males,age-group-females,females\n"]
     for i in range(config["SC_ULM"]):
         agrps_m = {}
         agrps_f = {}
@@ -50,8 +50,8 @@ with open("out/age-gender-2.csv", "w") as al2csv:
         lines.append(f'{str(i//10)+str(i%10)},{agp_m[0]},{agrps_m[agp_m[0]]},{agp_f[0]},{agrps_f[agp_f[0]]}\n')
     al2csv.writelines(lines)
 
-with open("out/age-gender-1.csv", "w") as al1csv:
-    lines = ["state/ut,age-group,males,age-group,females\n"]
+with open("out/age-gender-a.csv", "w") as al1csv:
+    lines = ["state/ut,age-group-males,males,age-group-females,females\n"]
     for i in range(config["SC_ULM"]):
         agrps_m = {}
         agrps_f = {}

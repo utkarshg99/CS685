@@ -3,7 +3,7 @@
 
 ## Problem Description
 
-* Can be found in the [Assignment](Assignment2_Updated.pdf) file.
+* Can be found in the [Assignment](Assignment2_Updated_Thrice.pdf) file.
 
 ## Requirements:
 
@@ -77,9 +77,9 @@ pip3 install -r Requirements.txt
 
 * [q7.py](q7.py) : Solves Q7 and generates [`region-india-a.csv`](out/region-india-a.csv) and [`region-india-b.csv`](out/region-india-b.csv).
 
-* [q8.py](q8.py) : Solves Q8 and generates [`age-gender-1.csv`](out/age-gender-1.csv), [`age-gender-2.csv`](out/age-gender-2.csv) and [`age-gender-3.csv`](out/age-gender-3.csv).
+* [q8.py](q8.py) : Solves Q8 and generates [`age-gender-a.csv`](out/age-gender-a.csv), [`age-gender-b.csv`](out/age-gender-b.csv) and [`age-gender-c.csv`](out/age-gender-c.csv).
 
-* [q9.py](q9.py) : Solves Q9 and generates [`literacy-gender-1.csv`](out/literacy-gender-1.csv), [`literacy-gender-2.csv`](out/literacy-gender-2.csv) and [`literacy-gender-3.csv`](out/literacy-gender-3.csv).
+* [q9.py](q9.py) : Solves Q9 and generates [`literacy-gender-a.csv`](out/literacy-gender-a.csv), [`literacy-gender-b.csv`](out/literacy-gender-b.csv) and [`literacy-gender-c.csv`](out/literacy-gender-c.csv).
 
 ## Additional Notes:
 
