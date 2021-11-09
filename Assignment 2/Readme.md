@@ -65,9 +65,9 @@ pip3 install -r Requirements.txt
 
 * [q1.py](q1.py) : Solves Q1 and generates [`percent-india.csv`](out/percent-india.csv).
 
-* [q2.py](q2.py) : Solves Q2 and generates [`gender-india.csv`](out/gender-india.csv).
+* [q2.py](q2.py) : Solves Q2 and generates [`gender-india-a.csv`](out/gender-india-a.csv), [`gender-india-b.csv`](out/gender-india-b.csv) and [`gender-india-c.csv`](out/gender-india-c.csv).
 
-* [q3.py](q3.py) : Solves Q3 and generates [`geography-india.csv`](out/geography-india.csv).
+* [q3.py](q3.py) : Solves Q3 and generates [`geography-india-a.csv`](out/geography-india-a.csv), [`geography-india-b.csv`](out/geography-india-b.csv) and [`geography-india-c.csv`](out/geography-india-c.csv).
 
 * [q4.py](q4.py) : Solves Q4 and generates [`2-to-1-ratio.csv`](out/2-to-1-ratio.csv) and [`3-to-2-ratio.csv`](out/3-to-2-ratio.csv).
 
@@ -86,3 +86,5 @@ pip3 install -r Requirements.txt
 * All Output files except those from Q4: Have the first line as header.
 
 * In order to calculate p-value, [`Welch's t-test`](https://en.wikipedia.org/wiki/Welch%27s_t-test) has been used.
+
+* In all cases where we are required to report "State/UT", State Codes have been reported.
